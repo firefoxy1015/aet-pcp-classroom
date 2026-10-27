@@ -1,0 +1,409 @@
+1
+00:00:00,000 --> 00:00:17,520
+This lesson maps every one of the eleven current Week Two Moodle
+links: eight video demonstrations and three EMSWorld articles. It
+teaches their central ideas in new words; it is not a subtitle dump,
+video replacement or official school presentation.
+
+2
+00:00:17,520 --> 00:00:32,208
+The first four demonstrations show i-gel placement, a proposed suction
+add-on, a King LTS-D device and rigid-tip pharyngeal suction. Compare
+each with the current BCEHS procedure and the actual skill your
+instructor assigns.
+
+3
+00:00:32,208 --> 00:00:48,096
+The intubation and Melker videos show advanced procedures; the CPAP
+videos show a Queensland service and a specific Rescuer 8700 product.
+They explain what those sources demonstrate, not what every BC PCP may
+perform.
+
+4
+00:00:48,096 --> 00:01:04,152
+The final three articles revisit acute PE, COPD exacerbation and
+undifferentiated breathlessness. Use them to practise clinical
+reasoning, then cross-check any threshold, intervention or scope
+statement against the current local guideline.
+
+5
+00:01:04,152 --> 00:01:16,032
+A video can be technically clear yet still use a different device,
+country, protocol revision or provider licence. Accurate observation
+is not the same as local authorization.
+
+6
+00:01:16,032 --> 00:01:29,664
+Ask who produced the demonstration, what device model is shown, and
+whether it is a service training video, manufacturer marketing, or a
+general skills clip. Those categories carry different evidentiary
+weight.
+
+7
+00:01:29,664 --> 00:01:45,168
+For BC PCP field practice, the current BCEHS handbook, applicable PCP
+procedure, actual school station and your instructor’s sign-off
+govern. For a device-specific detail, use the exact approved device
+instructions as well.
+
+8
+00:01:45,168 --> 00:02:02,016
+For airway support, the endpoint is an effective, reassessed breath:
+appropriate chest rise, airflow, patient response and available
+monitoring. A tube or mask that is merely in place is not proof of
+effective oxygenation or ventilation.
+
+9
+00:02:02,016 --> 00:02:15,168
+The BCEHS Professional Practice i-gel video demonstrates preparation,
+insertion, fixation and troubleshooting. Its useful learning point is
+that placement has to be followed by a real ventilation check.
+
+10
+00:02:15,168 --> 00:02:29,880
+Current PR08 requires prior ability to ventilate with a bag-valve mask
+and lists airway obstruction, active vomiting and other exclusions.
+The SGA is a staged option, not a shortcut around a blocked airway.
+
+11
+00:02:29,880 --> 00:02:42,936
+The current procedure describes the i-gel rather than the separate
+King device shown in another video. Confirm the correct school-
+supplied size and model; do not mix manufacturers’ parts, cuff
+assumptions or holders.
+
+12
+00:02:42,936 --> 00:02:56,664
+If placement fails, return to effective BVM with the required filter
+and seek help. If placement appears successful, continue to reassess
+after every movement or change in patient condition.
+
+13
+00:02:56,664 --> 00:03:13,248
+The BCEHS suction video describes a nasogastric tube and historic
+pandemic-era equipment. Do not reproduce that technique from the
+video: PCP pharyngeal suction is limited by current PR27 and does not
+authorize gastric intubation.
+
+14
+00:03:13,248 --> 00:03:28,656
+PR27 specifies the supplied Resus Pack catheter, a package-based depth
+measurement with a two-centimetre allowance, lubricant and a clear
+depth mark. The device-specific step must be learned on the actual
+supervised trainer.
+
+15
+00:03:28,656 --> 00:03:48,096
+The procedure uses 80 mmHg and says not generally to exceed 160 mmHg.
+Stop when fluid clears or after 15 to 20 seconds without fluid;
+continuous suction may harm. These limits belong to this procedure,
+not every suction task.
+
+16
+00:03:48,096 --> 00:04:04,512
+Current PR08 and PR27 require removal of the i-gel during active
+vomiting or difficult ventilation after vomiting, followed by
+oropharyngeal clearance and restoration of effective support. Never
+let the old video override this branch.
+
+17
+00:04:04,512 --> 00:04:19,584
+The WCTC Fire and EMS skills video presents a rigid-tip oral suction
+example for vomit, blood and secretions. It emphasizes maintaining
+sight of the tip and recognizing that a rigid catheter can cause
+trauma.
+
+18
+00:04:19,584 --> 00:04:33,096
+Its advice about use in a moving ambulance belongs to that US
+educational demonstration. Do not turn it into a BC service rule
+without a current local source; instead learn the assigned school
+safety standard.
+
+19
+00:04:33,096 --> 00:04:46,800
+Suction is effective only if the airway is cleared and ventilation
+resumes. The screen’s depiction of suction, the sound of the pump or
+an empty canister does not establish that the patient is now breathing
+adequately.
+
+20
+00:04:46,800 --> 00:04:59,976
+The technique, suction level, insertion limits and infection-control
+setup must match the exact school equipment and current procedure.
+Rehearse on a trainer with the instructor watching and correcting your
+hand position.
+
+21
+00:04:59,976 --> 00:05:13,296
+The Live Action Safety overview is a King Systems product
+demonstration of the LTS-D, including cuffs, ventilation openings, an
+alternate suction or gastric-access lumen, and device-specific
+positioning.
+
+22
+00:05:13,296 --> 00:05:27,696
+The video’s cuff volumes, pressure advice, size ranges and gastric-
+tube claims belong to that manufacturer’s device and training context.
+They are not transferable instructions for i-gel or the school’s PCP
+airway station.
+
+23
+00:05:27,696 --> 00:05:44,616
+Current BCEHS PR08 names the i-gel as the local supraglottic airway
+procedure and sets conditions, contraindications, prior BVM
+confirmation and securement. A general resemblance between devices
+does not expand the approved equipment list.
+
+24
+00:05:44,616 --> 00:05:59,304
+For the exam, be able to state what a supraglottic device aims to
+accomplish and why its seal is not equivalent to a cuffed tracheal
+tube. For hands-on practice, use only the device and sequence
+specified by the instructor.
+
+25
+00:05:59,304 --> 00:06:15,552
+The Moodle item named “Endotracheal Intubation” links to a clip titled
+“Endotracheal Ventilation.” It shows laryngoscopy, tube placement and
+auscultation in a general training context; it does not establish a BC
+PCP procedure.
+
+26
+00:06:15,552 --> 00:06:30,552
+The Melker video is a product-specific emergency cricothyrotomy
+demonstration using a wire and dilator catheter set. Current BCEHS
+PR22 instead defines its own age-specific techniques and provider
+scope.
+
+27
+00:06:30,552 --> 00:06:47,472
+BCEHS B01 places intubation within the ACP pathway, and PR22 applies
+to ACP and higher. These videos are useful for recognizing what
+advanced escalation involves, not for unsupervised rehearsal or
+claiming PCP authorization.
+
+28
+00:06:47,472 --> 00:07:04,104
+Your PCP learning task is to recognize deteriorating oxygenation or
+ventilation, continue authorized basic support, summon appropriate
+resources early and communicate the patient’s response. Do not delay
+BVM while discussing an advanced procedure.
+
+29
+00:07:04,104 --> 00:07:19,056
+The Queensland Ambulance Service clip introduces a disposable CPAP
+design and explains how oxygen flow through a valve creates continuous
+pressure. That helps visualize the mechanism, not the current BC
+service protocol.
+
+30
+00:07:19,056 --> 00:07:33,840
+The video was made for an Australian service rollout in 2013. Its
+device, flow rates, pressure escalation, eligibility and documentation
+cannot be transplanted into the BCEHS procedure or a different mask.
+
+31
+00:07:33,840 --> 00:07:50,952
+CPAP provides continuous positive pressure while the patient breathes;
+it does not squeeze a breath into the lungs. If respiratory drive,
+tidal volume or consciousness is failing, the patient needs an
+authorized ventilation pathway, not CPAP as a substitute.
+
+32
+00:07:50,952 --> 00:08:05,952
+Use the mechanism to understand why a mask leak, intolerance,
+vomiting, low pressure or deterioration matters. Then apply the
+current BCEHS PR09 criteria, contraindications and reassessment
+instructions.
+
+33
+00:08:05,952 --> 00:08:20,832
+The Rescuer 8700 demonstration shows a silicone mask, adjustable
+headgear, pressure control, a medication port and an anti-suffocation
+valve. These are product features, not universal CPAP components.
+
+34
+00:08:20,832 --> 00:08:33,912
+Its instructions about flow, pressure adjustment and medication
+delivery apply to that product and its own instructions for use. Do
+not infer the school’s current device or treatment settings from a
+product video title.
+
+35
+00:08:33,912 --> 00:08:49,368
+The anti-suffocation valve is a device safeguard; it does not correct
+respiratory arrest, hypoventilation, reduced consciousness or
+aspiration risk. The person still requires continuous assessment and a
+backup plan.
+
+36
+00:08:49,368 --> 00:09:03,552
+Treat all pressure and interface changes as device-specific. In class,
+inspect the exact approved system with your instructor and state the
+current PR09 patient criteria before rehearsing its application.
+
+37
+00:09:03,552 --> 00:09:21,240
+Current BCEHS PR09 applies to PCPs with AIME CPAP training and higher;
+prior CliniCall consultation is recommended for PCPs. The patient must
+be at least thirteen, awake, able to follow commands and able to
+maintain an open airway.
+
+38
+00:09:21,240 --> 00:09:38,304
+The listed respiratory-distress pattern includes respiratory rate
+above twenty-four per minute, oxygen saturation below ninety-four
+percent on supplemental oxygen, and accessory-muscle use. Apply all
+current criteria together rather than choosing one number.
+
+39
+00:09:38,304 --> 00:09:58,848
+PR09 excludes age twelve and under, reduced consciousness or inability
+to follow commands, respiratory arrest or hypoventilation, inability
+to fit the mask, vomiting or aspiration risk, traumatic distress,
+tracheostomy, suspected pneumothorax and systolic pressure below
+ninety.
+
+40
+00:09:58,848 --> 00:10:17,400
+Explain the treatment and obtain consent; position and monitor as
+directed; fit and reassess the mask; follow the current device chart
+and PR09 ceilings. If the patient worsens, stop treating the device as
+the goal and move to the authorized backup pathway.
+
+41
+00:10:17,400 --> 00:10:34,056
+The school-linked 2015 EMSWorld article uses a postoperative trauma
+case to teach why recent surgery, injury and reduced mobility matter.
+Its population statistics and US-specific treatment statements are
+historical, not current BC instructions.
+
+42
+00:10:34,056 --> 00:10:47,784
+A pulmonary embolus obstructs pulmonary blood flow. The resulting
+dead-space and gas-exchange problem can combine with increased
+pulmonary vascular resistance and right-ventricular strain, reducing
+effective forward flow.
+
+43
+00:10:47,784 --> 00:11:07,416
+Ask about recent surgery, hospitalization, reduced mobility, prior
+venous thromboembolism, malignancy, pregnancy or hormonal change.
+Sudden dyspnea, pleuritic pain, cough, syncope or hypotension can
+raise concern, but no one finding proves PE.
+
+44
+00:11:07,416 --> 00:11:26,568
+Current BCEHS B06 calls for supportive care, oxygen as required,
+monitoring and rapid conveyance; unstable patients need a transport
+plan that preserves resuscitation capability. Do not use an old
+article’s scoring table or fluid/drug plan as a PCP order.
+
+45
+00:11:26,568 --> 00:11:41,544
+The 2015 EMSWorld COPD article illustrates a useful diagnostic habit:
+compare with the patient’s usual function and include competing causes
+such as heart failure, pulmonary embolism, pneumonia and pneumothorax.
+
+46
+00:11:41,544 --> 00:11:55,680
+An exacerbation is an acute change from baseline, often increased
+breathlessness, more frequent or severe cough, or a change in sputum.
+A familiar diagnosis does not rule out a second new emergency.
+
+47
+00:11:55,680 --> 00:12:13,680
+Current BCEHS B05 describes COPD as primarily a ventilation problem
+and warns that critical hypercarbia may occur even when the
+respiratory rate looks high. Watch the trend: falling consciousness,
+decreasing rate and shrinking tidal volumes are red flags.
+
+48
+00:12:13,680 --> 00:12:32,232
+B05 says to use the patient’s usual saturation when readily known,
+titrate to the current 88-92 percent target, and never withhold oxygen
+from an acutely short-of-breath patient. Avoid exertion during
+movement, convey early and follow current medication scope.
+
+49
+00:12:32,232 --> 00:12:43,992
+The 2009 Shortness of Breath article connects respiratory mechanics
+with cardiac causes and demonstrates that dyspnea can occur with
+myocardial ischemia even when chest pain is absent.
+
+50
+00:12:43,992 --> 00:12:59,136
+The article also surveys COPD, asthma-like wheeze, infection and heart
+failure, but its old statistics, labels and treatment examples should
+not be memorized as current practice. Use current BCEHS pages for
+actual clinical direction.
+
+51
+00:12:59,136 --> 00:13:13,224
+Build a time course: abrupt or progressive, at rest or exertion,
+positional, infection-linked or trauma-linked. Ask what is normal for
+this person and what changed before selecting a cause.
+
+52
+00:13:13,224 --> 00:13:35,328
+Observe work of breathing, speech, posture, mental status, skin, chest
+movement and sounds. Trend pulse, respirations, blood pressure and
+SpO2; use ECG or capnography when indicated and within your training.
+A treatment response can guide reassessment but does not prove a
+diagnosis.
+
+53
+00:13:35,328 --> 00:13:53,208
+An adult reports sudden shortness of breath six days after knee
+surgery and several days of limited movement. The first observations
+are respiratory rate thirty-two, pulse one hundred twenty-two, oxygen
+saturation eighty-eight percent and systolic pressure eighty-six.
+
+54
+00:13:53,208 --> 00:14:07,176
+The history makes pulmonary embolism important to consider, but the
+observations do not prove it. Assess for other immediately dangerous
+causes while recognizing that hypotension and sudden onset indicate
+instability.
+
+55
+00:14:07,176 --> 00:14:25,656
+Use the current patient assessment and B06 pathway: support airway,
+oxygenation and ventilation as needed; obtain serial findings; arrange
+rapid conveyance and additional resources. Plan movement so that
+effective resuscitation remains possible.
+
+56
+00:14:25,656 --> 00:14:41,400
+Do not delay conveyance to prove a diagnosis, apply an old score,
+start a video’s historical treatment or perform a procedure outside
+PCP scope. Give the receiving team the onset, risk factors, trends,
+support and response.
+
+57
+00:14:41,400 --> 00:14:56,208
+First: the Queensland clip is a 2013 Australian service demonstration
+of a different device. Use only the current PR09 and the exact
+approved product instructions; continuous pressure does not replace a
+breath.
+
+58
+00:14:56,208 --> 00:15:13,368
+Second: PR27 describes a measured, marked, limited pharyngeal suction
+method. It is not gastric intubation or continuous suction; active
+vomiting calls for device removal, oropharyngeal clearance and
+restoration of support.
+
+59
+00:15:13,368 --> 00:15:27,864
+Third: decreasing consciousness, respiratory rate or tidal volume
+suggests impending failure even if a previous saturation looked
+acceptable. Use the patient and trend, not one isolated number.
+
+60
+00:15:27,864 --> 00:15:44,928
+Fourth: recent surgery and immobility raise PE concern, but do not
+confirm PE. Reassess broadly, support the unstable patient, follow B06
+and arrange rapid conveyance without importing historical US article
+treatment.

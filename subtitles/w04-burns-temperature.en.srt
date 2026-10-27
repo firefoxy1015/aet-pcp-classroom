@@ -1,0 +1,857 @@
+1
+00:00:00,000 --> 00:00:12,768
+The school assigns burns and hypothermia this week. Its listed
+provincial pages also include electrical contact and heat illness, so
+these are part of the reading rather than optional missing pages.
+
+2
+00:00:12,768 --> 00:00:26,448
+A thermal burn needs cooling of the injury while preventing whole-body
+heat loss. A hypothermic patient needs protection and the appropriate
+rewarming plan. A heat-stroke patient needs rapid active cooling.
+
+3
+00:00:26,448 --> 00:00:37,368
+Do not combine these into a single temperature checklist. Identify the
+mechanism and current physiology, then predict the effect and possible
+harm of each intervention.
+
+4
+00:00:37,368 --> 00:00:49,896
+The paired guides include every named Week Four BCEHS identifier and
+all thirteen BCPEG pages, with current-versus-school differences
+labelled. They are not a substitute for supervised device competence.
+
+5
+00:00:49,896 --> 00:01:00,264
+A forty-eight-year-old walks toward the crew after hot liquid and a
+brief flame exposure. The right arm and anterior trunk are painful,
+and the patient is shivering.
+
+6
+00:01:00,264 --> 00:01:10,632
+There was also brief smoke exposure in an enclosed space and the voice
+is changing. Talking now does not guarantee that the airway will
+remain safe during transfer.
+
+7
+00:01:10,632 --> 00:01:22,176
+Begin scene safety and the primary assessment, stop any continuing
+injury and assess for other trauma. The burn appearance must not
+distract from breathing or circulation.
+
+8
+00:01:22,176 --> 00:01:32,760
+Ask the injury time and what cooling has already been effective. That
+history informs further care; it is not a reason to restart the clock
+and cool indefinitely.
+
+9
+00:01:32,760 --> 00:01:45,384
+A fire being out does not prove that the air, structure or electrical
+system is safe. Use the rescue and hazardous-zone plan rather than
+entering because you possess gloves or an oxygen cylinder.
+
+10
+00:01:45,384 --> 00:01:58,392
+Stop continuing heat exposure and extinguish burning material through
+the safe appropriate method. Remove nonadherent clothing and jewellery
+that retains heat or may become constrictive as swelling develops.
+
+11
+00:01:58,392 --> 00:02:08,040
+Do not pull melted clothing or adherent material off the wound.
+Protect the area and communicate what remains so the receiving team
+can manage it safely.
+
+12
+00:02:08,040 --> 00:02:18,720
+Chemical and electrical sources need their own hazard control. A
+thermal-cooling routine does not replace power isolation or agent-
+appropriate decontamination.
+
+13
+00:02:18,720 --> 00:02:30,576
+Superficial epidermal injury is commonly red, dry and blanching.
+Partial-thickness injury extends into dermis and is often moist,
+blistered and painful.
+
+14
+00:02:30,576 --> 00:02:45,048
+Deeper injury can be paler, drier, less blanching and less sensitive.
+Full thickness may be leathery, white, brown or charred, with an
+insensate centre and painful surrounding mixed injury.
+
+15
+00:02:45,048 --> 00:02:57,384
+Do not call a painless burn minor or rely on one feature to determine
+final depth. Describe the findings and the uncertainty; depth can
+evolve after the field examination.
+
+16
+00:02:57,384 --> 00:03:08,232
+The immediate task is to recognize the significant injury and protect
+the patient. Do not delay essential care for a debate over the exact
+depth of every centimetre.
+
+17
+00:03:08,232 --> 00:03:20,928
+The adult rule of nines gives head and neck nine percent, each entire
+arm nine, each entire leg eighteen, the anterior trunk eighteen,
+posterior trunk eighteen and perineum one.
+
+18
+00:03:20,928 --> 00:03:32,712
+Those are whole regions. The front of an arm is not the entire arm,
+and two sides must not be accidentally counted twice. Estimate the
+burned fraction of each region.
+
+19
+00:03:32,712 --> 00:03:43,560
+For significant burn TBSA, include partial-thickness and deeper
+injury, not uncomplicated superficial redness. State which depths were
+counted.
+
+20
+00:03:43,560 --> 00:03:55,176
+Area is an estimate used with location, depth, age, inhalation and
+associated injury. It is neither a complete severity score nor an
+automatic fluid order.
+
+21
+00:03:55,176 --> 00:04:04,920
+A child is not an adult scaled down. The relative head and leg areas
+change with age, so adult nines can produce a misleading estimate.
+
+22
+00:04:04,920 --> 00:04:15,792
+The viewed local pediatric burn chart has separate age columns and a
+front and back map. Select the correct column and count the actual
+affected regions and depths.
+
+23
+00:04:15,792 --> 00:04:28,680
+Do not take one region from a Lund-Browder-style chart and another
+from adult nines without reconciling their definitions. A hand region
+on a full chart is not the same as a one-percent palmar comparison.
+
+24
+00:04:28,680 --> 00:04:39,048
+Communicate the method and uncertainty. An honest approximate area is
+more useful than a precise-looking number assembled from incompatible
+denominators.
+
+25
+00:04:39,048 --> 00:04:49,008
+For scattered small areas, the explicit reviewed palmar image uses the
+patient palm plus fingers as approximately one percent of total
+surface area.
+
+26
+00:04:49,008 --> 00:04:58,608
+Use the patient hand reference, not the clinician hand. Small patches
+can then be compared without assuming every irregular wound is one
+complete hand.
+
+27
+00:04:58,608 --> 00:05:10,992
+The supplied Nancy text says palm excluding fingers equals one
+percent. That differs from the viewed explicit reference; do not
+silently treat the two as interchangeable.
+
+28
+00:05:10,992 --> 00:05:19,992
+State the method in the record and handover. A percentage is only
+interpretable when the receiver knows what surface and depth you
+included.
+
+29
+00:05:19,992 --> 00:05:31,536
+In our original adult example, the whole anterior trunk has partial-
+thickness injury, contributing eighteen percent. The entire right arm
+is also partial thickness, contributing nine.
+
+30
+00:05:31,536 --> 00:05:40,416
+The left arm is red but has only uncomplicated superficial injury. It
+is not added to the significant-burn area in this calculation.
+
+31
+00:05:40,416 --> 00:05:51,864
+The included estimate is twenty-seven percent, not thirty-six. If only
+part of a listed region were burned, you would use that fraction
+rather than automatically the whole region.
+
+32
+00:05:51,864 --> 00:06:03,720
+This is a teaching estimate, not an infusion prescription. The patient
+still needs airway assessment, source control, appropriate cooling,
+temperature protection and a destination plan.
+
+33
+00:06:03,720 --> 00:06:14,712
+Return to the patient whose voice is changing. Reassess the mouth,
+voice, secretions, breathing and mental state while maintaining the
+primary-survey priorities.
+
+34
+00:06:14,712 --> 00:06:29,112
+Hoarseness, soot, stridor or swelling can indicate an evolving
+problem. None by itself is an automatic independent intubation order,
+and the absence of a dramatic sign does not guarantee future safety.
+
+35
+00:06:29,112 --> 00:06:41,760
+Request the appropriate advanced airway team early when risk is
+significant. State how the airway is changing and what support is
+currently effective rather than waiting until access is impossible.
+
+36
+00:06:41,760 --> 00:06:55,896
+Protect oxygenation and ventilation within scope and reassess
+repeatedly. Do not delay effective support to prepare an unverified
+nebulized-humidity technique or copy an old airway category literally.
+
+37
+00:06:55,896 --> 00:07:08,496
+Ask about the enclosed space, exposure duration, loss of
+consciousness, symptoms and other people affected. Toxic exposure can
+coexist with thermal airway or skin injury.
+
+38
+00:07:08,496 --> 00:07:20,952
+Conventional pulse oximetry can appear normal with carbon monoxide
+exposure. Point-of-care CO-oximetry also has limitations and is not a
+dependable stand-alone exclusion test.
+
+39
+00:07:20,952 --> 00:07:30,504
+Other combustion toxins may contribute. Do not sniff for a remembered
+cyanide smell or use the absence of cherry-red skin as reassurance.
+
+40
+00:07:30,504 --> 00:07:43,008
+Use the indicated oxygen and consultation/conveyance pathway and
+communicate the exposure history. The patient condition and exposure
+matter more than a single normal display.
+
+41
+00:07:43,008 --> 00:07:56,400
+Protect the crew and establish a safe treatment area before contact.
+Remove contaminated clothing and manage runoff so that neither another
+body region nor a rescuer receives secondary exposure.
+
+42
+00:07:56,400 --> 00:08:10,512
+Safely remove suitable dry material before irrigation and identify the
+agent when possible. Do not attempt household acid-base neutralization
+or assume every water-reactive substance can be treated identically.
+
+43
+00:08:10,512 --> 00:08:27,960
+Hydrofluoric acid can have systemic effects despite a small-looking
+wound. Do not follow the supplied textbook calcium-chloride-gel
+recipe; the reviewed CDC skin guidance explicitly excludes it. Obtain
+the appropriate specialist/authorized pathway.
+
+44
+00:08:27,960 --> 00:08:39,792
+For chemical eye exposure, begin appropriate prompt irrigation without
+delaying for a complete visual examination, protect the other eye and
+continue reassessment and specialist care.
+
+45
+00:08:39,792 --> 00:08:52,656
+Do not approach a downed wire or attached patient until qualified
+personnel confirm isolation. A line that appears inactive can re-
+energize; improvised attempts to move it can create another victim.
+
+46
+00:08:52,656 --> 00:09:06,168
+Once safe, assess arrest, breathing and circulation and consider a
+fall, muscle contraction injury or other trauma. Begin indicated
+resuscitation and monitoring through the actual pathway.
+
+47
+00:09:06,168 --> 00:09:19,632
+Small contact marks can conceal major deep-tissue injury. Reassess
+limb perfusion and neurological function and report the
+voltage/current history if known without pretending it quantifies the
+full injury.
+
+48
+00:09:19,632 --> 00:09:32,616
+Do not run fluid wide open simply to flush kidneys or assume every
+exposure needs the same monitoring duration. Use actual hypoperfusion,
+risk and the clinical/receiving pathway.
+
+49
+00:09:32,616 --> 00:09:44,208
+Use the appropriate cool-water method to limit local thermal injury
+and provide pain relief. Ice or excessive cold can worsen tissue
+injury and whole-patient heat loss.
+
+50
+00:09:44,208 --> 00:09:54,576
+Ask what effective cooling already occurred. The required total
+includes that time; do not restart a full course simply because the
+ambulance has arrived.
+
+51
+00:09:54,576 --> 00:10:05,880
+Protect the rest of the patient with insulation and an appropriate
+environment. Large areas, children and frail adults require particular
+attention to systemic chilling.
+
+52
+00:10:05,880 --> 00:10:16,296
+After suitable cooling and decontamination, change to the appropriate
+covering and warming plan. Ongoing wet exposure is not automatically
+better care.
+
+53
+00:10:16,296 --> 00:10:28,800
+Current H10 says fifteen minutes of cool-water thermal-burn cooling.
+The saved assigned provincial guide says fifteen to twenty minutes.
+Both count effective prior bystander cooling.
+
+54
+00:10:28,800 --> 00:10:36,984
+Keep the sources labelled instead of pretending the numbers are
+identical or combining them into a newly invented mandatory duration.
+
+55
+00:10:36,984 --> 00:10:49,296
+A patient with an immediate life threat needs the necessary treatment
+and conveyance. Do not delay solely to remain at running water; use
+the appropriate alternative while protecting the patient.
+
+56
+00:10:49,296 --> 00:11:01,512
+For an actual school test, confirm the required revision. This lesson
+teaches the shared clinical purpose and makes the discrepancy explicit
+rather than supplying a false single official answer.
+
+57
+00:11:01,512 --> 00:11:14,592
+After cooling and needed decontamination, cover with the appropriate
+sterile nonstick or dry material and keep the patient warm. Do not
+routinely break blisters or apply household creams.
+
+58
+00:11:14,592 --> 00:11:27,192
+Assess pain even when a full-thickness centre is insensate. Use
+authorized analgesia and gentle handling, then repeat the same pain
+assessment and watch for adverse effects.
+
+59
+00:11:27,192 --> 00:11:39,792
+Circumferential deep injury and swelling may threaten distal
+circulation or chest expansion. Remove constricting jewellery when
+safe and reassess neurovascular and breathing findings.
+
+60
+00:11:39,792 --> 00:11:52,368
+Escharotomy is a distinct specialist intervention, not cutting taught
+as an independent PCP response. Recognize the concern, communicate it
+and expedite appropriate definitive care.
+
+61
+00:11:52,368 --> 00:12:03,096
+Early hypotension in a burned patient requires a search for bleeding,
+toxic effects and other causes. Do not assume the visible burn
+explains every shock mechanism.
+
+62
+00:12:03,096 --> 00:12:15,984
+A burn formula estimates a starting resuscitation plan over hours. Its
+clock begins at injury and its volumes need adjustment; it is not an
+amount to rapidly finish during a short ambulance trip.
+
+63
+00:12:15,984 --> 00:12:30,936
+The textbook range, current adult burn-centre guidance and BCEHS
+license-specific instructions are different sources. Do not convert a
+CCP schedule or an adult formula into an independent pediatric or PCP
+bolus.
+
+64
+00:12:30,936 --> 00:12:47,592
+Give only indicated care under the applicable pathway and reassess
+actual delivery and response. More edema, new respiratory difficulty
+or persistent poor perfusion means review the plan, not automatically
+finish a calculated maximum.
+
+65
+00:12:47,592 --> 00:13:00,144
+Use the actual regional triage pathway. Current H10 includes large
+partial or full-thickness burns, smaller major thresholds in older
+adults and full-thickness injury above five percent.
+
+66
+00:13:00,144 --> 00:13:13,152
+Critical locations and electrical, chemical or inhalation injury may
+require specialist care even when the skin area is small. A hand or
+airway problem is not made minor by a low percentage.
+
+67
+00:13:13,152 --> 00:13:25,656
+Associated trauma and the changing patient also influence destination
+and urgency. Do not use an older textbook major/minor table as if it
+were the current local transfer rule.
+
+68
+00:13:25,656 --> 00:13:38,400
+Communicate the injury time, mechanism, airway concern, area/depth
+estimate, cooling already delivered and response. A useful pre-alert
+prepares care before arrival.
+
+69
+00:13:38,400 --> 00:13:51,384
+Hypothermia means a core temperature below thirty-five degrees
+Celsius. Peripheral or field measurements may not represent core
+temperature accurately, so consider exposure and the clinical picture.
+
+70
+00:13:51,384 --> 00:14:05,592
+The teaching pattern is mild around thirty-two to thirty-five,
+moderate around twenty-eight to thirty-two and severe below twenty-
+eight. Do not treat boundary numbers as a substitute for actual
+physiology or a measured core temperature.
+
+71
+00:14:05,592 --> 00:14:19,104
+Shivering may diminish as the patient deteriorates; confusion, reduced
+responsiveness, slow breathing or bradycardia can be important.
+Absence of shivering is not proof that the patient is warm.
+
+72
+00:14:19,104 --> 00:14:30,216
+Consider an older person in a cold home, a wet trauma patient or
+someone with metabolic illness, not only a mountain rescue. Continue
+to look for the cause and concurrent injury.
+
+73
+00:14:30,216 --> 00:14:42,024
+Handle the hypothermic patient gently, prevent further exposure and
+replace wet coverings appropriately. Insulate beneath and above and
+use the treatment environment effectively.
+
+74
+00:14:42,024 --> 00:14:55,080
+Use the approved warming method without placing a hot pack directly on
+vulnerable skin. Continue airway, breathing, circulation and indicated
+glucose assessment rather than focusing only on a thermometer.
+
+75
+00:14:55,080 --> 00:15:08,832
+The assigned provincial snapshot says no active rewarming below
+twenty-eight, while current I01 describes passive and active measures
+differently. Keep that difference visible rather than creating a
+blended rule.
+
+76
+00:15:08,832 --> 00:15:21,312
+For patient care, confirm the applicable operational plan and seek
+clinical support where needed. A historical classroom temperature
+instruction is not automatically the whole current treatment pathway.
+
+77
+00:15:21,312 --> 00:15:34,680
+In severe hypothermia, breathing and pulses may be very slow and
+difficult to detect. A hasty check can miss signs of life, but an
+unbounded delay is not an assessment strategy.
+
+78
+00:15:34,680 --> 00:15:48,264
+I01 and the saved provincial page use thirty to forty-five seconds,
+while the current N02 hypothermia branch uses sixty. These are source-
+specific instructions, not numbers to average.
+
+79
+00:15:48,264 --> 00:16:02,760
+The special pathway also changes shock and destination planning and
+may involve advanced rewarming resources. Use the actual arrest
+guideline and clinical consultation rather than inventing an all-
+purpose cold arrest protocol.
+
+80
+00:16:02,760 --> 00:16:15,840
+The limited-shock snapshot is not a rule for every cold-feeling trauma
+patient or ordinary normothermic arrest. Later cardiac-resuscitation
+teaching covers the complete applicable team sequence.
+
+81
+00:16:15,840 --> 00:16:26,856
+A seventy-six-year-old in a very hot apartment is confused, weak and
+breathing rapidly. The skin is sweaty. This does not exclude serious
+heat illness.
+
+82
+00:16:26,856 --> 00:16:35,184
+Do not require dry skin or a peripheral device reading above forty
+before acting on a concerning environmental and neurological pattern.
+
+83
+00:16:35,184 --> 00:16:49,968
+Assess airway, breathing, circulation, glucose when indicated and
+possible concurrent illness. Heat illness can coexist with infection,
+stroke, medicines or other causes of altered consciousness.
+
+84
+00:16:49,968 --> 00:17:01,800
+Move to an appropriate cooler treatment environment and start
+effective active cooling while arranging the care plan. Do not simply
+give water and leave a confused person in the same room.
+
+85
+00:17:01,800 --> 00:17:12,600
+Environmental heat illness occurs when heat accumulation exceeds
+effective heat loss. It is not the same mechanism as an infection-
+related change in the temperature set point.
+
+86
+00:17:12,600 --> 00:17:25,512
+Significant neurological dysfunction is especially concerning for heat
+stroke. A person may be sweating and still critically ill; skin
+appearance alone does not separate every exhaustion and stroke case.
+
+87
+00:17:25,512 --> 00:17:37,536
+Do not use antipyretics such as acetaminophen or aspirin to treat
+environmental heat stroke. The key intervention is rapid effective
+cooling with supportive care and appropriate conveyance.
+
+88
+00:17:37,536 --> 00:17:49,440
+Investigate competing causes without withholding cooling from an
+appropriately suspected heat emergency. Repeated neurological and
+physiological assessment tests whether the plan is working.
+
+89
+00:17:49,440 --> 00:18:02,136
+Begin the best available approved active-cooling method promptly and
+continue during conveyance when feasible. A cooler room or ambulance
+alone may be inadequate for a critically heat-injured patient.
+
+90
+00:18:02,136 --> 00:18:14,328
+The assigned page includes wetting and convective airflow methods. Use
+an effective patient-specific plan; fans alone in very hot air are not
+a reliable heat-stroke treatment.
+
+91
+00:18:14,328 --> 00:18:28,224
+Fluids address indicated dehydration or hypoperfusion and require
+reassessment. Oral fluid is unsuitable when consciousness or
+swallowing is unsafe and is not an effective primary cooling method.
+
+92
+00:18:28,224 --> 00:18:41,616
+The snapshot ten-minute pre-conveyance wording must not postpone a
+necessary rescue or treatment of another immediate threat. Coordinate
+cooling, safe transfer, monitoring and early communication.
+
+93
+00:18:41,616 --> 00:18:54,816
+The BCEHS guide below includes all eight named identifiers, not only
+the familiar tourniquet page. It connects recognition, intervention,
+reassessment and the license-level boundary.
+
+94
+00:18:54,816 --> 00:19:07,344
+The provincial guide includes the separated-part page, Sager
+examination sequence and image-only spinal diagram. A short topic
+label must not hide a listed reading requirement.
+
+95
+00:19:07,344 --> 00:19:20,880
+Nancy supplies the main-exam mechanism reading. It complements, rather
+than replaces, the named school books. The other Week Four textbook
+rows remain separate production work until their paired guides are
+added.
+
+96
+00:19:20,880 --> 00:19:34,416
+For review, explain one original patient through the whole sequence
+and name an important source conflict. Memorizing a guideline code
+without understanding the patient does not meet the learning purpose.
+
+97
+00:19:34,416 --> 00:19:46,080
+At the burn station, identify the source, primary threats, included
+area and method. Explain what cooling already occurred and how you
+will avoid whole-patient chilling.
+
+98
+00:19:46,080 --> 00:19:57,384
+At the cold station, demonstrate gentle movement and insulation, then
+identify the actual rewarming and arrest sources without merging their
+differing instructions.
+
+99
+00:19:57,384 --> 00:20:11,016
+At the heat station, recognize neurological concern even with
+sweating, initiate effective cooling and reassess the patient. Explain
+why an antipyretic or a bottle of water alone is not the treatment.
+
+100
+00:20:11,016 --> 00:20:25,368
+For each handover, give exposure and time, actual findings,
+interventions already delivered, response and what remains urgent.
+Keep estimates and suspected diagnoses clearly labelled.
+
+101
+00:20:25,368 --> 00:21:02,760
+Read the four D02 hemorrhage classes as illustrative patterns, not
+measured blood loss. Class I is up to fifteen percent with little rate
+change and preserved pressure. Class II is fifteen to thirty percent:
+pulse around one hundred to one hundred twenty, breathing around
+twenty to twenty-four and a narrowing pulse pressure may precede a
+systolic fall. These are source teaching bands, not permission to wait
+for a percentage, a particular pulse or hypotension before controlling
+bleeding. Age, medicines, pain and injury can alter the expected
+pattern.
+
+102
+00:21:02,760 --> 00:21:48,024
+Class III describes thirty to forty percent with hypotension and
+mental-status change; Class IV exceeds forty percent, with severe
+circulatory/mental depression and very low urine output. D02 flags
+systolic pressure below ninety or a fall of twenty-to-thirty percent
+from presentation as concerning. Its advanced column discusses blood
+components, calcium support and targeted anticoagulant reversal, not
+new PCP prescribing. The shared H01/D02 response is definitive
+bleeding control, appropriate destination and limiting hypothermia,
+acidosis and coagulopathy; a better pressure number is not replacement
+of lost blood.
+
+103
+00:21:48,024 --> 00:22:32,640
+The actual PR03 placement reference is five-to-eight centimetres above
+the injury, or as high on the limb as possible, clear of joints and
+directly on skin. Its sequence uses a direct-pressure attempt followed
+by indicated device control, not repeated ineffective pressure while
+catastrophic bleeding continues. Remove slack, tighten the actual
+windlass device until bleeding stops, lock and record time, then
+reassess after movement. The two-hour statement triggers planning and
+consultation for delay, not scheduled loosening or automatic removal.
+Crush-related use is a separate consultation consideration, not
+routine prophylactic use for every trapped limb.
+
+104
+00:22:32,640 --> 00:23:14,376
+In the PR02 T-POD example, expose the skin, position the belt at the
+greater trochanters, trim it to leave its specified fifteen-to-twenty-
+centimetre anterior gap, attach the tension system and draw it evenly
+to circumferential compression. Record application and any required or
+accidental release, maintain the closure and reassess. This is the
+named T-POD design, not an instruction to cut every commercial binder
+or a KED. Pelvic and isolated neck-of-femur injuries are not
+interchangeable; use the actual indication, device and trained
+movement method without repeated pelvic rocking.
+
+105
+00:23:14,376 --> 00:24:05,448
+The H05 body defines full SMR as a collar, foam rolls without head
+tape and a clamshell through transport; it reserves clamshell
+conveyance for multi-trauma or new neurological impairment. The
+separate adult resource distinguishes simple and full approaches, not
+one board package for everyone. Assess cervical and thoracolumbar
+concerns separately, repeat motor/sensory findings and adapt
+protection to airway, breathing and positioning needs. The body states
+a pressure-above-one-hundred-twenty target with clear neurological
+deficit; the PCP bullet is broader, referring to suspected or
+confirmed spinal cord injury. Preserve both wordings and seek clinical
+support for competing hemorrhage, rather than silently narrowing the
+PCP text or averaging targets.
+
+106
+00:24:05,448 --> 00:24:46,728
+I01 describes cold diuresis and ataxia in milder illness, then reduced
+shivering, slower physiology and declining awareness with worsening
+hypothermia. Afterdrop means core temperature can continue to fall
+during rescue as cold peripheral blood returns centrally. J or Osborn
+waves can occur after the QRS, but are not a stand-alone temperature
+measurement or a specific diagnosis. Keep movement gentle, prevent
+further heat loss and check concurrent causes including glucose,
+illness, trauma or intoxication. A stopped shiver or a warmer skin
+surface does not by itself prove core recovery.
+
+107
+00:24:46,728 --> 00:25:35,256
+The I01 PCP reference considers warmed saline at thirty-seven to
+forty-two degrees Celsius for hypotension, thirty millilitres per
+kilogram with a two-litre maximum when available. That is its
+condition-specific source line, not routine fluid for every cold
+person, an exception to child cannulation limits or a way to combine
+every D03/BCPEG bolus figure. Assess breathing and perfusion
+throughout. Its arrest section considers an extracorporeal-rewarming
+destination within ninety minutes and recommends consultation when
+options are unclear. Use actual access, transport and special-arrest
+planning; do not infer that an unverified local service or a fixed
+travel time guarantees acceptance.
+
+108
+00:25:35,256 --> 00:26:20,472
+The January 2026 PR21 picture contrasts a BD twelve-gauge three-inch
+nonfenestrated catheter with a Turkel twelve-gauge three-and-a-half-
+inch fenestrated system. Turkel has a contact indicator and a stopcock
+initially closed; the actual opening step matters. The BD example does
+not require adding that stopcock. Control needle advancement at
+pleural entry, stabilize while withdrawing the sharp and advancing the
+flexible catheter, dispose of the sharp and reassess ventilation and
+hemodynamics. An air sound alone is not success. The source device
+pictures and adult sizing row are different references, not proof that
+every supplied adult device has one length.
+
+109
+00:26:20,472 --> 00:27:08,976
+The same dated PR21 table lists ages zero-to-four: twenty-two gauge,
+twenty-five millimetres; five-to-seventeen: eighteen gauge, forty-
+eight millimetres; eighteen-plus: twelve gauge, seventy-six
+millimetres. Treat these as source examples for authorized supervised
+teaching, not a universal child-device instruction or PCP
+authorization. The precautions include body habitus, term-pregnancy
+anatomy and mainstem intubation as a mimic of unilateral findings.
+Incorrect diagnosis or landmarks can cause a pneumothorax or other
+injury; blockage, kinking, displacement, bleeding and infection can
+follow. No absolute contraindication in a true emergency does not mean
+no indication is needed.
+
+110
+00:27:08,976 --> 00:28:01,968
+Use the shock-drug interaction tables to obtain a real medication
+history, not to invent a new contraindication. The salbutamol table
+lists other sympathomimetics, epinephrine, MAO inhibitors, tricyclic
+antidepressants and beta blockers; the norepinephrine table also
+highlights MAO inhibitors, tricyclics and halogenated anesthetics.
+Their practical questions concern altered effect, rhythm, pressure and
+monitoring. A listed interaction is not a reason to replace indicated
+IM epinephrine with salbutamol, or to delay lifesaving anaphylaxis
+care. Verify the actual product and authorized plan. In a patient
+already receiving an advanced infusion, communicate the medicine,
+concentration, route, recent change, perfusion and line findings
+rather than taking over its prescription.
+
+111
+00:28:01,968 --> 00:28:51,936
+Reconcile generic name, brand, formulation and indication separately.
+The skin table pairs hydrocortisone cream with Cortef, but the checked
+Canadian Cortef record is an oral tablet, not that cream. Its
+cantharidin row says Yanth and warts; the checked U.S. YCANTH label is
+a clinician-applied product for molluscum contagiosum in people aged
+two or older, not a universal wart instruction or proof of Canadian
+availability. Retapamulin is another topical antibacterial for
+selected impetigo treatment, while sodium sulfacetamide is a different
+antibacterial skin preparation with its own allergy/product
+precautions. These examples explain why one class or trade name cannot
+choose the route, lesion, age or treatment schedule.
+
+112
+00:28:51,936 --> 00:29:39,192
+The literal final pages include summaries and key terms, and those
+shortcuts also need interpretation. Cardiac output is volume per
+minute, whereas stroke volume is per beat; the source definition that
+joins them is inconsistent. A dysrhythmia can be regular as well as
+irregular. Atrial fibrillation does not guarantee a rapid ventricular
+response. PEA means organized electrical activity without a clinically
+detectable pulse; it is not established just by saying that every
+muscle cell fails to respond. A vesicant can injure tissue outside an
+IV context too, as the cantharidin example shows. Use the clinical
+concept, not a mistaken one-line definition or a copied chapter-
+question answer.
+
+113
+00:29:39,192 --> 00:30:26,352
+Read the actual Parkland image as a hospital calculation, not a new
+ambulance order. Its first-day lactated-Ringer estimate is four
+millilitres times body weight in kilograms times the whole-number
+percent of included TBSA. Thirty percent is entered as thirty, not
+zero point three. Half of that estimated volume belongs to the first
+eight hours from injury and half to the following sixteen hours. The
+source also gives an adult urine-output benchmark above zero point
+five millilitres per kilogram per hour. That does not authorize
+catheterization or make urine output the only perfusion endpoint.
+Prior fluids, elapsed time, associated hemorrhage and clinical
+response must be reconciled by the responsible team.
+
+114
+00:30:26,352 --> 00:31:11,064
+Original paper example: seventy kilograms with thirty percent included
+TBSA gives four times seventy times thirty, or eight thousand four
+hundred millilitres estimated over twenty-four hours. Half is four
+thousand two hundred. If the exercise starts at the injury time with
+no previous fluid, the two arithmetic rates are five hundred twenty-
+five millilitres per hour over the first eight hours and two hundred
+sixty-two point five over the next sixteen. The unequal rates follow
+unequal time blocks; do not divide the total by twenty-four and call
+that the first-phase rate. A delayed arrival changes the time
+accounting, not permission to force a catch-up volume or deliver the
+whole total as a bolus.
+
+115
+00:31:11,064 --> 00:31:54,720
+Keep source versions separate. The school-copy image teaches the four-
+millilitre Parkland model. The published 2024 American Burn
+Association guideline recommends an initial two-millilitre-per-
+kilogram-per-percent approach to reduce resuscitation volumes in its
+defined adult group with burns of at least twenty percent TBSA. That
+is a specialist burn-resuscitation comparison, not proof that the
+school image was changed, a universal child formula or a replacement
+BC PCP order. Both under-resuscitation and excessive fluid can harm.
+State the model requested in an educational calculation, then use the
+actual local protocol, consultation and titrated clinical plan in
+practice.
+
+116
+00:31:54,720 --> 00:32:49,464
+Interpret the actual oxygen-device table by interface and response,
+not a fixed oxygen-per-litre rule. Its examples list a nasal cannula
+at one-to-six litres per minute with an approximate twenty-four-to-
+forty-four percent, a simple mask at six-to-ten with twenty-eight-to-
+fifty percent, and a reservoir non-rebreather at ten-to-fifteen with
+sixty-to-eighty percent. These are textbook estimates, not measured
+guarantees or one setting for every patient. Reservoir inflation, mask
+seal, inspiratory demand and device design matter. High-flow nasal
+systems, CPAP and a ventilator are distinct technologies. A bag-mask
+needs an appropriate gas supply, reservoir, seal and effective
+breaths; fifteen litres does not automatically establish one hundred
+percent inspired oxygen or adequate ventilation.
+
+117
+00:32:49,464 --> 00:33:35,256
+The actual heart-listening image maps sound windows, not the
+anatomical valve positions. In the usual adult surface map, aortic is
+at the second right intercostal space near the sternum, pulmonic at
+the second left, Erb's point at the third left, tricuspid near the
+lower left sternal border and mitral near the fifth left intercostal
+space at the midclavicular line. Compare sounds systematically with
+the clinical context; body habitus and anatomy can alter access. S1
+mainly accompanies atrioventricular-valve closure and S2 semilunar-
+valve closure. These listening points do not replace rhythm, breathing
+and perfusion assessment or prove a valve diagnosis from one sound.
+
+118
+00:33:35,256 --> 00:33:47,088
+You should now distinguish cooling a thermal injury from warming a
+cold patient and rapidly cooling environmental heat illness. The same
+intervention can help one problem and harm another.
+
+119
+00:33:47,088 --> 00:33:58,368
+Estimate burn depth and area with the correct age and reference,
+recognize inhalation or electrical/chemical risk and avoid formula-
+driven over-resuscitation.
+
+120
+00:33:58,368 --> 00:34:11,136
+Use the three paired guides to retrieve mechanisms and all assigned
+protocol pages. Keep source versions and clinical authority visible
+rather than inventing a single blended official rule.
+
+121
+00:34:11,136 --> 00:34:23,520
+Complete the original checks aloud, then rehearse the station and
+handover with an appropriate partner or instructor. Reading completion
+is preparation for performance, not proof of a passed skill.

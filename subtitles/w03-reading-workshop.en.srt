@@ -1,0 +1,1058 @@
+1
+00:00:00,000 --> 00:00:15,144
+This workshop joins six assigned reading rows rather than turning them
+into unrelated facts. Follow one patient from the access decision
+through delivery, monitoring and explanation, with the clinical-
+judgment reading guiding repeated assessment.
+
+2
+00:00:15,144 --> 00:00:30,744
+CPSC supplies injection and line-care principles. Cardiovascular
+Pathophysiology explains the named rhythm mechanisms. VSM strengthens
+the measurements that tell you whether the electrical and treatment
+findings matter clinically.
+
+3
+00:00:30,744 --> 00:00:43,656
+The saved examination IV and diabetic pages and current named BCEHS
+procedures are taught separately where they differ. Do not blend a
+remembered number from one source with the route or timing from
+another.
+
+4
+00:00:43,656 --> 00:00:57,960
+All eleven assigned Week Three reading rows now have paired
+explanatory guides across this week's lessons. This does not certify
+the unresolved school editions, missing source activities or the full
+week's assessed requirements.
+
+5
+00:00:57,960 --> 00:01:08,784
+Start with the current care plan. If there is no indicated vascular
+treatment or relevant guideline requirement, a technically easy vein
+is not a reason to insert a catheter.
+
+6
+00:01:08,784 --> 00:01:22,536
+PR twenty-six calls the three JAY questions Justifiable, Accountable
+and You. Ask whether the need is defensible, whether peers would
+support the care and how the patient experiences the risk and benefit.
+
+7
+00:01:22,536 --> 00:01:36,144
+Consent remains necessary, but consent to an unnecessary procedure
+does not by itself make the procedure clinically appropriate. Skill
+maintenance belongs in the proper supervised education process.
+
+8
+00:01:36,144 --> 00:01:48,120
+For the school station, state the indication, an alternative and a
+reason to stop. An observable decision is more useful than silently
+proceeding until you get a successful line.
+
+9
+00:01:48,120 --> 00:02:00,264
+Aseptic continuity is the central link between the two assigned CPSC
+chapters. Hand hygiene at the beginning does not protect a syringe tip
+that later touches a dirty surface.
+
+10
+00:02:00,264 --> 00:02:12,984
+Identify the key parts before you begin: the catheter connection,
+tubing spike, distal connector and any access surface that leads into
+the bloodstream. Handle the system so those parts stay protected.
+
+11
+00:02:12,984 --> 00:02:26,400
+Use the actual antiseptic and connector instructions, including
+drying. The archive example for one alcohol scrub and one positive-
+displacement connector is not every product on a modern ambulance.
+
+12
+00:02:26,400 --> 00:02:38,472
+If you contaminate a critical component, pause and correct the break.
+Do not conceal it, continue with tighter gloves or assume a flush will
+wash the contamination harmlessly away.
+
+13
+00:02:38,472 --> 00:02:52,488
+Priming fills the administration system with the intended fluid before
+patient connection. First verify the fluid, expiry, clarity, bag
+integrity and correct set rather than just choosing the nearest bag.
+
+14
+00:02:52,488 --> 00:03:05,544
+Control the flow, protect the spike and bag port and connect without
+contamination. Use the actual set instructions for chamber filling and
+for clearing its ports, valves and complete length.
+
+15
+00:03:05,544 --> 00:03:18,384
+Inspect the entire primed route, close the appropriate clamp and keep
+the distal end protected. A set that falls onto a contaminated surface
+is not made acceptable by running more fluid through it.
+
+16
+00:03:18,384 --> 00:03:30,888
+Before connection, confirm the access and current plan. Priming a
+disconnected air-containing system through a patient is not a
+shortcut, and a pump cannot compensate for an improperly prepared
+line.
+
+17
+00:03:30,888 --> 00:03:42,264
+Trace the complete path from product to patient. The correct medicine
+in a correctly labelled bag can still fail to arrive if a clamp is
+closed or the secondary arrangement is wrong.
+
+18
+00:03:42,264 --> 00:03:55,680
+For direct intravenous medication, include the volume between the port
+and the patient. Medicine left in that space is prepared but not yet
+delivered; the following flush can change its delivery rate.
+
+19
+00:03:55,680 --> 00:04:07,512
+Read the actual device and drug plan for flushing and compatibility.
+Do not improvise drug mixing in a prefilled flush syringe or treat a
+sample tubing volume as universal.
+
+20
+00:04:07,512 --> 00:04:18,696
+Record actual amounts, including partial delivery and relevant
+residual. A pump screen or an empty syringe alone is not a complete
+account of what entered the patient.
+
+21
+00:04:18,696 --> 00:04:30,672
+This is an original arithmetic exercise, not a treatment order. The
+simulation asks for one hundred twenty millilitres over forty minutes
+through a set labelled twenty drops per millilitre.
+
+22
+00:04:30,672 --> 00:04:44,400
+Multiply volume by drops per millilitre and divide by minutes.
+Millilitres cancel, leaving sixty drops per minute. A pump-equivalent
+calculation instead converts the forty minutes to hours.
+
+23
+00:04:44,400 --> 00:04:57,432
+The result is one hundred eighty millilitres per hour. If the actual
+set changes, the gravity drops change even though the volume and time
+do not. Read the package rather than guessing the drop factor.
+
+24
+00:04:57,432 --> 00:05:11,808
+Both the archive and examination example contain a drop-factor unit
+error. The factor is drops per millilitre, not drops per minute.
+Correct arithmetic still requires checking actual delivery and
+clinical response.
+
+25
+00:05:11,808 --> 00:05:22,704
+A saline lock provides intermittent peripheral access. The word lock
+is not permission to add heparin, and its presence does not prove the
+line is still safe or required.
+
+26
+00:05:22,704 --> 00:05:35,784
+Assess the site before access, prepare the actual connector and use
+its appropriate flush plan. New pain, swelling, leakage or resistance
+changes the plan before another medicine is given.
+
+27
+00:05:35,784 --> 00:05:49,272
+Positive, negative and neutral displacement mechanisms are not
+interchangeable. The correct clamp and disconnect sequence must come
+from the device you are actually using, not a remembered Max Plus
+photograph.
+
+28
+00:05:49,272 --> 00:06:02,664
+Conversion to an infusion or back to a lock needs a current plan,
+protected connections and patient reassessment. Reconnecting an
+exposed contaminated line is not acceptable continuity of care.
+
+29
+00:06:02,664 --> 00:06:14,592
+A patient can develop a local delivery failure and a separate systemic
+problem at the same time. Inspecting the arm does not replace an
+airway, breathing and circulation reassessment.
+
+30
+00:06:14,592 --> 00:06:28,464
+Stop implicated administration when new concerning local findings
+arise. Do not force a flush or increase pressure to overcome swelling.
+Suspected extravasation requires the actual product-specific plan.
+
+31
+00:06:28,464 --> 00:06:43,008
+The archive often says remove the cannula immediately. Some
+extravasation plans instead preserve it initially for aspiration or
+treatment. This is why a general rule must not replace the particular
+product pathway.
+
+32
+00:06:43,008 --> 00:06:55,128
+Explain the treatment timeline, exact product and amount, local
+findings and patient deterioration when escalating. A silent pump is
+not evidence that the therapy caused no harm.
+
+33
+00:06:55,128 --> 00:07:06,072
+A short peripheral catheter and a PICC may both enter through an arm,
+but their tips and risks differ. A PICC is central access despite its
+peripheral entry site.
+
+34
+00:07:06,072 --> 00:07:19,344
+Nontunnelled lines, tunnelled lines and implanted ports have different
+connection and maintenance methods. Ask what the device is, why it is
+present, what is infusing and whether there is damage or infection
+concern.
+
+35
+00:07:19,344 --> 00:07:32,592
+The assigned nursing reading covers these devices, but that does not
+authorize a PCP to access an unfamiliar port or reposition a central
+catheter. Protect it and obtain the appropriate trained support.
+
+36
+00:07:32,592 --> 00:07:45,624
+A flow problem can be mechanical, thrombotic, positional or related to
+the infusion. Do not blindly flush against resistance, pull a line
+back or use scissors near an unfamiliar catheter.
+
+37
+00:07:45,624 --> 00:08:00,864
+The school assigned the whole chapter domain, so blood therapy is not
+silently omitted. Red cells carry oxygen, platelets support hemostasis
+and plasma supplies clotting factors; saline is not a substitute for
+those functions.
+
+38
+00:08:00,864 --> 00:08:13,416
+Identity and compatibility must remain correct from sampling to the
+bedside. A processing label such as irradiated or leukocyte reduced
+does not make ABO-incompatible red cells safe.
+
+39
+00:08:13,416 --> 00:08:29,328
+Learn to recognize a possible reaction and communicate the product and
+timing. New fever, rigors, rash, pain, breathing difficulty or
+hypotension must not be dismissed or followed by flushing suspect
+blood into the patient.
+
+40
+00:08:29,328 --> 00:08:44,952
+Actual transfusion requires its own trained authorized process and
+product-specific equipment. This reading gives background recognition
+and safety, not a new PCP transfusion qualification or an intravenous
+epinephrine instruction.
+
+41
+00:08:44,952 --> 00:08:57,384
+Parenteral nutrition is a prescribed nutrient formulation, not
+ordinary maintenance saline. Its route, filter, dedicated-line
+arrangement and monitoring are part of a specialist plan.
+
+42
+00:08:57,384 --> 00:09:12,000
+Complications include glucose disturbance, fluid overload, line
+problems and infection. Refeeding after substantial undernutrition can
+produce dangerous phosphate, potassium, magnesium and water shifts.
+
+43
+00:09:12,000 --> 00:09:26,424
+Never increase the rate to catch up a missed amount. If nutrition is
+interrupted, assess glucose, insulin exposure and the patient and
+obtain the actual continuity plan instead of automatically
+substituting another bag.
+
+44
+00:09:26,424 --> 00:09:39,384
+The archive example of D five at the same rate is not a universal
+paramedic instruction. Recognizing a harmful infusion may require
+immediate interruption while appropriate replacement support is
+arranged.
+
+45
+00:09:39,384 --> 00:09:52,896
+The rhythm lesson introduced one repeatable method. Apply it again to
+the broader chapter reading: patient first, then recording quality,
+rate, regularity, atrial activity, conduction relationship and QRS.
+
+46
+00:09:52,896 --> 00:10:04,656
+Look for evidence that could contradict your first label. An early P
+hidden in a T wave, an independent atrial clock or artifact can change
+the explanation of an apparent pause.
+
+47
+00:10:04,656 --> 00:10:16,968
+Electrical rate is not a measurement of blood flow. The same tracing
+can have different clinical urgency in a comfortable well-perfused
+patient and someone who is hypotensive or losing consciousness.
+
+48
+00:10:16,968 --> 00:10:28,872
+Describe what you can establish and what remains uncertain. A
+provisional interpretation with its evidence is safer than a confident
+name that ignores the patient or recording limitations.
+
+49
+00:10:28,872 --> 00:10:43,464
+Atrial fibrillation has disorganized atrial activation without
+consistent distinct sinus P waves. Its ordinary ventricular response
+is irregularly irregular, but the ventricular rate need not always be
+fast.
+
+50
+00:10:43,464 --> 00:10:58,944
+Flutter is more organized. A stable two-to-one relationship can
+produce a regular ventricular rhythm near one hundred fifty, while
+variable conduction changes that pattern. Neither rate nor
+irregularity alone proves flutter.
+
+51
+00:10:58,944 --> 00:11:12,840
+Multifocal atrial tachycardia shows distinct P waves with at least
+three shapes in one lead and an irregular tachycardic rhythm. Look for
+those waves instead of calling every irregular tracing fibrillation.
+
+52
+00:11:12,840 --> 00:11:26,640
+Underlying pulmonary or systemic illness may be important. An
+apparently benign rhythm label does not make a breathless patient
+safe, and introductory recognition is not authority to trial an AV-
+nodal medicine.
+
+53
+00:11:26,640 --> 00:11:40,056
+An atrial premature beat occurs before the next expected sinus
+activation. Its P wave may differ or hide within the previous T wave,
+and it may conduct normally, aberrantly or not at all.
+
+54
+00:11:40,056 --> 00:11:52,224
+A blocked premature P can look like a pause if you only count QRS
+complexes. Compare atrial timing and shape before deciding that the
+sinus node stopped or an AV block developed.
+
+55
+00:11:52,224 --> 00:12:06,552
+A ventricular premature beat usually has an early broad, different QRS
+without a normally timed preceding P. A compensatory pause may follow,
+but no single pause rule defines every ectopic pattern.
+
+56
+00:12:06,552 --> 00:12:19,992
+Record the pattern and clinical context. One unusual complex does not
+tell you the entire cause, and treating the tracing without
+reassessing symptoms and perfusion misses the school assessment
+objective.
+
+57
+00:12:19,992 --> 00:12:34,872
+The original diagram separates atrial and ventricular timing. Orange
+dots mark P onset; the grid represents standard speed and gain. These
+are deliberately simplified teaching traces, not school examination
+strips.
+
+58
+00:12:34,872 --> 00:12:47,688
+In row A, each P is followed by a QRS, but the PR interval is point
+two four seconds. At standard speed that is six small boxes, longer
+than the usual adult point two zero boundary.
+
+59
+00:12:47,688 --> 00:13:01,992
+This is first-degree conduction delay: the relevant atrial impulses
+still conduct. It is not the same as an intermittently missing
+ventricular response. Inspect the rest of the ECG and the patient as
+well.
+
+60
+00:13:01,992 --> 00:13:13,824
+Do not jump straight from long PR to a treatment. The clinical rate,
+medicines, ischemic symptoms, perfusion and any evolving conduction
+change determine why the finding matters.
+
+61
+00:13:13,824 --> 00:13:27,960
+In diagram row B, PR lengthens across the conducted beats, then a P is
+not followed by QRS and the sequence restarts. The missing event is
+the expected ventricular response, not the atrial P.
+
+62
+00:13:27,960 --> 00:13:40,296
+Row C illustrates unchanged PR in the conducted beats with
+intermittent nonconducted P waves. The full pattern and exclusions
+matter when interpreting a possible Mobitz type two block.
+
+63
+00:13:40,296 --> 00:13:50,904
+A two-to-one pattern alone does not tell you which type it is, because
+you cannot see a complete sequence of progressive PR behavior. Do not
+turn the ratio into certainty.
+
+64
+00:13:50,904 --> 00:14:04,536
+A slow poorly perfusing patient needs urgent assessment and
+appropriate support regardless of how elegant the label is. Pacing and
+medicines still require their actual licence, training and service
+pathway.
+
+65
+00:14:04,536 --> 00:14:16,728
+In row D the atrial interval is point eight seconds and the
+ventricular interval is one point five seconds. Their timing is
+independent, so apparent PR relationships keep changing.
+
+66
+00:14:16,728 --> 00:14:28,752
+Some P waves coincide with or hide in other complexes. Track the
+atrial clock across the whole strip instead of declaring every nearby
+P and QRS a conducted pair.
+
+67
+00:14:28,752 --> 00:14:43,224
+Complete AV block means there is no effective atrioventricular
+conduction. An escape pacemaker can continue ventricular activation,
+but its origin determines the rate and width rather than one fixed
+textbook number.
+
+68
+00:14:43,224 --> 00:14:55,320
+Assess consciousness, pressure, pulse and symptoms immediately. A
+visible escape rhythm is not a reason to assume sufficient cardiac
+output or defer appropriate escalation.
+
+69
+00:14:55,320 --> 00:15:06,816
+Bundle branch block delays activation of part of the ventricles. The
+named morphology needs the appropriate lead pattern, not only a wide
+complex or a remembered M shape.
+
+70
+00:15:06,816 --> 00:15:22,176
+Pre-excitation uses an accessory atrioventricular pathway. A short PR
+and slurred delta-wave onset can support recognition, but a manifest
+pattern is not the same as every symptomatic WPW presentation.
+
+71
+00:15:22,176 --> 00:15:36,792
+A broad tachycardia may be ventricular or have another abnormal
+activation mechanism. If uncertain, recognize the risk, describe
+evidence and obtain the appropriate care rather than testing a drug by
+guesswork.
+
+72
+00:15:36,792 --> 00:15:49,608
+Bundle block and pacing also alter ST and T appearance. New left
+bundle block alone does not prove acute infarction, while a confounded
+tracing does not exclude acute coronary disease.
+
+73
+00:15:49,608 --> 00:16:04,608
+The reading connects ionic balance with electrical behavior. Calcium
+changes may affect QT duration, and potassium disturbances may affect
+atrial activity, conduction, ventricular activation and dangerous
+rhythms.
+
+74
+00:16:04,608 --> 00:16:17,112
+Do not memorize a tracing as an exact serum potassium concentration.
+BCEHS explicitly notes that specific ECG changes do not reliably
+correlate with specific potassium levels.
+
+75
+00:16:17,112 --> 00:16:30,744
+Consider renal disease, missed dialysis, medicines, weakness and the
+pace of deterioration. Describe what you see and why it raises
+concern, without claiming the monitor has replaced laboratory testing.
+
+76
+00:16:30,744 --> 00:16:43,176
+Recognition and escalation do not create authority to give advanced
+electrolyte treatments. Continue patient support and the actual
+consultation and conveyance plan appropriate to your role.
+
+77
+00:16:43,176 --> 00:16:57,432
+A pulse oximeter estimates saturation, not the amount of hemoglobin or
+blood flow. An anemic or poorly perfused patient can have an
+apparently reassuring percentage and still inadequate oxygen delivery.
+
+78
+00:16:57,432 --> 00:17:09,720
+Check the signal and actual sensor fit, movement and perfusion. A
+displayed pulse that agrees with palpation supports signal validity
+but does not guarantee saturation accuracy.
+
+79
+00:17:09,720 --> 00:17:25,248
+Carbon monoxide and carbon dioxide are not interchangeable. Ordinary
+oximetry cannot reliably separate carboxyhemoglobin from
+oxyhemoglobin; hypercapnia is not the explanation for that carbon
+monoxide limitation.
+
+80
+00:17:25,248 --> 00:17:37,992
+If the patient looks worse than the number, respond to the patient
+while checking the reading. Use the applicable oxygen plan rather than
+adopting a broad textbook hospital range as every patient's target.
+
+81
+00:17:37,992 --> 00:17:50,472
+Prepare the actual cuff and supported limb before inflation. The first
+step palpates the pulse until it disappears; the candidate then adds
+thirty millimetres of mercury to plan the listening inflation.
+
+82
+00:17:50,472 --> 00:18:03,744
+Deflate completely and allow the actual taught recovery interval
+before the second measurement. Listen over the brachial artery while
+releasing evenly, around two millimetres per second in this candidate
+method.
+
+83
+00:18:03,744 --> 00:18:16,920
+The first sound gives systolic pressure and disappearance usually
+gives adult diastolic pressure. A temporary silent gap can make a
+later sound return look like systolic if you skipped the palpatory
+estimate.
+
+84
+00:18:16,920 --> 00:18:29,856
+Record the real method and conditions and connect the pressure to
+perfusion and treatment response. Repeating a technically poor number
+endlessly while the patient deteriorates is not reassessment.
+
+85
+00:18:29,856 --> 00:18:42,336
+Altered awareness calls for patient assessment and glucose
+measurement, not an automatic diabetes label. Airway support and other
+immediate threats remain important while you identify the cause.
+
+86
+00:18:42,336 --> 00:18:58,680
+Oral treatment requires a patient who can safely manage the route. If
+vascular treatment is indicated, verify the line and product. If
+access is not available, use the actual permitted alternative rather
+than endless unsuccessful attempts.
+
+87
+00:18:58,680 --> 00:19:15,576
+D ten contains point one gram per millilitre. For arithmetic only,
+fifteen grams requires one hundred fifty millilitres. A sealed nasal
+glucagon product and an injectable vial are different instructions,
+not interchangeable concentrations.
+
+88
+00:19:15,576 --> 00:19:29,304
+Recheck glucose and clinical response, protect the airway and consider
+recurrence and the cause. A brief improvement does not automatically
+settle capacity, disposition or the need for continued monitoring.
+
+89
+00:19:29,304 --> 00:19:40,080
+This week contains real differences between sources. The school awake
+intraosseous case and current PR twelve do not give the same adult
+lidocaine amount and timing.
+
+90
+00:19:40,080 --> 00:19:53,472
+The independent PCP IO branch is also restricted; two failed IV
+attempts in an awake patient do not alone authorize it. A separate
+branch requires direct on-scene advanced-provider supervision.
+
+91
+00:19:53,472 --> 00:20:06,096
+Keep school learning requirements, the saved examination revision and
+current operating guidance visible as different contexts. Ask for
+instructor clarification where the actual assessment depends on the
+version.
+
+92
+00:20:06,096 --> 00:20:18,672
+Do not average times or borrow a route from one table and a dose from
+another. A source-located unresolved difference is more honest and
+useful than an invented apparently complete drug card.
+
+93
+00:20:18,672 --> 00:20:31,800
+Use the original vomiting patient from the practical lesson. State why
+the current plan needs access and what else could explain weakness and
+low pressure. Do not assume all the problem is simple volume loss.
+
+94
+00:20:31,800 --> 00:20:44,352
+During an authorized simulation infusion, the patient develops arm
+pain and swelling and becomes more breathless. The pump still shows
+its intended setting. What has actually changed?
+
+95
+00:20:44,352 --> 00:20:59,520
+Stop implicated administration and assess ABCs, perfusion, the local
+limb and the complete delivery path. Do not flush swelling away or
+decide that finding an infiltration explains every new breathing
+symptom.
+
+96
+00:20:59,520 --> 00:21:13,416
+Use the school three questions: what changed, what should have
+changed, and what got worse? Communicate the expected benefit, actual
+product and amount, timing, observed harm and next care plan.
+
+97
+00:21:13,416 --> 00:21:53,400
+Use the source pulse-force scale as documented: 3+ full/bounding, 2+
+normal/strong, 1+ weak/diminished/thready and 0 absent or not
+palpable. Do not silently switch it to a different four-plus scale.
+Compare appropriate paired sites and describe a new asymmetry, but do
+not convert a subjective force grade into a numeric blood pressure or
+diagnosis. In the source respiratory sinus-arrhythmia pattern, rate
+rises during inspiration and falls during expiration; it can occur in
+young people, but not every irregular pulse has that mechanism.
+
+98
+00:21:53,400 --> 00:22:29,376
+Prepare the actual listening instrument before interpreting silence.
+Clean the contact surfaces and earpieces, point the earpieces forward
+toward the nose, select the open chestpiece side and make a complete
+skin seal. The source uses light pressure with a bell and firmer
+contact with a diaphragm; follow the actual instrument design rather
+than squeezing harder to force a sound. Korotkoff sounds arise during
+partial cuff compression/deflation and are not the ECG, a heart sound
+or proof that no circulation exists whenever the cuffed artery is
+silent.
+
+99
+00:22:29,376 --> 00:23:11,256
+Distinguish the assigned one-step comparison from skipping the safety
+estimate. In the source two-step method, first palpate to
+disappearance, add its 30-mmHg margin, fully deflate and then perform
+the listening inflation/controlled deflation. Its one-step comparison
+also estimates the disappearance point and margin, but proceeds to
+listening during that inflation cycle instead of a separate full-
+deflation cycle. The school emphasis this week is the two-step
+demonstration; use its taught recovery/position/cuff procedure and do
+not invent a fixed inflation of 200 mmHg for every arm.
+
+100
+00:23:11,256 --> 00:23:48,024
+If Korotkoff sounds continue to zero, the assigned source uses
+muffling as the alternative diastolic endpoint; record the endpoint
+and what actually happened. If an auscultatory gap occurs, preserve
+the true first systolic appearance and final diastolic endpoint and
+note the temporary silence, rather than using the later return as a
+new systolic value. These are sound-identification tasks. A printed
+description and original rehearsal do not certify that a learner has
+heard every example or completed the missing textbook audio/video
+activities.
+
+101
+00:23:48,024 --> 00:24:31,032
+Complete the older diabetic pathway as a sequence: manage
+airway/breathing, obtain glucose and other baseline findings, consider
+stroke or another cause, delegate egress preparation and choose a safe
+permitted correction route. Its stated oxygen goal is at least 94
+percent, and its low-glucose threshold is below 4.0 mmol/L. D10W is
+both a carbohydrate substrate and an immediate glucose/water source;
+the monograph also lists transient osmotic diuresis. Immediate IV
+onset is not a promise of permanent recovery or a reason to omit a
+repeat glucose and whole-patient reassessment.
+
+102
+00:24:31,032 --> 00:25:06,960
+The actual older glucagon card lists onset 15 minutes, peak 15 minutes
+and duration 90 minutes, with hypersensitivity as its stated
+contraindication. Its caution list includes nausea/vomiting,
+hypokalemia, urticaria, respiratory distress and hypotension. These
+are source-specific entries to recognize, not a promise that every
+patient follows that clock or develops each effect. Watch the patient
+and airway, reconcile what was given and do not postpone needed
+support while waiting for the listed onset.
+
+103
+00:25:06,960 --> 00:25:52,464
+Keep the current nasal-product exclusions beside, not merged into,
+that older IM/IN card. The checked BCEHS monograph excludes intranasal
+use below age four and lists hypersensitivity, pheochromocytoma and
+insulinoma. It supplies a sealed 3-mg nasal kit; its listed repeat is
+after 15 minutes as needed, maximum 6 mg, with CliniCall required
+before the second nasal dose. Current PCP selection requires confirmed
+hypoglycemia, IV access unavailable and unsafe oral administration.
+Limited hepatic glycogen can reduce benefit. None of this authorizes
+making a nasal kit from an injectable product.
+
+104
+00:25:52,464 --> 00:26:30,576
+Use a named screening tool for its intended question. The assigned
+page names PHQ-9 for depressive symptoms, GAD-7 for anxiety symptoms
+and C-SSRS for suicide-risk assessment. These do not replace the
+interview, mental-status examination, physical observations or
+immediate safety assessment. Record the tool and context if it is
+actually used; a score alone neither establishes a diagnosis nor
+determines capacity, disposition or legal authority. A calm interview
+does not clear an abnormal glucose, falling pressure or new fever.
+
+105
+00:26:30,576 --> 00:27:09,096
+Turn the ethical-strategies table into observable conduct: protect
+privacy and unnecessary bodily exposure, reduce environmental stress
+and ask what has helped the person regain control before. Keep any
+provider self-disclosure brief, purposeful and directed back to the
+person rather than seeking friendship. After a distressing event,
+support explanation, listening, debrief and appropriate team or ethics
+assistance. The source U.S. nursing restraint, seclusion and
+medication examples do not supply BC paramedic authority or a
+universal sequence.
+
+106
+00:27:09,096 --> 00:27:48,720
+An original education example makes PICOT concrete. P is student
+paramedics in an IV simulation; I is a structured line-and-site check
+prompt; C is usual simulation teaching; O is the proportion completing
+all specified checks correctly; T is the end of one training session.
+This is a proposed research question, not evidence that the prompt
+works. Define the observations, fair comparison and safety safeguards
+before drawing a conclusion. A decision tree instead organizes
+conditional actions, such as whether help is available; it does not
+test this teaching effect.
+
+107
+00:27:48,720 --> 00:28:29,352
+Read the source examination discussion as context, not an AET
+blueprint. Its eight broad nursing categories cover care management,
+medication/parenteral therapy, physiological adaptation, risk
+reduction, safety/infection, health promotion, psychosocial integrity
+and basic care/comfort. Its bow-tie, matrix, highlight, trend and
+other interactive examples change how information is presented, not
+the need to explain a cue, action and response. The source examination
+date, time allowance and percentage chart are not this school's weekly
+examination requirements.
+
+108
+00:28:29,352 --> 00:29:05,472
+After antipsychotic exposure, a new combination of high fever,
+muscular rigidity, altered awareness and unstable autonomic
+observations raises concern for neuroleptic malignant syndrome. Other
+dangerous causes remain possible. Support immediate physiological
+needs and obtain urgent clinical help rather than waiting for a
+complete laboratory pattern. The checked risperidone label calls for
+immediate discontinuation when NMS is suspected, with treatment and
+monitoring; this is not permission for a student to independently
+change or later restart a prescription.
+
+109
+00:29:05,472 --> 00:29:42,432
+The final assigned page also contains a recovery story about stopping
+medication because of unwanted sexual effects, despite financial and
+access support. The teaching point is to ask privately and without
+blame what is difficult about the actual treatment, not to assume cost
+is the only barrier or call the person noncompliant. Clarify the
+medicine, timing, effects, priorities and immediate safety needs, then
+support discussion with the treating prescriber. Long-term shared
+medication review and emergency response to a suspected dangerous
+reaction are different situations.
+
+110
+00:29:42,432 --> 00:30:21,720
+Original reassessment rehearsal: a person taking an antipsychotic is
+frightened and sweating. After respectful explanation they speak more
+comfortably, but temperature rises and rigidity appears. Answer What
+Else: consider a serious medication reaction and other medical causes,
+verify actual medicines and timing, and reassess physiology without
+delaying urgent support. What changed is the conversation; what should
+also improve is physiological stability; what got worse is temperature
+and muscle findings. Hand over both trajectories rather than
+documenting merely calmer.
+
+111
+00:30:21,720 --> 00:31:02,520
+The literal opening page completes nasal medication after the
+administration step: hand hygiene, a record of the actual dose and
+naris or nares, and the patient response. Across the assigned routes,
+use the same chain of indication, identity, allergy, product, dose,
+route, timing, explanation and reassessment. The book uses seven
+rights and three label checks, including a final check before
+delivery. These checks support, rather than replace, investigating an
+unclear order or a patient concern. Do not continue an unidentified
+preparation merely because a checklist was started.
+
+112
+00:31:02,520 --> 00:31:47,856
+For a small-volume nebulizer, confirm the actual medication, diluent
+and compatible device; assemble a protected cup, gas connection and
+suitable mask or mouthpiece. Upright positioning when tolerated and a
+mouth seal support delivery. Check that aerosol is actually produced
+and monitor breathing, pulse, benefit and adverse effects. The source
+gas-flow and eight-to-ten-minute examples are not every device or
+treatment endpoint. Do not stop needed oxygen just to attach a
+nebulizer or substitute oxygen and compressed air without considering
+the oxygen plan. Clean, dry and store the device as instructed; rinse
+after inhaled corticosteroid use.
+
+113
+00:31:47,856 --> 00:32:38,352
+For a pressurized MDI, inspect the product and remaining doses, remove
+the cover and prepare or prime only as that inhaler requires. With an
+appropriate holding chamber, make a seal, release one puff, then
+inhale slowly and hold briefly if able; without a chamber, actuation
+must coordinate with a slow inhalation. Teach by demonstration and
+return-demonstration rather than asking only whether the person
+understands. The source conflicts with itself: one box says one-to-two
+minutes between puffs, another says twenty-to-thirty seconds for one
+medicine and two-to-five minutes for multiple medicines. The checked
+Canadian Lung Association example uses one minute before a second
+puff; the actual prescribed product and service plan control, not a
+blended interval.
+
+114
+00:32:38,352 --> 00:33:19,920
+A dry-powder inhaler is not the same breathing task. Load the actual
+device correctly, keep it dry, breathe out away from it, seal the
+mouthpiece and inhale with the device-required quick deep breath. Some
+devices use a capsule that is loaded and pierced in the inhaler; that
+does not turn the capsule into an oral dose. Do not exhale moisture
+into the device or add an MDI spacer to a DPI. Check the dose
+indicator or supplied dose-tracking method and observe technique. A
+patient unable to generate the required inhalation needs reassessment
+and an appropriate alternative, not repeated unsuccessful attempts
+while deteriorating.
+
+115
+00:33:19,920 --> 00:34:16,368
+For a topical or transdermal product, avoid exposing your own skin.
+Reconcile all existing patches, the actual drug and application times;
+remove the intended old patch as the prescribed replacement plan
+requires, inspect the skin and select an appropriate clean dry new
+site. The source includes hair clipping rather than shaving,
+documentation and checking adhesion. Its ten-second pressure, one-week
+site interval and nitroglycerin patch-free example are product-context
+examples, not every patch schedule. Do not adopt its instruction to
+cut a used patch for disposal: for the checked fentanyl product, keep
+it intact, fold adhesive sides together and use the applicable
+Canadian pharmacy or service disposal process. Avoid external heat and
+secure it from accidental contact; removal does not make continuing
+opioid toxicity impossible.
+
+116
+00:34:16,368 --> 00:34:55,392
+The assigned intradermal tail illustrates a shallow bevel-up approach
+at five-to-fifteen degrees and a small wheal in the dermis, followed
+by needle safety, no massage, a site record and appropriate follow-up.
+It is a different tissue target from SC or IM delivery, not a new PCP
+tuberculosis-testing authorization. The displayed bevel and wheal help
+explain the target; a photograph alone does not prove the learner can
+place or interpret a test. Use the actual test-specific administration
+and reading process rather than treating the book's three-day reminder
+as a universal time for every skin test.
+
+117
+00:34:55,392 --> 00:35:44,928
+SC delivery targets fatty tissue below the dermis. The source shows
+upper-arm, abdominal, thigh and upper-gluteal examples, with forty-
+five or ninety degrees selected according to tissue and needle; avoid
+bruised, hardened, inflamed or otherwise unsuitable skin. The actual
+insulin concentration, units, syringe or pen scale and authorized dose
+must match. One pen belongs to one person even when its needle is
+changed. A source list mentioning SC epinephrine does not change the
+taught current anaphylaxis IM route. Do not copy the source phrase
+within one inch of the umbilicus as insulin-site advice: the checked
+Diabetes Canada teaching keeps abdominal insulin injections five
+centimetres away.
+
+118
+00:35:44,928 --> 00:36:32,952
+Correct the insulin table rather than memorizing its contradictions.
+Rotate injection points to limit fatty lumps and variable absorption;
+the sentence saying rotation is no longer necessary conflicts with its
+own next instruction and current Diabetes Canada teaching. Insulin
+types differ in meal relation, action and whether mixing is permitted;
+an example sliding scale, ten-to-fifteen-minute meal timing or thirty-
+day opened-vial life is not universal. Identify the actual product and
+plan, including the last dose and food intake. Fruity breath is a
+ketoacidosis warning, not a reliable sign of hypoglycemia. Measure
+glucose and assess the whole patient; do not independently change
+insulin because of the smell alone.
+
+119
+00:36:32,952 --> 00:37:23,856
+The heparin table teaches a high-alert anticoagulant: identify the
+actual UFH or LMWH product, dose and renal/bleeding context and report
+new bleeding or suspected harm. Do not assume one aPTT rule applies to
+every SC heparin; the checked Thrombosis Canada comparison separates
+laboratory-adjusted IV UFH from the usual LMWH approach. Do not
+massage an injection site as a way to improve absorption. An
+indwelling SC device remains an SC route, not IV access. Its
+indication, medication, site assessment, dressing, dead space and
+change interval need a specific plan; source seven-day, fourteen-day
+or fluid-volume examples do not authorize universal extra dosing or a
+fixed replacement clock.
+
+120
+00:37:23,856 --> 00:38:13,896
+Read the three IM landmarks anatomically. Deltoid lies below the
+acromion in the appropriate central muscle area, not at the shoulder
+joint; vastus lateralis uses the middle anterolateral thigh; the
+source ventrogluteal method relates the greater trochanter, anterior
+superior iliac spine and iliac crest to a muscle triangle. Expose and
+identify the actual landmarks rather than guessing through clothing or
+applying one hand size to everyone. Choose the permitted site and
+needle for age, tissue depth, muscle, product and volume. The source
+preference for ventrogluteal injection is not a mandate to use it for
+all vaccines, ages or emergency medicines, nor a guarantee that no
+nearby vessel or nerve exists.
+
+121
+00:38:13,896 --> 00:39:04,320
+The source Z-track sequence displaces skin sideways, maintains that
+displacement during a ninety-degree IM injection, withdraws the needle
+and then releases the skin to offset the track. It also teaches clean
+dry skin, stabilization, prompt sharps safety, no recapping,
+documentation and response review. Its displacement distances and ten-
+seconds-per-millilitre or ten-second dwell are source examples, not
+every medicine or injector instruction. A higher gauge number is a
+smaller bore, not a shortcut to a deeper muscle. No blood on
+aspiration does not prove correct placement; current CDC vaccine
+guidance does not require aspiration at recommended vaccination sites.
+Other medications still require their actual trained product/service
+method.
+
+122
+00:39:04,320 --> 00:40:03,312
+For direct IV medication, identify which of the three assigned
+situations exists: a locked line, a running compatible infusion or a
+running incompatible infusion. Verify permission to interrupt the
+existing therapy; do not commandeer a critical insulin, heparin, blood
+or nutrition route merely because it is connected. Trace the actual
+fluid path and control the source flow without closing the medication-
+to-patient path while injecting; do not blindly copy ambiguous distal-
+clamp wording. Use the drug-specific concentration and rate,
+compatible flush and actual residual volume. The source twenty-
+millilitre maximum, at-least-one-minute rule, ten-millilitre syringe
+examples and claim that no medicine stays in tubing are not universal.
+Its final page completes administration, resumed prescribed flow,
+reassessment and documentation, not all Chapter 8.
+
+123
+00:40:03,312 --> 00:40:50,952
+Keep the actual D03 reference beside the clinical judgment: its
+general PCP line uses normal saline in up-to-twenty-millilitre-per-
+kilogram increments, reassessing every five hundred millilitres and
+after the bolus, including pressure and pulmonary edema. Its general
+systolic target is at least ninety, with different trauma targets and
+consultation before exceeding two litres. Its separate child line uses
+five-to-ten-millilitre-per-kilogram increments, maximum twenty,
+without removing the under-twelve PCP cannulation prohibition. For
+peripheral attempts, it says generally two per practitioner but to
+reconsider need after two total failures. Neither rule licenses
+endless new attempts by rotating providers.
+
+124
+00:40:50,952 --> 00:41:38,856
+PR12 names recent use of the same site within forty-eight hours, local
+infection, relevant tissue or skeletal injury and previous proximal
+tibial surgery or knee replacement as exclusions. Protect CPR, airway
+care and defibrillation throughout preparation; the three-round
+compression/AED-analysis statement appears in the ACP section, not
+permission to delay resuscitation for an IO. Its usual catheter
+duration is up to twenty-four hours, with an exceptional extension up
+to forty-eight hours in patients over twelve, not a routine two-day
+transport plan. Repeated limb/site assessment and handover remain
+necessary; the school/current awake-lidocaine timing difference stays
+separately labelled.
+
+125
+00:41:38,856 --> 00:42:33,768
+The LP15 reading gives a usable device sequence: prepare leads and
+skin, place electrodes, select 12 Lead and confirm age and sex using
+the scroll control. With noise, correct movement, contact or cable
+tension; prolonged noise can cancel acquisition and requires
+restarting. Forcing acceptance despite persistent noise is at ACP
+discretion, not an automatic PCP shortcut. For transmission, Options
+then Patient supplies identifiers and the pain-onset field; Transmit
+selects the record and destination, then Send. Options then Print
+selects an existing record for another print. Verify the actual record
+and delivery status. These LP15 controls are not invented ZOLL
+controls, and no real patient identifiers are entered in this course
+rehearsal.
+
+126
+00:42:33,768 --> 00:43:19,392
+For ZOLL, enter accurate demographics before acquisition so that the
+ECG carries them to EPOS or the pPCI destination. The named page
+distinguishes a STEMI flag from an ACUTE MI-only message, and its
+additional-view sections are ACP-only; follow the actual pathway and
+required consultation rather than a guessed button sequence. Both
+device pages retain a ten-minute-after-sustained-ROSC recording note.
+That specific post-arrest note is not the school three-minute
+acquisition exercise, a pause in monitoring or a reason to withhold
+immediate resuscitation. Record the patient timeline and continue
+necessary care while applying the current post-arrest and consultation
+plan.
+
+127
+00:43:19,392 --> 00:44:12,576
+Understand additional views without changing the provider label. The
+source posterior recording reuses V4/V5/V6 wires as V7 at the
+posterior axillary line, V8 near the scapular tip and V9 paraspinally,
+all at the appropriate V6 horizontal level, and relabels the printed
+trace. A right-sided recording moves V4 to the right fifth intercostal
+midclavicular site and labels it V4R. Lewis recording moves RA to the
+right second and LA to the right fourth intercostal parasternal sites,
+then reads Lead I. These are altered electrode configurations, not new
+standard-lead labels to leave unmarked. The ZOLL page even retains a
+copied LP15 printing sentence: do not infer actual ZOLL controls from
+that sentence.
+
+128
+00:44:12,576 --> 00:44:52,080
+Literal export page seventy-eight is PR27 iGel pharyngeal suction, not
+more PR26. It addresses retained secretions and an impaired seal, not
+PCP gastric intubation. First consider size, depth, positioning and
+obstruction. Active vomiting, or difficult ventilation after active
+vomiting, calls for removal, oropharyngeal suction and replacement as
+required rather than passing the catheter deeper through the device.
+Maintain ventilation as the priority. This explains the literal
+reading; it does not add a new assessed Week Three station.
+
+129
+00:44:52,080 --> 00:45:29,760
+For the PR27 setup, use the specified package-length guide plus about
+two centimetres to mark the suction-catheter depth, lubricate the
+channel and stop at that mark. Observe fluid removal and stop suction
+once cleared, or after fifteen-to-twenty seconds without fluid; do not
+leave continuous suction. Its stated pressure starts at eighty
+millimetres of mercury and generally does not exceed one hundred
+sixty. If the iGel dislodges, do not reinsert it with the suction tip
+projecting beyond the device. Check actual equipment and reassess
+ventilation.
+
+130
+00:45:29,760 --> 00:45:41,256
+Have a partner watch the entire route preparation, not just the final
+connection. Name the key parts and ask the partner to identify any
+contamination or unverified transition.
+
+131
+00:45:41,256 --> 00:45:54,360
+Explain one original conduction diagram without memorizing its
+caption. Count atrial and ventricular events separately, describe the
+relationship and say what patient findings could change urgency.
+
+132
+00:45:54,360 --> 00:46:06,624
+Demonstrate a real two-step pressure and calculate a different actual-
+set rate with full units. Explain the difference between a measured
+number, an estimated value and a clinical conclusion.
+
+133
+00:46:06,624 --> 00:46:19,704
+Close the simulation with a concise handover and record of reasoning
+and response. This is preparation for the school stations, not a
+signed competency, recovered school quiz or completed assessed
+submission.

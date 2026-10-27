@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="600" viewBox="0 0 1100 600" role="img" aria-label="Original schematic: the pelvic binder centre is at the greater trochanters, not the waist">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#17384b"/></marker></defs>
+<rect width="1100" height="600" fill="#fffdf8"/>
+<g font-family="Arial, sans-serif" fill="#17384b">
+<text x="34" y="43" font-size="29">Pelvic binder: locate the bony landmark, not the waist</text>
+<text x="34" y="80" font-size="20">Front-view schematic. The belt centre crosses the greater trochanters.</text>
+<path d="M530 218C494 165 442 140 399 168C354 196 366 257 413 285L482 312L532 268Z" fill="#eee2ca" stroke="#8b785d" stroke-width="3"/>
+<path d="M570 218C606 165 658 140 701 168C746 196 734 257 687 285L618 312L568 268Z" fill="#eee2ca" stroke="#8b785d" stroke-width="3"/>
+<path d="M532 220L568 220L580 275L550 313L520 275Z" fill="#eee2ca" stroke="#8b785d" stroke-width="3"/>
+<path d="M482 294Q510 348 550 347Q590 348 618 294" fill="none" stroke="#8b785d" stroke-width="22"/>
+<ellipse cx="483" cy="302" rx="25" ry="20" fill="#fffdf8"/>
+<ellipse cx="617" cy="302" rx="25" ry="20" fill="#fffdf8"/>
+<circle cx="463" cy="294" r="22" fill="#e1d0af" stroke="#8b785d" stroke-width="3"/>
+<path d="M449 304L410 320Q395 299 381 320L390 510L423 510L420 343L467 319Z" fill="#eee2ca" stroke="#8b785d" stroke-width="3"/>
+<circle cx="637" cy="294" r="22" fill="#e1d0af" stroke="#8b785d" stroke-width="3"/>
+<path d="M651 304L690 320Q705 299 719 320L710 510L677 510L680 343L633 319Z" fill="#eee2ca" stroke="#8b785d" stroke-width="3"/>
+<rect x="350" y="184" width="400" height="38" rx="14" fill="none" stroke="#8d9ca6" stroke-width="3" stroke-dasharray="8 7"/>
+<rect x="345" y="309" width="410" height="46" rx="10" fill="#bc4e3c" fill-opacity="0.55" stroke="#a63b2d" stroke-width="3"/>
+<path d="M345 332H755" stroke="#a63b2d" stroke-width="3" stroke-dasharray="9 5"/>
+<circle cx="397" cy="330" r="12" fill="#fffdf8" stroke="#a63b2d" stroke-width="4"/>
+<circle cx="703" cy="330" r="12" fill="#fffdf8" stroke="#a63b2d" stroke-width="4"/>
+<text x="42" y="172" font-size="23">ILIAC CREST</text><text x="42" y="204" font-size="20">Not the belt-centre level</text>
+<path d="M275 188L390 182" fill="none" stroke="#17384b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="785" y="290" font-size="23">GREATER</text><text x="785" y="321" font-size="23">TROCHANTERS</text><text x="785" y="357" font-size="20">Belt centre here</text>
+<path d="M780 338L723 332" fill="none" stroke="#17384b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="43" y="422" font-size="20">Apply only when indicated.</text><text x="43" y="454" font-size="20">Use the actual device IFU.</text><text x="43" y="486" font-size="20">Recheck after movement.</text>
+<text x="34" y="555" font-size="18">Original educational schematic, not an exact anatomical drawing or a completed practical checkoff.</text>
+<text x="34" y="581" font-size="17">An isolated hip fracture is not automatically a pelvic-binder indication. Do not rock the pelvis to test it.</text>
+</g></svg>

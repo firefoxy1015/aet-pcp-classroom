@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="330" viewBox="0 0 960 330" role="img" aria-labelledby="t d">
+  <title id="t">Ventilation and the carbon dioxide buffer system</title>
+  <desc id="d">A reversible relationship links carbon dioxide and water to carbonic acid, hydrogen ions and bicarbonate. Inadequate alveolar ventilation can retain carbon dioxide and lower pH. The complete acid-base state also depends on metabolic and renal processes.</desc>
+  <rect width="960" height="330" rx="20" fill="#0d2032"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle" fill="#eef6ff">
+    <text x="480" y="39" font-size="23">Removing CO2 is part of acid-base regulation</text>
+    <rect x="55" y="70" width="850" height="78" rx="12" fill="#173a50" stroke="#57d4cc" stroke-width="2"/>
+    <text x="480" y="119" font-size="29">CO2 + H2O  &lt;=&gt;  H2CO3  &lt;=&gt;  H+ + HCO3-</text>
+    <g font-size="20"><text x="250" y="194">Inadequate alveolar ventilation</text><text x="250" y="226" fill="#ffcb78">CO2 retention can lower pH</text><text x="710" y="194">Higher alveolar ventilation</text><text x="710" y="226" fill="#57d4cc">More CO2 removal can raise pH</text></g>
+    <text x="480" y="278" font-size="17">Interpret with metabolism, renal handling, perfusion and the actual patient</text>
+    <text x="480" y="307" font-size="14" fill="#c9dce9">Original conceptual diagram; EtCO2 alone is not a complete blood-gas diagnosis</text>
+  </g>
+</svg>

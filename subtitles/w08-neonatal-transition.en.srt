@@ -1,0 +1,975 @@
+1
+00:00:00,000 --> 00:00:11,904
+The school asks for a first-minute neonatal sequence and correct
+ventilation and compression coordination. We will connect the actions
+to the physiology rather than memorize disconnected numbers.
+
+2
+00:00:11,904 --> 00:00:23,400
+An apneic or gasping newborn needs timely useful breaths after the
+appropriate initial steps. Sixty seconds is an urgency objective, not
+a rule to wait for the clock.
+
+3
+00:00:23,400 --> 00:00:35,568
+The supplied sources contain meaningful conflicts, including old
+compression thresholds and ratios. Those will be labelled and
+corrected, not blended into a new hybrid algorithm.
+
+4
+00:00:35,568 --> 00:00:47,952
+This session concerns transition at birth. A collapse later in infancy
+needs its applicable current context and pathway rather than a
+protocol selected only from the word neonate.
+
+5
+00:00:47,952 --> 00:00:58,440
+Before birth, oxygen and carbon dioxide exchange occur through the
+placenta. The umbilical vein carries relatively oxygen-rich blood
+toward the fetus.
+
+6
+00:00:58,440 --> 00:01:09,480
+The two umbilical arteries return blood toward the placenta. Artery
+and vein describe direction relative to the heart, not a universal
+high- or low-oxygen rule.
+
+7
+00:01:09,480 --> 00:01:17,088
+The fetal lungs are fluid-filled and pulmonary vascular resistance is
+high. They are not yet the principal gas-exchange route.
+
+8
+00:01:17,088 --> 00:01:29,784
+After birth, effective lung aeration and ventilation become essential.
+That is why the birth-resuscitation sequence emphasizes breathing
+before simply adding compressions or medicines.
+
+9
+00:01:29,784 --> 00:01:42,048
+The ductus venosus allows a portion of umbilical blood to bypass the
+liver. Do not describe the fetal liver as receiving no useful flow or
+the ductus as a direct lung shortcut.
+
+10
+00:01:42,048 --> 00:01:50,952
+The foramen ovale provides a route between the right and left atria.
+The ductus arteriosus connects pulmonary artery and aorta.
+
+11
+00:01:50,952 --> 00:02:00,600
+These latter routes help divert flow away from the high-resistance
+fetal lung circuit. The direction and amount of flow depend on
+pressures and resistance.
+
+12
+00:02:00,600 --> 00:02:12,024
+Tracing the route is more useful than memorizing three names. Explain
+which organ is partly bypassed and why the circulation must change
+after birth.
+
+13
+00:02:12,024 --> 00:02:21,264
+Effective lung aeration supports oxygen transfer and lowers pulmonary
+vascular resistance, allowing more blood to reach the pulmonary
+circulation.
+
+14
+00:02:21,264 --> 00:02:32,280
+Removal of the low-resistance placental circulation changes systemic
+resistance and venous filling. Together, these changes alter the
+pressures across the fetal shunts.
+
+15
+00:02:32,280 --> 00:02:42,528
+Functional closure and later anatomical closure are not identical. Do
+not teach that every shunt becomes permanently closed at the instant
+of birth.
+
+16
+00:02:42,528 --> 00:02:56,208
+Poor ventilation, hypoxia, acidosis and cold can interfere with
+successful transition. Supporting breathing and temperature therefore
+treats linked physiology rather than isolated checkboxes.
+
+17
+00:02:56,208 --> 00:03:09,408
+Ask about gestation, multiple fetuses, maternal illness, medicines and
+delivery complications. Known risk guides preparation, but a baby
+without risk factors may still need help.
+
+18
+00:03:09,408 --> 00:03:19,728
+Name the newborn provider and ensure maternal observation continues. A
+small crew should recognize competing tasks and request additional
+resources early.
+
+19
+00:03:19,728 --> 00:03:29,304
+Allocate timing, equipment and communication rather than have everyone
+reach for the baby at once. Use clear requests and confirm what was
+done.
+
+20
+00:03:29,304 --> 00:03:40,608
+Agree cord management and the immediate support plan with other
+clinicians present, including a midwife when involved. Individual
+authority and competence still govern each action.
+
+21
+00:03:40,608 --> 00:03:50,856
+Prepare a safe supported warm area and the appropriate thermal
+supplies. Do not place an infant on an unstable cold surface while
+searching for equipment.
+
+22
+00:03:50,856 --> 00:04:02,904
+Verify mask sizes, valve function, pressure monitoring when available
+and the gas-source arrangement of the actual device. Presence in a
+sealed kit does not prove readiness.
+
+23
+00:04:02,904 --> 00:04:15,336
+Have suction for obstruction, a clock, auscultation and appropriate
+oxygenation monitoring. Do not make attachment of every monitor a
+prerequisite for starting indicated breaths.
+
+24
+00:04:15,336 --> 00:04:27,504
+Identify authorized backup devices and skilled assistance before
+difficulty arises. A device that does not fit the newborn or is
+outside the operator's role is not a usable backup.
+
+25
+00:04:27,504 --> 00:04:35,904
+Record the complete-birth time. Quickly assess gestational context,
+tone and whether breathing or crying is effective.
+
+26
+00:04:35,904 --> 00:04:46,560
+A well baby can receive appropriate observed skin-to-skin care while
+warmth and ongoing evaluation continue. Good first appearance is not
+permission to stop watching.
+
+27
+00:04:46,560 --> 00:04:57,216
+Poor tone, absent breathing or other concern leads to the appropriate
+initial-support branch. Do not spend the first minute calculating a
+complete Apgar before acting.
+
+28
+00:04:57,216 --> 00:05:08,400
+Begin assessing heart rate and prepare ventilation as indicated. The
+questions organize the response; they do not replace direct
+examination or the full current algorithm.
+
+29
+00:05:08,400 --> 00:05:18,432
+Evaporation removes heat as water leaves wet skin. For the appropriate
+routine newborn, drying and replacing wet material reduce that loss.
+
+30
+00:05:18,432 --> 00:05:30,504
+Convection involves cooler air, especially drafts, while conduction
+involves direct contact with a cold surface. Warm the area and prepare
+a suitable supported surface.
+
+31
+00:05:30,504 --> 00:05:41,664
+Radiation transfers heat toward nearby cooler objects even without
+contact. A baby can lose heat despite lying on a warm blanket if the
+surroundings remain cold.
+
+32
+00:05:41,664 --> 00:05:55,032
+Cold stress increases metabolic demand and can worsen oxygen and
+glucose balance. The mechanism explains why thermal protection must
+continue through transfer, not only immediately after birth.
+
+33
+00:05:55,032 --> 00:06:08,664
+Current M zero nine uses an axillary range of thirty-six point five to
+thirty-seven point five degrees Celsius. Keep this separate from the
+older L zero two and textbook temperature wording.
+
+34
+00:06:08,664 --> 00:06:23,208
+A routine term baby needs appropriate drying, removal of wet material,
+covering and observation. Very preterm care can require wrapping
+without the same drying sequence; use the trained gestation-specific
+plan.
+
+35
+00:06:23,208 --> 00:06:34,728
+If a thermal bag or wrap is used, keep the face and airway accessible
+and do not secure it around the neck. Monitor temperature and the
+ongoing clinical condition.
+
+36
+00:06:34,728 --> 00:06:47,736
+Avoid direct unregulated heat and hot-water bottles. Do not initiate
+therapeutic cooling from this teaching; specialized cooling decisions
+do not replace prevention of accidental hypothermia.
+
+37
+00:06:47,736 --> 00:06:58,272
+Perform appropriate warmth and positioning promptly. Avoid a flexed
+chin or excessive neck extension and check that support actually helps
+airway patency.
+
+38
+00:06:58,272 --> 00:07:08,016
+Use gentle stimulation such as appropriate drying or rubbing the back.
+Do not slap, shake or repeatedly apply harsh sole stimulation.
+
+39
+00:07:08,016 --> 00:07:15,984
+Clear visible obstruction with the appropriate method when needed, not
+as an obligatory routine before every first breath.
+
+40
+00:07:15,984 --> 00:07:26,184
+Then act on breathing and heart rate without delay. Continuing
+stimulation for another long cycle is not the answer to persistent
+apnea or gasping.
+
+41
+00:07:26,184 --> 00:07:34,296
+Initial warmth and evaluation can occur during deferred cord clamping.
+The team should agree the plan before birth when possible.
+
+42
+00:07:34,296 --> 00:07:44,040
+The current pages use different timing language, as explained in the
+birth session. Keep vigorous-infant care and a newborn needing
+immediate support distinct.
+
+43
+00:07:44,040 --> 00:07:54,480
+Do not let a timer prevent effective breaths. If required care cannot
+be provided with the cord intact, coordinate the appropriate
+operational action rather than delay.
+
+44
+00:07:54,480 --> 00:08:05,136
+Do not introduce cord milking, a compulsory below-placenta position or
+a claimed half-blood-loss rule from unqualified old text. Use the
+actual trained plan.
+
+45
+00:08:05,136 --> 00:08:16,800
+Current professional guidance does not recommend routine suction
+merely because fluid is clear or meconium-stained. A nonvigorous baby
+still needs the breathing problem addressed promptly.
+
+46
+00:08:16,800 --> 00:08:29,064
+If the airway appears obstructed, use appropriate authorized clearing
+and reassess. Obstruction may involve secretions or other material,
+but not every poor breath is a suction problem.
+
+47
+00:08:29,064 --> 00:08:41,448
+The local M zero nine body and older Nancy text include broader or
+contradictory meconium wording. Do not use that as permission for
+prolonged routine suction before useful ventilation.
+
+48
+00:08:41,448 --> 00:08:52,464
+Use the current operational instruction and appropriately trained help
+if uncertainty persists. Airway clearing must improve ventilation
+rather than become the task that prevents it.
+
+49
+00:08:52,464 --> 00:09:01,776
+Assess heart rate promptly and report it to the team. Initial
+precordial auscultation is useful while appropriate monitoring is
+arranged.
+
+50
+00:09:01,776 --> 00:09:14,016
+ECG can provide a rapid rate, while pulse oximetry also contributes
+oxygenation information. A poor or delayed probe signal should not
+stop an urgent ventilation decision.
+
+51
+00:09:14,016 --> 00:09:24,168
+An electrical rate is not itself proof of mechanical output or
+adequate oxygenation. Combine it with actual clinical response and
+relevant findings.
+
+52
+00:09:24,168 --> 00:09:34,896
+Do not spend a full minute searching for a perfect count while an
+apneic newborn remains unsupported. Use the best reliable timely
+method and reassess.
+
+53
+00:09:34,896 --> 00:09:45,216
+After appropriate initial steps, apnea, gasping or a persistent heart
+rate below one hundred requires assisted ventilation through the
+current newborn pathway.
+
+54
+00:09:45,216 --> 00:09:53,424
+Do not wait for a twenty-second pause to satisfy the old apnea
+definition. Inadequate breathing is an action finding now.
+
+55
+00:09:53,424 --> 00:10:04,632
+The aim is prompt effective ventilation, not merely starting to
+squeeze a bag before a timer expires. Ensure useful air entry and
+reassess the response.
+
+56
+00:10:04,632 --> 00:10:13,920
+Apgar scoring and every monitor attachment are secondary to indicated
+support. The score can be documented alongside ongoing care.
+
+57
+00:10:13,920 --> 00:10:24,480
+The school outline and supplied textbook teach forty to sixty breaths
+per minute for newborn ventilation. The inspected current BCEHS
+algorithm prints thirty to sixty.
+
+58
+00:10:24,480 --> 00:10:36,312
+Keep the school rehearsal requirement visible and verify the assessed
+version with the instructor while recognizing the current operational
+range. Do not silently relabel one as the other.
+
+59
+00:10:36,312 --> 00:10:46,440
+Use a controlled rhythm with effective breaths and appropriate
+release. A rate within a range does not prove useful ventilation if
+there is leak or obstruction.
+
+60
+00:10:46,440 --> 00:10:56,952
+Compression coordination and older-child rescue breathing are
+different situations. Announce the algorithm and branch so the team
+does not mix its numbers.
+
+61
+00:10:56,952 --> 00:11:07,656
+Choose the appropriate mask size and fit rather than cover the eyes or
+rely on a poorly fitting edge. Use the actual device instructions and
+trained technique.
+
+62
+00:11:07,656 --> 00:11:16,392
+Maintain an open supported airway. Too much neck extension, flexion or
+pressure into soft tissues can worsen the problem.
+
+63
+00:11:16,392 --> 00:11:25,008
+Use a trained two-provider approach when it improves positioning and
+seal, allocating bag operation separately from airway support.
+
+64
+00:11:25,008 --> 00:11:33,984
+Observe the actual breath effect. A correctly held-looking mask with
+no useful inflation is not a completed ventilation task.
+
+65
+00:11:33,984 --> 00:11:44,808
+A self-inflating bag and a flow-inflating system do not work in the
+same way. Know which device is actually in your hands and what it
+needs to deliver a breath.
+
+66
+00:11:44,808 --> 00:11:57,000
+A self-inflating bag can provide air ventilation without an oxygen
+source, while other systems need the appropriate gas supply. That does
+not mean every bag gives effective free-flow oxygen.
+
+67
+00:11:57,000 --> 00:12:10,296
+Check oxygen concentration arrangements, valves and pressure-
+monitoring controls according to the actual device. Do not assume a
+reservoir or connected tubing establishes a known delivered
+concentration.
+
+68
+00:12:10,296 --> 00:12:21,264
+Practise setup and failure recognition on the available equipment.
+This explanation does not certify an uninspected model or justify
+overriding its safety features.
+
+69
+00:12:21,264 --> 00:12:32,112
+Look for useful chest movement and a rising heart rate after assisted
+breaths. The physiological response is more important than the number
+of times a bag was squeezed.
+
+70
+00:12:32,112 --> 00:12:44,400
+If heart rate does not rise, reassess ventilation quality and the
+clinical situation. Leak, airway position, obstruction or equipment
+failure can prevent lung inflation.
+
+71
+00:12:44,400 --> 00:12:54,216
+Thirty seconds of ineffective bagging does not equal thirty seconds of
+ventilation that inflated the lungs. Do not progress simply because
+time passed.
+
+72
+00:12:54,216 --> 00:13:03,792
+Reassess after each correction while requesting help as needed.
+Continued poor response can also reflect other pathology that needs
+advanced evaluation.
+
+73
+00:13:03,792 --> 00:13:14,040
+The actual linked BCEHS corrective table begins with mask adjustment
+and repositioning. These address common causes of leak and ineffective
+airway alignment.
+
+74
+00:13:14,040 --> 00:13:24,504
+A trained two-hand seal may help while another provider operates the
+bag. Keep the airway neutral or slightly extended rather than force it
+into an extreme position.
+
+75
+00:13:24,504 --> 00:13:34,176
+After those corrections, provide breaths and reassess movement and
+heart-rate response. The table explicitly includes a reassessment
+point.
+
+76
+00:13:34,176 --> 00:13:44,232
+Do not perform every later step automatically when the first
+correction works. The purpose is effective ventilation, not completion
+of a mnemonic.
+
+77
+00:13:44,232 --> 00:13:55,344
+If obstruction is suspected, use appropriate clearing of mouth and
+nose within the actual procedure. Suction is not required solely
+because the letter S appears in the mnemonic.
+
+78
+00:13:55,344 --> 00:14:04,800
+Opening the mouth and supporting the jaw can improve the airway
+through the trained method. Avoid compressing soft tissues or causing
+unnecessary trauma.
+
+79
+00:14:04,800 --> 00:14:14,856
+Try ventilation again and check the effect before further escalation.
+Communicate what changed and whether useful inflation or rate response
+occurred.
+
+80
+00:14:14,856 --> 00:14:24,984
+Unnecessary repeated suction can delay ventilation and worsen
+bradycardia or injury. Stay focused on the actual barrier and the
+newborn's response.
+
+81
+00:14:24,984 --> 00:14:38,064
+The local MR.SOPA pressure row prints increments of five to ten
+centimeters of water and a maximum of forty. Identify that as the
+table's corrective reference, not a routine starting prescription.
+
+82
+00:14:38,064 --> 00:14:49,824
+Actual pressure use requires the correct device, monitoring,
+gestational context and trained pathway. The aim is effective lung
+inflation with the least harmful suitable pressure.
+
+83
+00:14:49,824 --> 00:14:59,976
+Do not cover a pop-off valve or repeatedly increase force merely
+because the old textbook describes it. Excess volume and pressure can
+injure the lung.
+
+84
+00:14:59,976 --> 00:15:10,512
+Check for an unresolved leak, obstruction or system problem and seek
+appropriate help. Pressure escalation cannot compensate for every
+failure mode.
+
+85
+00:15:10,512 --> 00:15:22,632
+When useful ventilation cannot be established, an appropriate
+alternative airway may be needed. Arrange the right trained resource
+rather than persist indefinitely with ineffective breaths.
+
+86
+00:15:22,632 --> 00:15:34,128
+Current M zero nine lists supraglottic airway and PEEP in the PCP
+section, but actual device fit, eligibility, training and procedure
+requirements still apply.
+
+87
+00:15:34,128 --> 00:15:44,664
+Intubation and specialized neonatal support remain separate level-
+dependent actions. A diagram that says intubate does not authorize
+every person who reads it.
+
+88
+00:15:44,664 --> 00:15:56,040
+After any device change, verify useful ventilation and reassess. A
+placed airway is not automatically a functioning airway, especially
+after movement.
+
+89
+00:15:56,040 --> 00:16:09,552
+A term newborn starting assisted ventilation is not automatically
+given one hundred percent oxygen. The current local initial-
+resuscitation instruction uses room air with saturation-guided
+adjustment.
+
+90
+00:16:09,552 --> 00:16:20,184
+Use the appropriate right-hand or wrist preductal probe and verify a
+reliable signal. Saturation and heart-rate measurements answer
+different questions.
+
+91
+00:16:20,184 --> 00:16:32,544
+Prematurity can change oxygen requirements; do not infer one
+concentration for every gestation. Follow the actual trained local
+plan and seek suitable neonatal support.
+
+92
+00:16:32,544 --> 00:16:45,288
+The compression branch uses one hundred percent oxygen in the current
+algorithm, followed by appropriate titration when compressions are no
+longer needed. Do not transplant that phase into all routine birth
+care.
+
+93
+00:16:45,288 --> 00:16:54,456
+The inspected current algorithm gives sixty-five to seventy percent at
+two minutes and seventy to seventy-five at three minutes after birth.
+
+94
+00:16:54,456 --> 00:17:03,576
+At four minutes it lists seventy-five to eighty, at five minutes
+eighty to eighty-five, and at ten minutes eighty-five to ninety-five
+percent.
+
+95
+00:17:03,576 --> 00:17:14,616
+These timed targets explain why a newly born infant does not instantly
+need an adult ninety-four-percent target. Do not use them to excuse
+apnea or failing ventilation.
+
+96
+00:17:14,616 --> 00:17:27,336
+Use the actual algorithm and reliable monitoring, with clinical
+response. Do not extrapolate an unprinted exact value between every
+minute or treat a noisy number as adequate oxygenation.
+
+97
+00:17:27,336 --> 00:17:36,096
+Current birth guidance adds compressions when heart rate remains below
+sixty after thirty seconds of ventilation that effectively inflates
+the lungs.
+
+98
+00:17:36,096 --> 00:17:49,152
+Optimize ventilation, including an appropriate alternative airway when
+feasible and authorized. Ineffective bagging time must not be mistaken
+for the required useful ventilation interval.
+
+99
+00:17:49,152 --> 00:18:08,208
+The June twenty twenty-six comparison uses a below-one-hundred
+compression gate. The recovered March twenty twenty-five copy instead
+prints below sixty at all three staged gates, which can delay
+ventilation earlier. Neither dated loop replaces the current
+ventilation and compression decisions.
+
+100
+00:18:08,208 --> 00:18:19,296
+The original diagram emphasizes the separate decision gates. It is a
+reasoning aid, not a complete device procedure or permission to bypass
+the current full algorithm.
+
+101
+00:18:19,296 --> 00:18:28,224
+Practise the two-thumb encircling technique on the actual training
+manikin, supporting the torso with the fingers while thumbs compress
+the sternum.
+
+102
+00:18:28,224 --> 00:18:37,728
+Use the lower third of the sternum while avoiding the xiphoid. Do not
+select a lower landmark solely from the nipple line or press into the
+upper abdomen.
+
+103
+00:18:37,728 --> 00:18:48,984
+Aim for about one third of the chest anterior-posterior diameter,
+allow full recoil and avoid leaning. Exact practical positioning needs
+instructor observation.
+
+104
+00:18:48,984 --> 00:18:59,184
+The old two-finger illustration is not the preferred birth technique
+taught here. Compression quality and synchronized effective
+ventilation must be assessed together.
+
+105
+00:18:59,184 --> 00:19:09,168
+The school and current newborn pathway use three compressions
+synchronized to one ventilation. Practise a coordinated four-event
+cycle with the team.
+
+106
+00:19:09,168 --> 00:19:20,112
+The goal is ninety compressions and thirty breaths per minute: one
+hundred twenty total events. That does not mean one hundred twenty
+compressions plus extra breaths.
+
+107
+00:19:20,112 --> 00:19:33,888
+The supplied Nancy paragraph mixes this newborn context with thirty-
+to-two, fifteen-to-two and one hundred to one hundred twenty
+compressions. Do not practise those mixed instructions as birth
+resuscitation.
+
+108
+00:19:33,888 --> 00:19:45,960
+Maintain useful breaths, recoil and communication, and minimize
+unnecessary interruptions. A memorized count without depth and
+ventilation effect is not adequate performance.
+
+109
+00:19:45,960 --> 00:19:56,904
+After the coordinated support interval, reassess heart rate and
+clinical response using the current pathway. Do not stop useful care
+for an unnecessarily long count.
+
+110
+00:19:56,904 --> 00:20:08,112
+A heart rate of eighty is above the compression threshold but still
+below one hundred. Compressions may stop while effective ventilation
+continues, depending on the actual findings.
+
+111
+00:20:08,112 --> 00:20:18,888
+Even a rate above one hundred does not establish adequate spontaneous
+breathing. Continue or reduce support according to breathing and the
+full response, not rate alone.
+
+112
+00:20:18,888 --> 00:20:31,368
+Persistent severe bradycardia needs verification of effective
+ventilation and compressions and appropriate advanced escalation. Do
+not repeatedly cycle through ineffective actions.
+
+113
+00:20:31,368 --> 00:20:43,632
+If heart rate remains below sixty despite sixty seconds of coordinated
+compressions and adequate ventilation, the current framework calls for
+advanced escalation including medicine consideration.
+
+114
+00:20:43,632 --> 00:20:55,104
+Current M zero nine places vascular access, intubation and epinephrine
+beyond the PCP operational section, with specialized umbilical access
+separately restricted.
+
+115
+00:20:55,104 --> 00:21:07,416
+Do not give an algorithm-box dose or assume a term baby exceeds a
+weight limit. Actual eligibility, reliable weight, device suitability
+and the appropriate provider are required.
+
+116
+00:21:07,416 --> 00:21:19,896
+Continue effective basic support while the team considers other causes
+such as blood loss or pneumothorax. This session does not prescribe a
+PCP neonatal infusion or invasive rescue procedure.
+
+117
+00:21:19,896 --> 00:21:33,072
+After response, continue frequent appropriate observation of
+breathing, rate, oxygenation and responsiveness. A single cry or
+improved number does not establish sustained recovery.
+
+118
+00:21:33,072 --> 00:21:43,008
+Maintain suitable thermal protection and check devices after movement.
+Support that worked on the birth surface may become displaced during
+transfer.
+
+119
+00:21:43,008 --> 00:21:54,000
+Watch for recurrent apnea, worsening effort, poor perfusion or altered
+tone. Reassess the whole situation rather than assume the original
+problem cannot recur.
+
+120
+00:21:54,000 --> 00:22:04,320
+Arrange the appropriate receiving center, resources and notification.
+Do not use a reassuring Apgar or a complete cord cut as a discharge
+decision.
+
+121
+00:22:04,320 --> 00:22:18,240
+Consider neonatal glucose in the relevant illness, feeding,
+temperature and gestational context through the applicable pathway.
+Not every healthy term baby needs routine screening immediately after
+birth.
+
+122
+00:22:18,240 --> 00:22:30,576
+The school outline incorrectly generalizes a neonatal two-point-six
+threshold to children older than one month. The pediatric lecture
+distinguishes that from the current general below-four pathway.
+
+123
+00:22:30,576 --> 00:22:44,280
+A neonatal D ten infusion described in a book or advanced protocol
+does not give PCP independent neonatal IV authority. Check the actual
+provider, age, route and consultation requirements.
+
+124
+00:22:44,280 --> 00:22:56,640
+Feeding requires a safe clinical condition and effective airway
+protection. Do not put milk or glucose into an inadequately responsive
+or poorly breathing baby as a substitute for urgent support.
+
+125
+00:22:56,640 --> 00:23:08,016
+Tell the family in clear short language that the baby needs help
+breathing or circulation support and what the team is doing now. Avoid
+a technical score as the whole explanation.
+
+126
+00:23:08,016 --> 00:23:16,872
+Maintain privacy and appropriate family involvement while preserving
+space for effective care. Assign a communicator when personnel allow.
+
+127
+00:23:16,872 --> 00:23:26,592
+Do not promise a normal outcome or announce permanent disability from
+a low early score. A population association is not an individual
+prediction.
+
+128
+00:23:26,592 --> 00:23:37,224
+Do not use a ten-minute old-text passage or a clock alone to terminate
+care. Follow current guidance and consultation with clinical context
+and family participation.
+
+129
+00:23:37,224 --> 00:23:49,296
+In this original case, a newborn at an estimated thirty-nine weeks and
+one day has poor tone, gasping and an auscultated heart rate of eighty
+after appropriate initial steps.
+
+130
+00:23:49,296 --> 00:24:00,864
+State the current problem: breathing is ineffective and heart rate is
+below one hundred. Initiate useful assisted ventilation through the
+current pathway without waiting for Apgar.
+
+131
+00:24:00,864 --> 00:24:10,560
+Maintain the thermal and maternal-care roles while another provider
+assists ventilation and monitoring. A birth emergency still involves
+both patients.
+
+132
+00:24:10,560 --> 00:24:22,248
+Do not begin compressions solely because eighty is below the old page-
+forty-four one-hundred gate. Use the actual effective-ventilation and
+persistent-sixty decision process.
+
+133
+00:24:22,248 --> 00:24:34,512
+Assume early breaths produce little chest movement and an audible mask
+leak, with the rate still around eighty. State the limitation rather
+than call this successful ventilation.
+
+134
+00:24:34,512 --> 00:24:43,632
+Correct mask fit and airway position using the trained approach, with
+help for the seal where appropriate. Then give breaths and reassess.
+
+135
+00:24:43,632 --> 00:24:53,664
+Do not advance solely because a timer says thirty seconds passed. No
+useful inflation means the effective-ventilation interval has not been
+demonstrated.
+
+136
+00:24:53,664 --> 00:25:05,232
+Continue the correction pathway and call appropriate help if
+ventilation remains ineffective. The case tests cause, intervention
+and measured response, not mnemonic speed.
+
+137
+00:25:05,232 --> 00:25:15,024
+Now assume an improved seal produces useful chest movement, heart rate
+rises to one hundred thirty-two and spontaneous breathing becomes
+effective.
+
+138
+00:25:15,024 --> 00:25:22,944
+That response supports the importance of ventilation. It does not
+justify adding compressions because the original rate was eighty.
+
+139
+00:25:22,944 --> 00:25:34,656
+Reassess breathing, reliable oxygenation, tone and temperature and
+adjust support through the current pathway. Do not stop needed support
+solely because one number improved.
+
+140
+00:25:34,656 --> 00:25:45,144
+Record times, corrections and responses and arrange indicated post-
+resuscitation assessment. The newborn remains a separate patient
+needing continued care.
+
+141
+00:25:45,144 --> 00:25:57,360
+For an alternative original branch, assume thirty seconds of effective
+ventilation has been demonstrated but heart rate remains fifty. That
+meets the current compression decision context.
+
+142
+00:25:57,360 --> 00:26:09,552
+Provide trained synchronized three-to-one support, compression-phase
+oxygen and appropriate airway/advanced resource planning. Verify both
+compression and breath quality.
+
+143
+00:26:09,552 --> 00:26:20,064
+After the coordinated interval, assume rate rises to eighty. Stop
+compressions as indicated by the current pathway while continuing the
+ventilation still needed.
+
+144
+00:26:20,064 --> 00:26:31,680
+If instead it remains below sixty after adequate coordinated support,
+escalate with the appropriate advanced team. Do not infer a PCP drug
+or IO permission from this case.
+
+145
+00:26:31,680 --> 00:26:42,000
+Give estimated gestation, birth context and relevant maternal
+concerns, with source reliability. Distinguish the baby's record from
+the maternal record.
+
+146
+00:26:42,000 --> 00:26:52,920
+State birth time, initial breathing and heart rate, when effective
+ventilation was achieved and whether compressions were needed. Do not
+report only bagging started.
+
+147
+00:26:52,920 --> 00:27:04,272
+Report response, oxygen context, thermal findings, support and timed
+Apgar observations. Note which readings were reliable and which
+remained uncertain.
+
+148
+00:27:04,272 --> 00:27:13,800
+Finish with current needs and the coordinated receiving plan. A clear
+trajectory is more useful than a list of actions without their
+effects.
+
+149
+00:27:13,800 --> 00:27:24,456
+For the first-minute drill, identify the birth clock and demonstrate
+the initial steps without delaying indicated ventilation. Explain how
+you know a breath worked.
+
+150
+00:27:24,456 --> 00:27:35,496
+For corrective ventilation, change one problem at a time where
+feasible and reassess. Do not claim success because all MR.SOPA
+letters were recited.
+
+151
+00:27:35,496 --> 00:27:47,880
+For the compression branch, demonstrate the current threshold context,
+technique, three-to-one rhythm and response-driven next step. State
+why the old mixed ratios are not being used.
+
+152
+00:27:47,880 --> 00:28:00,000
+Instructor observation on the actual training equipment is required
+for practical signoff. This course prepares the reasoning and sequence
+but does not certify hands-on resuscitation.
+
+153
+00:28:00,000 --> 00:28:11,064
+You should explain why lung aeration changes circulation and why
+warmth protects oxygen and glucose balance. Mechanism makes the
+sequence easier to remember correctly.
+
+154
+00:28:11,064 --> 00:28:19,608
+Provide timely useful breaths, test corrections and recognize when the
+persistent-below-sixty branch requires synchronized support.
+
+155
+00:28:19,608 --> 00:28:28,704
+Keep the school forty-to-sixty rate, current thirty-to-sixty rate,
+three-to-one compression sequence and older-child rescue breathing
+distinct.
+
+156
+00:28:28,704 --> 00:28:42,216
+Then maintain observation, communicate honestly and arrange
+appropriate care. The accompanying readings identify source conflicts
+and unresolved school-page locators without pretending they are
+complete.
+
+157
+00:28:42,216 --> 00:29:21,744
+The literal M10 opening distinguishes surfactant-related RDS, retained
+lung fluid in TTN, infection and air leak. These are possible
+mechanisms, not a diagnosis from gestational age or a reason to wait
+for a described72-hour course. Its later-neonatal saturation examples
+and specialist oxygen/ventilator settings are not first-minute targets
+or a PCP equipment recipe. Assess breathing effectiveness and
+deterioration, support within the actual pathway and obtain
+appropriate help; do not seek a printed high opening pressure with a
+hand-held bag.
+
+158
+00:29:21,744 --> 00:30:00,720
+Original contrast: a four-day-old has poor feeding, grunting and less
+interaction than usual. The family recalls that low saturations can be
+normal immediately after birth. That birth-minute table cannot
+reassure this later presentation. Perform the primary assessment,
+verify measurement quality without delaying indicated support, protect
+temperature and communicate the age in days, baseline change,
+breathing/perfusion findings and response. An apparently term birth or
+a previous normal check does not exclude infection, congenital disease
+or another current threat.
+
+159
+00:30:00,720 --> 00:30:43,704
+The recovered March2025 page44 differs materially from the June2026
+comparison: its three progression gates all say below60, while the
+later copy says below100. Neither staged loop should replace the
+current algorithm. The2025 first gate could withhold useful
+ventilation from an apneic baby or a persistently slow rate of60-99;
+the2026 later gate could add compressions too early at those rates.
+Current birth guidance separates assisted ventilation for
+apnea/gasping or persistent rate below100 from compressions for
+persistent below60 after effective ventilation and correction.
+
+160
+00:30:43,704 --> 00:31:20,784
+Original threshold check: after the appropriate initial actions, a
+newly born infant is gasping and the measured heart rate remains92. Do
+not wait for it to fall below60 before starting indicated useful
+ventilation, and do not start compressions simply because it is
+below100. Establish lung inflation and reassess the response using the
+current birth pathway. Thirty seconds of ineffective bag squeezing is
+not thirty seconds of effective ventilation. Keep the school reference
+date visible during rehearsal and ask for the assessed revision rather
+than inventing a hybrid number.

@@ -1,0 +1,406 @@
+1
+00:00:00,000 --> 00:00:11,232
+Clinical communication changes what happens next. A patient who
+understands the plan can participate; a receiving clinician who
+understands a trend can set the right priority.
+
+2
+00:00:11,232 --> 00:00:23,376
+Communication can fail even when every individual sentence is true. A
+report may contain an old blood pressure but omit the newer, lower
+reading that changes the clinical concern.
+
+3
+00:00:23,376 --> 00:00:36,528
+A useful report connects the problem, relevant findings, actions,
+response and remaining need. Accuracy includes chronology and
+uncertainty, not just a list of correct facts.
+
+4
+00:00:36,528 --> 00:00:47,064
+During this lesson, practise speaking aloud. Knowing what each letter
+means is only the first step; the skill is choosing and delivering the
+information another person needs.
+
+5
+00:00:47,064 --> 00:00:58,080
+Patient explanations should use familiar words and short, concrete
+statements. Say what you are doing, why it matters and what the person
+may feel or need to do.
+
+6
+00:00:58,080 --> 00:01:09,456
+A professional report can use precise clinical terms, measured values
+and times. Replace vague phrases such as vitals okay with the findings
+that support the assessment.
+
+7
+00:01:09,456 --> 00:01:22,704
+An acronym is useful only if the listener understands it. Expand an
+unfamiliar abbreviation, especially when handing over medications, an
+unusual device or an uncertain finding.
+
+8
+00:01:22,704 --> 00:01:32,184
+Match the message to the listener without changing its meaning. Plain
+language should improve access, not conceal risk or offer false
+reassurance.
+
+9
+00:01:32,184 --> 00:01:44,280
+Teach-back asks the patient to explain important information in their
+own words. It checks your explanation and the plan's usability, rather
+than testing whether the patient can repeat a sentence.
+
+10
+00:01:44,280 --> 00:01:53,352
+An example is: I want to make sure I explained this clearly. What will
+happen next, and what would you tell us if you started to feel worse?
+
+11
+00:01:53,352 --> 00:02:03,192
+If the answer reveals a misunderstanding, explain the missed point
+differently and ask again. A yes to do you understand gives much less
+information.
+
+12
+00:02:03,192 --> 00:02:13,200
+Use appropriate language, hearing and cognitive support. Teach-back
+helps assess understanding, but it is not by itself a full capacity
+assessment.
+
+13
+00:02:13,200 --> 00:02:22,896
+An open question lets the patient tell you what they think matters.
+Focused questions then clarify timing, relevant symptoms and immediate
+risks.
+
+14
+00:02:22,896 --> 00:02:32,544
+If a patient says I blacked out, do not assume a specific event. Ask
+what they remember, whether someone witnessed it and what the witness
+observed.
+
+15
+00:02:32,544 --> 00:02:43,488
+Summarize the account and invite correction: the dizziness began while
+standing, you sat down, and you are unsure whether you lost
+consciousness. Is that accurate?
+
+16
+00:02:43,488 --> 00:02:55,488
+Separate the patient's words from your interpretation in both handover
+and documentation. This preserves uncertainty rather than turning an
+unclear symptom into an established diagnosis.
+
+17
+00:02:55,488 --> 00:03:06,792
+The AET module teaches radio patches, SBAR and MIST. You need to
+understand those school competencies and also recognize the current
+service guidance for their use.
+
+18
+00:03:06,792 --> 00:03:19,896
+BCEHS A03 recommends ATMIST AMBO for transfer of care in all settings,
+and SBAR for consultations. It states that using SBAR for other
+transfers of care is deprecated.
+
+19
+00:03:19,896 --> 00:03:31,032
+MIST remains useful to understand the school's trauma-summary task. In
+current BCEHS transfer practice, the fuller framework adds identity,
+time and relevant background.
+
+20
+00:03:31,032 --> 00:03:42,960
+Choose by purpose rather than labelling all medical patients SBAR and
+all trauma patients MIST. A service instruction and an acronym
+exercise are different contexts.
+
+21
+00:03:42,960 --> 00:03:54,864
+A pre-arrival patch gives the receiving team time to prepare. Identify
+your unit, the intended resource and the estimated arrival, then state
+the main problem and level of concern.
+
+22
+00:03:54,864 --> 00:04:05,088
+Select the findings that explain urgency. Include meaningful trends,
+relevant treatment and response, not the complete history in the order
+you obtained it.
+
+23
+00:04:05,088 --> 00:04:18,240
+State what you need: a receiving clinician, a specific preparation or
+further clinical consultation through the appropriate route. A long
+report without a clear request may leave the listener unsure what to
+do.
+
+24
+00:04:18,240 --> 00:04:28,584
+Use the service's pre-alert criteria and approved format. A radio
+patch does not replace the bedside transfer report or confirmation
+that care has been accepted.
+
+25
+00:04:28,584 --> 00:04:37,152
+In a consultation, start with the reason for contacting the clinician
+now. State your role and patient context, then the immediate concern.
+
+26
+00:04:37,152 --> 00:04:47,736
+Background should be selective. Include information that changes
+interpretation or the requested decision, rather than reading every
+item from the patient record.
+
+27
+00:04:47,736 --> 00:04:59,256
+Assessment includes what you found and how the patient changed, along
+with actions and response. Label a working impression as an
+impression, and state what you do not yet know.
+
+28
+00:04:59,256 --> 00:05:09,216
+Finish with a specific request. If instructions are given, read back
+important details and clarify ambiguity before acting within your
+authorization.
+
+29
+00:05:09,216 --> 00:05:21,624
+This fictional example teaches message structure, not a treatment
+algorithm. Begin: I am a student with my supervising clinician; I am
+concerned about deterioration during transport.
+
+30
+00:05:21,624 --> 00:05:34,056
+Add the onset and relevant background, then report the actual
+observations and times. Saying blood pressure is falling should be
+supported by the measured trend, not an isolated impression.
+
+31
+00:05:34,056 --> 00:05:44,760
+Report what the team is already doing and the response. State
+unresolved information instead of offering a confident diagnosis that
+the assessment does not support.
+
+32
+00:05:44,760 --> 00:05:56,160
+Request the assistance or decision needed. Urgent reassessment and
+necessary care continue while help is sought; a perfect SBAR must not
+delay protection of the patient.
+
+33
+00:05:56,160 --> 00:06:08,520
+MIST organizes a concise trauma summary. Describe the mechanism
+without making it a substitute for examination: a concerning mechanism
+raises suspicion but does not prove a specific injury.
+
+34
+00:06:08,520 --> 00:06:18,408
+Distinguish an observed injury from a suspected one. Report the
+relevant signs and their direction of change, including mental status
+and measurements.
+
+35
+00:06:18,408 --> 00:06:29,784
+For treatment, pair the intervention with timing and response. Saying
+oxygen given or bleeding treated leaves out whether the problem
+improved, persisted or worsened.
+
+36
+00:06:29,784 --> 00:06:41,304
+In a formal transfer using the current BCEHS framework, add the other
+ATMIST AMBO elements. The same essential clinical facts should survive
+a change in the report structure.
+
+37
+00:06:41,304 --> 00:06:53,520
+ATMIST starts with age and patient identification, then the time of
+injury or symptom onset. Identify an uncertain onset as uncertain
+rather than replacing it with the time of the call.
+
+38
+00:06:53,520 --> 00:07:01,680
+M can describe the mechanism of injury or the medical complaint. This
+is why the framework is not limited to trauma patients.
+
+39
+00:07:01,680 --> 00:07:16,656
+I includes injuries and relevant examination findings. S gives the
+current signs and important changes. Report a measured mental-status
+assessment accurately; a greeting alone does not establish a full
+neurological score.
+
+40
+00:07:16,656 --> 00:07:25,464
+The final T connects treatment to response. A receiving clinician
+needs to know both what has been tried and whether the patient changed
+afterwards.
+
+41
+00:07:25,464 --> 00:07:36,696
+After the immediate picture, AMBO supplies relevant background. An
+allergy entry is more useful when it includes the reported reaction,
+not just a drug name.
+
+42
+00:07:36,696 --> 00:07:48,144
+Unknown allergy status is different from no known allergies.
+Similarly, a medication history that was not obtained should not be
+presented as a patient taking no medicines.
+
+43
+00:07:48,144 --> 00:07:59,400
+Include medical, social or family background when it changes care,
+safety or interpretation. The complete life history is not required in
+the initial focused handover.
+
+44
+00:07:59,400 --> 00:08:11,760
+Other relevant information can include a communication support need or
+an unresolved risk. Finish by making it easy for the receiver to ask
+questions and identify what still needs checking.
+
+45
+00:08:11,760 --> 00:08:24,024
+Begin with age, identity and onset: a 62-year-old patient with
+breathlessness beginning at thirteen twenty. State the main concern
+without claiming an unconfirmed cause.
+
+46
+00:08:24,024 --> 00:08:36,432
+Report the examination and change: respiratory rate rose from twenty-
+two to thirty, and the patient now speaks in shorter phrases. Add the
+actual observation times when giving the report.
+
+47
+00:08:36,432 --> 00:08:49,392
+Then state the care delivered and its response, followed by relevant
+allergies, medicines and background. If a medication list or allergy
+history is unavailable, identify that gap clearly.
+
+48
+00:08:49,392 --> 00:09:00,888
+The receiver should hear a changing clinical picture, not just a
+string of normal and abnormal numbers. Confirm who has accepted the
+report and which concerns need immediate attention.
+
+49
+00:09:00,888 --> 00:09:12,864
+Use the full drug name, dose with units, route, time and response.
+These five facts help the receiving team avoid duplicate dosing and
+understand what remains untreated.
+
+50
+00:09:12,864 --> 00:09:23,712
+Milligrams and micrograms are not interchangeable. State the unit
+aloud and keep it attached to the number in the record. Avoid
+abbreviations that could be misheard.
+
+51
+00:09:23,712 --> 00:09:37,080
+Time is the administration time, not merely when the medication was
+prepared or the report written. Report repeated doses separately or
+with an accurate cumulative total and individual times as relevant.
+
+52
+00:09:37,080 --> 00:09:47,040
+If a fact is uncertain, say so and verify it. Do not fill in an
+assumed dose or response because it seems usual for that medicine.
+
+53
+00:09:47,040 --> 00:09:56,136
+This supplied fictional record is only for reporting practice. It is
+not an instruction to administer this medication or a guide to dose
+selection.
+
+54
+00:09:56,136 --> 00:10:10,128
+A clear report is: ondansetron, four milligrams intravenously, at
+fourteen oh eight. At fourteen fifteen, the patient reported less
+nausea; no further vomiting was observed during that interval.
+
+55
+00:10:10,128 --> 00:10:20,616
+Notice that the response is attributed and time-limited. The report
+does not claim the underlying illness has resolved or that every
+possible adverse effect was excluded.
+
+56
+00:10:20,616 --> 00:10:32,496
+If another dose was mentioned but cannot be confirmed, state that
+uncertainty and seek the record or administering clinician. Guessing
+would create a false basis for the next treatment decision.
+
+57
+00:10:32,496 --> 00:10:44,472
+Closed-loop communication checks that a message was received as
+intended. It is particularly useful for critical details, requests and
+instructions where a misunderstanding could change care.
+
+58
+00:10:44,472 --> 00:10:54,864
+The receiver repeats the important content, and the sender confirms or
+corrects it. A nod or an indistinct reply may not establish shared
+understanding.
+
+59
+00:10:54,864 --> 00:11:13,296
+AET also lists ISBARR: identification, situation, background,
+assessment, recommendation and read-back. Understand the added
+identification and confirmation steps without treating this glossary
+term as a replacement for current service transfer guidance.
+
+60
+00:11:13,296 --> 00:11:24,648
+Questions are a safety step, not evidence that the report failed. If a
+question exposes missing information, identify whether it can be
+checked now and who will follow it up.
+
+61
+00:11:24,648 --> 00:11:36,576
+Before a handover, identify the appropriate receiving person and gain
+their attention. Reduce interruptions when possible and avoid
+broadcasting private information to unnecessary listeners.
+
+62
+00:11:36,576 --> 00:11:47,016
+BCEHS guidance describes a brief attention period for critical
+handovers when the patient's condition allows. It must not interrupt
+immediately necessary care.
+
+63
+00:11:47,016 --> 00:11:59,208
+Keep the report focused, then allow questions and clarify unresolved
+risks. Time targets in guidance support communication; they are not a
+reason to omit a decisive finding.
+
+64
+00:11:59,208 --> 00:12:12,192
+A bed location or completed radio patch does not by itself prove that
+responsibility has transferred. Follow the service process to confirm
+acceptance, document the transfer and preserve continuity.
+
+65
+00:12:12,192 --> 00:12:23,616
+Pause and give a report aloud. You have a mechanism and a symptom, but
+not a confirmed fracture, a complete neurological assessment or the
+actual observation values.
+
+66
+00:12:23,616 --> 00:12:34,272
+Do not invent the missing findings. Say what the assessment has
+established, obtain the latest measurements and distinguish a
+suspected injury from an observed finding.
+
+67
+00:12:34,272 --> 00:12:48,072
+Use the selected framework to order the information. Include the
+timing, symptom, examination, verified trend, actual care and
+response, then relevant background and any remaining gap.
+
+68
+00:12:48,072 --> 00:12:58,776
+Ask a partner to tell you the main concern and what happens next. If
+they cannot, revise the emphasis or request rather than merely
+speaking faster.

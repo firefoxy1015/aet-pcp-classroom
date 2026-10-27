@@ -1,0 +1,1056 @@
+1
+00:00:00,000 --> 00:00:14,304
+This practical lesson supports the school Week Five resuscitation
+outline. It integrates all eight saved sections of the AET manual-
+defibrillation supplement without repeating its patient story or
+completing a school assessment.
+
+2
+00:00:14,304 --> 00:00:29,112
+The supplement is matched by topic, not explicitly allocated in the
+saved school directory. Its identical second entry is not another
+course. The explicitly assigned Seven C Part A remains the weekly
+module spine.
+
+3
+00:00:29,112 --> 00:00:42,720
+Learn the decision and team sequence before memorizing a button. A
+school laboratory may teach a manual workflow, while a service-
+configured monitor can restrict which functions a particular operator
+may use.
+
+4
+00:00:42,720 --> 00:01:00,552
+The linked bilingual reading identifies exact BCPEG pages and current-
+source differences. Device checkoffs, the actual school configuration
+and the restricted current PCP operating procedure remain unverified,
+so this is preparation, not credentialing.
+
+5
+00:01:00,552 --> 00:01:13,440
+Defibrillation delivers an electrical intervention to terminate
+certain dangerous ventricular rhythms. It does not pump blood for the
+patient, correct every cause or guarantee that a perfusing rhythm will
+follow.
+
+6
+00:01:13,440 --> 00:01:27,528
+The school three-phase model calls the early period electrical. It
+helps explain the urgency of treating VF or pulseless VT while
+myocardium is more viable, not a rule that every arrest starts in VF.
+
+7
+00:01:27,528 --> 00:01:39,192
+If the defibrillator is available and a shock is indicated, do not
+delay that shock to finish a fixed period of CPR simply because the
+history suggests the patient is now in a later phase.
+
+8
+00:01:39,192 --> 00:01:53,496
+Continue good CPR during preparation and minimize the necessary
+assessment and shock pause. Early CPR and early defibrillation support
+each other; they are not competing treatments from which to choose
+only one.
+
+9
+00:01:53,496 --> 00:02:08,856
+Arrest deprives cells of oxygen and metabolic substrate, reducing
+their ability to sustain electrical and mechanical function.
+Compressions generate limited circulation while definitive treatment
+and cause correction are organized.
+
+10
+00:02:08,856 --> 00:02:21,648
+Interruptions reduce perfusion pressure. Restarting compressions does
+not instantly restore everything lost during a pause. This explains
+the importance of planning equipment and exchanges before stopping.
+
+11
+00:02:21,648 --> 00:02:35,232
+The school gives illustrative minute and pressure-recovery figures.
+They are not exact physiological clocks for every patient, and they do
+not establish an obligatory fifteen-second wait before assessing an
+indicated rhythm.
+
+12
+00:02:35,232 --> 00:02:47,112
+Measure actual hands-off intervals in practice. Improve an eight-
+second pause to a shorter safe pause rather than accepting eight
+seconds merely because it sits below a published upper bound.
+
+13
+00:02:47,112 --> 00:03:01,224
+The later metabolic phase describes worsening cellular injury and
+complex injury after circulation returns. It is useful physiology, but
+a ten-minute boundary does not prove irreversible death in an
+individual.
+
+14
+00:03:01,224 --> 00:03:14,040
+Arrest duration is only one part of the history. Distinguish time
+without any circulation-supporting CPR from time with effective CPR,
+and recognize special causes such as hypothermia.
+
+15
+00:03:14,040 --> 00:03:25,896
+Do not teach the school survival-per-minute percentage as a
+personalized prognosis, or a progression from coarse VF to fine VF to
+asystole as a mandatory sequence in every case.
+
+16
+00:03:25,896 --> 00:03:40,320
+Withholding, discontinuation and recognition of life extinct follow
+their actual pathways. The preceding Seven C lecture teaches those
+distinctions; a phase label or monitor appearance does not replace
+them.
+
+17
+00:03:40,320 --> 00:03:54,792
+The chain of survival includes recognition, response activation, CPR,
+defibrillation when indicated, advanced care and post-arrest recovery.
+Completing a later link does not make an earlier link unnecessary.
+
+18
+00:03:54,792 --> 00:04:08,040
+For example, an access operator can prepare a line while the
+compressor works and the defibrillator operator prepares pads. Access
+must not become the reason the first useful shock is delayed.
+
+19
+00:04:08,040 --> 00:04:22,104
+Use additional personnel where they improve a specific task. If there
+are fewer people, combine roles deliberately and prioritize lifesaving
+actions rather than trying to perform every textbook task
+simultaneously.
+
+20
+00:04:22,104 --> 00:04:33,408
+A useful leader continually asks what is preventing effective oxygen
+delivery now. That question connects technique to the patient instead
+of turning the arrest into a checklist race.
+
+21
+00:04:33,408 --> 00:04:48,984
+Allocate compression, airway, defibrillator, leadership and recording
+functions. Add medication or access roles according to people and
+authority. A role title alone does not confirm that its essential
+tasks are being done.
+
+22
+00:04:48,984 --> 00:05:01,968
+Say a name and a concrete action, receive a read-back, then expect
+completion or a barrier report. If a device is not ready, that fact
+must reach the leader before a planned pause begins.
+
+23
+00:05:01,968 --> 00:05:13,512
+The compressor should announce fatigue and the next operator should be
+ready before the exchange. The recorder can warn of the approaching
+cycle boundary without dictating an unsafe interruption.
+
+24
+00:05:13,512 --> 00:05:25,632
+When new responders arrive, give a short patient-state and treatment
+summary before assigning a gap. An unbriefed extra person at the chest
+can create confusion rather than useful capacity.
+
+25
+00:05:25,632 --> 00:05:40,104
+For this adult practical, combine a rate of one hundred to one hundred
+twenty with appropriate five to six centimeter depth, full recoil and
+minimal interruptions. A metronome checks timing, not all of these
+dimensions.
+
+26
+00:05:40,104 --> 00:05:54,240
+Keep shoulders and hands appropriately aligned and avoid leaning
+between compressions. Full recoil means releasing downward pressure,
+not repeatedly removing all contact and losing the correct location.
+
+27
+00:05:54,240 --> 00:06:06,912
+Use a suitable firm support and the actual training feedback. Rotate
+about every two minutes, or sooner if quality declines, coordinating
+the transition with a necessary pause whenever feasible.
+
+28
+00:06:06,912 --> 00:06:17,592
+An impressive compression fraction can still coexist with shallow or
+poorly positioned compressions. Review the whole performance rather
+than celebrating one favorable number.
+
+29
+00:06:17,592 --> 00:06:33,144
+In the current local adult pathway, use thirty compressions and two
+breaths without an advanced airway. With an appropriate advanced
+airway, continuous compressions and roughly one breath each six
+seconds are the relevant adult framework.
+
+30
+00:06:33,144 --> 00:06:46,200
+Coordinate ventilation with the compressor and avoid unnecessarily
+long pauses. Deliver enough to produce appropriate chest rise, not an
+aggressive squeeze intended to inflate the lungs as much as possible.
+
+31
+00:06:46,200 --> 00:07:00,912
+Excessive rate or volume raises intrathoracic pressure and can impair
+venous return. Hypocapnia after ROSC can also reduce cerebral blood
+flow; faster breathing is not automatically better oxygen delivery.
+
+32
+00:07:00,912 --> 00:07:17,184
+If the waveform changes or chest rise is poor, evaluate airway
+position, obstruction, seal and the device while the team maintains
+the necessary arrest care. Do not solve an unexplained low CO2 by
+blindly increasing ventilation.
+
+33
+00:07:17,184 --> 00:07:30,456
+An AED analyzes a signal through its specified electrodes and advises
+or delivers treatment according to its design. A semiautomatic AED
+still requires an operator to press the shock control when prompted.
+
+34
+00:07:30,456 --> 00:07:44,880
+Manual operation moves rhythm interpretation and energy selection to a
+trained, authorized person. Skilled use may shorten pauses, but a
+confident misinterpretation can also produce an inappropriate shock.
+
+35
+00:07:44,880 --> 00:07:57,504
+Biphasic describes reversal of current direction during the waveform.
+It does not make every manufacturer use the same joules or mean that a
+device automatically delivers only the energy the patient needs.
+
+36
+00:07:57,504 --> 00:08:09,552
+Do not delay an available, appropriate AED shock just to replace it
+with a preferred manual device. Coordinate any transition so that
+working CPR and defibrillation are not lost.
+
+37
+00:08:09,552 --> 00:08:21,576
+Confirm whether the device is in manual therapy, AED prompted protocol
+or advisory monitoring. Similar-looking screens can support different
+functions and different operator permissions.
+
+38
+00:08:21,576 --> 00:08:35,280
+The official LIFEPAK manual describes settings that can restrict
+manual access, require confirmation or require a passcode. This is a
+device capability description, not a reason to circumvent
+restrictions.
+
+39
+00:08:35,280 --> 00:08:47,016
+The current linked BCEHS PCP operating procedure is login restricted
+and has not been read. We do not infer its present settings from an
+old factory default or from a school supplement.
+
+40
+00:08:47,016 --> 00:09:00,288
+Synchronized cardioversion and pacing are advanced interventions in
+this context. Knowing what SYNC or PACER means helps avoid errors; it
+does not authorize a learner to initiate those therapies.
+
+41
+00:09:00,288 --> 00:09:12,216
+Check device readiness, power and compatible in-date pads and cable.
+The ECG cable used to monitor a rhythm is not automatically the
+therapy connection used to deliver a shock.
+
+42
+00:09:12,216 --> 00:09:26,712
+Expose and prepare enough chest for correct pad placement while
+preserving dignity where possible. Remove obstructing clothing and
+moisture and address excessive hair without turning preparation into a
+prolonged pause.
+
+43
+00:09:26,712 --> 00:09:40,032
+Use the device instructions for skin preparation, approved accessories
+and connections. Do not put extra paddle gel under adhesive pads or
+improvise an incompatible connector to save a few seconds.
+
+44
+00:09:40,032 --> 00:09:52,320
+Announce readiness before the team commits to an assessment pause. If
+the cable remains disconnected, continue useful CPR while that problem
+is fixed instead of making everyone wait with hands off.
+
+45
+00:09:52,320 --> 00:10:05,208
+For the adult anterior-lateral arrangement, place one electrode on the
+upper right chest below the clavicle and the other on the left lateral
+chest with the pad center near the midaxillary line as appropriate.
+
+46
+00:10:05,208 --> 00:10:20,328
+Adapt to actual anatomy, avoid obstructing patches or implanted-device
+sites when possible, and obtain full skin contact. A pad balanced on a
+fold or only partly attached may not transmit energy effectively.
+
+47
+00:10:20,328 --> 00:10:35,304
+The reviewed LP15 instructions distinguish an anterior-posterior
+option for manual therapy from its anterior-lateral requirement in AED
+mode. Do not turn an alternative placement from one mode into a
+universal rule for another.
+
+48
+00:10:35,304 --> 00:10:49,104
+Inspect adhesion before discharge and after movement. If an electrode
+must be moved, follow its replacement instructions rather than
+assuming a lifted, dried pad can always be stuck back with equal
+performance.
+
+49
+00:10:49,104 --> 00:11:01,776
+The school supplement uses two hundred joules as its initial adult
+LIFEPAK example. Learn that labelled school example, but do not export
+it as the one initial dose for every biphasic defibrillator.
+
+50
+00:11:01,776 --> 00:11:18,096
+For real use, the authorized operator follows the applicable protocol
+and exact model configuration, including any escalation. A numbered
+setting, a charged energy display and an actual delivered-shock record
+are different observations.
+
+51
+00:11:18,096 --> 00:11:32,616
+Confirm the intended setting before charging and confirm available
+energy before discharge. A mechanical patient twitch is not reliable
+proof of delivered energy, and absence of ROSC is not proof of
+equipment failure.
+
+52
+00:11:32,616 --> 00:11:46,776
+Do not use a universal energy range from a general nursing table, or
+assume smaller pads automatically reduce manual energy. Those
+shortcuts can turn an otherwise coordinated workflow into an incorrect
+treatment.
+
+53
+00:11:46,776 --> 00:12:00,792
+The school COACHED sequence keeps compressions going while the
+operator prepares. It calls out oxygen management, others clear,
+charging, hands off, rhythm evaluation and either defibrillation or
+disarming.
+
+54
+00:12:00,792 --> 00:12:14,640
+Translate each word into an observed action. Oxygen away requires the
+airway person to manage the actual oxygen source, not somebody merely
+repeating the phrase while free-flow oxygen remains at the chest.
+
+55
+00:12:14,640 --> 00:12:31,440
+The supplement gives a one-meter free-flow oxygen example; the
+reviewed manufacturer warning requires managing nearby oxygen sources.
+Follow the actual equipment fire-safety procedure rather than
+indiscriminately disconnecting every secured ventilation circuit.
+
+56
+00:12:31,440 --> 00:12:43,704
+The person still compressing must explicitly acknowledge clearing
+before discharge. This is why a memorized rapid chant cannot replace a
+visual check of people, patient and equipment.
+
+57
+00:12:43,704 --> 00:12:56,328
+In the taught manual workflow, charging can occur while compressions
+continue. Nobody should interpret a charge tone as an instruction to
+deliver an immediate shock with the compressor still touching the
+patient.
+
+58
+00:12:56,328 --> 00:13:11,712
+Before discharge, ensure no person is touching the patient, stretcher,
+bed or conductive equipment in contact with the patient. Look for an
+unnoticed hand, a helper holding a limb or a rescuer leaning on a
+rail.
+
+59
+00:13:11,712 --> 00:13:23,856
+Adhesive pads are not hand-held paddles. Do not press on adhesive
+therapy pads during discharge or copy a paddle-pressure instruction
+onto a hands-free electrode workflow.
+
+60
+00:13:23,856 --> 00:13:36,000
+A last-second safety concern overrides the desire for a fast pause.
+Stop the unsafe action, make the situation safe and minimize the
+additional interruption without skipping the check.
+
+61
+00:13:36,000 --> 00:13:49,296
+A rhythm assessment requires an interpretable ECG. Compression and
+movement artifact can resemble ventricular activity; a dramatic screen
+during active compressions is not enough to select a shock.
+
+62
+00:13:49,296 --> 00:14:05,520
+At the coordinated brief assessment, identify VF, pulseless VT,
+asystole or an organized pattern in the patient context. Pulselessness
+is a clinical state, not an automatic label attached to every wide
+complex.
+
+63
+00:14:05,520 --> 00:14:17,640
+State the decision clearly so the compressor and recorder know what
+follows. An organized rhythm alone does not justify repeated prolonged
+pulse checks outside the appropriate assessment sequence.
+
+64
+00:14:17,640 --> 00:14:31,536
+Aim for the shortest safe assessment and shock pause. If equipment
+uncertainty cannot be resolved immediately, maintain necessary CPR and
+address the specific uncertainty rather than prolonging hands-off
+debate.
+
+65
+00:14:31,536 --> 00:14:43,368
+When the rhythm is shockable and safety and energy are verified, the
+operator delivers the shock using the correct control. Announce
+delivery so everyone understands the transition.
+
+66
+00:14:43,368 --> 00:14:55,008
+Immediately restart compressions after the shock in the ongoing arrest
+pathway. Do not spend the next interval staring at the screen or
+routinely checking for a pulse just to see whether the shock worked.
+
+67
+00:14:55,008 --> 00:15:05,688
+Continue ventilation, planned exchanges and investigation of causes
+without allowing the delivered shock to become an unstructured pause
+in all other treatment.
+
+68
+00:15:05,688 --> 00:15:20,616
+Record the actual delivered energy and time, not just what was
+selected. If spontaneous signs suggest a real state change,
+communicate and assess appropriately rather than ignoring the patient
+to finish a fixed cycle blindly.
+
+69
+00:15:20,616 --> 00:15:32,832
+A precharged device does not commit the team to a shock. If assessment
+does not support defibrillation, announce that decision and remove the
+unwanted charge through the device disarm procedure.
+
+70
+00:15:32,832 --> 00:15:46,608
+The reviewed LIFEPAK manual describes pressing the speed dial to
+cancel a charge. It also describes automatic disarming under certain
+conditions, but waiting for a timeout is not the same as deliberately
+securing the device.
+
+71
+00:15:46,608 --> 00:15:58,752
+Do not discharge into the air or give an unnecessary patient shock
+merely to empty the capacitor. Verify the actual disarmed state rather
+than assuming the phrase charge dumped completed the action.
+
+72
+00:15:58,752 --> 00:16:09,648
+Resume necessary CPR promptly after the assessment. The operator can
+confirm device status while the team returns to nonshockable care and
+cause-directed thinking.
+
+73
+00:16:09,648 --> 00:16:23,448
+True asystole and PEA are nonshockable arrest states. Continue
+effective CPR, ventilation and appropriate cause management;
+increasing joules does not turn them into indications for
+defibrillation.
+
+74
+00:16:23,448 --> 00:16:35,472
+An AED no-shock message does not establish a pulse, prove good signal
+quality or certify death. Combine the message with the patient
+assessment and troubleshoot contradictory findings.
+
+75
+00:16:35,472 --> 00:16:49,248
+PEA can appear narrow or wide, fast or slow. The important immediate
+distinction is organized electrical activity without effective
+circulation, not memorizing one single strip appearance.
+
+76
+00:16:49,248 --> 00:17:00,408
+Continue the applicable reassessment cycle and early consultation
+planning. A single nonshockable assessment is not a new timer-based
+permission to terminate resuscitation.
+
+77
+00:17:00,408 --> 00:17:14,760
+For an unexpected trace, check the patient and the signal chain: skin
+contact, compatible cable, electrode connection, displayed source and
+motion. Do not assume every irregular waveform is VF.
+
+78
+00:17:14,760 --> 00:17:29,424
+The LP15 AED warning requires stopping a moving vehicle for analysis
+and standing clear. Manual interpretation is also affected by
+artifact; changing the mode does not magically create a reliable ECG.
+
+79
+00:17:29,424 --> 00:17:43,560
+If pads do not adhere, correct the cause and replace unsuitable pads
+according to the instructions. If the monitor loses power, assign
+troubleshooting or a backup while the rest of the team sustains
+essential care.
+
+80
+00:17:43,560 --> 00:17:56,568
+Avoid a long global stop while several people inspect the same
+connector. Say the precise fault and assign one owner, with a clear
+plan for rhythm assessment and defibrillation as soon as feasible.
+
+81
+00:17:56,568 --> 00:18:09,360
+A flat-looking screen may represent asystole, a disconnected source,
+an unsuitable display setting or low-amplitude activity. Do not
+diagnose death from the first glance at one trace.
+
+82
+00:18:09,360 --> 00:18:23,520
+Inspect connection and source, and use appropriate leads or display
+assessment according to the device and local procedure. The goal is a
+reliable interpretation, not adjusting the screen until it resembles a
+shockable rhythm.
+
+83
+00:18:23,520 --> 00:18:35,808
+Do not reflexively shock an uncertain flat line. Keep the assessment
+focused and brief, return to useful CPR and obtain the needed
+expertise without unnecessary delay.
+
+84
+00:18:35,808 --> 00:18:47,280
+Document what was actually visible and what checks were made. Do not
+write confirmed asystole simply because the initial electrode was
+disconnected or the display was unreadable.
+
+85
+00:18:47,280 --> 00:18:59,376
+Defibrillation, synchronized cardioversion and transcutaneous pacing
+are not interchangeable settings for a sick patient. They address
+different electrical and clinical problems.
+
+86
+00:18:59,376 --> 00:19:12,456
+A wide fast rhythm with a definite pulse is not automatically
+pulseless VT. Assess hemodynamic instability and request the
+appropriate advanced help rather than choosing the arrest shock
+pathway from width alone.
+
+87
+00:19:12,456 --> 00:19:24,384
+A very slow perfusing rhythm may need urgent advanced treatment. It is
+not corrected by defibrillating a nonshockable rhythm or improvising
+an unsupervised pacing setup.
+
+88
+00:19:24,384 --> 00:19:38,400
+In this PCP learner context, recognition, supportive care, early
+escalation and preparation are the task. Device capability and an
+educational explanation do not expand procedural authority.
+
+89
+00:19:38,400 --> 00:19:52,488
+The school supplement repeatedly generalizes that AEDs are not
+intended for children under eight. The reviewed LP15 AED mode does
+have that restriction; AEDs in general do not share a universal under-
+eight ban.
+
+90
+00:19:52,488 --> 00:20:06,264
+Current AHA and AAP guidance supports pediatric attenuation when
+available, trained manual defibrillation where appropriate, and
+consideration of a nonattenuated AED if the preferred options are
+unavailable.
+
+91
+00:20:06,264 --> 00:20:19,920
+Pads must fit without overlap and be compatible with the actual
+equipment. On the reviewed LP15, attaching pediatric electrodes does
+not automatically select a weight-based energy dose.
+
+92
+00:20:19,920 --> 00:20:33,960
+This comparison prevents an unsafe generalization; it is not the
+complete pediatric course. Keep age-specific assessment, ventilation,
+energy and device training together rather than exporting adult
+defaults.
+
+93
+00:20:33,960 --> 00:20:47,472
+The supplement describes broad IO use in arrest and shock. Current
+local PR12 is more specific for independent PCP IO and distinguishes
+direct on-scene advanced supervision from a telephone consultation.
+
+94
+00:20:47,472 --> 00:21:01,440
+The previously taught independent branch is not every medical arrest:
+it includes the specified hypovolemic-arrest context, critical fluid
+need and unavailable or failed IV, with the other current limits.
+
+95
+00:21:01,440 --> 00:21:15,576
+PCP tibial site limits, age restrictions and collective attempt limits
+are not erased by a school humeral or pediatric example. Access does
+not automatically grant epinephrine or another advanced drug
+authority.
+
+96
+00:21:15,576 --> 00:21:27,624
+Use the Week Three vascular practical for the checked technical
+sequence. Here the operational question is who can perform which
+access task without delaying compressions or the indicated shock.
+
+97
+00:21:27,624 --> 00:21:43,128
+The supplement access sequence contains conflicting statements about
+flushing before versus after pain management. In an awake patient, use
+the actual analgesia and confirmation procedure rather than copying
+the first numbered list.
+
+98
+00:21:43,128 --> 00:21:57,552
+Swelling, leakage or concerning resistance requires immediate
+attention. Do not pressurize a questionable line harder to achieve a
+nominal flow, and do not treat absent aspiration alone as automatic
+proof of failure.
+
+99
+00:21:57,552 --> 00:22:11,256
+Secure and repeatedly inspect any functioning access, especially after
+movement. Distinguish device assistance from certainty: a pressure
+infuser cannot confirm that the tip is correctly positioned.
+
+100
+00:22:11,256 --> 00:22:25,128
+Communicate failure or an uncertain delivered dose accurately.
+Document the site, attempt, findings, action and response; do not
+invent a successful infusion because a bag volume decreased.
+
+101
+00:22:25,128 --> 00:22:39,984
+A sudden sustained ETCO2 rise can suggest ROSC, but no universal
+thirty-five or forty millimeter threshold proves it. Ventilation,
+drugs, compression quality and sampling can also change the number.
+
+102
+00:22:39,984 --> 00:22:55,320
+Communicate the clue and assess circulation appropriately. Once ROSC
+is confirmed, announce the transition so compressions, ventilation,
+monitoring and recording are intentionally coordinated rather than
+independently changed.
+
+103
+00:22:55,320 --> 00:23:12,240
+Titrate oxygen with reliable measurement, avoid excessive ventilation,
+assess blood pressure and perfusion, maintain airway support and
+prepare for recurrence. The preceding lesson labels the actual N03 and
+other-source target differences.
+
+104
+00:23:12,240 --> 00:23:27,888
+Temperature management, cause-directed destination and early ECG
+communication remain important. Do not import a hospital temperature
+protocol, routine cold fluid or a prognostic judgment from one early
+neurological examination.
+
+105
+00:23:27,888 --> 00:23:40,368
+The LP15 advisory configuration allows monitoring functions while a
+background system looks for potentially shockable rhythms. It is not
+simply full manual therapy with a safety net switched on.
+
+106
+00:23:40,368 --> 00:23:55,272
+The reviewed manual says surveillance does not prompt for nonshockable
+rhythms such as asystole. A perfusing organized rhythm and PEA can
+also look electrically similar, so absence of an alert cannot
+establish safety.
+
+107
+00:23:55,272 --> 00:24:10,536
+A check-patient alert requires checking the patient. Motion, low
+signal amplitude and other problems can cause false alerts; do not
+press ANALYZE or shock a conscious perfusing person just because the
+device requested attention.
+
+108
+00:24:10,536 --> 00:24:26,184
+In the reviewed configured workflow, LEAD returns from the AED
+prompted protocol to advisory monitoring. Verify the actual displayed
+mode and local configuration; this action does not prove entry into
+unrestricted manual operation.
+
+109
+00:24:26,184 --> 00:24:42,408
+An ECG tone can reflect detected QRS activity without useful
+perfusion, and artifact or pacing signals can confuse rate displays.
+Continue direct patient assessment instead of equating every beep with
+a heartbeat that pumps blood.
+
+110
+00:24:42,408 --> 00:24:56,784
+A pulse-oximeter tone depends on a usable optical signal. Poor
+perfusion, motion and other limitations can make it unreliable during
+arrest. SpO2 also does not measure carbon dioxide clearance.
+
+111
+00:24:56,784 --> 00:25:11,952
+The reviewed LP15 offers SpO2 volume adjustment through its parameter
+menu. Know the actual unit, keep alerts usable and avoid teaching an
+unverified menu path as universal across models or software.
+
+112
+00:25:11,952 --> 00:25:28,272
+A metronome provides timing, not depth, recoil or indication for CPR.
+Its activity can also alter alarm behavior on the reviewed device.
+Verify the monitoring state again when the patient transitions to
+ROSC.
+
+113
+00:25:28,272 --> 00:25:41,304
+A twelve-lead ECG uses ten electrodes to derive twelve views. The six
+chest leads are not six augmented limb leads, and a three-lead rhythm
+trace cannot replace a diagnostic twelve-lead.
+
+114
+00:25:41,304 --> 00:25:56,928
+Enter correct patient information and the demographic fields required
+by the actual system. The reviewed LP15 uses default assumptions if
+age or sex is omitted; machine unconfirmed text is not an independent
+diagnosis.
+
+115
+00:25:56,928 --> 00:26:13,416
+After ROSC, obtain a useful ECG at the clinically appropriate time and
+repeat if needed; the preceding lecture explains early-ECG timing
+differences. An early post-arrest trace can be misleading, so maintain
+the patient context.
+
+116
+00:26:13,416 --> 00:26:28,320
+Send to the correct receiving pathway and confirm receipt or report
+failure. A send icon, a printed strip and hospital acceptance are not
+the same event, and a normal-looking ECG does not erase concerning
+symptoms.
+
+117
+00:26:28,320 --> 00:26:43,416
+The supplement describes importing monitor data into Siren and
+manually completing medication details and ECG times. Treat those as
+the described school workflow, not proof that every current software
+version behaves identically.
+
+118
+00:26:43,416 --> 00:26:57,168
+The reviewed EVENT menu records selected annotations; it does not
+automatically know every compressor exchange, drug dose or clinical
+decision. A generic event mark is not a complete medication entry.
+
+119
+00:26:57,168 --> 00:27:14,376
+Reconcile onset and CPR history, rhythm analyses, shock time and
+energy, ventilation/access, actual drug details, patient response,
+consultation and handover. Distinguish directly observed facts from
+reports by a bystander.
+
+120
+00:27:14,376 --> 00:27:28,848
+If an imported time is wrong or an event is uncertain, use the
+permitted correction process and explain the uncertainty. Do not
+invent exactness, silently change history or claim that documentation
+guarantees legal protection.
+
+121
+00:27:28,848 --> 00:27:45,336
+The supplement mentions advisory monitoring during stable inter-
+facility transfers. Current PR33 describes a prescreened stable
+population with defined observations and consultation triggers; it is
+not blanket clearance for every monitored patient.
+
+122
+00:27:45,336 --> 00:27:59,688
+A newly resuscitated patient can remain critically unstable despite an
+organized rhythm and one acceptable pressure. Continue close
+assessment, resource planning and the applicable post-arrest
+destination decision.
+
+123
+00:27:59,688 --> 00:28:15,264
+During an authorized IFT, new chest pain, reduced consciousness,
+hypotension or severe breathlessness changes the situation. Use the
+actual consultation and destination response rather than waiting for a
+shockable-rhythm alarm.
+
+124
+00:28:15,264 --> 00:28:28,224
+Explain the distinction in a handover: baseline stability, what
+changed, what was measured, what was done and what help is now
+required. The mode name on the monitor does not define patient
+stability.
+
+125
+00:28:28,224 --> 00:28:41,136
+The saved supplement also connects monitor skills to ACS and stroke.
+These are recognition and escalation applications, not evidence that
+every time-critical call belongs in the arrest pathway.
+
+126
+00:28:41,136 --> 00:28:59,160
+For suspected ACS, combine symptoms, perfusion and a quality ECG,
+prepare for deterioration and use the appropriate notification
+pathway. Neither absence of classic chest pain nor a nondiagnostic
+first ECG safely excludes ACS.
+
+127
+00:28:59,160 --> 00:29:14,616
+For possible stroke, a focused screen, exact last-known-well history
+and glucose assessment support the next decision. A normal glucose
+does not rule out stroke, and a normal FAST screen does not exclude
+every stroke presentation.
+
+128
+00:29:14,616 --> 00:29:29,400
+Do not let equipment setup consume the time needed for urgent support,
+destination planning and pre-alert. The full ACS and stroke pathways
+require their own source-based teaching, not an improvised answer from
+an arrest slide.
+
+129
+00:29:29,400 --> 00:29:42,624
+In this original drill, a fifty-four-year-old collapses at a community
+workshop. Bystanders started CPR and an AED is operating. Do not
+remove a working treatment before the replacement is ready.
+
+130
+00:29:42,624 --> 00:29:56,976
+A cable fault delays the incoming manual unit. Assign one person to
+solve that fault while the team maintains the current effective CPR
+and follows the usable AED workflow. Do not create an avoidable no-
+treatment interval.
+
+131
+00:29:56,976 --> 00:30:13,488
+After a coordinated transition, apply the appropriate shock or no-
+shock sequence from the actual assessment. Later, communicate the CO2
+rise and movement, assess circulation appropriately and announce a
+confirmed transition if supported.
+
+132
+00:30:13,488 --> 00:30:29,088
+The recorder now reconciles bystander reports, device changes,
+delivered therapy and the patient response. Success in this drill
+means safe reasoning and coordinated action, not making the story end
+with ROSC every time.
+
+133
+00:30:29,088 --> 00:30:47,688
+After the event, compare the actual timeline with patient needs: first
+effective CPR, first indicated shock, interruptions, airway
+performance, causes, consultation and handover. A monitor download
+informs this review but cannot reconstruct every human decision.
+
+134
+00:30:47,688 --> 00:31:01,680
+Discuss system factors, skill gaps and communication using observed
+facts. Avoid judging the entire team only by survival, and do not
+promise that an operational learning review eliminates all
+accountability.
+
+135
+00:31:01,680 --> 00:31:14,040
+Choose a concrete improvement, such as preparing compatible connectors
+before an exchange or shortening a specific pause without losing the
+all-clear check. Rehearse the change and measure again.
+
+136
+00:31:14,040 --> 00:31:28,344
+Separate operational learning from personal psychological support.
+Offer appropriate voluntary resources without compelling a traumatic
+retelling or promising absolute confidentiality beyond the applicable
+framework.
+
+137
+00:31:28,344 --> 00:32:09,624
+The literal respiratory pages connect appearance, history and
+examination. Observe effort, speech, chest expansion and retractions;
+compare both sides systematically for air entry and added sounds. Ask
+about baseline disease, inhaled medicines, smoking or other exposures,
+cough and the amount, colour and consistency of sputum. Compare with
+what is usual for this patient. Asymmetry, crackles or wheeze narrows
+questions but does not identify one disease automatically. Prioritize
+an unstable patient rather than finishing the routine respiratory
+count or interview.
+
+138
+00:32:09,624 --> 00:32:50,256
+With an existing chest drain, include tube security, the actual
+drainage system, breathing findings and possible subcutaneous air in
+the focused assessment. This is not permission to clamp, disconnect or
+manipulate an unfamiliar drain. The chapter respiratory-rate examples
+depend on age, and its usual saturation above 95 percent is background
+teaching rather than a universal oxygen prescription. Link an abnormal
+observation to the applicable assessment and support pathway, then
+report the response. Hospital nursing diagnoses and ordered blood-gas
+sampling do not create a new paramedic procedure.
+
+139
+00:32:50,256 --> 00:33:27,672
+The topical checklist begins with a verified order and medication
+record, not a jar that happens to be nearby. Confirm identity with
+appropriate independent identifiers; connect the intended medicine,
+dose, route, time and indication to the actual patient, and document
+what was really done. The source repeats label comparisons at
+selection, preparation and before administration. Multiple signatures
+on a record do not make an unclear order reliable. Stop and clarify a
+mismatch rather than completing a ritual check and proceeding anyway.
+
+140
+00:33:27,672 --> 00:34:13,176
+Topical treatment still requires protection and a product-specific
+technique. Inspect the intended site, allergies and skin condition;
+use appropriate gloves and hand hygiene to protect the patient and
+avoid absorbing medication yourself. The checklist describes clearing
+previous product, preparing the skin and applying the ordered quantity
+without vigorous rubbing. Its suggestions about damp skin, a thin
+versus generous layer, warming a product in gloved hands or sterile
+gloves for lesions are not one instruction for every medicine, wound
+or formulation. Follow the actual product and aseptic wound-care plan;
+do not add heat or massage to a patch by analogy.
+
+141
+00:34:13,176 --> 00:34:53,352
+Protect the remaining product as well as the application site. Use the
+appropriate clean or sterile applicator without returning contaminated
+material to the container. Change soiled gloves and clean hands when
+moving to a clean task. Explain expected sensations, preserve comfort
+and privacy, and record site, product, dose or amount, time and
+patient response. A topical, transdermal, oral or injected formulation
+is not interchangeable merely because the medicine name is similar.
+Reconciliation includes what the patient already used, not just the
+next intended dose.
+
+142
+00:34:53,352 --> 00:35:40,896
+The literal range then opens parenteral administration. Intradermal
+targets the dermis, subcutaneous the tissue beneath it, intramuscular
+muscle and intravenous an existing venous route or access device. IV
+delivery avoids an absorption step; an IM or SC injection still needs
+absorption and is not guaranteed to act instantly. The source image
+sketches IM at 90 degrees, SC at 45, IV at 25 and ID at 10-15. These
+are schematic examples, not universal settings: patient tissue,
+needle, device, medicine and the specifically trained technique
+determine the actual approach. This opening range does not teach every
+later injection checklist.
+
+143
+00:35:40,896 --> 00:36:21,312
+Parenteral safety separates contamination, wrong-drug errors, sharps
+injury and discomfort. Prepare in a suitable clean area, protect
+sterile key parts, use equipment for its intended single-patient
+purpose and dispose of sharps safely. Changing a needle does not make
+a used syringe safe for another patient. The assigned table starts
+hand hygiene and gives an old pump-count/time example; use the actual
+hand-rub instructions, cover the hands and rub until dry instead of
+assuming every dispenser delivers the same amount. Gloves never
+replace hand hygiene before an aseptic task or after glove removal.
+
+144
+00:36:21,312 --> 00:37:05,280
+Original rehearsal: a deteriorating patient has a documented
+treatment, an open cream container with an unclear label and an IV
+already running. First address airway, breathing and perfusion, then
+establish what product and dose were actually used, inspect the line
+and clarify the unclear preparation before further administration.
+State which findings are observed, which are reported and which remain
+unknown. The assignment includes chapter references and the next
+chapter objectives; it does not require memorizing bibliography
+entries or inventing missing orders. Explain how the assessment,
+medicine checks and infusion chain protect this same patient.
+
+145
+00:37:05,280 --> 00:37:44,256
+The recovered March 2025 page-40 box says thirty minutes have elapsed,
+without the extra qualifications found in the June 2026 comparison.
+That later page distinguishes thirty without ROSC or defibrillation
+from forty if either occurred. Neither box is the complete current
+BCEHS decision pathway. Current R02 uses its own eligibility,
+consultation and rapid or minimum-duration branches. Keep the three
+sources distinct; a timer alone does not authorize stopping, and this
+comparison is not an instruction to wait before starting indicated
+care.
+
+146
+00:37:44,256 --> 00:38:27,912
+The 2025 pages 42-43 ask for oversight after twenty minutes of high-
+quality CPR, when a treatable cause is identified, or when arrest
+occurs during transport. Page 45 links a possible moving-CPR decision
+to history, examination and consultation. Current R02 instead requires
+an early CliniCall for an EMR or PCP leading without ACP support after
+CPR, analysis and indicated defibrillation have begun; this may be
+several cycles. A request for guidance is different from a decision to
+terminate. Do not wait for a textbook twenty-minute point if the
+actual current pathway requires earlier contact.
+
+147
+00:38:27,912 --> 00:39:13,920
+The recovered 2025 nitrate card ties one dose to the strength of the
+patient prescription, with a three-to-five-minute interval and
+pressure strictly above 110. Its notes require oversight when there is
+no prescription; the chest-pain page also requires consultation before
+more than three doses. The June 2026 comparison specifies 0.4
+milligrams sublingually. Current BCEHS likewise specifies 0.4
+milligrams, with its own pressure-at-least-110 and heart-rate screen
+and consultation requirements. Do not turn one source into an
+unlabelled dose for another, or let a restarted pain episode erase
+prior intake or contraindications.
+
+148
+00:39:13,920 --> 00:40:00,984
+Original source-selection exercise: a patient remains in arrest at
+thirty minutes, and a teammate points to the recovered single-line
+box. Explain what is missing before any discontinuation decision: the
+actual applicable pathway, rhythm and ROSC history, treatable causes,
+clinical circumstances and consultation or standing direction. Then
+repeat the exercise for nitrate treatment when the prescription
+strength or previous doses are unclear. In both cases, clarify the
+real source and patient information instead of choosing the most
+permissive sentence. The 2025 page also lacks the later pediatric-pad
+sentence; pediatric AED and LP15 restrictions remain a separately
+labelled comparison.
+
+149
+00:40:00,984 --> 00:40:12,888
+Close the lesson by talking through one full rhythm assessment from
+ongoing CPR to the next intervention. Name who performs each action
+and what evidence supports the decision.
+
+150
+00:40:12,888 --> 00:40:22,392
+Then change the rhythm to nonshockable after charging. Explain
+disarming and prompt CPR rather than delivering a shock just because
+the device is ready.
+
+151
+00:40:22,392 --> 00:40:33,168
+Next remove the advisory alarm while the patient becomes pulseless.
+Explain why no alarm does not prove circulation and how direct
+assessment changes the plan.
+
+152
+00:40:33,168 --> 00:40:46,632
+Finally distinguish school examples, manufacturer instructions,
+operational authority and current clinical pathways. That separation
+is part of competence, not an optional footnote after memorizing the
+technique.

@@ -1,0 +1,831 @@
+1
+00:00:00,000 --> 00:00:13,152
+A vital sign is useful when you know what it measures and how it was
+obtained. A displayed value with an unknown unit, poor signal or wrong
+cuff is not yet trustworthy clinical information.
+
+2
+00:00:13,152 --> 00:00:24,528
+Typical adult reference ranges help you notice a departure from
+expectation. They are not diagnoses, universal treatment targets or
+proof of safety when a value lies inside them.
+
+3
+00:00:24,528 --> 00:00:34,944
+Every measurement belongs to a time, method and context. Record
+whether oxygen was being given, whether the patient had moved and
+whether a treatment had just occurred.
+
+4
+00:00:34,944 --> 00:00:45,696
+Your assessment begins before the monitor is attached. Immediate
+threats are managed while reliable measurements are obtained, not
+after every device finishes cycling.
+
+5
+00:00:45,696 --> 00:00:58,872
+Brain function depends on oxygen, glucose and perfusion. New confusion
+can therefore be a neurological problem, but also a sign of a
+respiratory, circulatory or metabolic emergency.
+
+6
+00:00:58,872 --> 00:01:09,264
+Blood pressure is a pressure measurement, not a direct measurement of
+blood flow to every organ. Skin and mentation provide additional
+evidence about perfusion.
+
+7
+00:01:09,264 --> 00:01:23,088
+Saturation estimates oxygen loading of hemoglobin. Respiratory
+observation and capnography address different questions about
+ventilation and carbon dioxide; none can safely stand in for all the
+others.
+
+8
+00:01:23,088 --> 00:01:33,000
+An ECG describes electrical activity. A coherent tracing can coexist
+with no effective pulse, so always correlate the screen with the
+patient.
+
+9
+00:01:33,000 --> 00:01:45,000
+Record the value the instrument or your observation actually supports.
+Do not round every respiratory rate to twenty or write one hundred and
+twenty over eighty because the patient looks well.
+
+10
+00:01:45,000 --> 00:01:58,344
+A manual instrument has limited graduations. Use its actual resolution
+rather than adding a decimal place that was never measured. A digital
+value should retain the displayed precision appropriate to the device.
+
+11
+00:01:58,344 --> 00:02:10,776
+Include time, method, site and clinically relevant conditions. A
+saturation without oxygen device and flow, or a temperature without
+route, can be difficult to compare later.
+
+12
+00:02:10,776 --> 00:02:22,824
+If a value cannot be obtained, document why and continue assessment
+and care. Missing information is a problem to manage, not permission
+to manufacture a normal result.
+
+13
+00:02:22,824 --> 00:02:35,040
+Start by checking factors that interfere with a response. Observe eye
+opening and speech before adding a stimulus; use a clear spoken
+request before a trained pressure stimulus is considered.
+
+14
+00:02:35,040 --> 00:02:49,248
+Eye opening scores four spontaneously, three to sound, two to pressure
+and one when absent without a limiting factor. Swollen-shut eyes are
+not automatically evidence of the lowest neurological response.
+
+15
+00:02:49,248 --> 00:03:01,032
+Verbal response scores five for orientation, four for confused but
+coherent communication, three for intelligible words, two for sounds
+and one for none when assessable.
+
+16
+00:03:01,032 --> 00:03:14,928
+A language barrier, intubation or another limiting factor may make a
+component not testable. Record the component and reason instead of
+treating an inability to speak as a neurological score of one.
+
+17
+00:03:14,928 --> 00:03:27,264
+Motor response scores six for obeying commands and five for purposeful
+localization. Localization is not merely moving a limb away; it is a
+directed response toward the stimulus.
+
+18
+00:03:27,264 --> 00:03:39,288
+Normal flexion or withdrawal scores four. Abnormal stereotyped flexion
+scores three, extension two, and no response one when the response can
+genuinely be tested.
+
+19
+00:03:39,288 --> 00:03:49,824
+Use the highest observed response for the component, but also document
+a meaningful difference between sides. The best-side score must not
+conceal a focal deficit.
+
+20
+00:03:49,824 --> 00:04:19,176
+Use the check, observe, stimulate and rate sequence. The structured
+aid names fingertip pressure, trapezius pinch and supraorbital-notch
+pressure. Selection and interpretation require supervised training;
+avoid the injured area, pressure on the eyeball, sternal rubbing and
+repeated unnecessary stimulation. Finger pressure is peripheral, not a
+central stimulus. Do not practise painful stimuli on peers.
+
+21
+00:04:19,176 --> 00:04:31,968
+In this original example, eyes open to sound, conversation is confused
+and commands are obeyed. The components are E three, V four and M six,
+giving thirteen.
+
+22
+00:04:31,968 --> 00:04:45,048
+Six minutes later, eyes open only to pressure, verbal output is single
+words and the best motor response localizes. E two, V three and M five
+total ten.
+
+23
+00:04:45,048 --> 00:04:56,376
+The decline is clinically important. Reassess airway, ventilation,
+perfusion, glucose and the relevant cause rather than waiting for a
+total of eight before becoming concerned.
+
+24
+00:04:56,376 --> 00:05:09,240
+A low score describes responsiveness; it does not identify the
+diagnosis. Brain-injury severity bands apply in the appropriate trauma
+context, not to every patient with the same total.
+
+25
+00:05:09,240 --> 00:05:20,880
+Explain the assessment and choose a site appropriate to age and
+condition. Use finger pads over the artery and adjust gentle pressure
+until you can clearly feel pulsations.
+
+26
+00:05:20,880 --> 00:05:33,336
+Count with a clock, not by estimation. A regular pulse can be counted
+over an approved shorter interval and converted; irregularity needs a
+longer count, usually a full minute.
+
+27
+00:05:33,336 --> 00:05:45,576
+Describe rhythm and amplitude in addition to rate. If the monitor and
+palpable pulse disagree, check the patient, signal and possible pulse
+deficit rather than choosing the more reassuring number.
+
+28
+00:05:45,576 --> 00:05:56,280
+Do not let a prolonged routine pulse count delay arrest recognition.
+An unresponsive patient is assessed using the appropriate rapid
+breathing-and-circulation pathway.
+
+29
+00:05:56,280 --> 00:06:08,616
+Sixty to one hundred beats per minute is a common resting adult
+reference. Fever, pain, anxiety, hypovolemia, medication and rhythm
+disturbances can change the rate.
+
+30
+00:06:08,616 --> 00:06:21,912
+A slow rate may be normal for a particular person or may accompany
+serious disease. Determine whether the patient has poor perfusion,
+chest discomfort, altered mentation or other concerning findings.
+
+31
+00:06:21,912 --> 00:06:32,424
+A rapid pulse with normal blood pressure can be a compensatory warning
+rather than reassurance. Compare serial rate, skin, mentation and
+breathing.
+
+32
+00:06:32,424 --> 00:06:43,896
+A radial pulse is not a blood-pressure gauge and does not prove
+adequate cerebral perfusion. Never substitute the old pulse-location
+pressure rule for measurement and assessment.
+
+33
+00:06:43,896 --> 00:06:54,600
+Watch actual chest or abdominal movement. Count one complete
+respiratory cycle as one breath, with a timed observation long enough
+to represent the pattern.
+
+34
+00:06:54,600 --> 00:07:07,296
+For a regular adult pattern, thirty seconds may be appropriate;
+irregular breathing and infant periodic patterns require a full
+minute. Do not quietly assign eighteen to every patient.
+
+35
+00:07:07,296 --> 00:07:20,088
+Note depth and work of breathing, including accessory muscles,
+retractions, nasal flaring, paradoxical motion and speech limitation.
+A rate alone misses how effective each breath is.
+
+36
+00:07:20,088 --> 00:07:30,816
+Children often breathe faster and show abdominal movement more
+prominently. Adult reference limits must not be applied as if they
+were normal pediatric ranges.
+
+37
+00:07:30,816 --> 00:07:43,704
+Tachypnea describes a fast rate, commonly above twenty in adults;
+bradypnea describes a slow rate, commonly below twelve. Neither label
+alone tells you whether ventilation is adequate.
+
+38
+00:07:43,704 --> 00:07:56,496
+Kussmaul breathing is deep compensatory ventilation associated with
+metabolic acidosis, such as diabetic ketoacidosis. Do not
+automatically coach it slower as though it were anxiety.
+
+39
+00:07:56,496 --> 00:08:11,064
+A waxing-and-waning pattern with apnea is described as Cheyne-Stokes.
+Irregular grouped breaths and unpredictable apnea may be described as
+Biot-type or ataxic breathing; examine the patient rather than relying
+on a label.
+
+40
+00:08:11,064 --> 00:08:25,128
+Decreasing effort in an exhausted patient can be deterioration, not
+recovery. Assess air movement, mentation, saturation and carbon
+dioxide together, and support inadequate breathing promptly.
+
+41
+00:08:25,128 --> 00:08:38,016
+Explain the procedure. Select an appropriate limb, avoiding an injury
+or a known restriction, and support the relaxed arm at heart level.
+Choose a cuff whose marked size range fits the arm.
+
+42
+00:08:38,016 --> 00:08:50,016
+Estimate systolic pressure by palpation first, then allow the cuff to
+deflate before the listening measurement. This guides adequate
+inflation and helps avoid missing an auscultatory gap.
+
+43
+00:08:50,016 --> 00:09:04,896
+Place the stethoscope over the brachial artery without trapping it
+under the cuff. Inflate above the estimated systolic value according
+to the taught method, then deflate steadily, approximately two to
+three millimetres of mercury per second.
+
+44
+00:09:04,896 --> 00:09:19,872
+The first repeated Korotkoff sounds indicate systolic pressure;
+disappearance usually indicates adult diastolic pressure. If only a
+palpated systolic value is available, document that method rather than
+inventing a diastolic.
+
+45
+00:09:19,872 --> 00:09:31,128
+A cuff that is too small commonly overestimates pressure; an oversized
+cuff can underestimate it. Use the size markings, not the patient's
+apparent body type alone.
+
+46
+00:09:31,128 --> 00:09:41,064
+Arm position introduces a hydrostatic effect. A limb well below the
+heart can produce a higher reading, while a limb above it can produce
+a lower one.
+
+47
+00:09:41,064 --> 00:09:52,464
+Movement, shivering, noise, an irregular pulse and rapid cuff
+deflation can undermine a measurement. Note the limitation and repeat
+with a better method when feasible.
+
+48
+00:09:52,464 --> 00:10:04,536
+Do not dismiss a dangerous value as artifact without assessing the
+patient. A poor signal and genuine shock can coexist; troubleshoot
+while urgent support and escalation continue.
+
+49
+00:10:04,536 --> 00:10:16,656
+Systolic pressure is the peak during ventricular contraction;
+diastolic pressure is the lower pressure between beats. Both depend on
+several factors, not just how hard the heart squeezes.
+
+50
+00:10:16,656 --> 00:10:29,976
+A systolic pressure around one hundred and twenty with a diastolic
+around eighty is a familiar example, not every patient's required
+result. A single acute reading does not diagnose chronic hypertension.
+
+51
+00:10:29,976 --> 00:10:42,624
+A low pressure can suggest poor perfusion, but normal pressure cannot
+exclude it. Consider mental status, skin, pulse quality, symptoms,
+bleeding and direction of change.
+
+52
+00:10:42,624 --> 00:10:52,632
+NEWS2 assigns no systolic points between one hundred and eleven and
+two hundred and nineteen. That score band is not a definition of
+healthy blood pressure.
+
+53
+00:10:52,632 --> 00:11:04,152
+For a pressure of one hundred and two over sixty-six, pulse pressure
+is thirty-six millimetres of mercury. This is subtraction, not the
+arithmetic mean of the two numbers.
+
+54
+00:11:04,152 --> 00:11:20,472
+The common MAP approximation adds one third of pulse pressure to
+diastolic pressure. Here, sixty-six plus twelve gives seventy-eight
+millimetres of mercury. It is an approximation, especially limited at
+unusual heart rates or waveforms.
+
+55
+00:11:20,472 --> 00:11:35,352
+Shock index divides heart rate by systolic pressure. One hundred and
+twelve divided by one hundred and two is about one point one. A raised
+result can support concern but is modified by age, medication and
+context.
+
+56
+00:11:35,352 --> 00:11:45,672
+Neither an acceptable MAP estimate nor a shock-index threshold
+replaces clinical assessment. Do not turn either calculation into a
+universal fluid prescription.
+
+57
+00:11:45,672 --> 00:11:59,616
+Mean arterial pressure is the time-averaged pressure over a cardiac
+cycle. A common teaching approximation is diastolic pressure plus one
+third of pulse pressure, where pulse pressure is systolic minus
+diastolic.
+
+58
+00:11:59,616 --> 00:12:14,880
+For one hundred and six over sixty-six, pulse pressure is forty. The
+approximation is sixty-six plus one third of forty, or about seventy-
+nine millimetres of mercury. Keep the word approximate in the record
+or explanation.
+
+59
+00:12:14,880 --> 00:12:31,728
+Oscillometric devices estimate mean pressure from the cuff-oscillation
+signal and derive systolic and diastolic values with device-specific
+methods. Check the actual signal, rhythm, cuff and patient context
+rather than treating a displayed MAP as infallible.
+
+60
+00:12:31,728 --> 00:12:50,160
+The simple formula is less dependable when heart rate or waveform is
+unusual. Neither a calculated nor displayed MAP directly proves
+adequate flow to every tissue; interpret it with perfusion findings,
+symptoms and serial change, not as an automatic treatment order.
+
+61
+00:12:50,160 --> 00:13:10,824
+Shock Index is heart rate divided by systolic blood pressure. The
+source measurements have different units; they do not physically
+cancel. Clinical practice usually reports the index as a number, so
+retain the actual pulse in beats per minute and pressure in
+millimetres of mercury. Use credible measurements taken close
+together.
+
+62
+00:13:10,824 --> 00:13:23,880
+In an original example, ninety-two divided by one hundred and eighteen
+is about zero point seven eight. Later, one hundred and twenty-eight
+divided by one hundred and ten is about one point one six.
+
+63
+00:13:23,880 --> 00:13:46,752
+The school gives typical adult examples around zero point five to zero
+point seven, concern at zero point nine or higher, and higher concern
+above one. Our rising ratio supports reassessment: pulse rose while
+systolic pressure fell. These school reference values are not
+universal diagnostic cutoffs, proof of a cause or an automatic
+treatment order.
+
+64
+00:13:46,752 --> 00:14:05,976
+Pain, fever, pregnancy, age, medicines, rhythm, fitness and
+measurement error can affect the ratio. Compare it with skin,
+mentation, bleeding, history and response; do not wait for an
+unverified cutoff or convert one value into an automatic fluid
+prescription.
+
+65
+00:14:05,976 --> 00:14:18,120
+Use adequate light and compare with baseline where possible. Describe
+pallor, mottling and other changes rather than assuming that one skin
+sign is equally visible in every skin tone.
+
+66
+00:14:18,120 --> 00:14:31,656
+Feel temperature and moisture. Cool clammy skin can support concern
+about vasoconstriction and poor perfusion, while early distributive
+illness can present warm; no single pattern diagnoses the cause.
+
+67
+00:14:31,656 --> 00:14:46,464
+For capillary refill, apply the taught blanching technique, release
+and time colour return. Approximately two seconds is a common
+screening reference; document the site, time and conditions rather
+than only good.
+
+68
+00:14:46,464 --> 00:14:59,520
+Cold environment, local vascular disease and measurement technique
+affect refill. A reassuring refill does not rule out shock, and
+cyanosis may be absent despite serious hypoxia.
+
+69
+00:14:59,520 --> 00:15:12,216
+Check that the strip matches the meter, is usable and has been stored
+correctly. Follow local quality-control and manufacturer instructions;
+a working screen alone does not establish accuracy.
+
+70
+00:15:12,216 --> 00:15:26,208
+Explain the test, prepare a clean dry site and use a single-use lancet
+on the side of the fingertip. Sugar contamination, wet antiseptic,
+inadequate sample or excessive squeezing can distort the result.
+
+71
+00:15:26,208 --> 00:15:37,704
+Apply the sample exactly as the meter requires. The school describes
+discarding the first drop; the actual device procedure and site
+preparation determine the approved sampling method.
+
+72
+00:15:37,704 --> 00:15:49,776
+Read and document the unit, usually millimoles per litre here. Dispose
+of the lancet immediately in the sharps container, and repeat a
+questionable result using an appropriate reliable method.
+
+73
+00:15:49,776 --> 00:16:03,072
+Check glucose early with altered consciousness, seizure or unexplained
+neurological symptoms. Hypoglycemia may resemble intoxication or
+stroke, and can coexist with another emergency.
+
+74
+00:16:03,072 --> 00:16:19,416
+Current BCEHS E01 uses below four millimoles per litre for
+hypoglycemia. The school flashcard threshold of sixty milligrams per
+decilitre is not the same number; four millimoles per litre is
+approximately seventy-two milligrams per decilitre.
+
+75
+00:16:19,416 --> 00:16:33,552
+High glucose with thirst, frequent urination, dehydration or deep
+breathing suggests a metabolic problem needing assessment. Neither a
+fruity smell nor a glucose number alone establishes ketoacidosis.
+
+76
+00:16:33,552 --> 00:16:47,136
+After treatment, recheck mental status and glucose and look for
+recurrence. A corrected number with persistent focal weakness or
+confusion demands continued investigation, not automatic closure.
+
+77
+00:16:47,136 --> 00:16:59,856
+Apply an appropriate sensor to a suitable site and wait for a stable
+signal. Compare the displayed pulse with a palpated or otherwise
+verified rate and inspect the pleth waveform when available.
+
+78
+00:16:59,856 --> 00:17:11,688
+Motion, shivering, poor perfusion, cold, nail products and ambient
+light can interfere. Correct what you can or use another approved site
+rather than trusting a fluctuating display.
+
+79
+00:17:11,688 --> 00:17:22,848
+Skin pigmentation can affect performance and contribute to missed
+hypoxemia. Symptoms and other assessment findings still matter when a
+saturation seems reassuring.
+
+80
+00:17:22,848 --> 00:17:33,480
+Record whether the value was on room air or oxygen, including the
+delivery device and flow. Do not remove needed oxygen merely to obtain
+a baseline number.
+
+81
+00:17:33,480 --> 00:17:47,712
+A saturation near one hundred percent does not measure how much
+hemoglobin exists, how much blood reaches the tissue or whether
+ventilation is adequate. Severe anemia or poor perfusion can still
+compromise oxygen delivery.
+
+82
+00:17:47,712 --> 00:18:04,416
+The school commonly teaches ninety-four to ninety-eight percent, and
+eighty-eight to ninety-two for chronic respiratory contexts. Current
+BCEHS A07 has its own general and chronic-hypoxemia targets; those
+distinctions are taught in the monitoring lesson.
+
+83
+00:18:04,416 --> 00:18:20,760
+Oxygen-associated hypercapnia is not explained simply by switching off
+a hypoxic drive. Gas-distribution changes and hemoglobin carbon-
+dioxide carriage also matter. Never withhold needed oxygen or
+ventilation because of that slogan.
+
+84
+00:18:20,760 --> 00:18:32,280
+A conventional two-wavelength pulse oximeter cannot reliably exclude
+carbon-monoxide poisoning. Follow exposure-based assessment and care
+even when ordinary saturation is high.
+
+85
+00:18:32,280 --> 00:18:43,704
+End-tidal carbon dioxide is sampled near the end of expiration. Its
+value depends on production in tissues, transport by circulation and
+elimination by ventilation.
+
+86
+00:18:43,704 --> 00:18:57,528
+When circulation and sampling are adequate, reduced alveolar
+ventilation tends to increase carbon dioxide. Increased ventilation
+tends to lower it, but poor perfusion can also lower the exhaled
+value.
+
+87
+00:18:57,528 --> 00:19:11,256
+Thirty-five to forty-five millimetres of mercury is a common adult
+reference. The arterial-to-end-tidal gap can widen with disease, so do
+not convert an end-tidal number into an assumed arterial result.
+
+88
+00:19:11,256 --> 00:19:22,224
+Look at the waveform as well as the number and patient. A sampling
+leak, tiny breath or blocked line can change what the instrument
+reports without showing the true physiology.
+
+89
+00:19:22,224 --> 00:19:35,376
+A typical time capnogram starts near zero, rises as alveolar gas
+arrives, develops a plateau and returns toward zero with inspiration.
+Identify the end-tidal point near the end of the plateau.
+
+90
+00:19:35,376 --> 00:19:46,632
+A sloping shark-fin appearance suggests obstructed exhalation, but its
+height can vary. Shape alone neither proves asthma nor dictates a
+specific medication.
+
+91
+00:19:46,632 --> 00:20:01,440
+Sudden loss of the waveform requires an immediate patient and
+equipment check. Consider apnea, airway or circuit disconnection,
+displaced sampling and severe circulatory change rather than assuming
+just one cause.
+
+92
+00:20:01,440 --> 00:20:15,816
+During CPR a sustained abrupt rise can suggest improved circulation or
+ROSC, but confirm clinically at the appropriate check without needless
+interruption. A single low number does not alone determine
+termination.
+
+93
+00:20:15,816 --> 00:20:30,888
+The P wave represents atrial depolarization, the QRS ventricular
+depolarization and the T wave ventricular repolarization. Electrical
+activation is related to contraction but is not a direct measurement
+of cardiac output.
+
+94
+00:20:30,888 --> 00:20:42,096
+Prepare the skin, place electrodes correctly and check connections.
+Movement, poor contact and electrical interference can imitate a
+dangerous rhythm.
+
+95
+00:20:42,096 --> 00:20:51,768
+Rate and rhythm monitoring are not equivalent to a diagnostic twelve-
+lead assessment. A normal-looking single lead cannot rule out
+myocardial ischemia.
+
+96
+00:20:51,768 --> 00:21:06,360
+ST elevation is interpreted with the appropriate lead pattern,
+clinical presentation and possible mimics; not every raised segment
+proves infarction. Detailed acquisition and interpretation return in
+the school ECG weekend.
+
+97
+00:21:06,360 --> 00:21:19,152
+Ventricular fibrillation is chaotic ventricular electrical activity
+without effective output. Pulseless ventricular tachycardia is also a
+shockable arrest rhythm under the appropriate protocol.
+
+98
+00:21:19,152 --> 00:21:33,744
+Asystole is not a shockable rhythm. Verify the tracing and connections
+without delaying needed CPR. Organized electrical activity without a
+pulse is pulseless electrical activity, not reassurance.
+
+99
+00:21:33,744 --> 00:21:44,760
+A wide rapid rhythm with a pulse needs an instability assessment and
+appropriate clinical support; it is not automatically a command for an
+unsupervised student to cardiovert.
+
+100
+00:21:44,760 --> 00:21:57,120
+Possible ischemia requires the full assessment and current pathway.
+This introduction teaches recognition of danger; it does not replace
+the allocated resuscitation and ECG modules.
+
+101
+00:21:57,120 --> 00:22:07,752
+Explain the examination and compare both pupils under similar
+lighting. Record each size in millimetres and whether the shape is
+round and the sizes equal.
+
+102
+00:22:07,752 --> 00:22:19,080
+Observe constriction of the illuminated pupil and the consensual
+response in the other eye. Describe reactivity rather than reducing
+every examination to a normal abbreviation.
+
+103
+00:22:19,080 --> 00:22:33,096
+New unequal pupils with declining consciousness are concerning, but
+unequal size can also have pre-existing, ocular or medication causes.
+Pinpoint pupils do not by themselves diagnose opioid poisoning.
+
+104
+00:22:33,096 --> 00:22:42,504
+Record a useful baseline and repeat with change. Do not delay urgent
+airway or circulatory support to complete a detailed light
+examination.
+
+105
+00:22:42,504 --> 00:22:57,144
+A declining level of consciousness, new weakness or changing pupils
+needs urgent reassessment. Look for immediately correctable
+oxygenation, ventilation, perfusion or glucose problems while
+arranging appropriate support.
+
+106
+00:22:57,144 --> 00:23:11,664
+The Cushing pattern combines increased pressure or widened pulse
+pressure, slow pulse and irregular breathing in a concerning
+neurological context. It is a late warning, not a screening
+requirement before concern is justified.
+
+107
+00:23:11,664 --> 00:23:26,616
+A GCS of eight or less signals a high-risk patient, but does not by
+itself prove traumatic brain injury or select one airway device.
+Assess airway protection, air movement and available trained
+resources.
+
+108
+00:23:26,616 --> 00:23:38,688
+A patient with a higher score can still lose airway protection, and a
+normal score does not exclude serious pathology. Continue source-
+appropriate neurological and transport assessment.
+
+109
+00:23:38,688 --> 00:23:50,688
+Choose an approved method appropriate to the patient and device.
+Record route and conditions; oral, tympanic, axillary and true core
+measurements are not interchangeable.
+
+110
+00:23:50,688 --> 00:24:03,600
+Fever is commonly defined at thirty-eight degrees Celsius or above,
+while core temperature below thirty-five is hypothermia. Site, time
+and the person's baseline influence interpretation.
+
+111
+00:24:03,600 --> 00:24:16,968
+Heat stroke can include sweating; dry skin is not required. Older or
+immunocompromised patients can have serious infection without fever,
+so a normal temperature is not an exclusion test.
+
+112
+00:24:16,968 --> 00:24:30,408
+Do not infer death or resuscitation stopping from a temperature slogan
+or an arbitrary rewarming number. Environmental emergencies and
+resuscitation decisions require their specific current pathway.
+
+113
+00:24:30,408 --> 00:24:41,040
+Pain is subjective; the patient's report is clinically meaningful.
+Normal blood pressure, a calm face or a low pulse does not prove that
+pain is absent.
+
+114
+00:24:41,040 --> 00:25:04,272
+Use a zero-to-ten numeric scale when understood, or an appropriate
+verbal descriptor or faces self-report tool. The school names Wong-
+Baker FACES. The patient selects the face matching their pain
+experience; the clinician does not score it by matching the actual
+facial appearance. Choose an observational tool if reliable self-
+report is impossible.
+
+115
+00:25:04,272 --> 00:25:19,416
+For a person unable to self-report, use an age- and context-
+appropriate validated observational approach, such as the taught FLACC
+categories when appropriate: face, legs, activity, cry and
+consolability.
+
+116
+00:25:19,416 --> 00:25:34,104
+Record the scale, symptom characteristics and functional effect. After
+an intervention, reassess relief, function and potential adverse
+effects; a lower score with dangerous sedation is not simple success.
+
+117
+00:25:34,104 --> 00:25:46,896
+In this original case, the first pulse pressure is forty-eight and the
+next is thirty millimetres of mercury. Heart and respiratory rates
+rise while systolic pressure falls and symptoms worsen.
+
+118
+00:25:46,896 --> 00:25:58,440
+The pattern supports concern for worsening perfusion but does not
+identify a cause by itself. Check bleeding, illness, chest findings,
+relevant history and measurement quality.
+
+119
+00:25:58,440 --> 00:26:10,080
+Do not wait for pressure below ninety before changing urgency. Tell
+your partner what changed, reassess immediate threats and organize
+appropriate transport or clinical support.
+
+120
+00:26:10,080 --> 00:26:20,640
+Avoid an automatic fluid prescription from the pattern alone. The
+cause, treatment pathway, contraindications and response determine the
+authorized intervention.
+
+121
+00:26:20,640 --> 00:26:34,296
+In another original example, deep rapid breathing accompanies thirst,
+vomiting and high glucose. Low end-tidal carbon dioxide may reflect
+compensatory ventilation, not merely anxiety.
+
+122
+00:26:34,296 --> 00:26:50,208
+Assess hydration, perfusion, consciousness and possible infection. The
+combination raises concern for a diabetic metabolic emergency, but
+requires clinical evaluation rather than a diagnosis from smell or one
+device.
+
+123
+00:26:50,208 --> 00:27:03,888
+Do not suppress compensatory breathing by instructing the patient to
+slow down just to normalize a capnography number. If breathing becomes
+inadequate, trained support must account for the underlying
+physiology.
+
+124
+00:27:03,888 --> 00:27:14,136
+Document the measured glucose and unit, breathing pattern and serial
+findings. Continue urgent supportive care and the appropriate
+conveyance pathway.
+
+125
+00:27:14,136 --> 00:27:26,520
+A trend requires comparable observations at known times. Changing
+measurement site, route or oxygen therapy may change the value
+independently of disease; document those events.
+
+126
+00:27:26,520 --> 00:27:37,944
+Reassess after interventions and movement, and immediately with a new
+complaint or concern. A fifteen-minute routine interval is not a
+reason to ignore a sudden change.
+
+127
+00:27:37,944 --> 00:27:51,240
+Improvement must fit the clinical picture. A slower respiratory rate
+after treatment may be recovery, exhaustion or sedation; check depth,
+effort, mentation and carbon dioxide.
+
+128
+00:27:51,240 --> 00:28:03,816
+Communicate the direction and consequence of change. Saying the
+pressure fell after movement and the patient is now drowsy is more
+useful than giving two isolated values with no explanation.
+
+129
+00:28:03,816 --> 00:28:17,280
+In supervised practice, demonstrate pulse, respirations, manual
+pressure, pulse oximetry, glucose preparation and neurological
+observations. Verbalize why each method is appropriate.
+
+130
+00:28:17,280 --> 00:28:28,080
+A partner records the actual readings, not a predicted answer. If the
+instructor supplies a simulated value, label it as simulation rather
+than a real measurement.
+
+131
+00:28:28,080 --> 00:28:37,992
+Explain one likely source of error and how you would check it. Then
+integrate the results into a clinical concern rather than reading the
+numbers back without meaning.
+
+132
+00:28:37,992 --> 00:28:48,744
+Finish with a reassessment after a change and a concise handover.
+Identify which finding changed urgency and which tempting assumption
+you deliberately avoided.

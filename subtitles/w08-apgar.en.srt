@@ -1,0 +1,470 @@
+1
+00:00:00,000 --> 00:00:10,944
+This session teaches all five saved sections of the school APGAR
+module as topic-matched support for the explicit newborn practical. It
+is not an invented school allocation.
+
+2
+00:00:10,944 --> 00:00:20,616
+The skill is a consistent timed description and useful communication.
+The score is not a replacement for immediate assessment of breathing
+and heart rate.
+
+3
+00:00:20,616 --> 00:00:29,544
+We will learn the components before interpreting the total. Knowing
+what produced a number is more useful than reciting only eight out of
+ten.
+
+4
+00:00:29,544 --> 00:00:40,296
+The examples are original scoring exercises and not answers to the
+school quiz. Actual neonatal resuscitation decisions belong to the
+separate current algorithm session.
+
+5
+00:00:40,296 --> 00:00:51,600
+Virginia Apgar developed the system in the early nineteen-fifties and
+published it in nineteen fifty-three. The later acronym is a memory
+aid, not five separate diagnoses.
+
+6
+00:00:51,600 --> 00:00:59,112
+Its strength is a common vocabulary for describing a newborn at a
+specified time and reporting a change after support.
+
+7
+00:00:59,112 --> 00:01:10,944
+The five observations include color, heart rate, reflex response, tone
+and breathing effort. Some are subjective and all must be related to
+the real clinical context.
+
+8
+00:01:10,944 --> 00:01:24,072
+A historical origin does not mean every old treatment recommendation
+remains current. Scoring principles and an old resuscitation algorithm
+must not be treated as one inseparable document.
+
+9
+00:01:24,072 --> 00:01:36,072
+The school uses triage-tag imagery for the score ranges, but that can
+be misleading if interpreted literally. Treatment must not wait for
+the total or be selected solely from its color band.
+
+10
+00:01:36,072 --> 00:01:45,864
+A newborn who is apneic needs immediate appropriate care before the
+one-minute score is due. A total alone cannot decide whether
+compressions are indicated.
+
+11
+00:01:45,864 --> 00:01:55,704
+The same total can come from different component combinations and
+different support. State the observations and use the current newborn
+pathway for action.
+
+12
+00:01:55,704 --> 00:02:06,648
+A reassuring-looking total does not override poor breathing, a new
+clinical change or an unreliable measurement. Continue direct
+assessment and reassessment.
+
+13
+00:02:06,648 --> 00:02:18,024
+Record the complete-birth time and use it as the timing reference.
+Time of calling dispatch, head delivery or cord cutting is not
+automatically the baby's age clock.
+
+14
+00:02:18,024 --> 00:02:30,288
+Assign the one- and five-minute observations at the appropriate times
+while necessary care continues. Do not wait until stabilization and
+then label the later condition as the earlier score.
+
+15
+00:02:30,288 --> 00:02:41,568
+When a precise scheduled observation was missed, document the actual
+time and available information honestly. Do not invent a retrospective
+normal score to fill a form.
+
+16
+00:02:41,568 --> 00:02:50,088
+Use a team member for timing and documentation when resources permit.
+That allows the treatment provider to continue effective support.
+
+17
+00:02:50,088 --> 00:03:04,848
+The school introduction says seven or less, while its glossary says
+less than seven. The selected AAP statement and the textbook support
+less than seven at five minutes for repeated five-minute scoring up to
+twenty minutes.
+
+18
+00:03:04,848 --> 00:03:15,912
+A scheduled scoring interval is not permission to reassess the patient
+only every five minutes. Breathing and heart-rate decisions remain
+continuous and time-sensitive.
+
+19
+00:03:15,912 --> 00:03:24,888
+Reaching seven does not automatically end all clinical monitoring, and
+reaching twenty minutes does not independently direct cessation of
+treatment.
+
+20
+00:03:24,888 --> 00:03:37,008
+Do not use the old ten-minute-zero discussion as a field termination
+rule. Current resuscitation decisions need the actual guideline,
+consultation, clinical context and family communication.
+
+21
+00:03:37,008 --> 00:03:48,744
+Each component receives zero, one or two points, and the total ranges
+from zero to ten. Keep the component order consistent so nothing is
+omitted or counted twice.
+
+22
+00:03:48,744 --> 00:03:59,760
+Use observed findings at the time point. A treatment plan, a likely
+future improvement or the fact that someone is ventilating does not
+supply a spontaneous normal finding.
+
+23
+00:03:59,760 --> 00:04:08,640
+Separate observation from interpretation. Record the actual rate or
+response as well as the component score when useful for the handover.
+
+24
+00:04:08,640 --> 00:04:18,312
+If a component cannot be assessed reliably, use the applicable
+documentation process and disclose the limitation rather than guess a
+flattering total.
+
+25
+00:04:18,312 --> 00:04:29,616
+The conventional appearance chart gives zero for an entirely blue or
+pale appearance, one for central color with peripheral cyanosis and
+two for the chart's entirely pink description.
+
+26
+00:04:29,616 --> 00:04:41,520
+Do not interpret natural pigmentation as cyanosis or subtract points
+because a baby does not literally have pale pink skin. Assess
+appropriate central sites and document uncertainty.
+
+27
+00:04:41,520 --> 00:04:54,024
+Acrocyanosis affects hands and feet and can occur during transition;
+persistent central cyanosis or pallor has a different meaning. Neither
+should be interpreted from skin color alone in poor lighting.
+
+28
+00:04:54,024 --> 00:05:04,968
+Use reliable oxygenation and the clinical assessment for treatment
+decisions. Do not invent a race-based numerical correction or let the
+appearance score replace monitoring.
+
+29
+00:05:04,968 --> 00:05:14,424
+The school's detailed criterion gives zero when no heartbeat is
+detected, one for a present rate below one hundred, and two for one
+hundred or more.
+
+30
+00:05:14,424 --> 00:05:23,808
+That avoids the old textbook table's unassigned exactly-one-hundred
+boundary. It does not mean a pulse of one hundred alone proves a
+healthy transition.
+
+31
+00:05:23,808 --> 00:05:33,696
+Use a reliable method and communicate the measured rate. Do not spend
+a full minute delaying necessary support solely to resolve an urgent
+rate estimate.
+
+32
+00:05:33,696 --> 00:05:43,752
+Apgar pulse points are not compression thresholds. The current newborn
+algorithm includes effectiveness and duration of ventilation before
+its compression decision.
+
+33
+00:05:43,752 --> 00:05:54,264
+Assess reflex irritability through an appropriate gentle stimulus such
+as necessary drying or rubbing the back. Observe what the baby
+actually does.
+
+34
+00:05:54,264 --> 00:06:04,056
+No response scores zero, a grimace or weak response one, and a
+vigorous response such as a strong cry, cough or sneeze two under the
+school chart.
+
+35
+00:06:04,056 --> 00:06:16,152
+Do not perform unnecessary deep suction, slap, shake or repeatedly
+flick the baby to elicit a higher score. The assessment must not
+create injury or delay ventilation.
+
+36
+00:06:16,152 --> 00:06:26,544
+Describe the stimulus and response when useful. A reflex score alone
+does not diagnose neurological damage or explain why the response is
+reduced.
+
+37
+00:06:26,544 --> 00:06:36,048
+Observe posture and spontaneous movement. Limpness, some flexion and
+active movement with good flexion represent different component
+findings.
+
+38
+00:06:36,048 --> 00:06:45,696
+Assign zero for limpness, one for some flexion or limited activity and
+two for active movement and good flexion according to the school
+criteria.
+
+39
+00:06:45,696 --> 00:06:58,344
+Prematurity, medication exposure, illness and injury can affect tone.
+Do not equate a low tone point with a single diagnosis or ignore it
+simply because the infant is preterm.
+
+40
+00:06:58,344 --> 00:07:07,872
+Note asymmetry or a new change as a separate clinical finding. Do not
+force painful limb extension merely to prove resistance for the score.
+
+41
+00:07:07,872 --> 00:07:21,744
+Observe spontaneous breathing effort and listen for the cry. Zero
+indicates absent breathing, one slow or irregular effort or weak cry,
+and two good effort with a strong cry in the school description.
+
+42
+00:07:21,744 --> 00:07:30,816
+A chest rise produced by positive-pressure ventilation is not
+automatically evidence of spontaneous respiration worth two points.
+
+43
+00:07:30,816 --> 00:07:42,312
+Do not interrupt necessary effective ventilation merely to obtain an
+unassisted score. Use concurrent observations and the applicable
+assisted-documentation process.
+
+44
+00:07:42,312 --> 00:07:53,280
+Regardless of the points, inadequate breathing needs the current
+newborn pathway now. Do not wait for the total or keep stimulating a
+baby whose ventilation is failing.
+
+45
+00:07:53,280 --> 00:08:01,896
+The school section telling you to stop ventilation to assess breathing
+should not be treated as a routine instruction to interrupt life-
+saving support.
+
+46
+00:08:01,896 --> 00:08:10,176
+Document the support actually occurring at the time point along with
+observations and component scores, using the approved reporting
+format.
+
+47
+00:08:10,176 --> 00:08:22,032
+A score obtained during assisted breathing is not equivalent to one in
+a spontaneously breathing infant. Do not silently compare totals as
+though the circumstances were identical.
+
+48
+00:08:22,032 --> 00:08:32,568
+If information is unavailable, disclose it and record what is known.
+Do not manufacture a complete perfect score or interrupt necessary
+support to remove uncertainty.
+
+49
+00:08:32,568 --> 00:08:42,120
+Use a consistent order and a clear time reference. Two people
+assessing different moments may be describing real change rather than
+one being wrong.
+
+50
+00:08:42,120 --> 00:08:54,192
+When scores differ, compare specific component observations and the
+support underway. A statement such as the total looks too low is not a
+reason to alter documented findings.
+
+51
+00:08:54,192 --> 00:09:04,848
+Acknowledge subjective elements and improve light, technique or
+information when feasible. Do not use confidence or seniority as a
+substitute for evidence.
+
+52
+00:09:04,848 --> 00:09:15,144
+Continue effective care while discrepancies are clarified. The purpose
+is reliable communication, not winning a scoring argument during
+resuscitation.
+
+53
+00:09:15,144 --> 00:09:26,352
+The school describes seven to ten, four to six and zero to three. The
+selected professional statement places these descriptors in the five-
+minute term and late-preterm context.
+
+54
+00:09:26,352 --> 00:09:39,312
+These ranges summarize condition but do not select a universal package
+of suction, oxygen or compressions. The underlying observations and
+current algorithm determine what is needed.
+
+55
+00:09:39,312 --> 00:09:50,352
+A high total does not prove every component is normal, and a low total
+does not prove asphyxia. State the time, components, support and
+clinical concern.
+
+56
+00:09:50,352 --> 00:09:59,088
+Do not guarantee improvement by five minutes or cease observation
+because a target score was reached. Reassess the actual trajectory.
+
+57
+00:09:59,088 --> 00:10:08,808
+A preterm infant may score differently because of immaturity. That
+does not prove asphyxia or mean that current inadequate breathing
+needs no treatment.
+
+58
+00:10:08,808 --> 00:10:19,728
+Maternal medicines and several illnesses can alter tone,
+responsiveness or breathing. The score records the condition but
+cannot identify the cause alone.
+
+59
+00:10:19,728 --> 00:10:29,400
+Observer differences, lighting and treatment can change apparent
+findings. Interpret a trend with the circumstances, not only the
+arithmetic.
+
+60
+00:10:29,400 --> 00:10:41,472
+Avoid racial or clinical bias by assessing and documenting actual
+components. No appearance adjustment should substitute for an
+appropriate objective oxygenation and clinical assessment.
+
+61
+00:10:41,472 --> 00:10:51,552
+Lower scores can be associated with worse outcomes across populations.
+An association does not let you predict the future neurological
+function of one infant.
+
+62
+00:10:51,552 --> 00:11:03,960
+A low score is nonspecific and cannot independently establish birth
+asphyxia. More clinical and laboratory information is needed to assess
+impaired gas exchange and its cause.
+
+63
+00:11:03,960 --> 00:11:14,160
+Do not tell families that a low score guarantees disability or a
+higher score guarantees no injury. Explain what is being observed and
+what support is underway.
+
+64
+00:11:14,160 --> 00:11:24,864
+Use current consultation and team decision processes for serious
+resuscitation questions. The number must not become a standalone
+decision to withhold or stop care.
+
+65
+00:11:24,864 --> 00:11:37,416
+This original scoring example has central color with blue hands and
+feet, heart rate ninety, a weak grimace, some limb flexion and weak
+irregular spontaneous breathing at one minute.
+
+66
+00:11:37,416 --> 00:11:46,008
+Each observation earns one point in the school chart, so the total is
+five. State all components rather than only the total.
+
+67
+00:11:46,008 --> 00:11:56,664
+Necessary support is already underway according to the newborn
+pathway. We did not wait to calculate five before responding to the
+breathing and heart-rate findings.
+
+68
+00:11:56,664 --> 00:12:07,728
+Record the time and concurrent support, and continue reassessment.
+This one-minute total does not determine a prognosis or automatically
+select chest compressions.
+
+69
+00:12:07,728 --> 00:12:20,424
+Now assume a measured rate of one hundred thirty-six, vigorous
+response, active flexion and a strong spontaneous cry at five minutes,
+with blue hands and feet still present.
+
+70
+00:12:20,424 --> 00:12:29,352
+The score is one plus two plus two plus two plus two, totaling nine.
+Do not increase appearance to two merely to produce ten.
+
+71
+00:12:29,352 --> 00:12:41,064
+Report how support and observations changed between time points. If
+support remains, document it; an improving total does not erase the
+care required to obtain that condition.
+
+72
+00:12:41,064 --> 00:12:51,288
+Continue appropriate newborn monitoring and warmth. A total of nine is
+not an independent discharge, transport-refusal or long-term-outcome
+clearance.
+
+73
+00:12:51,288 --> 00:13:02,496
+Start with complete-birth time, estimated gestation and the infant's
+current age. State when each score was assigned and whether timing was
+exact or estimated.
+
+74
+00:13:02,496 --> 00:13:13,512
+Give the total with relevant component details and measured heart
+rate. Explain limitations such as uncertain color or unavailable
+spontaneous observations during support.
+
+75
+00:13:13,512 --> 00:13:25,584
+Report ventilation, oxygen, airway support, compressions or medicines
+actually given, with time and response. Do not imply unsupported
+recovery when the infant remains assisted.
+
+76
+00:13:25,584 --> 00:13:33,768
+Finish with the current clinical concern and transfer needs. The score
+supports the story; it is not the entire handover.
+
+77
+00:13:33,768 --> 00:13:42,264
+You should now describe each component and calculate an original
+example without changing observations to fit a desired total.
+
+78
+00:13:42,264 --> 00:13:52,848
+Use the actual birth clock and document time-specific support. Resolve
+the school less-than-seven inconsistency without turning a scoring
+interval into a treatment delay.
+
+79
+00:13:52,848 --> 00:14:02,952
+Never stop necessary ventilation merely to obtain a pure score.
+Current breathing and heart-rate findings guide care independently of
+the arithmetic.
+
+80
+00:14:02,952 --> 00:14:13,104
+Keep the limits visible when communicating with clinicians and
+families. Accurate modest interpretation is more useful than a
+confident unsupported prediction.

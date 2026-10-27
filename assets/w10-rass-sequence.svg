@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1160" viewBox="0 0 720 1160">
+  <title>RASS: three conditional scoring steps</title>
+  <desc>Original educational diagram. Observe first, then assess voice response only if not alert. An appropriate trained physical step follows absent voice response, not every negative score. Primary clinical assessment continues throughout.</desc>
+  <rect width="720" height="1160" fill="#eef4f8"/>
+  <g font-family="Arial,sans-serif" fill="#142c40">
+    <text x="28" y="55" font-size="34" font-weight="700">RASS: stop when an anchor is found</text>
+    <text x="28" y="96" font-size="25">Safety and clinical assessment continue.</text>
+    <rect x="26" y="135" width="668" height="240" rx="18" fill="white" stroke="#7894a9"/>
+    <text x="50" y="184" font-size="31" font-weight="700">1. OBSERVE</text>
+    <text x="50" y="234" font-size="28">Alert/calm or a positive agitation anchor?</text>
+    <text x="50" y="281" font-size="28">Assign 0 to +4 when established.</text>
+    <text x="50" y="329" font-size="28" fill="#125f47">No extra stimulus just to finish steps.</text>
+    <path d="M360 380V435m-12-14 12 14 12-14" stroke="#365d78" stroke-width="5" fill="none"/>
+    <text x="28" y="412" font-size="24">If not alert</text>
+    <rect x="26" y="455" width="668" height="250" rx="18" fill="white" stroke="#7894a9"/>
+    <text x="50" y="506" font-size="31" font-weight="700">2. VOICE</text>
+    <text x="50" y="555" font-size="28">Eye contact: sustained (-1), brief (-2).</text>
+    <text x="50" y="603" font-size="28">Movement/opening, no contact: -3.</text>
+    <text x="50" y="653" font-size="26" fill="#125f47">Use the adopted timing/version.</text>
+    <path d="M360 710V765m-12-14 12 14 12-14" stroke="#365d78" stroke-width="5" fill="none"/>
+    <text x="28" y="746" font-size="24">Only if no voice response</text>
+    <rect x="26" y="785" width="668" height="250" rx="18" fill="white" stroke="#7894a9"/>
+    <text x="50" y="836" font-size="31" font-weight="700">3. APPROPRIATE PHYSICAL STEP</text>
+    <text x="50" y="884" font-size="28">Response: -4. No response: -5.</text>
+    <text x="50" y="933" font-size="28">Follow training and clinical context.</text>
+    <text x="50" y="984" font-size="26" fill="#8a3c20">Not tested is not a negative result.</text>
+    <text x="28" y="1084" font-size="24">Original layout, not an official scale or protocol.</text>
+    <text x="28" y="1124" font-size="24">Record prompt + response + time + limits.</text>
+  </g>
+</svg>

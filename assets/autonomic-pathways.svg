@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="400" viewBox="0 0 960 400" role="img" aria-labelledby="t d">
+  <title id="t">Autonomic two-neuron signalling pathways</title>
+  <desc id="d">Both divisions release acetylcholine onto nicotinic receptors in ganglia. Most sympathetic targets receive norepinephrine at alpha or beta receptors. Parasympathetic targets receive acetylcholine at muscarinic receptors. Sweat glands are a sympathetic cholinergic exception.</desc>
+  <defs><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="none" stroke="#57d4cc" stroke-width="1.5"/></marker></defs>
+  <rect width="960" height="400" rx="20" fill="#0d2032"/>
+  <g font-family="Arial,sans-serif" fill="#eef6ff" text-anchor="middle">
+    <text x="480" y="35" font-size="23">Follow the transmitter AND the target receptor</text>
+    <g fill="#173a50" stroke="#57d4cc" stroke-width="2"><rect x="25" y="81" width="184" height="76" rx="12"/><rect x="297" y="81" width="229" height="76" rx="12"/><rect x="669" y="81" width="265" height="76" rx="12"/><rect x="25" y="211" width="184" height="76" rx="12"/><rect x="297" y="211" width="229" height="76" rx="12"/><rect x="669" y="211" width="265" height="76" rx="12"/></g>
+    <g font-size="20"><text x="117" y="112">Sympathetic</text><text x="117" y="138" font-size="16">CNS outflow</text><text x="411" y="111">Ganglion</text><text x="411" y="138" font-size="17">Nicotinic receptor</text><text x="801" y="111">Most target organs</text><text x="801" y="138" font-size="17">Alpha / beta receptors</text><text x="117" y="242">Parasympathetic</text><text x="117" y="268" font-size="16">CNS outflow</text><text x="411" y="241">Ganglion</text><text x="411" y="268" font-size="17">Nicotinic receptor</text><text x="801" y="241">Target organs</text><text x="801" y="268" font-size="17">Muscarinic receptors</text></g>
+    <g fill="#ffcb78" font-size="18"><text x="251" y="96">ACh</text><text x="594" y="96">NE</text><text x="251" y="226">ACh</text><text x="594" y="226">ACh</text></g>
+    <text x="480" y="332" font-size="18">Exception: sympathetic eccrine sweat glands use ACh / muscarinic targets</text>
+    <text x="480" y="366" font-size="15" fill="#c9dce9">Original signal map, not anatomical distance; adrenal medulla is a separate endocrine branch</text>
+  </g>
+  <g stroke="#57d4cc" stroke-width="3" marker-end="url(#a)"><path d="M212 121H282"/><path d="M529 121H654"/><path d="M212 251H282"/><path d="M529 251H654"/></g>
+</svg>

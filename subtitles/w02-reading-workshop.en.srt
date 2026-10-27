@@ -1,0 +1,606 @@
+1
+00:00:00,000 --> 00:00:16,536
+This workshop connects five school reading rows to the same Week Two
+patients. The detailed paired English and Chinese reading below
+expands the chapter domains and every saved assigned BCPEG page,
+rather than asking you to infer the lesson from a few headings.
+
+2
+00:00:16,536 --> 00:00:30,240
+Chemistry explains concentrations and acid-base changes; autonomic
+physiology explains receptor effects; pressure physiology and vital-
+sign integration explain why the response must be checked in the
+patient.
+
+3
+00:00:30,240 --> 00:00:42,576
+Use the reading index to open the book-specific bilingual guide after
+the lecture. It includes definitions, mechanisms, clinical links,
+source corrections and original retrieval tasks.
+
+4
+00:00:42,576 --> 00:00:59,040
+The remaining school book rows, exact school exports and some
+interactive content are still separate work, not declared complete by
+this workshop. Source boundaries are visible so that the presence of a
+reading button cannot be mistaken for full-week completion.
+
+5
+00:00:59,040 --> 00:01:10,296
+Moodle Week Two links five supplemental articles. Their original
+English-Chinese guides are in the reading index; these slides do not
+reproduce the articles or their cases.
+
+6
+00:01:10,296 --> 00:01:22,968
+The overdose article teaches a respiratory emergency, but it dates
+from 2013. Support ventilation first; use the current BCEHS pathway
+for medication and follow-up decisions.
+
+7
+00:01:22,968 --> 00:01:35,520
+The pain and nitrous articles prompt patient-centred assessment, self-
+administration limits, non-drug relief and reassessment. They are not
+local product instructions or permission to administer.
+
+8
+00:01:35,520 --> 00:01:49,896
+Bariatric airway and cough cases remind you to plan for reduced
+reserve, positioning, ventilation, transport and competing causes. Do
+not diagnose from one sign or import old dosing formulas.
+
+9
+00:01:49,896 --> 00:02:02,736
+For any real intervention, use the current service guideline, exact
+device instructions, licence level and training. Historical links are
+discussion material, not a substitute for those controls.
+
+10
+00:02:02,736 --> 00:02:15,432
+An amount tells how much substance is present. A concentration tells
+how much of it is present in a specified amount of mixture or
+solution. Neither number is useful until its units are named.
+
+11
+00:02:15,432 --> 00:02:29,064
+For a fictional two milligrams in a final ten millilitres, the
+concentration is zero point two milligrams per millilitre. Ten
+millilitres is the final solution, not automatically the amount of
+diluent added.
+
+12
+00:02:29,064 --> 00:02:41,016
+An amount of one milligram would therefore require five millilitres.
+The result still needs route, maximum, rate, patient and device checks
+before any real administration.
+
+13
+00:02:41,016 --> 00:02:55,536
+Chemistry also uses moles per litre, while Canadian glucose records
+commonly use millimoles per litre. Do not turn a glucose concentration
+into a drug volume by cancelling unlike substances or unrelated units.
+
+14
+00:02:55,536 --> 00:03:06,672
+An element is identified by its number of protons. Change the neutron
+number and you have an isotope; change the electron balance and you
+have an ion, not a new element.
+
+15
+00:03:06,672 --> 00:03:20,928
+Sodium and potassium ions help create electrical gradients across cell
+membranes. An ECG records the combined electrical activity of heart
+tissue; it is not a direct measurement of the blood potassium
+concentration.
+
+16
+00:03:20,928 --> 00:03:31,584
+Ionic charge is not a dose, and a radioisotope half-life is not a drug
+elimination half-life. Similar-looking terms can describe different
+physical processes.
+
+17
+00:03:31,584 --> 00:03:42,624
+For the exam, be able to distinguish those terms before applying them.
+A correct definition becomes useful when you can say what it does and
+does not tell you about the patient.
+
+18
+00:03:42,624 --> 00:03:55,104
+Sodium chloride separates into ions in water, while a glucose molecule
+can dissolve without separating into sodium-like ions. Dissolving and
+ionic dissociation are not the same statement.
+
+19
+00:03:55,104 --> 00:04:09,048
+Polar water interacts well with many charged or polar groups. Nonpolar
+regions behave differently, helping explain the organization of
+phospholipid membranes and why formulation matters to drug delivery.
+
+20
+00:04:09,048 --> 00:04:21,768
+Proteins have specific three-dimensional shapes and chemical binding
+environments. A drug does not produce an effect merely by existing
+somewhere in the body; it needs the appropriate target interaction.
+
+21
+00:04:21,768 --> 00:04:37,368
+The detailed reading names all four organic groups and the relevant
+structural vocabulary. Connect the molecular definition to a membrane,
+enzyme, receptor or energy process instead of memorizing a
+disconnected spelling list.
+
+22
+00:04:37,368 --> 00:04:52,512
+A chemical reaction changes which atoms are joined and how the
+products are arranged. Breaking bonds requires energy, while forming
+bonds releases energy; the net reaction decides whether useful energy
+is released.
+
+23
+00:04:52,512 --> 00:05:05,592
+Enzymes lower activation energy and improve reaction rate under
+suitable conditions. They do not create energy or erase the difference
+between an energetically favourable and unfavourable reaction.
+
+24
+00:05:05,592 --> 00:05:19,008
+ATP hydrolysis can be coupled to membrane pumps, muscle contraction
+and synthesis. Think of the full reaction and the coupled work, not a
+magical energy packet released by any bond breaking.
+
+25
+00:05:19,008 --> 00:05:32,664
+This explains why oxygen delivery and substrate availability matter
+but are not sufficient by themselves. The cells also need functioning
+enzymes, membranes and circulation to sustain useful metabolism.
+
+26
+00:05:32,664 --> 00:05:45,360
+Carbon dioxide is linked to water, carbonic acid, hydrogen ions and
+bicarbonate through a reversible system. Removing carbon dioxide is
+therefore part of maintaining acid-base balance.
+
+27
+00:05:45,360 --> 00:06:00,576
+At otherwise comparable conditions, inadequate alveolar ventilation
+retains carbon dioxide and tends toward respiratory acidosis. A normal
+oxygen saturation on supplemental oxygen does not cancel that problem.
+
+28
+00:06:00,576 --> 00:06:11,328
+Rapid breathing can instead be compensation for a metabolic acid load.
+Labeling it anxiety and suppressing it without assessing the cause can
+remove a useful compensation.
+
+29
+00:06:11,328 --> 00:06:26,256
+The end-tidal value is influenced by ventilation, perfusion, dead
+space and sampling. Use it with the patient and the complete
+situation; do not announce a full acid-base diagnosis from one
+displayed value.
+
+30
+00:06:26,256 --> 00:06:39,504
+Glucose and glycogen are not interchangeable names: one is a
+monosaccharide and the other a storage polymer. The available fuel and
+its location matter when interpreting a glucose emergency.
+
+31
+00:06:39,504 --> 00:06:51,216
+Lipids include energy-rich triglycerides and amphipathic phospholipids
+that form membranes. Steroid precursors and signalling lipids have
+roles beyond storing calories.
+
+32
+00:06:51,216 --> 00:07:05,304
+Protein shape supports a specific function: an antibody, an enzyme and
+a receptor do not perform the same task merely because they are all
+proteins. Binding and denaturation depend on that structure.
+
+33
+00:07:05,304 --> 00:07:21,456
+DNA and RNA are polymers made from nucleotides, whereas ATP is a
+nucleotide used in energy coupling. Read the detailed section for
+their components, then explain how a receptor protein and ATP-
+dependent pump connect these categories.
+
+34
+00:07:21,456 --> 00:07:34,056
+Autonomic motor pathways generally use a neuron from the central
+nervous system to a ganglion, then a neuron from that ganglion to the
+organ. Name both the transmitter and the receptor at each connection.
+
+35
+00:07:34,056 --> 00:07:48,888
+Both divisions use acetylcholine at nicotinic ganglion receptors.
+Parasympathetic organ targets generally use muscarinic receptors,
+while most sympathetic organ targets receive norepinephrine at
+adrenergic receptors.
+
+36
+00:07:48,888 --> 00:08:00,336
+Eccrine sweat glands are an important sympathetic cholinergic
+exception. This is why acetylcholine cannot simply be translated as
+parasympathetic in every sentence.
+
+37
+00:08:00,336 --> 00:08:14,400
+The adrenal medulla is a related endocrine branch that releases
+catecholamines into blood. The diagram is a signal map, not a promise
+that every autonomic action uses an identical anatomical distance or
+circuit.
+
+38
+00:08:14,400 --> 00:08:25,032
+The same broad chemical family can increase cardiac activity,
+constrict some vessels and relax bronchial smooth muscle because the
+target receptors and their signalling differ.
+
+39
+00:08:25,032 --> 00:08:36,744
+Use alpha one for the key vascular constrictor association, beta one
+for important cardiac rate and force effects, and beta two for the
+bronchodilator association relevant this week.
+
+40
+00:08:36,744 --> 00:08:47,856
+Muscarinic effects also depend on the tissue and subtype. Reducing a
+vagal effect on a node is not the same action as directly stimulating
+every adrenergic receptor in the body.
+
+41
+00:08:47,856 --> 00:09:00,408
+Receptor selectivity is not absolute isolation. A selected
+bronchodilator can still cause tremor or tachycardia, so the expected
+benefit and relevant harms must both be reassessed.
+
+42
+00:09:00,408 --> 00:09:15,240
+After salbutamol, look for easier airflow, less work and improved
+speech, while checking adverse cardiac effects and the actual inhaled
+delivery. Do not measure success only by whether the inhaler was
+emptied.
+
+43
+00:09:15,240 --> 00:09:27,096
+Ipratropium reduces bronchial muscarinic effects and is paired with
+salbutamol under the indicated severe-bronchospasm plan. Their
+mechanisms differ even when they are administered together.
+
+44
+00:09:27,096 --> 00:09:38,280
+Epinephrine acts at several alpha and beta targets. That does not make
+every route or advanced-care dose appropriate for a PCP anaphylaxis or
+bronchospasm scenario.
+
+45
+00:09:38,280 --> 00:09:51,600
+Naloxone belongs on a different receptor map: it antagonizes opioid
+effects. Its relevant endpoint is adequate ventilation, and it must
+not distract the crew from opening and supporting the airway.
+
+46
+00:09:51,600 --> 00:10:03,480
+A reflex has an input, integration and output, not merely a symptom.
+Arterial stretch signals help brainstem circuits adjust autonomic
+output to the heart and vessels.
+
+47
+00:10:03,480 --> 00:10:17,232
+When pressure or effective circulating volume falls, increased
+sympathetic effects may help maintain perfusion. A beta blocker,
+autonomic disease or severe deterioration can alter the expected pulse
+response.
+
+48
+00:10:17,232 --> 00:10:29,088
+Most systemic vessels do not have equal opposing parasympathetic
+control. A lower sympathetic constrictor drive can produce dilation
+without inventing a new parasympathetic impulse.
+
+49
+00:10:29,088 --> 00:10:45,120
+Long reflexes involve the central nervous system; short enteric
+reflexes can integrate locally. These distinctions help you understand
+regulation, but a theoretical reflex diagram does not replace actual
+blood pressure and perfusion checks.
+
+50
+00:10:45,120 --> 00:10:57,408
+Light input reaches a pretectal relay and bilateral parasympathetic
+output through the Edinger-Westphal system. That bilateral connection
+helps explain direct and consensual constriction.
+
+51
+00:10:57,408 --> 00:11:07,488
+The efferent constrictor pathway travels with cranial nerve three
+through the ciliary ganglion to the iris sphincter. Dilation uses a
+different sympathetic pathway.
+
+52
+00:11:07,488 --> 00:11:18,552
+The candidate chapter simplifies this into a hypothalamic relay. The
+bilingual guide corrects that pathway without pretending that one
+pupil sign can locate every lesion.
+
+53
+00:11:18,552 --> 00:11:32,952
+Check pupil size, symmetry and reaction with the light conditions, eye
+history, medication and the rest of the examination. Pinpoint pupils
+support an opioid hypothesis but do not replace a respiratory
+assessment.
+
+54
+00:11:32,952 --> 00:11:46,560
+Pressure reflects an interaction between output and resistance, while
+useful tissue delivery also depends on circulation and oxygen content.
+A high cuff value alone cannot prove adequate forward flow.
+
+55
+00:11:46,560 --> 00:12:01,704
+Primary hypertension is multifactorial. Secondary hypertension has an
+underlying cause such as renal, endocrine, vascular or medication
+disease; neither a young age nor one urine result decides the
+distinction.
+
+56
+00:12:01,704 --> 00:12:15,720
+Sustained high afterload can increase ventricular work and oxygen
+demand, impair filling or ejection and contribute to heart failure.
+Vascular injury can affect brain, kidneys, eyes and the aorta.
+
+57
+00:12:15,720 --> 00:12:28,152
+Use that mechanism to understand the history and complications, not to
+prescribe rapid pressure reduction from a textbook graph. The next
+question is whether there is an acute dangerous syndrome now.
+
+58
+00:12:28,152 --> 00:12:40,776
+Severe pressure with acute target-organ injury or an important acute
+syndrome differs from an isolated asymptomatic reading. Both require
+an appropriate plan, but not the same immediate treatment.
+
+59
+00:12:40,776 --> 00:12:54,384
+Assess new neurologic findings, chest pain, severe dyspnea, awareness
+and other relevant concerns. A high pressure can be part of the
+problem, a response to it or a coincidental chronic condition.
+
+60
+00:12:54,384 --> 00:13:06,792
+Verify measurement when safe and communicate the baseline, symptoms,
+medicines and trend. Do not delay airway support while repeatedly
+measuring a pressure that is already clinically concerning.
+
+61
+00:13:06,792 --> 00:13:20,424
+Do not give extra home antihypertensives or try to make every number
+normal rapidly. Chronic primary-care targets, acute stroke and
+pregnancy emergencies follow different clinical pathways and
+authority.
+
+62
+00:13:20,424 --> 00:13:35,304
+The school focus names naloxone, salbutamol and epinephrine, but pages
+sixty-six through seventy-seven include more. The bilingual reading
+includes every named product in that actual page span, not only the
+focus keywords.
+
+63
+00:13:35,304 --> 00:13:49,368
+Use the same worksheet for each: class and mechanism, actual
+indication, exclusions, amount and maximum, route and concentration,
+timing, adverse effects and required reassessment.
+
+64
+00:13:49,368 --> 00:14:01,272
+Then add prior doses and consultation or training conditions. A
+correct amount taken from a page is not permission to use that
+medicine for an unrelated symptom or by a different route.
+
+65
+00:14:01,272 --> 00:14:13,200
+Some saved entries differ materially from current service guidance.
+Learn the named examination statement and the current difference as
+separate evidence, not a homemade hybrid regimen.
+
+66
+00:14:13,200 --> 00:14:26,280
+Examples include glucagon route and repeat consultation, the ibuprofen
+pediatric fever schedule, the ondansetron age boundary and
+nitroglycerin repeat requirements. These are not cosmetic differences.
+
+67
+00:14:26,280 --> 00:14:38,208
+Record the source title, date and exact conflicting point. Never solve
+the problem by taking the dose from one version, interval from another
+and permission from a general textbook.
+
+68
+00:14:38,208 --> 00:14:52,704
+Bring the conflict to the instructor before the official station or
+exam, while using the actual current authorized pathway in clinical
+practice. The package must not invent an answer to a school-version
+question it cannot verify.
+
+69
+00:14:52,704 --> 00:15:05,112
+The source panel and bilingual reading retain those differences. An
+honest unresolved item is safer and more useful than an authoritative-
+looking slide that silently changes its source.
+
+70
+00:15:05,112 --> 00:15:18,144
+The Week 2 directed list assigns Anatomy and Physiology 2e section
+6.5, page 815. We checked the exact course-folder PDF rather than
+guessing from a different edition.
+
+71
+00:15:18,144 --> 00:15:39,744
+In that course copy, section 6.5, “Fractures: Bone Repair,” is on
+printed pages 212 to 214, physical PDF pages 228 to 230. The exact
+page 815 is in section 20.1, “Structure and Function of Blood
+Vessels.”
+
+72
+00:15:39,744 --> 00:15:57,312
+The verified fracture section explains that fat globules released from
+a femoral shaft fracture may travel to and lodge in pulmonary
+capillary beds, causing respiratory distress. This is the assigned
+clinical connection, but the school’s printed locator needs instructor
+clarification.
+
+73
+00:15:57,312 --> 00:16:13,512
+For the learner, the actionable lesson is to reassess the whole
+patient and respond to new respiratory or neurologic deterioration
+through the current pathway. Do not diagnose fat embolism from one
+sign or treat this reading as a field protocol.
+
+74
+00:16:13,512 --> 00:16:25,608
+Vital-sign integration means looking at the relationship between
+measurements and the person. An initially fast rate can fall because
+treatment helped or because the patient is becoming exhausted.
+
+75
+00:16:25,608 --> 00:16:37,440
+In this original trend, the rate falls to eighteen but breaths become
+barely visible, the person becomes drowsy and pressure falls. Those
+findings do not describe recovery.
+
+76
+00:16:37,440 --> 00:16:51,192
+Reassess and support airway, ventilation and circulation now. Confirm
+the measurement and equipment without dismissing the patient's
+deterioration as artifact merely because one number looks normal.
+
+77
+00:16:51,192 --> 00:17:06,240
+Record time, device, oxygen flow, body position and associated
+findings so that the receiver can interpret the trend. Good
+documentation preserves the comparison rather than averaging away its
+most important change.
+
+78
+00:17:06,240 --> 00:17:46,512
+Read the May 2026 BCEHS CPAP card as paired columns, not equal
+numbers. Oxygen flows of 5, 6, 7, 8, 9 and 10 L/min correspond on that
+card to pressures of 5, 6, 7.5, 10, 12.5 and 15 cmH2O. Its treatment
+cap remains 10 cmH2O: in the displayed baseline table, that is 8
+L/min, not 10 L/min. Check the actual pressure gauge and device
+configuration; this is a named service-card table, not a universal
+equation for every CPAP system.
+
+79
+00:17:46,512 --> 00:18:26,256
+Connect the ports by function on the May 2026 card: red is
+supplemental oxygen, green is the nebulizer-tubing connection, and
+black ports are marked for no prehospital use. The pressure gauge
+measures pressure, not oxygen concentration. The card starts at 5
+L/min and says an attached T-piece nebulizer configuration needs 7
+L/min extra flow; the prose instead says 7-8. Preserve that difference
+and follow the trained configuration while monitoring pressure, rather
+than adding flow indiscriminately or treating an auxiliary connection
+as the baseline pressure circuit.
+
+80
+00:18:26,256 --> 00:19:02,256
+A nasal medicine is absorbed through nasal mucosa; the patient does
+not need to inhale it into the lungs. J12 still says intranasal uptake
+requires ongoing respirations, but the manufacturer explicitly states
+that a person need not be breathing for its sealed NARCAN spray to
+work. Do not turn that source wording into a reason to withhold an
+otherwise indicated authorized nasal product in apnea. Continue
+effective ventilation in parallel; product-specific instructions and
+current service authority still govern route and dosing.
+
+81
+00:19:02,256 --> 00:19:36,696
+PR11 limits delivered volume to 1 mL per nostril; if the volume is too
+large, reconsider the route rather than pushing excess fluid into the
+nose. A sealed single-dose nasal spray is used according to its own
+instructions: do not open, dilute, prime, divide or add atomizer dead
+space merely because a syringe technique was taught nearby. Reassess
+the clinical effect and document product, amount, route, time and
+response; a route change does not change the intended patient
+endpoint.
+
+82
+00:19:36,696 --> 00:20:20,976
+The literal page-371 boundary introduces button batteries, although
+the school names J12 rather than J13. A battery lodged in the
+esophagus can cause serious injury without obvious symptoms. Larger
+20-25-mm lithium cells and young children are prominent source risk
+contexts, but a smaller cell or quiet appearance cannot rule out
+danger. Ask about missing batteries/devices and ingestion timing;
+nausea, pain, cough, feeding difficulty or unusual noisy breathing may
+be nonspecific clues. Assess the airway promptly, do not induce
+vomiting and do not delay emergency-department conveyance to find
+honey.
+
+83
+00:20:20,976 --> 00:21:00,720
+Battery chemistry connects this endpoint to the assigned A&P chapter.
+Tissue fluid completes an electrical circuit, producing hydroxide ions
+and an alkaline burn, especially near the negative pole. The J13
+opening incorrectly uses radical/coagulative-necrosis wording; its own
+later body instead describes liquefactive necrosis, consistent with an
+alkaline injury. This is not simply pressure from a coin-shaped
+object. Honey is only a conditional measure under the complete
+appropriate pathway, never a substitute for urgent removal or a
+blanket oral treatment for an unsafe airway.
+
+84
+00:21:00,720 --> 00:21:13,248
+An adult with wheeze becomes fatigued and has a history of beta-
+blocker use. A medication name alone cannot tell you whether
+ventilation is adequate or whether the airway diagnosis is complete.
+
+85
+00:21:13,248 --> 00:21:26,760
+Explain why the actual bronchospasm findings support the selected
+treatment, how the device delivers it and what effect you expect from
+the receptor mechanism. Check the real contraindications and prior
+exposure.
+
+86
+00:21:26,760 --> 00:21:39,936
+Observe air entry, work and speech as well as pulse and oxygenation.
+Consider whether the patient can actually use the interface; counting
+sprays is not a substitute for delivered treatment.
+
+87
+00:21:39,936 --> 00:21:53,400
+If breathing becomes ineffective, support it while reconsidering the
+cause and obtaining help. Chemistry and receptor knowledge should
+improve the decision, not distract you from a patient who needs a
+breath.
+
+88
+00:21:53,400 --> 00:22:06,408
+First define amount, concentration, ion, buffer, agonist and
+antagonist without looking. Then give one example of how confusing two
+terms could cause a clinical error.
+
+89
+00:22:06,408 --> 00:22:18,312
+Trace both autonomic pathways and explain why acetylcholine is not
+always parasympathetic. Predict an important effect and adverse effect
+for the respiratory drugs assigned this week.
+
+90
+00:22:18,312 --> 00:22:31,896
+Explain why oxygen saturation can improve while ventilation fails, why
+high blood pressure does not prove good tissue flow and why an
+indication-specific route can override a generic fastest-route
+ranking.
+
+91
+00:22:31,896 --> 00:22:46,368
+Finally use the reading index to review the detailed book sections,
+then answer the original practice before opening its reasoning. Keep
+unresolved school pages and activities on the coverage list instead of
+marking them done by memory.

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Birth transition: ventilation before the compression gate</title>
+  <desc id="desc">An original reasoning aid: appropriate initial steps and assessment, establish effective ventilation when indicated, then persistent heart rate below60after30seconds of effective breaths leads to synchronized3:1support. Other branches require ongoing assessment.</desc>
+  <defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9Z" fill="#566c81"/></marker></defs>
+  <rect width="1200" height="330" rx="18" fill="#f1f5f9"/>
+  <text x="30" y="38" fill="#173a51" font-family="Arial,sans-serif" font-size="24" font-weight="bold">BIRTH TRANSITION: establish useful breaths before judging the compression gate</text>
+  <g fill="none" stroke="#566c81" stroke-width="3" marker-end="url(#arrow)"><path d="M268 153H309"/><path d="M580 153H621"/><path d="M887 153H928"/></g>
+  <rect x="24" y="79" width="244" height="148" rx="14" fill="#dce8f5" stroke="#466a98"/>
+  <text x="44" y="110" fill="#203f67" font-family="Arial,sans-serif" font-size="20" font-weight="bold">INITIAL ASSESSMENT</text>
+  <text x="44" y="145" fill="#203f67" font-family="Arial,sans-serif" font-size="17">Warmth + airway position</text>
+  <text x="44" y="175" fill="#203f67" font-family="Arial,sans-serif" font-size="17">Breathing, tone, heart rate</text>
+  <text x="44" y="205" fill="#203f67" font-family="Arial,sans-serif" font-size="17">No Apgar-first delay</text>
+  <rect x="309" y="79" width="271" height="148" rx="14" fill="#dcefe9" stroke="#347c67"/>
+  <text x="329" y="110" fill="#164b3d" font-family="Arial,sans-serif" font-size="19" font-weight="bold">EFFECTIVE VENTILATION</text>
+  <text x="329" y="145" fill="#164b3d" font-family="Arial,sans-serif" font-size="17">When indicated: useful breaths</text>
+  <text x="329" y="175" fill="#164b3d" font-family="Arial,sans-serif" font-size="17">Correct barriers; reassess</text>
+  <text x="329" y="205" fill="#164b3d" font-family="Arial,sans-serif" font-size="17">Elapsed bagging is not enough</text>
+  <rect x="621" y="79" width="266" height="148" rx="14" fill="#fff2d7" stroke="#a77525"/>
+  <text x="641" y="110" fill="#654717" font-family="Arial,sans-serif" font-size="21" font-weight="bold">PERSISTENT HR &lt;60?</text>
+  <text x="641" y="145" fill="#654717" font-family="Arial,sans-serif" font-size="18">After 30 seconds of breaths</text>
+  <text x="641" y="175" fill="#654717" font-family="Arial,sans-serif" font-size="18">that actually inflate the lungs</text>
+  <text x="641" y="205" fill="#654717" font-family="Arial,sans-serif" font-size="17">Reassess before escalation</text>
+  <rect x="928" y="79" width="248" height="148" rx="14" fill="#f5e2e4" stroke="#9d535d"/>
+  <text x="948" y="110" fill="#71343e" font-family="Arial,sans-serif" font-size="19" font-weight="bold">IF YES: SYNCHRONIZE</text>
+  <text x="948" y="145" fill="#71343e" font-family="Arial,sans-serif" font-size="17" font-weight="bold">3 compressions : 1 breath</text>
+  <text x="948" y="175" fill="#71343e" font-family="Arial,sans-serif" font-size="17">90 + 30 events per minute</text>
+  <text x="948" y="205" fill="#71343e" font-family="Arial,sans-serif" font-size="16">Check response and escalate</text>
+  <text x="30" y="268" fill="#35495e" font-family="Arial,sans-serif" font-size="19">Other findings: continue the appropriate assessment and support. Do not add compressions from an Apgar total.</text>
+  <text x="30" y="303" fill="#35495e" font-family="Arial,sans-serif" font-size="18">Original reasoning aid, not a full algorithm or a device demonstration. Infant/child BLS uses a separate context.</text>
+</svg>

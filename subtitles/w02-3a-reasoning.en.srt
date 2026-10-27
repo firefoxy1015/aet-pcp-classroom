@@ -1,0 +1,382 @@
+1
+00:00:00,000 --> 00:00:12,360
+School 3A belongs to Weekend Two. Its thinking skills are applied
+while learning airway support and medication administration, where a
+plausible first explanation can lead to the wrong next action.
+
+2
+00:00:12,360 --> 00:00:24,960
+Reasonable judgment uses relevant evidence, training, patient needs
+and context. It is not a promise that every outcome will be good or
+that one mental framework proves legal compliance.
+
+3
+00:00:24,960 --> 00:00:35,064
+Your task is to make reasoning visible: what is known, what is
+assumed, what could be dangerous and what you will check. A confident
+label is not a substitute.
+
+4
+00:00:35,064 --> 00:00:47,352
+Immediate supportive actions continue while the team checks reasoning.
+The purpose is safer action, not analysis so elaborate that a patient
+waits without ventilation or hemorrhage control.
+
+5
+00:00:47,352 --> 00:01:00,120
+The school dual-process model contrasts fast intuitive recognition
+with slower deliberate analysis. It is a useful description of
+processing styles, not two separate anatomical decision centres.
+
+6
+00:01:00,120 --> 00:01:12,072
+A familiar emergency pattern can trigger rapid helpful action. But a
+pattern learned from an incomplete or unusual sample can be
+misleading, especially under fatigue or pressure.
+
+7
+00:01:12,072 --> 00:01:24,360
+Deliberate thinking can check a dose, compare alternatives or examine
+a mismatch. It is not automatically correct merely because it takes
+longer; its inputs and assumptions can still be wrong.
+
+8
+00:01:24,360 --> 00:01:33,504
+Use both as needed. Maintain immediate support, then deliberately test
+the part of the plan with the greatest uncertainty or consequence.
+
+9
+00:01:33,504 --> 00:01:45,048
+Metacognition means monitoring your own thinking. Notice if the urge
+to finish a procedure, defend a first impression or avoid looking
+uncertain is shaping your decision.
+
+10
+00:01:45,048 --> 00:01:54,024
+Ask a targeted question: which finding does not fit, what would I
+expect if the explanation were correct, and what happens if it is
+wrong?
+
+11
+00:01:54,024 --> 00:02:04,920
+Then obtain a specific cross-check. Ask your partner to verify the
+concentration or independently state the most concerning alternative,
+rather than asking you agree, right?
+
+12
+00:02:04,920 --> 00:02:14,472
+Reflection must change an observable action. Saying I considered bias
+without checking anything new does not show that the assumption was
+tested.
+
+13
+00:02:14,472 --> 00:02:25,416
+Observe means gathering relevant patient and scene information, not
+waiting for every possible fact. Distinguish measured findings from a
+dispatch interpretation.
+
+14
+00:02:25,416 --> 00:02:35,184
+Orient means working out what those findings mean in context. Ask what
+is dangerous, which alternatives fit and what further information
+would change the decision.
+
+15
+00:02:35,184 --> 00:02:46,488
+Decide identifies the next priority and plan, including delegation or
+clinical support. Act means completing that plan with confirmation,
+not merely announcing it.
+
+16
+00:02:46,488 --> 00:02:56,736
+Every intervention and important environmental change produces new
+information. Return to observation rather than treating the original
+decision as permanent.
+
+17
+00:02:56,736 --> 00:03:09,936
+The school describes a five-to-ten-second diagnostic timeout. Use it
+as a brief team check before a consequential plan or when something no
+longer fits, not as an arbitrary delay on every action.
+
+18
+00:03:09,936 --> 00:03:21,528
+State the immediate concern, recheck critical findings and ask for one
+dangerous alternative. Decide whether a new assessment, verification
+or resource request is needed.
+
+19
+00:03:21,528 --> 00:03:33,744
+A partner continues required ventilation or other immediate support.
+Cognitive checking and clinical care can occur in parallel; do not
+withhold a lifesaving action while finishing a debate.
+
+20
+00:03:33,744 --> 00:03:46,368
+If the answer remains uncertain, acknowledge it and use the
+appropriate clinical pathway and support. A timeout is a detection
+opportunity, not proof that the resulting decision cannot fail.
+
+21
+00:03:46,368 --> 00:03:57,144
+Anchoring gives the first story excessive influence. Framing lets the
+wording of that story change its apparent meaning, such as a
+dismissive label attached to a symptom.
+
+22
+00:03:57,144 --> 00:04:10,032
+In an original practice call, a handover says difficult patient, but
+the observed facts are repeated vomiting, weakness and a new inability
+to stand. The label supplies no diagnosis.
+
+23
+00:04:10,032 --> 00:04:20,328
+Restate the facts without the frame and perform the assessment they
+require. Ask when the function changed, what preceded it and what
+immediate threats remain.
+
+24
+00:04:20,328 --> 00:04:31,440
+Do not simply replace one label with another. The safeguard is
+independent evidence gathering and reassessment, not a more
+sympathetic but equally untested guess.
+
+25
+00:04:31,440 --> 00:04:43,368
+Confirmation bias can make a plausible explanation feel stronger
+without new independent support. Repeatedly noticing one fitting clue
+is not the same as testing alternatives.
+
+26
+00:04:43,368 --> 00:04:55,872
+Ask which observation could weaken the leading impression. If symptoms
+are attributed to medication, check whether timing, actual dose,
+respiratory findings and other causes really fit.
+
+27
+00:04:55,872 --> 00:05:08,832
+A negative check must be capable of answering the question. A normal
+ordinary saturation does not disprove hypoventilation or CO exposure,
+so it is the wrong reassuring test for those concerns.
+
+28
+00:05:08,832 --> 00:05:18,768
+Explain how the result changes your confidence or action. Do not
+collect a contradictory finding and then ignore it because it
+complicates the original story.
+
+29
+00:05:18,768 --> 00:05:28,992
+Premature closure stops investigation after finding a plausible
+explanation. The explanation can even be true while another important
+problem remains.
+
+30
+00:05:28,992 --> 00:05:41,280
+In this original case, a painful swollen ankle follows a collapse.
+Local injury care is reasonable, but the ankle does not explain why
+consciousness or balance changed before the fall.
+
+31
+00:05:41,280 --> 00:05:55,248
+Return to the timeline and primary findings, examine the relevant
+medical and trauma possibilities and decide which information is time
+critical. A complete assessment need not mean delaying transport for
+every detail.
+
+32
+00:05:55,248 --> 00:06:06,384
+Before closing, state what remains unexplained. A documented
+uncertainty is safer than a definitive mechanical-fall label that the
+findings cannot support.
+
+33
+00:06:06,384 --> 00:06:18,912
+A recent dramatic case is easy to recall, but that does not make it
+the best explanation for the next patient. Compare the actual current
+pattern rather than the emotional vividness of memory.
+
+34
+00:06:18,912 --> 00:06:32,256
+Overconfidence can appear as refusing a reference card or dismissing a
+partner check. Experience is valuable when it is calibrated to
+evidence and feedback, not when it is used to avoid verification.
+
+35
+00:06:32,256 --> 00:06:42,528
+Use the actual product label, relevant pathway and measured
+observations. Ask a partner for their independent concern before
+describing the answer you hope they will confirm.
+
+36
+00:06:42,528 --> 00:06:55,032
+Review outcomes to learn where confidence was misplaced. Outcome
+information must be obtained through authorized clinical or
+educational processes, not by accessing unrelated private records.
+
+37
+00:06:55,032 --> 00:07:07,368
+Omission bias makes inaction feel safer or less blameworthy even when
+delay has serious consequences. A decision not to support inadequate
+breathing still changes the patient outcome.
+
+38
+00:07:07,368 --> 00:07:18,336
+Ask whether delay is truly safer or merely more comfortable. Compare
+the expected benefit and harm of the authorized action with the harm
+of not acting.
+
+39
+00:07:18,336 --> 00:07:29,040
+Use the actual clinical indication and available support to decide.
+Uncertainty about a drug can require clarification while basic patient
+support continues.
+
+40
+00:07:29,040 --> 00:07:41,112
+Avoid the opposite mistake of unnecessary treatment simply to look
+decisive. The goal is justified care, including appropriate restraint
+from an unindicated or harmful action.
+
+41
+00:07:41,112 --> 00:07:51,504
+Continuation bias keeps the team pursuing a plan after conditions make
+it unsafe. Time already invested is not evidence that continuing is
+the right choice.
+
+42
+00:07:51,504 --> 00:08:02,616
+For an original equipment exercise, suppose a patient position begins
+to slip during a simulated move. The urge to finish quickly must not
+override the agreed stop signal.
+
+43
+00:08:02,616 --> 00:08:15,672
+Define abort criteria before movement or a complex procedure. Anyone
+should be able to state a safety concern; acknowledge it, secure the
+patient and reassess personnel, equipment and route.
+
+44
+00:08:15,672 --> 00:08:24,744
+Restart the OODA loop with the new facts. A revised plan is not
+failure; continuing an obsolete plan can be the actual hazard.
+
+45
+00:08:24,744 --> 00:08:37,848
+Working memory is limited, especially with noise, fatigue and
+simultaneous tasks. Group familiar steps into meaningful chunks, but
+preserve the purpose and patient response at each stage.
+
+46
+00:08:37,848 --> 00:08:50,904
+Offload information to a timer, note, approved checklist or partner.
+Delegation must specify what to do and what result to report, rather
+than vaguely asking someone to handle the monitor.
+
+47
+00:08:50,904 --> 00:09:01,800
+An external aid is only as useful as its version, readability and
+correct use. Reading the wrong concentration perfectly from a
+misleading card is still an error.
+
+48
+00:09:01,800 --> 00:09:12,864
+Keep overall ownership: know which critical tasks are complete and
+which remain uncertain. Sharing the work is not sharing away
+responsibility to notice deterioration.
+
+49
+00:09:12,864 --> 00:09:24,000
+The school Swiss-cheese model describes several imperfect defense
+layers. An error can reach the patient when vulnerabilities align, not
+only when one individual lacks care.
+
+50
+00:09:24,000 --> 00:09:38,232
+Its four teaching layers are organizational influences, unsafe
+supervision, preconditions for unsafe acts and the active act. These
+labels organize investigation; real contributors can cross categories.
+
+51
+00:09:38,232 --> 00:09:51,408
+For a wrong concentration, examine storage and packaging, availability
+of the current reference, workload and supervision, interruption, the
+independent check and the actual administration step.
+
+52
+00:09:51,408 --> 00:10:02,664
+Systems thinking does not eliminate individual accountability. It asks
+which changes will make the next error less likely or easier to detect
+instead of ending with be more careful.
+
+53
+00:10:02,664 --> 00:10:15,072
+This original lab case contains no medication order. A syringe has a
+familiar volume, and someone says that is what we always use. The
+actual concentration has not been checked.
+
+54
+00:10:15,072 --> 00:10:27,744
+Anchoring attaches to the remembered volume; confirmation seeks
+reassurance from its appearance; overconfidence may dismiss the
+independent check. Several bias patterns can coexist.
+
+55
+00:10:27,744 --> 00:10:41,952
+Pause the unverified medication step while necessary patient support
+continues. Read the actual label, match the intended mass and route,
+calculate independently and clarify any discrepancy.
+
+56
+00:10:41,952 --> 00:10:55,968
+Then examine why the mismatch was possible: storage, packaging,
+interruption, reference design and supervision. A successful catch is
+a near-miss learning opportunity, not a reason to hide the event.
+
+57
+00:10:55,968 --> 00:11:06,288
+Knowing a bias name is only a start. Use a structured debrief to
+compare what was known at the time, what was assumed, the action and
+the observed result.
+
+58
+00:11:06,288 --> 00:11:16,512
+Avoid hindsight certainty: an adverse outcome does not prove every
+earlier decision was unreasonable, and a good outcome does not prove
+the process was safe.
+
+59
+00:11:16,512 --> 00:11:27,768
+Choose a specific improvement, such as an independent label-and-unit
+check or a stated trigger for reassessment. Make it observable enough
+that a colleague can see whether it happened.
+
+60
+00:11:27,768 --> 00:11:39,240
+Retest with a different case and seek authorized follow-up feedback. A
+supportive learning climate encourages reporting while preserving
+responsibility and patient confidentiality.
+
+61
+00:11:39,240 --> 00:11:50,784
+At an airway or medication station, state why the action is indicated
+and what finding would change the plan. A memorized procedure without
+a clinical reason is incomplete.
+
+62
+00:11:50,784 --> 00:12:01,800
+Ask a partner to independently verify the high-consequence step, and
+explicitly invite a stop for a safety concern. Keep immediate patient
+support continuous.
+
+63
+00:12:01,800 --> 00:12:14,160
+After action, examine what changed, what should have changed and
+whether anything worsened. Use the response to restart orientation
+rather than moving automatically to the next task.
+
+64
+00:12:14,160 --> 00:12:26,568
+Finish with a brief evidence-based debrief using original case
+information. This lesson does not access school quizzes, certify a
+math gate or replace supervised technical assessment.

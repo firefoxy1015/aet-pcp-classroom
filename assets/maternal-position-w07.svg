@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
+  <title id="t">Maternal position: distinguish two clinical branches</title>
+  <desc id="d">Original reasoning diagram. Non-arrest: assess and relieve aortocaval compression in a suitable tolerated position, then reassess. Arrest: supine high-quality CPR with indicated manual left uterine displacement when fundus is at or above the umbilicus. Obtain the appropriate team.</desc>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 Z" fill="#87c8dd"/></marker></defs>
+  <rect width="1200" height="420" rx="20" fill="#0b1726"/>
+  <text x="600" y="39" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#ecf5ff">Same compression mechanism. Different resuscitation branch.</text>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <rect x="35" y="66" width="545" height="282" rx="15" fill="#113343" stroke="#44b1b9" stroke-width="2"/>
+    <text x="307" y="103" font-size="24" font-weight="700" fill="#8ce5da">NOT IN CARDIAC ARREST</text>
+    <text x="307" y="142" font-size="21" fill="#eff8ff">Assess ABCs, perfusion and position</text>
+    <path d="M307 154 V180" stroke="#87c8dd" stroke-width="3" marker-end="url(#a)"/>
+    <text x="307" y="211" font-size="21" fill="#eff8ff">Suitable tolerated compression relief</text>
+    <text x="307" y="241" font-size="19" fill="#c3dfec">Left-lateral / modified / trained manual option</text>
+    <path d="M307 253 V278" stroke="#87c8dd" stroke-width="3" marker-end="url(#a)"/>
+    <text x="307" y="309" font-size="21" fill="#eff8ff">Reassess; improvement is not a rule-out</text>
+    <rect x="620" y="66" width="545" height="282" rx="15" fill="#3c2533" stroke="#e4a5ae" stroke-width="2"/>
+    <text x="892" y="103" font-size="24" font-weight="700" fill="#ffd1d6">IN CARDIAC ARREST</text>
+    <text x="892" y="142" font-size="21" fill="#fff4f7">SUPINE high-quality CPR</text>
+    <path d="M892 154 V180" stroke="#87c8dd" stroke-width="3" marker-end="url(#a)"/>
+    <text x="892" y="211" font-size="21" fill="#fff4f7">Manual LEFT uterine displacement</text>
+    <text x="892" y="241" font-size="19" fill="#edd5dd">When fundus is at or above the umbilicus</text>
+    <path d="M892 253 V278" stroke="#87c8dd" stroke-width="3" marker-end="url(#a)"/>
+    <text x="892" y="309" font-size="21" fill="#fff4f7">Airway + appropriate resuscitation team</text>
+    <text x="600" y="385" font-size="20" fill="#c8d6e8">Reasoning aid only. Real maneuver technique needs supervised practice.</text>
+  </g>
+</svg>

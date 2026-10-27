@@ -1,0 +1,376 @@
+1
+00:00:00,000 --> 00:00:19,152
+The school reading names the NCSBN Clinical Judgment Measurement
+Model. Its six functions are recognizing cues, analyzing them,
+prioritizing hypotheses, generating solutions, taking action and
+evaluating outcomes. They form a loop because new information can
+change the priority.
+
+2
+00:00:19,152 --> 00:00:36,552
+This framework was developed to describe nursing judgment in a testing
+and teaching context. Borrow its questions, not its professional
+authority. For a PCP, current BCEHS pathways, licence, training and
+service policy still govern each action.
+
+3
+00:00:36,552 --> 00:00:50,616
+Autonomy is not improvisation. State what you think is happening, then
+locate the current clinical pathway that fits the presentation. Check
+the page heading and revision context before relying on a saved
+printout or memory.
+
+4
+00:00:50,616 --> 00:01:08,808
+Read the provider-level rows separately. An action listed for ACP or
+CCP does not become a PCP action because it seems logical. Follow the
+PCP row, required consultation and linked pathway; if uncertainty
+affects safety, ask early.
+
+5
+00:01:08,808 --> 00:01:26,520
+A slow pulse can be tolerated by one patient and dangerous in another.
+Pair the number with symptoms, perfusion, rhythm and the person’s
+baseline. A single normal blood pressure does not cancel a worsening
+level of consciousness or cool, poorly perfused skin.
+
+6
+00:01:26,520 --> 00:01:40,464
+Use a consistent sequence for reassessment and record the time. Trend
+vital signs with the patient’s appearance and response. Do not wait
+for a scheduled interval when the patient deteriorates or a new threat
+appears.
+
+7
+00:01:40,464 --> 00:01:56,568
+A 66-year-old feels suddenly weak and nauseated after returning from
+dialysis. The pulse is slow, the skin is cool and the monitor shows a
+new conduction abnormality. The patient is awake but says standing
+makes the dizziness worse.
+
+8
+00:01:56,568 --> 00:02:14,400
+This is an original practice case, not the school case or an answer
+key. Begin with immediate threats and perfusion. Ask what changed,
+obtain the actual medication history and ECG context, and consider
+several reversible causes before selecting a pathway.
+
+9
+00:02:14,400 --> 00:02:30,960
+An AV block is a delay or interruption in electrical conduction from
+atria to ventricles. The pattern on the ECG matters; a slow pulse
+alone does not identify the block type or its cause. Relate the
+tracing to symptoms and perfusion.
+
+10
+00:02:30,960 --> 00:02:48,384
+Keep the facts in one column and hypotheses in another. Recent
+dialysis raises a relevant clinical context, but it does not prove an
+electrolyte problem. Medication exposure, ischemia, hypoxia and other
+causes remain possible until assessed.
+
+11
+00:02:48,384 --> 00:03:04,608
+BCEHS bradycardia guidance emphasizes the overall patient and
+reversible causes. Ask about prescribed and non-prescribed medicines,
+recent dose changes, missed or duplicate doses, dialysis timing and
+possible co-ingestions.
+
+12
+00:03:04,608 --> 00:03:24,240
+Beta-blocker toxicity may include bradycardia, hypotension, altered
+mental status or respiratory effects, but no single clue proves an
+overdose. Check airway, oxygenation, ventilation and glucose as
+indicated, consider co-ingestion, and use the current pathway.
+
+13
+00:03:24,240 --> 00:03:42,792
+In the case, say aloud: “This patient has symptomatic bradycardia with
+a new conduction change and poor perfusion cues. I am starting the
+current pathway, preparing early conveyance and requesting additional
+clinical resources.” That is a reasoned, time-aware plan.
+
+14
+00:03:42,792 --> 00:04:01,440
+Follow the current PCP-level C02 and J07 actions. Request ACP support
+when indicated. Do not delay conveyance to complete a perfect history,
+and do not independently add higher-level medicines or procedures
+because the ECG looks concerning.
+
+15
+00:04:01,440 --> 00:04:16,320
+Reassessment is not a final check performed only before arrival. It
+begins as soon as an action is taken. Compare the response with the
+expected outcome and return to an earlier reasoning step if the
+response is absent or unexpected.
+
+16
+00:04:16,320 --> 00:04:31,632
+In the case, increasing confusion or worsening skin perfusion would
+increase urgency even if the monitor still shows a similar rate. Say
+what changed, what you think it means and what new resource or
+transport action follows.
+
+17
+00:04:31,632 --> 00:04:44,688
+Heart failure is a syndrome, not a single pump measurement. Reduced-
+ejection and preserved-ejection phenotypes describe different
+mechanisms, but neither label can be assigned from a roadside symptom
+alone.
+
+18
+00:04:44,688 --> 00:05:02,472
+Left-sided pressure can back up toward the lungs; right-sided pressure
+can back up into systemic veins. The conditions can overlap.
+Breathlessness, orthopnea, crackles, edema or neck-vein findings are
+clues to interpret together, not a diagnosis by checklist.
+
+19
+00:05:02,472 --> 00:05:19,056
+A patient with known heart failure is now unable to lie flat and has
+stopped halfway to the bathroom. A caregiver reports that the
+medication pack changed recently. The patient also has ankle swelling,
+but the cause of today’s deterioration is not yet known.
+
+20
+00:05:19,056 --> 00:05:40,608
+Compare with baseline breathing, activity, weight history if
+available, medication timing, chest symptoms, infection clues and
+rhythm concerns. Use the relevant current BCEHS respiratory/cardiac
+pathway. Do not infer that all breathlessness is fluid overload or
+that a visible edema pattern settles treatment.
+
+21
+00:05:40,608 --> 00:05:57,912
+An 82-year-old woman trips on a curb and lands on her side. She takes
+an anticoagulant, is unsure whether her head struck the pavement and
+has a painful forearm deformity. A bruise over the hip is becoming
+larger while the crew gathers history.
+
+22
+00:05:57,912 --> 00:06:15,696
+This is an original scenario, not the school stair-fall case. Reassess
+for visible and concealed bleeding, head injury, perfusion change and
+pain. The medication increases concern; it does not reveal whether
+bleeding is present or how severe it is.
+
+23
+00:06:15,696 --> 00:06:33,600
+Current BCEHS D02 emphasizes rapid control of external hemorrhage,
+recognition of occult bleeding, heat-loss prevention and appropriate
+trauma conveyance. A patient taking an anticoagulant deserves careful
+assessment even when the external wound looks small.
+
+24
+00:06:33,600 --> 00:06:49,488
+A normal early blood pressure or calm appearance does not rule out
+internal bleeding. Record repeated findings and changes. Follow
+current trauma pathways and do not use textbook hemorrhage classes as
+a measured estimate of this patient’s blood loss.
+
+25
+00:06:49,488 --> 00:07:05,784
+Before splinting, describe what you can actually assess beyond the
+injury. Compare with the opposite limb when appropriate. Record a
+finding as “unable to test” when pain, swelling, altered consciousness
+or injury prevents a reliable check.
+
+26
+00:07:05,784 --> 00:07:24,528
+After an authorized splint or movement, repeat the same checks and
+record the time. A newly absent pulse, new sensory change or colder,
+duskier skin is urgent. Fracture reduction is not a student action
+unless the current authority and direct training explicitly permit it.
+
+27
+00:07:24,528 --> 00:07:42,000
+Polypharmacy means that several medicines are used together; the list
+alone does not prove an adverse effect. Ask what was changed, who
+changed it, when the last dose was taken and whether the patient uses
+a weekly pack, patch, inhaler or non-prescription product.
+
+28
+00:07:42,000 --> 00:07:57,552
+A recently added medicine may contribute to dizziness, bleeding risk,
+sedation or a change in breathing, but the patient may also have a new
+illness. Attribute each history item to its source and keep the
+clinical differential open.
+
+29
+00:07:57,552 --> 00:08:14,352
+Mood disorders can affect energy, sleep, appetite, attention and daily
+function. A patient may describe depression or a period of unusually
+elevated or irritable mood, but a paramedic encounter does not
+establish a psychiatric diagnosis.
+
+30
+00:08:14,352 --> 00:08:33,552
+Do not treat an unusual mood or behavior as proof that symptoms are
+psychiatric. Ask about immediate safety and self-harm concerns with
+calm, direct language when indicated, assess for medical or
+toxicologic causes, and use the current service pathway for support
+and conveyance.
+
+31
+00:08:33,552 --> 00:08:45,744
+Separate the patient’s own words from what you observed. Include a
+timeline, the source of medication information, the latest distal
+neurovascular check and how it changed after movement, when relevant.
+
+32
+00:08:45,744 --> 00:09:15,552
+For consultation, organize the specific request using SBAR. For a
+current BCEHS care transition, A zero three specifies ATMIST AMBO. In
+either setting, name your leading concern and the alternatives not
+excluded. Give actual actions, response, trend and remaining tasks,
+then confirm who accepted responsibility. A report recited to an
+unavailable or unsuitable receiver is not a completed handover.
+
+33
+00:09:15,552 --> 00:09:49,728
+Return to our patient with slow pulse, poor perfusion and a recent
+dialysis history. The cumulative reading now brings the wider pathway
+families into this same reasoning task. A plausible potassium problem,
+medicine effect or conduction disorder is a hypothesis, not a measured
+result. Treat the immediate airway, breathing and perfusion needs
+while obtaining the relevant history, monitoring and current
+authorized guidance. Parallel assessment matters more than finding one
+diagnosis that explains every clue.
+
+34
+00:09:49,728 --> 00:10:21,816
+Use the reader by clinical round rather than memorizing a list of
+codes. Each round connects recognition, an authorized action, a check
+of its effect and a transfer of responsibility. Earlier detailed
+explanations remain in the same reader; newly added rounds cover the
+previously thin domains. After a round, close the text and explain
+what would change your next action in this patient. Naming the pathway
+without explaining that decision is not the learning objective.
+
+35
+00:10:21,816 --> 00:10:58,320
+If this patient becomes confused, check glucose as indicated without
+abandoning the primary assessment. Hypoglycemia can impair cerebral
+function; safe treatment depends on the patient, route and current
+provider guidance. Oral treatment is not suitable for someone who
+cannot safely swallow. The current adult E01 intravenous option uses
+D10W, ten to twenty-five grams, equivalent to one hundred to two
+hundred fifty millilitres, with access checks and reassessment. This
+is adult pathway context, not a child or newborn order.
+
+36
+00:10:58,320 --> 00:11:38,040
+A normal-looking glucose does not exclude SGLT2-associated
+ketoacidosis, and a better glucose does not establish that a patient
+can remain home. The reader explains every adult E01 nonconveyance
+condition, including cause, recovery, exclusions, supervision and
+follow-up. Ask separately about adrenal or pituitary disease and
+interrupted steroid treatment. E02 requires its actual eligibility and
+an existing prescription, with PCP consultation and route rules; an
+EMR collecting the patient's medicine is not permission to prepare or
+administer it.
+
+37
+00:11:38,040 --> 00:12:12,384
+In the bradycardia case, relate the rhythm to perfusion and possible
+causes. In another patient, a fast sinus rate may be compensation for
+shock rather than a rhythm to suppress. A narrow fast tracing is not
+automatically an accessory-pathway disorder. Similarly, stable angina
+is not the same as acute coronary syndrome, and STEMI versus NSTEMI is
+not a reliable complete-versus-partial blockage rule. The useful
+question is how the actual presentation changes the current
+assessment, destination and authorized support.
+
+38
+00:12:12,384 --> 00:12:48,696
+Mean arterial pressure is an estimate of systemic driving pressure,
+not proof of adequate coronary, cerebral or limb perfusion. Use it
+with the patient and the trend. For shock, edema or a rhythm problem,
+distinguish oxygenation, ventilation and circulation rather than
+adding one intervention to every presentation. Read any synchronized-
+cardioversion, mechanical-ventilation or advanced medication detail in
+its own provider context; an adjacent table or a mistaken cross-
+reference does not extend a PCP's authority.
+
+39
+00:12:48,696 --> 00:13:25,224
+Return to our anticoagulated fall patient. A visible limb injury can
+distract from intracranial bleeding, chest injury or hidden blood
+loss. Assess the whole patient and repeat findings, not just pain at
+the obvious site. Before and after authorized movement or splinting,
+document distal sensation, movement and perfusion. A pulse can remain
+present in compartment syndrome; waiting for every classic sign can
+miss a developing threat. A normal early observation is a baseline for
+comparison, not a discharge guarantee.
+
+40
+00:13:25,224 --> 00:13:58,536
+Adult NEXUS criteria do not clear every spinal region or every patient
+group, and an Ottawa ankle rule requires its full pain-zone and
+examination context. Neither rule replaces treatment of the immediate
+threat. Chest-wound care must follow the actual current device and
+pathway rather than blending vented-seal guidance with older three-
+sided-dressing wording. For burns, cool the injury without cooling the
+whole patient, and separate burn size estimation from an advanced
+resuscitation prescription.
+
+41
+00:13:58,536 --> 00:14:38,256
+When the story includes a heater, enclosed space, chemical or
+collapsed coworker, reassess scene safety before becoming another
+patient. A tactical cold zone and a chemical decontamination zone are
+different systems. Ordinary pulse oximetry can look reassuring in
+carbon monoxide poisoning; a later low carbon monoxide measurement
+also needs exposure and oxygen-treatment context. Odor is not a
+reliable cyanide test, and hydrogen sulfide can prevent oxygen use at
+the cellular level. Appropriate rescue, decontamination and specialist
+support depend on the actual hazard.
+
+42
+00:14:38,256 --> 00:15:17,856
+For medicine ingestion, identify the actual product, immediate or
+modified release, possible co-ingestants and time course. An initially
+well patient is not automatically safe after a beta blocker or
+calcium-channel blocker exposure. Tricyclic poisoning uses a QRS risk
+threshold that is not simply the adult wide-complex definition.
+Cholinergic poisoning can combine secretions with muscle weakness;
+treating muscarinic effects does not itself reverse every nicotinic
+effect. Use the relevant current pathway and consultation, not a
+memorized antidote attached to an uncertain label.
+
+43
+00:15:17,856 --> 00:15:56,616
+Heatstroke is a dangerous clinical syndrome involving central nervous
+system dysfunction in a heat context; do not require absent sweating
+or wait for a single magic temperature. Use safe prompt cooling and
+support through the current pathway; antipyretics do not correct
+heatstroke physiology. For a diver, decompression illness and arterial
+gas embolism may overlap. Avoid excluding them by one absolute onset
+rule. Oxygen, specialist coordination, transport and any pressure-
+exposure decisions require the actual diving pathway, not an
+improvised return underwater.
+
+44
+00:15:56,616 --> 00:16:34,176
+Infection control depends on route of spread, exposure and current
+precautions; an old age cutoff, immunity shortcut or fixed room-
+clearance time is not a universal rule. For a low-acuity referral,
+read every condition rather than treating a reassuring score as
+permission to leave. The reader distinguishes the older selected NEWS
+referral conditions and the contradictory minor-allergy referral
+wording. A capable refusal is legally and clinically different from
+meeting an approved alternative-care pathway. Record unresolved risk
+and who accepts the ongoing plan.
+
+45
+00:16:34,176 --> 00:16:47,184
+When the situation changes, move through the judgment loop again. The
+best response is not the most complicated one; it is the safest action
+that fits the patient, the current pathway and your authorized role.
+
+46
+00:16:47,184 --> 00:17:03,360
+Next, practise the school’s complex-scenario block. You will use
+incomplete histories, two-patient prioritization, daily PAA review and
+a shared debrief. The block revisits existing skills rather than
+adding a new skill station.

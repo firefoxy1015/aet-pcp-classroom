@@ -1,0 +1,1179 @@
+1
+00:00:00,000 --> 00:00:12,480
+The school teaching and its practical requirements remain the course
+spine. Nancy supplies the learner-confirmed main textbook explanation,
+but it does not replace the eleven separate reading rows.
+
+2
+00:00:12,480 --> 00:00:24,816
+The reading view below contains paired English and Chinese guides for
+every Week One reading row. Each names its actual source and separates
+the assigned locator from what has been source-read and taught.
+
+3
+00:00:24,816 --> 00:00:47,208
+The recovered school A&P copy now confirms the assigned Chapter 1 and
+22 page ranges. The downloaded 2018 CPSC edition differs from the
+older page map for Chapter 9; the guide shows the intended glucometer
+topic and preserves the discrepancy. Other source or edition gaps
+remain explicitly flagged.
+
+4
+00:00:47,208 --> 00:01:00,480
+All explanations and practice cases here are newly written. Necessary
+clinical concepts may overlap another course, but no essential
+explanation requires the old ninety-five-lesson website.
+
+5
+00:01:00,480 --> 00:01:12,336
+Homeostasis is dynamic regulation, not a frozen perfect number. A
+regulated variable can fluctuate while control systems work to keep it
+within a workable range.
+
+6
+00:01:12,336 --> 00:01:25,440
+In negative feedback, the response opposes the disturbance. A rising
+body temperature can stimulate heat-loss responses such as sweating
+and increased skin blood flow when the environment permits heat loss.
+
+7
+00:01:25,440 --> 00:01:36,792
+Positive feedback amplifies a process toward an endpoint, as in
+platelet recruitment during clot formation. Positive does not mean
+beneficial and negative does not mean harmful.
+
+8
+00:01:36,792 --> 00:01:49,320
+For assessment, ask which variable is threatened, what compensation
+you can observe and whether the system is succeeding. A normal number
+may be maintained at a high physiological cost.
+
+9
+00:01:49,320 --> 00:02:01,536
+Pressure depends on flow and vascular resistance. If effective
+circulating volume falls, compensatory increases in heart rate and
+vascular tone may temporarily support pressure.
+
+10
+00:02:01,536 --> 00:02:14,952
+That compensation helps explain a rising pulse and cool skin before
+overt hypotension. It does not prove hemorrhage: pain, fever, drugs
+and other causes can produce overlapping findings.
+
+11
+00:02:14,952 --> 00:02:27,576
+Link serial findings rather than diagnosing from one clue. A worsening
+mental state, respiratory effort and pressure trend can show that the
+patient is no longer compensating adequately.
+
+12
+00:02:27,576 --> 00:02:38,904
+The practical consequence is earlier reassessment, escalation and
+definitive-care planning. It is not permission to give the same fluid
+volume to every patient with a fast pulse.
+
+13
+00:02:38,904 --> 00:02:51,720
+Conducting airways bring gas toward the respiratory zone. The main
+gas-exchange surface is the thin alveolar-capillary interface, where
+oxygen and carbon dioxide move down partial-pressure gradients.
+
+14
+00:02:51,720 --> 00:03:05,448
+During ordinary inspiration, respiratory muscles enlarge the chest and
+create the pressure difference that draws air in. Narrowed airways
+increase resistance and can make expiration particularly difficult.
+
+15
+00:03:05,448 --> 00:03:19,824
+Not all inspired volume reaches gas-exchanging alveoli. Rapid tiny
+breaths can move much of their volume through dead space, so a normal-
+looking minute volume or respiratory rate may hide poor alveolar
+ventilation.
+
+16
+00:03:19,824 --> 00:03:32,736
+Gas exchange also needs matching blood flow and a usable membrane.
+More oxygen concentration cannot by itself repair every ventilation,
+perfusion or diffusion problem.
+
+17
+00:03:32,736 --> 00:03:46,704
+A satisfactory saturation describes only one part of oxygen transport.
+A person may lack enough hemoglobin, sufficient cardiac output or
+effective tissue use despite a high displayed saturation.
+
+18
+00:03:46,704 --> 00:04:00,816
+Carbon monoxide illustrates several broken links: reduced available
+hemoglobin carriage, impaired release of remaining oxygen and cellular
+effects. A two-wavelength saturation cannot resolve those problems.
+
+19
+00:04:00,816 --> 00:04:13,920
+Compare this with hypoventilation on supplemental oxygen, where
+saturation may improve while carbon dioxide rises. You still need
+respiratory observation and appropriate capnography.
+
+20
+00:04:13,920 --> 00:04:25,104
+Use the mechanism to select the next assessment and support, not to
+chase one normal number. Document which link you believe is threatened
+and the evidence supporting that concern.
+
+21
+00:04:25,104 --> 00:04:35,520
+Heart sounds are timed mechanical events. S one is associated with
+atrioventricular valve closure as ventricular pressure rises at the
+start of systole.
+
+22
+00:04:35,520 --> 00:04:48,336
+S two is associated with aortic and pulmonic closure as ventricular
+pressure falls at the end of systole. The interval from S one to S two
+is systolic; the next interval is diastolic.
+
+23
+00:04:48,336 --> 00:05:01,488
+Normal inspiration can widen the audible separation of the two
+components of S two. Splitting varies with physiology and disease;
+hearing a split does not automatically diagnose a valve disorder.
+
+24
+00:05:01,488 --> 00:05:12,096
+Relating a sound to the pulse and cycle is more useful than memorizing
+lub-dub alone. In a moving ambulance, noise can make subtle timing
+unreliable.
+
+25
+00:05:12,096 --> 00:05:25,488
+S three follows S two in early diastole and is associated with rapid
+ventricular filling. It can be physiological in some contexts, but can
+also accompany volume loading or ventricular dysfunction.
+
+26
+00:05:25,488 --> 00:05:38,064
+S four occurs before S one in late diastole, linked to atrial
+contraction against a less compliant ventricle. A coordinated atrial
+contraction is needed for that classic mechanism.
+
+27
+00:05:38,064 --> 00:05:52,008
+These are typically low-frequency sounds, unlike many higher-frequency
+clicks. The candidate text uses an inconsistent high-pitch description
+for abnormal S three; do not memorize that as the defining feature.
+
+28
+00:05:52,008 --> 00:06:04,632
+Integrate an extra sound with breathlessness, perfusion, history and
+other findings. Do not turn a possibly missed or uncertain gallop into
+a positive or negative diagnosis.
+
+29
+00:06:04,632 --> 00:06:18,480
+Use the taught auscultation sites and a suitable stethoscope surface.
+The diaphragm generally transmits higher-frequency sounds and the
+lightly applied bell can help with lower-frequency sounds, depending
+on the instrument.
+
+30
+00:06:18,480 --> 00:06:30,624
+First establish the basic sounds and their relation to the cycle. A
+murmur is a prolonged flow-related sound and must be described by
+timing and location rather than renamed S three.
+
+31
+00:06:30,624 --> 00:06:43,512
+Auscultation expertise requires supervised listening to validated
+examples and real examinations. A text description or a synthetic
+sound cannot certify that you can distinguish heart sounds.
+
+32
+00:06:43,512 --> 00:06:56,448
+If noise prevents a reliable examination, record that limit and use
+the other relevant evidence. Do not delay urgent care while repeatedly
+trying to hear a subtle sound in an unsuitable environment.
+
+33
+00:06:56,448 --> 00:07:09,504
+Infection prevention is not just putting on gloves. Pathogens can move
+from a patient to hands, equipment, a phone or another patient when
+contaminated surfaces are carried into clean work.
+
+34
+00:07:09,504 --> 00:07:22,800
+Select precautions from the patient, task, anticipated splash and
+transmission route. Eye protection, a gown or an appropriate mask or
+respirator answer different exposure risks.
+
+35
+00:07:22,800 --> 00:07:36,240
+Clean technique reduces contamination; sterile technique maintains a
+sterile field for procedures that require it. Clean gloves are not
+sterile gloves, and disinfection of a cuff is not sterilization.
+
+36
+00:07:36,240 --> 00:07:48,432
+Use approved hand-hygiene products and the applicable procedure,
+including soap and water when required. Clean shared measurement
+equipment between patients and keep dirty and clean items separate.
+
+37
+00:07:48,432 --> 00:08:04,464
+The archived Canadian CPSC checklist gives a gown, mask or respirator,
+eye protection and glove sequence after hand hygiene. Treat it as a
+named teaching checklist and verify the current school or service
+sequence for the equipment used.
+
+38
+00:08:04,464 --> 00:08:16,608
+Choose equipment before contact and check size and integrity. A
+respirator requires the applicable fit-testing and seal-check
+procedure; a loose mask is not equivalent protection.
+
+39
+00:08:16,608 --> 00:08:27,264
+Ordinary glasses are not a substitute for suitable eye protection.
+Where a gown is indicated, ensure the coverage and glove-cuff
+interface match the taught technique.
+
+40
+00:08:27,264 --> 00:08:40,104
+In the school station, explain which hazard each item addresses and
+demonstrate without touching contaminated areas. Extra equipment worn
+incorrectly can create another removal hazard.
+
+41
+00:08:40,104 --> 00:08:53,016
+The archived checklist removes gloves, cleans hands, removes the gown,
+cleans hands, then removes eye and respiratory protection using
+appropriate handling points, followed by hand hygiene.
+
+42
+00:08:53,016 --> 00:09:07,560
+Do not touch the front of the mask or shield, or drag a contaminated
+gown across clothing. The correct removal area matters, especially
+when respiratory protection must remain on until outside the exposure
+area.
+
+43
+00:09:07,560 --> 00:09:20,160
+Follow the actual current equipment-specific procedure if it differs.
+In practice, pause and correct an identified contamination rather than
+quickly finishing the remaining sequence with dirty hands.
+
+44
+00:09:20,160 --> 00:09:32,568
+Report a sharps or mucosal exposure promptly and follow occupational
+procedures. Wash or irrigate as appropriate; do not squeeze an injury
+or put bleach into a wound.
+
+45
+00:09:32,568 --> 00:09:49,200
+The Clinical Judgment Measurement Model names six functions: recognize
+cues, analyze cues, prioritize hypotheses, generate solutions, take
+action and evaluate outcomes. It is a reasoning framework, not a BC
+medication protocol.
+
+46
+00:09:49,200 --> 00:10:01,296
+Recognition asks what is relevant; analysis asks how the findings fit
+together and what is missing. Prioritization balances likelihood,
+severity and time sensitivity.
+
+47
+00:10:01,296 --> 00:10:13,704
+Generate a plan with expected outcomes and separate indicated from
+contraindicated or nonessential tasks. Then act within the actual
+training, authorization and available resources.
+
+48
+00:10:13,704 --> 00:10:23,400
+Evaluation compares what happened with what should have happened. An
+unexpected response reopens the earlier reasoning rather than being
+edited out of the story.
+
+49
+00:10:23,400 --> 00:10:36,384
+A stigmatizing label can change what you notice and what the patient
+is willing to share. Describe behaviour and attributed symptoms
+instead of replacing assessment with difficult, drunk or attention
+seeking.
+
+50
+00:10:36,384 --> 00:10:48,144
+Therapeutic communication uses active listening, clarification and
+professional boundaries. Ask what matters to the person, explain what
+is happening and offer realistic choices.
+
+51
+00:10:48,144 --> 00:11:00,096
+Team psychological safety means a student can state uncertainty or a
+safety concern without humiliation. It does not eliminate
+accountability or promise absolute confidentiality.
+
+52
+00:11:00,096 --> 00:11:10,728
+Use reflection and feedback to identify a blind spot. You do not have
+to disclose personal trauma to demonstrate insight or to participate
+safely in a case discussion.
+
+53
+00:11:10,728 --> 00:11:22,296
+Use an original older-adult fall variant. The first reading question
+is not which textbook chapter to recite; it is what the new confusion
+and rising respiratory rate might mean.
+
+54
+00:11:22,296 --> 00:11:35,640
+Connect mechanisms with observations: compensation may preserve
+pressure, while infection or metabolic illness may alter breathing and
+consciousness. Injury and illness can coexist.
+
+55
+00:11:35,640 --> 00:11:48,264
+Use the reasoning functions to gather relevant data, challenge a
+simple mechanical-fall label, choose immediate support and plan safe
+movement. Do not force a diagnosis from an isolated score.
+
+56
+00:11:48,264 --> 00:12:01,008
+Finish with the actual serial values, response and unresolved concern.
+The useful product of reading is a better examination and decision,
+not a longer list of memorized definitions.
+
+57
+00:12:01,008 --> 00:12:14,400
+Active retrieval means producing an answer before reopening the
+material. Explain why shallow rapid breathing can fail, or calculate
+the complete NEWS2, rather than recognizing a highlighted phrase.
+
+58
+00:12:14,400 --> 00:12:26,712
+Change one variable in a case: oxygen added, new confusion, a
+different tubing factor or a pulse that no longer matches the monitor.
+State how the decision changes and why.
+
+59
+00:12:26,712 --> 00:12:37,224
+Then check the explanation and original locator. An error log should
+name the misconception, such as forgetting oxygen points, not merely
+say study harder.
+
+60
+00:12:37,224 --> 00:12:48,576
+Repeat later with a different example and demonstrate skills under
+supervision. Memory practice improves retention but cannot certify
+physical technique or clinical competence.
+
+61
+00:12:48,576 --> 00:13:30,888
+Unstable adult: physiological and medical findings. The assigned
+examination list includes altered consciousness, inability to maintain
+an airway, respiratory distress or arrest, absent radial pulses,
+cardiac arrest, bleeding requiring a tourniquet or packing, and
+cool/pale/clammy skin with suspected shock. It also names suspected
+stroke, heat stroke, severe hypothermia, suspected cardiac chest pain
+and anaphylaxis. Thus unstable is not shorthand for a low blood
+pressure or for trauma alone. State which finding creates urgency and
+what support and destination planning must begin.
+
+62
+00:13:30,888 --> 00:14:12,816
+Unstable adult: chest, pelvis and limbs. Recognize an
+unstable/deformed chest wall, an unstable pelvis, two or more proximal
+long-bone fractures, a crushed/degloved/mangled extremity, or
+amputation proximal to a wrist or ankle. The historical list also
+identifies a pulseless limb when one realignment attempt has not
+restored circulation. That wording is an examination criterion, not
+permission to manipulate any injury or repeat attempts. Describe
+distal circulation/sensation/movement and follow the actual trained
+fracture pathway.
+
+63
+00:14:12,816 --> 00:14:51,624
+Do not infer a foreign body from absent breathing alone. The old
+intervention table places absent respiration under obstructed-airway
+actions as well as ventilation. In practice assess patency,
+respiratory effort, air movement and the whole presentation: apnea can
+have other causes. Suction addresses fluids; manual opening and
+appropriate adjuncts address patency; assisted ventilation addresses
+inadequate movement of gas. CPR assessment follows the trained arrest
+process, not a prolonged search for a particular pulse while the
+person is clearly in arrest.
+
+64
+00:14:51,624 --> 00:15:32,400
+AVPU names responsiveness, not airway certainty. A is spontaneously
+alert; V responds to voice; P responds only to an appropriate
+pressure/pain stimulus; U has no response. The source links reduced
+response with increasing airway concern and positions the patient
+according to injuries and needs. Even an alert person may have airway
+bleeding or nausea; do not assume A guarantees protection. Explain the
+actual response, monitor the airway and reassess. Do not use repeated
+injurious stimulation or equate AVPU with a full GCS or decision-
+making capacity.
+
+65
+00:15:32,400 --> 00:16:03,336
+PCR: action boxes need context. The form groups care given, airway
+actions, oxygen device/flow, pain assessment and pupils. Record actual
+treatment, timing, delivery and response rather than ticking
+everything available. For pupils preserve right/left findings and what
+was tested; do not claim accommodation from a light reaction alone. A
+device label does not establish delivered oxygen concentration or
+effective ventilation.
+
+66
+00:16:03,336 --> 00:16:41,304
+PCR: serial rows make change visible. Each timed row has GCS
+eye/verbal/motor components and total, pulse, respirations, SpO2,
+blood glucose, temperature, blood pressure, skin and protocols.
+Include relevant oxygen/device, measurement site and limitations in
+the available notes when needed. Never invent a diastolic pressure
+after a palpated systolic reading. Additional treatments/comments
+preserve the observation-decision-action-response timeline and
+information that does not fit the boxes.
+
+67
+00:16:41,304 --> 00:17:29,736
+Appendix: products and solutions. ASA is acetylsalicylic acid/aspirin,
+Nitro nitroglycerin, OTC over-the-counter, Tab tablet and Rx
+medication/prescription in this context. NS/N/S is normal saline; D5W
+and D10W are 5% and 10% dextrose in water. O2 is oxygen, CO2 carbon
+dioxide, H2O water and Hg mercury. The printed N2O2 entry is wrong for
+nitrous oxide: N2O is the correct formula, and Entonox is an
+oxygen/nitrous-oxide mixture, not pure nitrous oxide. A concentration
+or brand name is not a dose.
+
+68
+00:17:29,736 --> 00:18:09,168
+Appendix: legacy and ambiguous language needs repair. IDDM/NIDDM mean
+the old insulin-dependent/non-insulin-dependent diabetes categories;
+they must not be used to infer modern diabetes type from current
+treatment. AOB means alcohol on breath, not proven intoxication or an
+explanation for reduced consciousness. Ca is listed as cancer but can
+mean calcium elsewhere. OD/od is used for overdose/once daily, and Tx
+for treatment/transmit. Write the intended meaning; capitalization
+alone is not an adequate safety barrier.
+
+69
+00:18:09,168 --> 00:18:36,768
+Biologic and biosimilar. Biologics are complex products from living
+systems; a biosimilar is highly similar to an authorized reference
+biologic, with no expected clinically meaningful safety or efficacy
+difference on the supporting comparison. It is not simply a small-
+molecule generic or an untested imitation. This corrects the source
+text's misleading synthetically-produced and lesser-testing shorthand.
+
+70
+00:18:36,768 --> 00:19:12,120
+Repair the biologic example, not only its label. Printed11 calls
+etanercept a monoclonal antibody. The regulatory product information
+identifies it as a TNF-receptor/Fc fusion protein; it can bind TNF
+without being that antibody class. A biologic is not automatically
+less toxic or free from allergy/infection risks. Knowing the broad
+origin helps classify it, while the actual product information
+determines its properties. No maintenance-drug change follows from
+this classroom correction.
+
+71
+00:19:12,120 --> 00:19:49,680
+Three route families in this chapter. Percutaneous groups application
+to skin or mucous membranes; enteral delivers into the
+gastrointestinal tract, including oral, appropriate feeding-tube and
+rectal preparations; parenteral literally means outside the gut and
+commonly refers to injections. These broad groupings are not
+interchangeable product instructions. An oral suspension contains
+dispersed particles and may need the labeled mixing method; an
+emulsion disperses one liquid in another. The same millilitres of two
+formulations need not contain the same dose.
+
+72
+00:19:49,680 --> 00:20:24,264
+Read the prototype table as eight linked questions: class, mechanism,
+dose/route/timing, indication, desired effect, drug interactions, food
+interactions, and adverse effects/contraindications. A
+contraindication concerns a reason not to use a product in the
+situation; an interaction concerns another exposure changing its
+effect or risk. State what you expect to improve and what you must
+monitor, not only the treatment name. The table is a learning
+organizer, not a complete current monograph.
+
+73
+00:20:24,264 --> 00:21:01,248
+A denominator check makes the model usable. For an invented60kg
+teaching adult at60% total-body-water, total water is36L:
+approximately24L intracellular and12L extracellular. The simplified
+extracellular split is about9L interstitial and3L plasma. These are
+model estimates, not a patient measurement or an infusion volume. Do
+not add the source's extra1% transcellular entry as though every rough
+percentage shared an exact denominator or formed a precise bedside
+prescription.
+
+74
+00:21:01,248 --> 00:21:38,304
+Specialized spaces are still outside cells. Transcellular examples
+include cerebrospinal, pleural, peritoneal and joint fluids; they are
+specialized extracellular compartments, not fluid inside a cell. The
+source's separate-from-extracellular wording is misleading. Third
+spacing in clinical discussion usually concerns fluid sequestered away
+from useful circulation; it is not simply another name proving every
+normal transcellular space is pathological. Membrane structure,
+barriers and transport determine how each compartment communicates.
+
+75
+00:21:38,304 --> 00:22:13,944
+Equilibrium does not mean a dead membrane or identical solutes. Water
+can move in both directions while its net movement is zero. In a
+simple membrane system an opposing pressure difference can balance an
+osmotic tendency without identical solute concentrations. This is
+different from asserting that every living capillary has zero
+filtration. The glycocalyx, tissue-specific permeability and lymphatic
+drainage matter in real microvascular exchange; the source's universal
+filter-out/reabsorb-back picture is too simple.
+
+76
+00:22:13,944 --> 00:22:49,920
+Apply feedback to the assigned examples. Rising temperature can
+activate sensing and heat-loss effectors that oppose the
+rise;37degrees in a schematic is not a universal diagnostic cutoff.
+Platelet recruitment can amplify a local clotting response. Suckling
+can drive oxytocin-mediated milk ejection, and cervical stretch can
+reinforce the childbirth contraction loop until delivery changes the
+stimulus. Positive means amplifying, not always beneficial; negative
+means opposing a deviation, not harmful.
+
+77
+00:22:49,920 --> 00:23:28,872
+Question meaning matters more than a table label. The source
+questioning table mixes quality with provoking/relieving factors and
+duration with a previous similar episode. Ask both the present
+episode's length and recurrence separately. Family history can
+identify patterns and prompt further questions, but it does not prove
+a genetic cause from a few relatives. Genetic and inherited are not
+synonyms: most Down syndrome is not inherited, contrary to its
+unqualified placement among hereditary examples. Do not tell a family
+you have established inheritance during a paramedic history.
+
+78
+00:23:28,872 --> 00:24:19,464
+Read the illustrated history/ROS forms as prompts, not completed
+findings. They group identity, reason for care, allergy reactions,
+actual medicines, past admissions/surgery, family/social exposures,
+nutrition and relevant skin, senses, mouth/neck, breathing,
+cardiac/vascular, gastrointestinal/urinary, reproductive, endocrine,
+musculoskeletal and neurological/mental symptoms. Ask sensitive
+questions only when relevant and with privacy. The ROS image mislabels
+vomiting blood as hemoptysis: hemoptysis is coughed blood, hematemesis
+vomited blood. Establish what the patient actually experienced and
+where blood appeared; do not infer the origin from a checkbox.
+
+79
+00:24:19,464 --> 00:24:58,944
+Correct the infection-immunity shortcut. The source dialogue says a
+person with C. difficile cannot be infected again; that is false.
+Relapse or a new exposure can cause recurrence, so hand hygiene and
+transmission precautions still matter. Antibiotic resistance is not
+the same as spore formation, and colonization is not automatically
+symptomatic infection. The assigned summary also names active
+immunity: the person's own immune response develops after an
+appropriate exposure or immunization, rather than receiving ready-made
+antibodies. It does not mean immunity to every later infection.
+
+80
+00:24:58,944 --> 00:25:39,432
+Match reprocessing to intended contact. Critical items enter sterile
+tissue or the vascular system and require sterilization. Semicritical
+items contact mucous membranes or nonintact skin and generally need at
+least high-level disinfection; noncritical items contact intact skin
+and need the applicable lower-level processing. Clean first, then use
+a validated method compatible with the device and local instructions.
+A named chemical, a hot temperature or an unbroken probe cover alone
+does not prove the required process was completed, and a disposable
+device is not made reusable by this table.
+
+81
+00:25:39,432 --> 00:26:27,096
+Sterile setup and open gloving: rehearse the contact boundaries.
+Explain the task, clean hands, check package integrity/expiry and
+prepare a clean dry visible workspace with supplies within reach. Open
+the wrapper without touching its sterile centre; the source treats
+its2.5cm edge as unsterile. A bare hand touches only the inside folded
+cuff of the first glove. Once that hand is gloved, its sterile fingers
+lift the second glove beneath the folded cuff without contacting bare
+skin. Keep gloved hands visible and away from unsterile sleeves. If
+contact or sterility is uncertain, stop and replace the affected item;
+do not hide the breach.
+
+82
+00:26:27,096 --> 00:27:04,440
+Maintain the field while adding a solution. Verify the sealed product
+and expiry, protect the sterile receiving container and pour from the
+side without reaching an unsterile bottle or sleeve over the field.
+The source illustrates about15cm separation; avoid touching the
+receiving rim or splashing through the wrapper and follow the actual
+product/skill procedure, not distance alone. Distinguish wet
+contamination of a barrier from sterile liquid deliberately held in a
+sterile vessel. These are supervised learning principles, not
+authorization to perform an invasive procedure.
+
+83
+00:27:04,440 --> 00:27:30,864
+Cardiac output equals stroke volume times heart rate. At a fixed rate
+of 70/min, increasing stroke volume from 60 to 80 mL increases output
+from 4.2 to 5.6 L/min. The source sentence saying stroke volume and
+cardiac output are inversely related is incorrect; a slower rate may
+offset a higher stroke volume only when considering a similar total
+output.
+
+84
+00:27:30,864 --> 00:27:52,704
+No palpable pulse is not synonymous with asystole. Ventricular
+fibrillation and pulseless electrical activity can also produce
+pulselessness. Follow the actual resuscitation assessment and rhythm
+pathway; a pulse finding cannot identify every electrical rhythm or
+justify declaring one from a textbook sentence.
+
+85
+00:27:52,704 --> 00:28:21,840
+15.6 - ordinary inspiration contracts and lowers the diaphragm,
+enlarging the thorax; quiet expiration largely follows relaxation and
+recoil. The source paragraph reverses contraction and relaxation and
+must not be memorized. Rate, rhythm, depth, work, air entry,
+mentation, oxygenation and appropriate capnography together assess
+respiratory function.
+
+86
+00:28:21,840 --> 00:28:50,016
+15.7 - pressure needs the correct device, cuff, site, position and
+technique. The source cuff sentence reverses dimensions; the usual
+manual guide is bladder width about 40% of arm circumference and
+length 80-100%, with manufacturer fit marks controlling actual choice.
+It is not width covering 80% of shoulder-to-elbow length and a bladder
+encircling only 40%.
+
+87
+00:28:50,016 --> 00:29:38,304
+Temperature routes and blood-cell risks are not interchangeable. Oral
+measurement needs an appropriate sublingual site and a patient able to
+cooperate; recent food/drink/smoking, mouth breathing or oral injury
+can distort it. Axillary, temporal and tympanic devices measure
+different sites with device/age limitations; do not add a fixed
+correction to turn one route into another. The source's low-red-cell
+bleeding contraindication for rectal temperature confuses different
+blood-cell functions: platelet/bleeding risks and severe neutropenia
+need specific precautions. Rectal measurement also requires consent,
+training, indication and the approved procedure, not merely a textbook
+claim that it is accurate.
+
+88
+00:29:38,304 --> 00:30:12,456
+Eleven systems, with structures and functions, part one. Skin in the
+integumentary system provides a barrier and contributes to temperature
+regulation. Bones support and protect, store minerals and house blood-
+forming marrow. Skeletal muscles move the body and generate heat.
+Brain, spinal cord and peripheral nerves integrate information and
+produce rapid responses. Endocrine glands, such as thyroid and
+pancreatic islets, release hormones that coordinate longer-ranging
+regulation.
+
+89
+00:30:12,456 --> 00:30:55,392
+Eleven systems, part two. Heart and blood vessels transport blood,
+gases, nutrients, wastes and heat. Lymphatic vessels return tissue
+fluid; lymph nodes and spleen contribute to immune defence. Lungs
+exchange gases. Digestive organs, including stomach and intestines
+with support from liver and pancreas, process food and absorb
+nutrients. Kidneys and urinary passages regulate water, electrolytes
+and waste removal. Gonads and reproductive tracts produce gametes and
+hormones and support reproduction; anatomy is not an assumption about
+a person's gender, fertility or goals.
+
+90
+00:30:55,392 --> 00:31:29,208
+Define directions before describing an injury. Anterior is toward the
+front and posterior toward the back; superior is toward the head and
+inferior toward the feet. Medial approaches the midline and lateral
+moves away from it. Proximal is nearer a limb's attachment and distal
+farther away; superficial is nearer the surface and deep farther
+inside. Patient right and left stay the patient's, even when you face
+them. Supine means face up and prone face down; neither changes the
+anatomical reference.
+
+91
+00:31:29,208 --> 00:32:06,768
+Map abdominal location from the patient's side. RUQ, LUQ, RLQ and LLQ
+mean right/left upper/lower quadrants; the dividing lines intersect at
+the umbilicus. The nine-region map has right hypochondriac, epigastric
+and left hypochondriac across the top; right lumbar, umbilical and
+left lumbar in the middle; right iliac or inguinal, hypogastric or
+pubic and left iliac or inguinal below. Location guides description,
+not a one-organ diagnosis: organs span regions and pain can be
+referred.
+
+92
+00:32:06,768 --> 00:32:45,648
+Laryngeal landmarks matter together. Thyroid and cricoid cartilages
+support the larynx; arytenoids move the true vocal folds, with
+vestibular or false folds above them and the epiglottis superiorly.
+Use glottis for the true-vocal-fold region and its opening, not as
+another name for the false folds: the assigned definition groups them
+too broadly. Airway protection depends on coordinated closure and
+elevation, not an epiglottis acting alone as an infallible lid. The
+trachea lies anterior to the esophagus, with C-shaped supports and a
+posterior muscular wall.
+
+93
+00:32:45,648 --> 00:33:21,312
+Trace one breath to the exchange surface: trachea, carina, right or
+left main bronchus, lobar bronchus, segmental bronchus, smaller
+bronchi, bronchioles and terminal bronchioles form the conducting
+route. Respiratory bronchioles, alveolar ducts, sacs and alveoli begin
+the exchange route. Bronchioles lack the large airway's cartilage
+supports and their smooth muscle changes caliber; parasympathetic
+activity tends toward constriction and sympathetic effects toward
+dilation. These are mechanisms, not permission for a drug or a dose.
+
+94
+00:33:21,312 --> 00:34:02,376
+Separate airflow pressure from lung-distending pressure. Let
+atmospheric pressure be the zero reference: alveolar pressure briefly
+below zero draws air inward, above zero drives it outward, and
+equality means no bulk flow. Transpulmonary pressure is alveolar minus
+pleural pressure; it is a different gradient that helps explain lung
+expansion. Boyle's inverse pressure-volume relation assumes a fixed
+gas quantity and temperature. The chapter's negative pleural values
+describe quiet spontaneous breathing approximately, not every forced
+expiration or positive-pressure breath; "pleural pressure" does not
+mean normal pleural air.
+
+95
+00:34:02,376 --> 00:34:41,016
+Compare a stiff lung with a narrow airway. Low compliance means a
+smaller volume change for a given distending-pressure change; high
+resistance means more pressure difference is needed for a given flow.
+Surfactant reduces surface tension, while elastic recoil helps
+expiration. Quiet inspiration uses diaphragm and external
+intercostals; forced inspiration can recruit neck accessory muscles,
+and active forced expiration recruits abdominal and internal
+intercostal muscles. Similar visible effort can arise from different
+mechanisms, so the mechanism cannot be diagnosed from effort alone.
+
+96
+00:34:41,016 --> 00:35:26,232
+Volumes build capacities. Tidal volume is one ordinary breath;
+inspiratory reserve is extra air inhaled after an ordinary
+inspiration; expiratory reserve is extra air exhaled after ordinary
+expiration; residual volume remains after maximal expiration. IC
+equals tidal plus inspiratory reserve. VC equals inspiratory reserve
+plus tidal plus expiratory reserve. FRC equals expiratory reserve plus
+residual, and TLC equals VC plus residual. Simple expired-volume
+spirometry does not directly measure residual volume. Textbook average
+volumes are examples, not an individual ventilation target.
+
+97
+00:35:26,232 --> 00:36:13,272
+Calculate effective ventilation, not rate alone. Minute ventilation
+equals tidal volume times respiratory rate. A simplified alveolar
+estimate is tidal volume minus dead-space volume, then multiplied by
+rate. For an original model with150mL dead space,480mL at15breaths per
+minute gives7.2L per minute total but4.95L alveolar. At240mL
+and30breaths, the same7.2L total gives only2.7L alveolar. Anatomical
+plus alveolar dead space make physiological dead space; poor perfusion
+can enlarge the latter. This arithmetic model is not a prescription
+for ventilation settings.
+
+98
+00:36:13,272 --> 00:36:57,384
+Name the control inputs without inventing one master switch. The
+traditional table names medullary dorsal and ventral respiratory
+groups and a pontine respiratory group; their interacting network
+shapes rhythm and adjusts effort. Central chemoreceptors respond to
+CO2-related changes in central fluid acidity; carotid and aortic
+bodies sample arterial chemistry, including oxygen. Cortex contributes
+voluntary control, hypothalamus temperature and emotion,
+proprioceptors movement input, and airway irritant and inflation
+reflexes protective responses. The source's simplified group
+descriptions are not a literal on-off wiring diagram.
+
+99
+00:36:57,384 --> 00:37:43,368
+Finish the assigned sleep-apnea sidebar. Obstructive sleep apnea
+involves loss of upper-airway patency despite breathing effort;
+central apnea involves reduced respiratory drive and effort, and mixed
+patterns can occur. Snoring, witnessed pauses and daytime sleepiness
+prompt assessment, but are not a field diagnosis; sleep testing helps
+characterize the condition. CPAP applies continuous pressure to
+support airway patency. Contrary to the source's "regular intervals"
+wording, CPAP alone does not provide timed mandatory breaths or
+replace ventilation for a person who cannot breathe adequately. Other
+pressure-support devices and acute EMS indications require their own
+protocols.
+
+100
+00:37:43,368 --> 00:38:28,728
+The final gas-exchange opening introduces partial pressure: each gas
+contributes part of a mixture's total pressure, and those
+contributions add to the total. In an original dry-air model,21%
+oxygen at700mmHg contributes147mmHg, compared with about160mmHg
+at760mmHg. These are dry inspired-gas calculations, not alveolar
+oxygen, PaO2 or an oximeter percentage. Humidification, alveolar CO2,
+exchange and blood flow change the subsequent stages. The assignment
+ends during this introduction; the rest of22.4 is not silently added
+as a required reading.
+
+101
+00:38:28,728 --> 00:38:58,968
+1.2 Risk factors are not destiny. Biological susceptibility, illness,
+brain injury, disrupted sleep, medicines, substance use, trauma, loss,
+conflict, discrimination and material insecurity can interact. A
+factor may be modifiable by services or policy, not personal willpower
+alone. Do not turn a population association into an individual
+diagnosis or claim a simple neurotransmitter imbalance has been
+measured from behaviour.
+
+102
+00:38:58,968 --> 00:39:37,512
+Repair the modifiable-barrier shortcut. Section3.2 calls cost, access
+and support nonmodifiable because they may be outside the individual's
+immediate control. They are not necessarily fixed: a service can
+sometimes arrange interpretation, a reachable appointment, transport
+or another resource. Conversely, an attitude is not always freely or
+instantly changeable. Ask what prevented the agreed plan and who can
+help change it. The book's help-seeking pathway means the route a
+person takes toward assistance, not a mandatory single referral
+sequence.
+
+103
+00:39:37,512 --> 00:40:19,272
+Use the proxemic model without turning distance into consent. The
+text's descriptive zones are intimate, contact to18inches;
+personal,1-4feet; social,4-12feet; public,more than12feet. They are a
+teaching model, not universal cultural boundaries or an ambulance
+positioning rule. Ask what proximity feels acceptable, explain
+clinically necessary touch, expose only what is needed and provide
+realistic choices. A quiet person or a nod has not automatically
+agreed to examination; distress does not have to disappear before
+respectful urgent care can proceed.
+
+104
+00:40:19,272 --> 00:40:48,672
+Replace barriers. Jargon, interruptions, irrelevant personal
+questions, blaming demands for justification, moral judgments, subject
+changes, minimization and false reassurance can close discussion.
+Replace blame with a neutral request to describe what happened.
+Replace everything will be fine with an honest next step. Relevant
+direct safety questions remain appropriate; respect does not mean
+avoiding a necessary assessment.
+
+105
+00:40:48,672 --> 00:41:16,464
+Johari self-awareness. Open/arena is known to self and others;
+hidden/facade is known to self but not others; blind is known to
+others but not self; unknown is known to neither. Specific feedback
+can reveal a blind spot such as explaining too quickly. Behaviour
+already observed by colleagues is not automatically unknown. Learning
+does not require sharing private trauma or every hidden feeling.
+
+106
+00:41:16,464 --> 00:41:43,128
+Gibbs reflection connects experience and action. Describe the event;
+identify relevant feelings; evaluate what helped/hindered; analyze
+why; conclude what could change; develop an action plan. Use an
+observable interaction and specific improvement, not a verdict that
+you are good or bad. Check the patient perspective and evidence, then
+test the proposed change in later practice.
+
+107
+00:41:43,128 --> 00:42:28,896
+One worked reasoning cycle uses both kinds of safety. In an original
+rehearsal, a patient after a bicycle fall reports fear and worries
+that staff will dismiss a previous psychiatric diagnosis. Recognize
+the report plus actual breathing, movement and perfusion findings;
+analyze possible injury and physical causes without deciding it is
+only panic. Prioritize immediate threats while explaining your
+actions; agree on an achievable assessment step, use the authorized
+school approach, then reassess the observed response. A calmer voice
+alone does not prove that ventilation or injury risk is resolved.
+Transfer unresolved concerns as well as what improved.
+
+108
+00:42:28,896 --> 00:43:11,520
+Time scale does not remove the evaluation loop. The assigned acute and
+extended tables illustrate the same sequence: cues, interpretation,
+priorities, a justified plan, actual actions and measured outcomes. Do
+not copy their hospital injection, room restriction, camera
+observation or medication-timing example into a PCP plan. Four-hour
+observations and hourly rounding are not continuous physiological
+monitoring or an EMS reassessment interval. Choose timely reassessment
+from the actual risk and current protocol, document the method and
+outcome, and revise or escalate rather than call a partly achieved
+goal complete.
+
+109
+00:43:11,520 --> 00:43:40,608
+Turn curiosity into a usable question. PICOT specifies the
+population/problem, intervention, comparison, outcome and time. An
+original learning question is whether a structured handover prompt,
+compared with usual unprompted practice, reduces omitted allergy
+information during simulated transfers over four practice sessions.
+Its outcome is not automatically better survival; measure what the
+design actually tests.
+
+110
+00:43:40,608 --> 00:44:23,352
+Make a SMART aim and test it. Specific names exactly what will change;
+measurable identifies a count or observation; achievable fits people
+and resources; relevant connects to the real need; time-bound sets
+when to review. An original simulation aim is to reduce omitted
+allergy information across four practice sessions without delaying the
+critical report. Ask what you want to achieve, how you will recognize
+improvement and what change to try. Plan predicts; Do tests; Study
+compares result with prediction; Act adapts, adopts or abandons and
+plans the next test. Do not label all changed numbers an improvement.
+
+111
+00:44:23,352 --> 00:44:59,448
+Treat the EBP example table as conditional. Head elevation,
+repositioning, PPE and oxygen each require the actual indication,
+patient tolerance, contraindications and current protocol. A generic
+thirty to forty-five degree bed angle, two-hour turning example or
+statement about oxygen and COPD is not a universal patient order. It
+also does not establish that every person with COPD needs continuous
+oxygen. Link an action to a justified goal and monitor benefit and
+harm rather than performing every table item.
+
+112
+00:44:59,448 --> 00:45:44,088
+Do not transplant the U.S. DNR anecdote. A patient's resuscitation
+preference, a valid No CPR medical order, a MOST and an advance
+directive are related but distinct. The textbook story about filing a
+patient-signed form is not a complete BC validation procedure. Current
+HealthLinkBC distinguishes No CPR from other care, and BCEHS R04
+directs consultation when the appropriate intervention or whether to
+start CPR is uncertain. No CPR does not mean no comfort, symptom
+relief or all other indicated care. Check the actual document and
+current authorized process; do not create, override or infer an order
+from the story.
+
+113
+00:45:44,088 --> 00:46:31,272
+Validate a unit conflict before interpreting a chart. The assigned
+printed page 173 example pairs89.3 degrees Fahrenheit with38.5 degrees
+Celsius; they cannot be equivalent. Celsius equals Fahrenheit minus
+32, multiplied by five ninths:89.3 F is about31.8 C, while38.5 C
+is101.3 F. Do not choose one as the patient's true temperature from
+arithmetic alone. Recheck the original measurement, route/device and
+record, preserve the discrepancy and repeat appropriately while
+assessing the patient. This is source error detection, not an answer
+to the textbook case questions.
+
+114
+00:46:31,272 --> 00:47:13,680
+The vascular cold-limb sign is not a core-temperature diagnosis. The
+classic six-P description includes pain, pallor, pulselessness,
+paresthesia, paralysis and poikilothermia: here the affected limb is
+unusually cold or takes on ambient temperature with poor blood supply.
+The assigned parenthesis about inability to regulate core temperature
+misstates this local context. New pain, coolness or sensory/motor loss
+can be urgent even without all six signs. Compare sides and baseline,
+assess promptly and escalate through the current school/service
+approach; do not wait for the complete mnemonic.
+
+115
+00:47:13,680 --> 00:47:54,768
+Read the NCJMM layers as a measurement framework, not a rigid bedside
+script. Broad clinical decisions and judgment are unpacked into
+forming, refining and evaluating hypotheses; the directly measurable
+six functions sit in layer 3, and contextual influences in layer 4.
+Show the work: identify a real cue, explain its meaning, compare
+competing risks, choose a justified authorized action and evaluate the
+observed response. A normal finding can be relevant evidence. The
+source's claims of universal superiority or a replacement for ADPIE go
+beyond NCSBN's stated purpose.
+
+116
+00:47:54,768 --> 00:48:35,424
+Use active retrieval to reveal a reasoning gap. Close the reading,
+reconstruct the six-function chain in your own words, then apply it to
+one unfamiliar original case. Explain one cue, a competing
+explanation, the missing information that matters, a permitted next
+step and the response you will reassess. Reopen the guide, correct the
+specific omission, then try again without looking on another occasion.
+Fluency while rereading is not evidence of unaided recall. This is an
+original study routine for the school's Active Retrieval focus, not an
+official scoring rubric or exam prediction.
+
+117
+00:48:35,424 --> 00:49:37,632
+Do not silently reconcile Table7.5 with Table7.1. Table7.5 gives pulse
+rates per minute of120-180 for preterm infants,100-160 for
+newborns0-1month,80-140 for infants1-12months,80-130 for
+toddlers1-3years,80-110 for preschoolers3-5years,70-100 for school
+age6-12years, and60-100 for adolescents13-18years and adults. Compare
+the actual infant values with Table7.1's100-180: the difference is
+real, not a transcription you should hide. Identify the specified
+table or school reference in an exam question; in patient care, assess
+state, method, symptoms and trend instead of choosing whichever table
+makes a finding look normal.
+
+118
+00:49:37,632 --> 00:50:27,096
+Table7.3 separates temperature routes. This source lists oral35.8-37.3
+C, axillary34.8-36.3, tympanic36.1-37.9 and rectal36.8-38.0. Keep
+these values tied to FON Table7.3: another assigned book may use
+different intervals, and even this book's age table uses a different
+oral interval. A labelled reference range is not a validated fever
+decision rule for every age. In particular, it must not reassure you
+about a young infant at a recognized fever threshold. Record the
+actual route and device; do not convert a route using a fixed offset.
+
+119
+00:50:27,096 --> 00:51:18,264
+Correct a temperature-difference error on printed279. The book pairs
+a0.3-0.6 C difference with32.5-33.1 F higher, incorrectly applying the
+absolute-temperature offset. For an absolute reading, F equals1.8
+times C plus32. For a difference, delta F equals1.8 times delta C,
+with no plus32: a0.3-0.6 C difference is0.54-1.08 F. This repairs the
+arithmetic, not the clinical claim that every ear reading is
+predictably higher than every oral reading. Device, positioning and
+patient factors still prevent a universal route-conversion rule.
+
+120
+00:51:18,264 --> 00:51:58,560
+Relate cuff dimensions to the arm, not the cloth label alone. The
+source describes bladder width near40percent of arm circumference and
+bladder length80-100percent; these refer to the inflatable bladder,
+not the whole outer fabric. Follow the actual manufacturer's fit
+markings. A cuff that does not fit can bias the result. The reading
+defines an orthostatic fall as at least20 mmHg systolic or10 diastolic
+within three minutes of standing. A high-risk or unstable patient
+should not be stood up merely to produce this measurement; assessment
+safety and the actual protocol come first.
+
+121
+00:51:58,560 --> 00:52:37,200
+The actual assigned section 2.6 begins with observation, not a coma
+score alone. Notice general appearance, interaction, level of
+alertness, eye/nose drainage, facial symmetry and access to glasses,
+contacts or hearing aids. Ask what is new and compare the person's
+baseline. An unkempt appearance is a reason to ask about function and
+support, not proof of neglect; limited eye contact can have cultural
+or personal explanations. A new change in consciousness or facial
+movement requires timely assessment rather than a psychiatric label
+from appearance.
+
+122
+00:52:37,200 --> 00:53:06,432
+Use non-testable rather than inventing a response. The source's older
+C/E/T suffixes differ from the official structured GCS aid's NT.
+Swelling, an airway device, paralysis or another barrier may prevent
+testing; record the reason, not an automatic 1 or a fabricated
+complete total. Protect the airway and investigate deterioration
+regardless of a convenient score; reassess both sides and the trend.
+
+123
+00:53:06,432 --> 00:53:44,328
+Make sample quality explicit. Check the actual meter, compatible
+unexpired strips, storage conditions and required quality control
+before use. Clean the sampling site and let it dry completely;
+contamination or wet preparation can distort the sample. Use an
+appropriate finger-side site and a safe single-use lancet. Forceful
+milking can introduce tissue fluid or damage the sample. Apply the
+required volume as the device instructs; do not smear it, invent a
+number from an error display or treat every first-versus-second-drop
+rule as universal.
+
+124
+00:53:44,328 --> 00:54:21,648
+Prevent bloodborne transfer during assisted monitoring. A fingerstick
+device must never be shared between people, even if someone proposes
+changing its lancet. For assisted testing, use the appropriate single-
+use auto-disabling device. If a professional meter is shared, clean
+and disinfect it after each use exactly as its manufacturer permits;
+an ordinary home meter is not automatically suitable. Separate unused
+supplies from used equipment, dispose of the lancet at the point of
+use, change contaminated gloves and clean hands before touching clean
+supplies.
+
+125
+00:54:21,648 --> 00:55:14,880
+Build the actual ATMIST AMBO report. A is age and identity; T is onset
+or injury time; M is mechanism or medical complaint; I is injuries and
+examination findings; S is signs, including vital-sign trends and GCS;
+T is treatment and response. AMBO adds allergies with reactions,
+medication, relevant medical/social/family background and other
+important information. SBAR instead organizes a consultation as
+situation, background, assessment and recommendation or requested
+decision. Confirm the patient identity and receiving responsibility;
+promptly raise any identifier mismatch. A quiet 20-30-second critical
+handover is conditional on immediate safety, not a reason to stop
+necessary care.
+
+126
+00:55:14,880 --> 00:55:57,984
+Original handover practice: An older adult became unwell two hours ago
+and is now confused and breathing rapidly. Pressure has fallen from
+112/70 to 92/58; pulse has risen from 104 to 122. Give the measured
+oxygen setting and saturation, relevant examination, actual support
+and response, then allergy reactions, medicines and background. State
+that deterioration is continuing and identify the immediate help
+required. Do not hide a falling trend because the latest systolic
+remains above 90. Pause for the receiving team to clarify and
+explicitly accept responsibility.
+
+127
+00:55:57,984 --> 00:57:01,200
+Use the adult prehospital Table 2 rather than guessing what abnormal
+means. Its 15-minute column includes pulse below 50 or above 110/min,
+systolic pressure below 90 mmHg, respirations below 10 or above
+24/min, saturation below 94 percent despite oxygen/CPAP, increased
+breathing effort, GCS below 15 and glucose below 4 during treatment,
+as well as treatment/medication or listed concerning symptoms. Active
+resuscitation, impending cardiovascular/respiratory failure and the
+first 10 minutes after arrest are in its 2-5-minute column; the prose
+also discusses 2-3 minutes during shock resuscitation. Table 2
+separately notes hourly glucose after symptom-free recovery above 4,
+unless symptoms return; that is not non-conveyance clearance. These
+are setting-labelled monitoring instructions, never a reason to wait
+when the patient changes.
+
+128
+00:57:01,200 --> 00:57:52,248
+Do not blend consolidated-care Table 1 into Table 2. Table 1 uses
+saturation below 90 percent despite oxygen and GCS below 13, with
+temperature below 35 or above 38 C, alongside pulse below 50/above
+110, pressure below 90 and respirations below 10/above 24. Its
+15-minute symptom list includes chest pain, ischemic/unstable ECG
+changes, dyspnea, altered mentation, concerning behavior, abdominal
+pain despite analgesia, spinal restriction and major trauma; others
+are in the 30-minute column. Its hourly glucose note for below 4 or
+above 12 is not permission to postpone correction of a low. State the
+setting and escalate from the actual findings.
+
+129
+00:57:52,248 --> 00:58:06,744
+Prepare to explain the seven assigned module domains, perform the
+school assessment sequence and interpret actual observations. Use the
+full lectures and paired reading explanations rather than a fact-only
+checklist.
+
+130
+00:58:06,744 --> 00:58:21,000
+Practise the school case types with original simulation information,
+including an unresponsive prone patient and an older person after a
+fall. Do not memorize a fabricated answer as though it were the
+assessed case.
+
+131
+00:58:21,000 --> 00:58:33,024
+Your first PCR must be your own record of what was actually observed
+and done. We provide a blank aid and demonstration method, not a
+completed school submission or quiz response.
+
+132
+00:58:33,024 --> 00:58:46,200
+The school reading locators remain visible below, including unresolved
+revision or extent issues. Teaching the confirmed material continues
+while those source gaps are retained, not hidden.

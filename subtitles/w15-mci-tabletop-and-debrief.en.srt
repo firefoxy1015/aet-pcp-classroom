@@ -1,0 +1,239 @@
+1
+00:00:00,000 --> 00:00:13,728
+This is an original tabletop built from the visible Week 15 school
+plan. It is not the school’s hidden assessment station, official
+scoring sheet or Moodle quiz. Do not enter it as a result in the
+school system.
+
+2
+00:00:13,728 --> 00:00:25,512
+Have the current adult and pediatric job aids open. The timer is a
+learning constraint, not a reason to skip safety, alter the algorithm
+or invent a missing observation.
+
+3
+00:00:25,512 --> 00:00:39,480
+For a small crew, functions may be combined as the incident plan
+directs. The exercise lead announces who is coordinating each function
+and where reports go; learners do not create a second command
+structure.
+
+4
+00:00:39,480 --> 00:00:52,512
+Rotate roles only at an explicit handoff. The next person repeats the
+current hazards, patient count, triage totals, unit status,
+destinations and open requests before accepting the role.
+
+5
+00:00:52,512 --> 00:01:07,608
+A high-speed collision involves four vehicles on a two-lane highway.
+Dispatch reports at least twelve people, including children. One
+access road is partly blocked, the count is still an estimate and two
+occupants have not been located.
+
+6
+00:01:07,608 --> 00:01:24,816
+Your team has one ambulance at the scene. A second unit is delayed by
+traffic. The scenario is designed to test the system, not to reward a
+fast diagnosis: announce the capacity problem, request appropriate
+resources and use the current incident structure.
+
+7
+00:01:24,816 --> 00:02:08,472
+In this fictional rehearsal you are the assigned exercise incident
+lead. Practice report: Dispatch, Unit twenty-one. Major incident
+declared at Highway eight and Cedar Road: a four-vehicle high-speed
+collision. At least twelve patients reported, including children; two
+occupants remain unlocated. Individual conditions are not yet
+confirmed. One access lane is partly blocked; no additional hazard has
+been confirmed. Request additional ambulances and fire-service traffic
+and extrication support through dispatch. Unit twenty-one will update
+after the first count. This exercise role does not grant real
+incident-command authority.
+
+8
+00:02:08,472 --> 00:02:22,776
+The location and unit number are fictional training details. In a live
+response, use the actual location, observed hazards and dispatched
+resources. Never repeat the practice script as a real report.
+
+9
+00:02:22,776 --> 00:02:46,320
+Use the current adult chart for each fictional card. Cards B through F
+cannot walk on command. A is Minor; B is Deceased after airway
+positioning fails to restore breathing; C, D and E are Immediate at
+their first matching branch. F is Delayed because the earlier
+breathing and perfusion branches are negative and the command is
+followed.
+
+10
+00:02:46,320 --> 00:03:03,576
+A tag is a rapid priority message, not a definitive diagnosis. In
+practice, use the exact local labels, required patient identifier and
+movement instructions. If the card leaves a key finding out, ask for
+clarification rather than guessing.
+
+11
+00:03:03,576 --> 00:03:18,384
+The posted BCEHS START aids set a target of 30 seconds per patient.
+Keep the chart visible until the sequence is reliable. The aim is a
+consistent first pass, not guessing faster or compressing a necessary
+branch.
+
+12
+00:03:18,384 --> 00:03:33,408
+The school may observe time, category, tag and communication
+separately. Record each honestly. Finishing inside the target does not
+prove accuracy, and a correct tag does not excuse an unsafe approach.
+
+13
+00:03:33,408 --> 00:03:47,520
+After the first six cards, the scribe reports the count and the triage
+leader confirms it against visible tags. The two unlocated occupants
+remain “not yet found,” not silently dropped from the incident
+picture.
+
+14
+00:03:47,520 --> 00:04:01,680
+When a patient moves or is reassigned, update the incident’s approved
+tracking method. If the digital system is unavailable, use the
+fallback specified by command rather than creating a separate
+undocumented process.
+
+15
+00:04:01,680 --> 00:04:16,968
+A bus is found down an embankment, and six children are brought to the
+safe sorting area. Use JumpSTART as assigned by the exercise lead.
+Keep walking ability, respiratory branch, pulse and AVPU in their
+correct order.
+
+16
+00:04:16,968 --> 00:04:30,120
+This additional group changes patient count, staff needs and the
+urgency of the next radio update. The triage lead informs command; the
+team does not begin an uncoordinated transport surge.
+
+17
+00:04:30,120 --> 00:04:58,368
+Cards B through D are non-walking; C and D are breathing
+spontaneously. A enters the Minor walking branch. B remains apneic
+after airway positioning but has a pulse; continued apnea after the
+chart’s five breaths leads to Deceased on this tool. C is Immediate
+because the breathing rate is above forty-five. D is Delayed after the
+relevant breathing, pulse and appropriate pain-response findings.
+
+18
+00:04:58,368 --> 00:05:13,656
+Do not use the adult respiratory threshold, a full neurological scale
+or an age rule recalled from a textbook. If the child’s communication
+or developmental needs make the tool uncertain, request the
+appropriate secondary review through command.
+
+19
+00:05:13,656 --> 00:05:30,720
+The second update should not repeat the original report word for word.
+State that a bus has been found, six additional children are accounted
+for, two vehicle occupants remain unlocated, access is still partly
+restricted and the second ambulance is delayed.
+
+20
+00:05:30,720 --> 00:05:42,720
+Ask command to confirm the next resource or traffic action and report
+whether transport destinations can accept the current mix. Mark
+estimates clearly and set the next update trigger.
+
+21
+00:05:42,720 --> 00:06:00,144
+In the next run, a child previously sorted as Delayed has a reliable
+respiratory rate of 48 per minute. Do not preserve the earlier
+category because it is already on the tag. Reassess using JumpSTART
+and update the priority according to the current chart.
+
+22
+00:06:00,144 --> 00:06:13,416
+The update belongs to the incident system: tell the triage lead,
+receiving treatment function and transport coordinator as the plan
+requires. Keep the earlier value and the new value distinguishable in
+the record.
+
+23
+00:06:13,416 --> 00:06:28,992
+The transport lead does not simply choose the nearest facility. The
+role coordinates the plan, unit availability, route and receiving
+capacity; dispatch and command receive updates so vehicles do not
+stack at one access point.
+
+24
+00:06:28,992 --> 00:06:41,712
+Use the local patient identifier and authorized transport log. A head
+count alone is not enough to reconnect the triage category, the
+patient and the destination after the scene changes.
+
+25
+00:06:41,712 --> 00:06:58,320
+The school asks learners to rotate command in the Sunday exercise.
+Make the rotation an observable handoff rather than a silent change:
+the incoming leader receives the current picture and accepts it, then
+command identifies the new contact to the crews.
+
+26
+00:06:58,320 --> 00:07:08,304
+If the handoff is interrupted, pause the role change and ask for the
+missing part. Do not assume the new lead heard a critical hazard or
+transport constraint.
+
+27
+00:07:08,304 --> 00:07:22,560
+Begin with the timeline and observed actions. Ask what the team
+expected, what actually happened, which update changed the plan and
+whether the right role received it. Keep the discussion specific
+enough that another observer could verify it.
+
+28
+00:07:22,560 --> 00:07:38,592
+Look for system conditions as well as individual decisions: blocked
+access, noisy radio traffic, duplicate tasking, missing tags,
+transport delays or unclear role transfer. End with one change and a
+repeated scenario to test it.
+
+29
+00:07:38,592 --> 00:07:53,688
+A trainee may feel distress after assigning different priorities to
+patients who all need help. Invite a concise reflection on the
+decision and the resource constraint; do not ask the learner to prove
+that they cared by disclosing personal details.
+
+30
+00:07:53,688 --> 00:08:08,232
+A fair process uses the agreed tool consistently, communicates
+uncertainty and asks for review when a case does not fit. The category
+is a temporary operational message, not a judgment of worth or a
+guarantee of outcome.
+
+31
+00:08:08,232 --> 00:08:24,144
+Extended incidents require role coverage, relief, hydration, food and
+rest to be planned by the appropriate command and logistics functions.
+Do not invent fixed shift durations or rotations; use the actual local
+incident plan.
+
+32
+00:08:24,144 --> 00:08:42,888
+A strong emotional response can occur even when a team followed the
+plan. Support should be respectful and voluntary. If distress
+continues or interferes with sleep, safety or daily functioning, use
+the available professional support route rather than relying on a
+class debrief alone.
+
+33
+00:08:42,888 --> 00:08:57,504
+This original checklist supports rehearsal. It does not assign an
+official pass mark, replace the instructor’s current scoring form or
+establish clinical competence. Keep any final performance record in
+the school’s required format.
+
+34
+00:08:57,504 --> 00:09:10,440
+After the run, give one observed strength, one specific gap and one
+repeatable next action. Then rerun the changed segment so the learner
+can demonstrate the repair rather than only describe it.

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">ST displacement relative to dominant QRS direction</title>
+  <desc id="desc">Three idealized uncalibrated examples show concordant elevation, concordant depression and discordant elevation. Direction alone does not establish benignity or diagnosis.</desc>
+  <rect width="1200" height="680" rx="24" fill="#101c2d"/>
+  <text x="48" y="57" font-family="Arial,sans-serif" font-size="30" font-weight="bold" fill="#f3f7ff">Compare ST direction with the dominant QRS</text>
+  <text x="48" y="94" font-family="Arial,sans-serif" font-size="21" fill="#b7c9e2">Direction first. Then the amount, conduction context and patient.</text>
+  <g fill="#1c2f47" stroke="#46617e" stroke-width="2"><rect x="42" y="145" width="354" height="355" rx="17"/><rect x="423" y="145" width="354" height="355" rx="17"/><rect x="804" y="145" width="354" height="355" rx="17"/></g>
+  <g stroke="#748ba6" stroke-width="2" stroke-dasharray="7 7"><path d="M63 310H375"/><path d="M444 310H756"/><path d="M825 310H1137"/></g>
+  <g font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#f3f7ff"><text x="66" y="188">Concordant elevation</text><text x="447" y="188">Concordant depression</text><text x="828" y="188">Discordant elevation</text></g>
+  <path d="M67 310H124L143 322L171 224L194 320L208 275H267Q281 236 298 275L321 310H370" stroke="#74dbc3" stroke-width="5" fill="none" stroke-linejoin="round"/>
+  <path d="M448 310H505L526 291L553 409L575 323L588 350H645Q660 390 678 349L701 310H751" stroke="#f6c97d" stroke-width="5" fill="none" stroke-linejoin="round"/>
+  <path d="M829 310H886L907 291L934 409L956 322L969 275H1026Q1041 236 1059 275L1082 310H1132" stroke="#b7a6fa" stroke-width="5" fill="none" stroke-linejoin="round"/>
+  <g font-family="Arial,sans-serif" font-size="21" fill="#c6d7ed"><text x="66" y="455">Positive QRS + ST up</text><text x="447" y="455">Negative QRS + ST down</text><text x="828" y="455">Negative QRS + ST up</text></g>
+  <text x="600" y="557" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#f3f7ff">Expected discordance is not unlimited discordance.</text>
+  <text x="600" y="601" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#b7c9e2">These shapes teach direction only, not a full LBBB morphology or calibrated ST threshold.</text>
+  <text x="600" y="645" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#a9bad0">Original schematic, not patient ECG data.</text>
+</svg>

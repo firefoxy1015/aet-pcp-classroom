@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="650" viewBox="0 0 1160 650" role="img" aria-labelledby="title desc">
+  <title id="title">The Nitro Trap: a conditional serial-circulation mechanism</title>
+  <desc id="desc">Venous return supports right-heart output, pulmonary flow and left-heart filling. If filling is already limited, additional venodilation can reduce stroke volume and systemic perfusion. This does not diagnose right ventricular infarction or prescribe a fluid bolus.</desc>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#53799b"/></marker></defs>
+  <rect width="1160" height="650" rx="24" fill="#f0f5fa"/>
+  <g font-family="Arial,sans-serif" fill="#16324b">
+    <text x="48" y="58" font-size="28" font-weight="700">Less filling can mean less output</text>
+    <text x="48" y="94" font-size="20">Original mechanism map: follow the right and left pumps in series.</text>
+    <g fill="white" stroke="#b8cddd" stroke-width="2">
+      <rect x="48" y="151" width="238" height="159" rx="15"/>
+      <rect x="324" y="151" width="238" height="159" rx="15"/>
+      <rect x="600" y="151" width="238" height="159" rx="15"/>
+      <rect x="876" y="151" width="238" height="159" rx="15"/>
+    </g>
+    <text x="68" y="193" font-size="23" font-weight="700">Venous return</text>
+    <text x="68" y="234" font-size="19">Blood available</text><text x="68" y="263" font-size="19">for right-heart filling</text>
+    <text x="344" y="193" font-size="23" font-weight="700">Right heart</text>
+    <text x="344" y="234" font-size="19">Forward output</text><text x="344" y="263" font-size="19">to the lungs</text>
+    <text x="620" y="193" font-size="23" font-weight="700">Left-heart filling</text>
+    <text x="620" y="234" font-size="19">Blood available</text><text x="620" y="263" font-size="19">for systemic ejection</text>
+    <text x="896" y="193" font-size="23" font-weight="700">Systemic output</text>
+    <text x="896" y="234" font-size="19">Stroke volume</text><text x="896" y="263" font-size="19">and tissue perfusion</text>
+    <g stroke="#53799b" stroke-width="3" fill="none" marker-end="url(#a)"><path d="M291 230H315"/><path d="M567 230H591"/><path d="M843 230H867"/></g>
+    <rect x="48" y="361" width="1066" height="112" rx="15" fill="#e1edf7"/>
+    <text x="72" y="402" font-size="23" font-weight="700">If filling or right-sided output is already limited...</text>
+    <text x="72" y="442" font-size="21">Additional venodilation can lower preload, pressure and effective perfusion.</text>
+    <rect x="48" y="513" width="1066" height="94" rx="15" fill="#fff1db" stroke="#d5a04a" stroke-width="2"/>
+    <text x="72" y="549" font-size="22" font-weight="700">Assess and screen the patient, not just an ECG territory.</text>
+    <text x="72" y="583" font-size="19">Not every inferior STEMI is an RV infarct. A fluid bolus is not an automatic conclusion.</text>
+  </g>
+</svg>

@@ -1,0 +1,130 @@
+1
+00:00:00,000 --> 00:00:15,840
+The saved Week 16 plan specifies one or two system scenarios,
+extensive documentation, a formal handover and feedback on the day. It
+does not provide the station deck, exact scenario prompts or AET
+scoring rubric.
+
+2
+00:00:15,840 --> 00:00:29,856
+This lesson is original rehearsal support. Use the instructor’s
+current station instructions and school form on the day; do not treat
+an invented framework or the provincial exam guideline as the school’s
+official scoring rule.
+
+3
+00:00:29,856 --> 00:00:42,816
+Read the station brief carefully and use only the resources it makes
+available. A clear opening states the immediate concern, assigns tasks
+and leaves room to revise the plan as the patient changes.
+
+4
+00:00:42,816 --> 00:00:54,432
+Show patient-centred communication as well as clinical reasoning. Ask
+permission when appropriate, explain your actions and avoid speaking
+about the patient as though they were absent.
+
+5
+00:00:54,432 --> 00:01:07,896
+Use the school’s What Else? prompt before committing to a major
+action. Name at least one competing explanation that fits the current
+cues, then identify what observation or question would help
+distinguish it.
+
+6
+00:01:07,896 --> 00:01:19,800
+After an action, ask what changed, what should have changed and what
+got worse. This prevents the scenario from becoming a memorized script
+and directs the next reassessment.
+
+7
+00:01:19,800 --> 00:01:33,912
+A defensible PCR lets a later reader reconstruct what the patient was
+like, what the crew knew, what happened next and how the patient
+responded. Use concrete descriptions, source attribution and time
+references.
+
+8
+00:01:33,912 --> 00:01:45,768
+Do not write a diagnosis as though it were an observed fact. If a
+monitor reading conflicts with the patient, document the signal
+limitation and the clinical findings that guided reassessment.
+
+9
+00:01:45,768 --> 00:02:10,392
+For the school case, begin with the information actually available: a
+two-hundred-twenty-kilogram adult on a third floor with stated
+symptomatic bradycardia. During the station add real observations,
+methods and times. Do not fill a model PCR with invented vital signs,
+a guessed diagnosis, undocumented consent or an intervention that was
+discussed but not performed.
+
+10
+00:02:10,392 --> 00:02:31,752
+Connect each action to the patient’s actual response and the next
+decision. Mark a reported statement as reported, an uncertain reading
+as uncertain and an unassessed item as unassessed. Documentation
+should allow the next clinician to reconstruct the encounter without
+erasing the point where your working explanation changed.
+
+11
+00:02:31,752 --> 00:02:46,824
+Use the school-taught SBAR or MIST structure. Be concise, but include
+the information that changes ongoing care: the immediate concern,
+relevant history, current findings, what was done, the response and
+what remains uncertain.
+
+12
+00:02:46,824 --> 00:02:58,680
+The verbal summary and PCR should describe the same chronology. If the
+receiver asks for clarification, answer directly and update the record
+where required by the service process.
+
+13
+00:02:58,680 --> 00:03:26,760
+Use the format your instructor actually specifies; SBAR or MIST is an
+organizing aid, not a recovered AET mandate. Explain the current
+concern, the essential history, assessment trend, actions and
+response. Include measurement limitations, movement resources and the
+unresolved risk when relevant. Do not spend the whole handover
+retelling background while omitting the patient’s present state.
+
+14
+00:03:26,760 --> 00:03:49,320
+End with what still needs to happen and confirm that the receiver has
+understood and accepted the next responsibility. If the spoken account
+differs from the PCR, reconcile the real facts rather than changing
+them to sound consistent. Therapeutic communication also applies to
+the patient: explain the transfer and preserve privacy and dignity
+throughout.
+
+15
+00:03:49,320 --> 00:04:01,680
+After the station, write the instructor’s observation in behavior
+terms. Replace “I was slow” with the exact step that was delayed and
+the effect that delay had on the assessment or handover.
+
+16
+00:04:01,680 --> 00:04:16,536
+The BC Provincial Examination Guidelines review process is not a
+substitute for the school’s feedback process. A rehearsal result is
+evidence for the next practice plan, not a claim that the learner
+passed a licensing or school examination.
+
+17
+00:04:16,536 --> 00:04:42,048
+After the rehearsal, separate your observation, the instructor’s
+comment and your interpretation. A missing response in handover points
+to an evaluation-and-transfer drill; an unreliable pressure points to
+technique and interpretation; a missed changing cue points to clinical
+judgment. Choose the reading route that explains that actual gap
+rather than rereading every chapter without a purpose.
+
+18
+00:04:42,048 --> 00:05:05,496
+Use the next variation to observe whether the corrected behaviour
+appears without a prompt. Keep that evidence separate from completion
+of a reading or playback of a lecture. The school’s actual assessment
+decides its outcome. This course does not assign a numerical pass. It
+cannot reconstruct an unavailable school rubric, and it does not
+certify practical competence.

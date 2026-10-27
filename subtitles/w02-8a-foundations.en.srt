@@ -1,0 +1,652 @@
+1
+00:00:00,000 --> 00:00:14,736
+School Eight A begins with drug language and follows pharmacokinetics,
+pharmacodynamics and receptor systems. We will keep those concepts
+connected to one clinical question: what should this medication change
+in this patient?
+
+2
+00:00:14,736 --> 00:00:26,136
+A dose that is calculated correctly can still be the wrong decision.
+The indication, authority, route, formulation and patient physiology
+must all support giving it.
+
+3
+00:00:26,136 --> 00:00:40,848
+Nancy chapter Seven provides the principal-textbook topic connection.
+The school module supplies this weekend's domains; current operational
+sources resolve drug and scope details rather than being silently
+mixed with classroom examples.
+
+4
+00:00:40,848 --> 00:00:53,520
+Scientific examples here do not authorize every listed drug or route
+for a student or a PCP. Learn the mechanism, then separately verify
+that you may perform the intervention in the actual setting.
+
+5
+00:00:53,520 --> 00:01:07,272
+Use the generic name to identify the medication and recognize any
+brand name on the package. Read the actual label every time, including
+formulation, strength, route, expiry and integrity.
+
+6
+00:01:07,272 --> 00:01:19,368
+A dose is the amount intended for the patient. Concentration tells you
+the amount in each unit of volume. Volume equals dose divided by
+concentration after their units have been aligned.
+
+7
+00:01:19,368 --> 00:01:35,376
+For a fictional calculation, six milligrams from a two-milligram-per-
+millilitre product requires three millilitres. If the label instead
+says ten milligrams per millilitre, the same six-milligram dose
+requires zero point six millilitres.
+
+8
+00:01:35,376 --> 00:01:45,792
+Never identify concentration from cap colour or familiar packaging
+alone. A correct medication name does not rescue a tenfold
+concentration error.
+
+9
+00:01:45,792 --> 00:01:58,464
+An indication is the clinical reason to use a drug. It must fit the
+assessed patient, not just a symptom word. Wheeze, for example, does
+not identify every underlying cause.
+
+10
+00:01:58,464 --> 00:02:12,624
+A contraindication and a precaution are not identical. Read the
+current source for the specific situation: one may preclude treatment,
+while the other requires a changed plan, closer assessment or
+consultation.
+
+11
+00:02:12,624 --> 00:02:26,856
+Side effects may be expected but unwanted; an adverse effect is
+harmful. A predictable effect can still be a serious adverse effect,
+such as opioid respiratory depression. Expected does not mean
+acceptable.
+
+12
+00:02:26,856 --> 00:02:39,648
+Toxicity is not limited to deliberate overdose. An ordinary dose may
+become unsafe with accumulation, organ dysfunction, interacting
+medicines or unusual sensitivity.
+
+13
+00:02:39,648 --> 00:02:53,352
+Pharmacokinetics asks what the body does to the drug. Absorption,
+distribution, metabolism and excretion commonly overlap in time; they
+are not four stages that must finish one after another.
+
+14
+00:02:53,352 --> 00:03:08,616
+Intravenous administration enters systemic blood directly and bypasses
+an absorption step. Calling an IV dose instantly absorbed is
+convenient shorthand, but it hides the important difference from
+tissue or gut delivery.
+
+15
+00:03:08,616 --> 00:03:21,816
+Reaching blood is not the same as reaching the effect site or
+producing peak effect. Circulation, tissue distribution and receptor
+responses can still take time after an IV injection.
+
+16
+00:03:21,816 --> 00:03:33,600
+After administration, compare the expected course with the observed
+patient. Physiology can make a familiar drug slower, stronger or
+longer acting than you anticipated.
+
+17
+00:03:33,600 --> 00:03:46,584
+A muscle or subcutaneous injection must reach local circulation.
+Reduced tissue perfusion can delay or make absorption less
+predictable; that matters when interpreting a slow response.
+
+18
+00:03:46,584 --> 00:04:00,960
+The formulation also matters. A tablet must dissolve; an inhaled
+aerosol must reach a useful airway location; an intranasal dose needs
+an appropriate device, volume and mucosal contact.
+
+19
+00:04:00,960 --> 00:04:14,808
+Surface area, solubility, ionization and transport influence membrane
+passage. Do not turn a broad rule such as lipid-soluble drugs cross
+easily into a claim that every tissue barrier is absolute.
+
+20
+00:04:14,808 --> 00:04:28,584
+A delayed response is not permission to improvise a new route or stack
+doses before the expected onset. Reassess physiology, delivery and the
+indicated repeat interval while supporting immediate threats.
+
+21
+00:04:28,584 --> 00:04:42,912
+Bioavailability is the fraction of a dose reaching systemic
+circulation unchanged. IV delivery is the reference with one hundred
+percent bioavailability; other routes depend on absorption and
+presystemic loss.
+
+22
+00:04:42,912 --> 00:04:58,680
+After gut absorption, portal blood passes through the liver before
+systemic circulation. Metabolism in the gut wall and liver can lower
+oral availability. This is first-pass metabolism, not simply a synonym
+for slow absorption.
+
+23
+00:04:58,680 --> 00:05:15,288
+In formal comparisons, absolute availability uses the non-IV area
+under the concentration-time curve divided by the IV area, with
+correction for different doses. It is not estimated just by comparing
+how quickly a patient reports relief.
+
+24
+00:05:15,288 --> 00:05:29,928
+Sublingual or nasal delivery can avoid much first-pass loss for the
+absorbed portion, but swallowed drug and incomplete delivery still
+matter. Bypassing first pass does not make different formulations
+dose-equivalent.
+
+25
+00:05:29,928 --> 00:05:46,800
+IV offers direct access and controlled administration, but needs an
+indicated invasive procedure. IO accesses the vascular marrow space
+and has specific restrictions; it is not a routine interchangeable
+option for every PCP patient.
+
+26
+00:05:46,800 --> 00:06:01,008
+IM and SC routes depend on tissue absorption and the product. The
+school's general route times are approximate examples, not universal
+onset promises or reasons to switch an indicated emergency drug
+arbitrarily.
+
+27
+00:06:01,008 --> 00:06:14,640
+Inhaled bronchodilator delivery often aims at airway smooth muscle
+rather than requiring all medication to reach an alveolar-capillary
+surface. The patient's technique and device can change the delivered
+dose.
+
+28
+00:06:14,640 --> 00:06:29,520
+Oral delivery can be appropriate when swallowing is safe and the
+clinical goal allows its course. An unconscious or vomiting patient
+may not safely receive an oral medication; speed does not outrank
+aspiration risk.
+
+29
+00:06:29,520 --> 00:06:45,000
+Blood carries drug to tissues. Poor cardiac output or regional
+perfusion can delay effect even after direct vascular delivery. A
+poorly perfused target cannot be treated as if drug arrival were
+guaranteed instantly.
+
+30
+00:06:45,000 --> 00:06:58,872
+The apparent volume of distribution relates the amount of drug in the
+body to its measured plasma concentration. Extensive tissue uptake can
+produce a large calculated value, sometimes greater than actual body
+water.
+
+31
+00:06:58,872 --> 00:07:11,232
+A larger volume of distribution is not a claim that a new physical
+tank exists. Lipid solubility, tissue binding, plasma binding and
+physiological barriers all contribute.
+
+32
+00:07:11,232 --> 00:07:24,360
+The blood-brain and placental barriers are selective, not complete
+shields. Do not infer that a drug cannot affect the brain or fetus
+merely because a simple solubility label seems reassuring.
+
+33
+00:07:24,360 --> 00:07:37,992
+Many medications bind reversibly to plasma proteins such as albumin.
+The unbound fraction is available to cross membranes and interact with
+targets; bound drug can act as a reservoir as the balance changes.
+
+34
+00:07:37,992 --> 00:07:53,544
+Low albumin or competition for binding can change the free fraction.
+Clinical exposure also depends on distribution and clearance, so a
+changed fraction does not mean every drug's free concentration rises
+by the same fixed amount.
+
+35
+00:07:53,544 --> 00:08:06,816
+Record relevant liver or kidney disease, frailty, recent drugs and the
+response to previous doses. The safest adjustment is drug-specific and
+guideline-based, with consultation when indicated.
+
+36
+00:08:06,816 --> 00:08:19,872
+Do not copy the school's blanket instruction to always reduce every
+dose in liver disease. Some drugs are contraindicated, some need
+adjusted dosing and others require a different decision altogether.
+
+37
+00:08:19,872 --> 00:08:32,160
+Biotransformation chemically changes a drug. The liver is important,
+but metabolism is not exclusively hepatic and not every reaction
+follows a strict Phase One then Phase Two sequence.
+
+38
+00:08:32,160 --> 00:08:45,360
+Phase One includes oxidation, reduction and hydrolysis. Many reactions
+involve cytochrome enzymes. Phase Two adds a group through
+conjugation, often helping elimination.
+
+39
+00:08:45,360 --> 00:08:58,848
+Metabolism does not always switch the drug off. A prodrug may need
+activation, and an active metabolite may contribute to benefit or
+toxicity. Phase Two products are not universally inactive.
+
+40
+00:08:58,848 --> 00:09:12,096
+Reduced organ function, low perfusion and enzyme interactions may
+prolong an effect or reduce activation. Use the actual medication
+guidance rather than predicting one direction for every drug.
+
+41
+00:09:12,096 --> 00:09:22,560
+Clearance describes an equivalent volume of plasma cleared of drug per
+unit time. It is not the actual volume of urine produced, and it is
+not the half-life.
+
+42
+00:09:22,560 --> 00:09:35,712
+Kidneys can remove drug or metabolites through filtration and
+secretion, with reabsorption influencing the net result. Other drugs
+depend more on hepatic metabolism, bile or other pathways.
+
+43
+00:09:35,712 --> 00:09:48,480
+If removal is reduced while doses continue, drug or active metabolite
+can accumulate. A repeat dose must consider the previous doses and
+elapsed time, not just the current symptom score.
+
+44
+00:09:48,480 --> 00:10:01,512
+Some renal harms arise from how a drug affects kidney physiology, not
+merely from poor drug clearance. An NSAID risk assessment therefore
+includes renal function, perfusion and bleeding context.
+
+45
+00:10:01,512 --> 00:10:16,968
+In a simplified first-order example, one half-life leaves half the
+amount, two leave one quarter and four leave one sixteenth. Four or
+five half-lives is substantial reduction, not mathematically complete
+removal.
+
+46
+00:10:16,968 --> 00:10:29,952
+If an illustrative dose is eighty units, the amounts after successive
+half-lives are forty, twenty, ten and five. These units are fictional
+and do not establish a redosing schedule.
+
+47
+00:10:29,952 --> 00:10:43,416
+Zero-order elimination removes approximately a constant amount in a
+given time over the relevant concentration range. Saturable handling
+can make accumulation less predictable than a simple halving rule.
+
+48
+00:10:43,416 --> 00:10:56,400
+Clinical effect may outlast a plasma level or end before complete
+elimination. Active metabolites, redistribution and receptor
+mechanisms make duration more than a half-life calculation.
+
+49
+00:10:56,400 --> 00:11:08,352
+Onset is the time until a measurable effect begins. Peak effect is the
+strongest effect for the outcome being considered. Duration is how
+long that relevant effect persists.
+
+50
+00:11:08,352 --> 00:11:19,872
+The highest plasma concentration is called C max. It need not occur at
+the exact same moment as peak clinical effect, because effect-site
+arrival and signaling can lag.
+
+51
+00:11:19,872 --> 00:11:34,248
+A therapeutic window describes a useful exposure range between
+inadequate effect and unacceptable toxicity. Boundaries differ between
+patients and outcomes; a wide window does not make administration
+error harmless.
+
+52
+00:11:34,248 --> 00:11:47,520
+Before a repeat dose, ask whether the expected onset and peak have had
+time to occur, whether the route worked and whether the patient needs
+another intervention now. Do not wait for a medicine while ventilation
+is failing.
+
+53
+00:11:47,520 --> 00:11:56,592
+Pharmacodynamics asks what the drug does to the body. It includes
+desired effects, adverse effects and how the effect changes with
+exposure.
+
+54
+00:11:56,592 --> 00:12:09,240
+Two patients may receive the same nominal dose yet have different
+exposure through pharmacokinetics and different sensitivity through
+pharmacodynamics. Dose alone cannot predict the entire response.
+
+55
+00:12:09,240 --> 00:12:22,584
+Many drugs act at receptors, but others target enzymes, change
+physical properties or participate in chemical processes. The school
+COX example is an enzyme target, not a newly named receptor.
+
+56
+00:12:22,584 --> 00:12:34,056
+Link the target to the treatment goal and a monitoring plan. A
+mechanism explanation becomes clinically useful when it predicts both
+improvement and an early warning of harm.
+
+57
+00:12:34,056 --> 00:12:46,872
+Affinity describes binding tendency. Efficacy describes the ability to
+generate a response in the system. Potency compares the amount or
+concentration needed for a specified response.
+
+58
+00:12:46,872 --> 00:12:58,392
+A drug can bind well and produce little activation, while another
+produces a larger response. Binding strength alone does not determine
+maximum effect or clinical suitability.
+
+59
+00:12:58,392 --> 00:13:10,680
+For concentration-response curves, E C fifty is the concentration
+producing half that curve's maximal response. It is not the same
+statement as a dose effective in fifty percent of people.
+
+60
+00:13:10,680 --> 00:13:21,744
+Compare like outcomes under comparable conditions. Potency rankings
+across different routes, drugs or endpoints are not instructions to
+exchange equal milligram amounts.
+
+61
+00:13:21,744 --> 00:13:34,128
+On the schematic, A reaches a specified submaximal response at a lower
+concentration than B. That shows greater potency for the illustrated
+response, not a larger maximum.
+
+62
+00:13:34,128 --> 00:13:45,624
+C reaches a lower maximum in this model. Its curve cannot be made into
+A simply by moving further right. Maximal response and concentration
+needed are separate features.
+
+63
+00:13:45,624 --> 00:13:57,336
+Once useful response plateaus, additional drug may increase another
+unwanted effect. A ceiling on one outcome does not guarantee a ceiling
+on every toxicity.
+
+64
+00:13:57,336 --> 00:14:06,552
+These original curves have no clinical dose scale. Practise explaining
+their shapes, then use the actual drug monograph for safe patient
+dosing.
+
+65
+00:14:06,552 --> 00:14:18,240
+An agonist activates a receptor. A full agonist can produce the
+reference maximal response in a particular system, while a partial
+agonist has a lower maximal response there.
+
+66
+00:14:18,240 --> 00:14:29,952
+Morphine is the school's full opioid-agonist example and buprenorphine
+the partial-agonist example. These are mechanism comparisons, not
+permission for routine PCP administration.
+
+67
+00:14:29,952 --> 00:14:43,728
+A partial agonist may compete with a full agonist and reduce the
+response. In an opioid-dependent patient, certain transitions can
+precipitate withdrawal; the clinical plan must use the applicable
+protocol.
+
+68
+00:14:43,728 --> 00:14:56,112
+Do not infer that a partial agonist cannot cause serious respiratory
+depression, especially with other depressants. The school's ceiling-
+effect language is not a guarantee of harmless overdose.
+
+69
+00:14:56,112 --> 00:15:09,912
+A competitive antagonist competes with an agonist for binding at the
+receptor. In an ideal experimental model, enough agonist can overcome
+the blockade; this is not permission to give an unsafe clinical dose.
+
+70
+00:15:09,912 --> 00:15:22,656
+Noncompetitive mechanisms reduce response in a way that additional
+agonist cannot simply reverse. Describe the actual target rather than
+using antagonist as a loose name for every inhibitor.
+
+71
+00:15:22,656 --> 00:15:36,816
+Naloxone blocks opioid receptor effects. Reversal can restore
+ventilation, but the opioid may last longer and non-opioid causes may
+coexist. Continue airway support and reassessment.
+
+72
+00:15:36,816 --> 00:15:55,656
+Organophosphates inhibit acetylcholinesterase, allowing acetylcholine
+to accumulate. The school calls them an irreversible agonist in one
+passage; that is not a direct receptor mechanism. Atropine blocks
+muscarinic effects but does not repair every toxic effect.
+
+73
+00:15:55,656 --> 00:16:09,336
+Opioid receptor activation can reduce pain, but also lower respiratory
+drive and awareness. Miosis, nausea, reduced gut activity and
+circulatory effects may accompany the response.
+
+74
+00:16:09,336 --> 00:16:22,200
+Assess respiratory rate together with depth, air movement, airway
+protection and mental status. A displayed saturation on oxygen can
+remain reassuring while ventilation worsens.
+
+75
+00:16:22,200 --> 00:16:35,040
+An opioid toxidrome is a pattern, not a requirement that every sign be
+present. Do not withhold ventilation because pupils are not pinpoint
+or because the exact substance is unknown.
+
+76
+00:16:35,040 --> 00:16:48,984
+Naloxone may improve opioid-related ventilation, but recurrence and
+withdrawal are possible. Use the actual dosing pathway and continue
+reassessment rather than declaring the patient cured after awakening.
+
+77
+00:16:48,984 --> 00:17:02,328
+Alpha one activation generally increases vascular tone. Beta one
+effects include increased heart rate, contractility and conduction.
+Beta two activation relaxes bronchial smooth muscle.
+
+78
+00:17:02,328 --> 00:17:16,608
+Epinephrine acts across alpha and beta systems. That helps explain its
+role in anaphylaxis, where airway, breathing and circulation can all
+be threatened. Route and dose remain indication-specific.
+
+79
+00:17:16,608 --> 00:17:29,136
+Salbutamol preferentially targets beta two receptors, but selectivity
+is not absolute. Reassess airflow and work of breathing as well as
+tremor, heart rate and other adverse effects.
+
+80
+00:17:29,136 --> 00:17:41,904
+A faster pulse after a bronchodilator does not by itself prove
+treatment failure or success. Compare breathing, perfusion, patient
+experience and the time course before deciding what to do next.
+
+81
+00:17:41,904 --> 00:17:55,104
+Muscarinic receptor activity can increase secretions, constrict
+bronchi, slow the heart and increase gastrointestinal activity.
+Effects depend on the receptor location and physiological context.
+
+82
+00:17:55,104 --> 00:18:10,920
+The school mnemonic SLUDGEM lists salivation, lacrimation, urination,
+defecation, gastrointestinal upset, emesis and miosis. Its three Bs
+highlight bronchorrhea, bronchospasm and bradycardia.
+
+83
+00:18:10,920 --> 00:18:25,176
+Atropine and ipratropium block muscarinic actions in different
+indications. A cholinergic poisoning can also affect nicotinic and
+central pathways, so atropine is not a complete cure for every
+manifestation.
+
+84
+00:18:25,176 --> 00:18:40,176
+Do not enter a contaminated area to administer an antidote without the
+required protection. Scene safety, appropriate decontamination,
+ventilation and specialist support are part of the treatment, not
+optional extras.
+
+85
+00:18:40,176 --> 00:18:55,824
+H one signaling contributes to itch, vascular changes and allergic
+manifestations. H two signaling includes gastric acid secretion. The
+shared word histamine does not make the receptors or treatments
+interchangeable.
+
+86
+00:18:55,824 --> 00:19:09,672
+First-generation H one medicines may cause sedation and
+anticholinergic effects. Dimenhydrinate and diphenhydramine share some
+pharmacology, but their indications and authorization are not
+identical.
+
+87
+00:19:09,672 --> 00:19:24,024
+Life-threatening anaphylaxis needs epinephrine and airway, breathing
+and circulation care. Relief of itch does not correct shock or
+dangerous airway swelling, and an antihistamine must not delay
+epinephrine.
+
+88
+00:19:24,024 --> 00:19:37,272
+Do not decide that a reaction is harmless merely because a non-IgE
+mechanism is suspected. Judge physiological compromise; immune and
+non-immune mechanisms can produce serious systemic reactions.
+
+89
+00:19:37,272 --> 00:19:49,848
+The school uses the serotonin receptor five H T three to connect gut
+and central emesis pathways. Ondansetron blocks that receptor and can
+reduce nausea and vomiting.
+
+90
+00:19:49,848 --> 00:20:02,112
+This is different from the vestibular and anticholinergic effects
+emphasized for dimenhydrinate. Similar symptom goals do not imply
+identical mechanisms, doses or eligibility.
+
+91
+00:20:02,112 --> 00:20:17,808
+Before treating the symptom, assess its context: onset, pain,
+neurological findings, perfusion, pregnancy possibility, ingestion and
+relevant history. Nausea may accompany an important underlying
+emergency.
+
+92
+00:20:17,808 --> 00:20:30,360
+After an authorized antiemetic, reassess symptom response, safety and
+the underlying problem. A patient who stops vomiting has not
+necessarily become safe to leave or delay.
+
+93
+00:20:30,360 --> 00:20:42,072
+Cyclooxygenase enzymes support prostaglandin and thromboxane pathways.
+These affect pain, inflammation, fever, vascular physiology and
+platelet activity.
+
+94
+00:20:42,072 --> 00:20:54,192
+ASA irreversibly inhibits platelet cyclooxygenase and reduces
+thromboxane-mediated aggregation for the affected platelet's lifespan.
+It does not directly dissolve an existing clot.
+
+95
+00:20:54,192 --> 00:21:07,152
+Ibuprofen and ketorolac are other COX-inhibiting medicines with
+analgesic benefits and renal, gastrointestinal and bleeding risks.
+They cannot simply substitute for ASA's acute-coronary role.
+
+96
+00:21:07,152 --> 00:21:21,336
+The school briefly describes ASA as binding platelet receptors. The
+more precise target here is an enzyme. Match the actual mechanism to
+the indication, and check the specific contraindications.
+
+97
+00:21:21,336 --> 00:21:37,032
+An adult has reduced awareness and inadequate slow breathing. A
+bystander reports an unknown tablet. Start the immediate assessment
+and support airway and ventilation; do not wait to identify the
+receptor before treating failure.
+
+98
+00:21:37,032 --> 00:21:49,056
+If an opioid contribution is suspected and naloxone is indicated and
+authorized, use the actual pathway. Name the goal as improved
+functional ventilation, then monitor the result.
+
+99
+00:21:49,056 --> 00:22:01,176
+No immediate change can reflect delivery, onset, dose or a different
+or mixed cause. Automatic repeated doses without those checks can
+waste time and create harm.
+
+100
+00:22:01,176 --> 00:22:14,544
+An initial improvement followed by decline can reflect a longer-acting
+opioid or another problem. PK predicts recurrence risk, PD explains
+the reversal, and assessment decides the next safe action.
+
+101
+00:22:14,544 --> 00:22:26,784
+Without notes, distinguish dose from concentration and
+pharmacokinetics from pharmacodynamics. Explain why immediate blood
+entry does not guarantee immediate peak effect.
+
+102
+00:22:26,784 --> 00:22:36,960
+Sketch the half-life sequence and compare potency with maximal
+response. Then explain why the sketch cannot tell you an actual
+patient's safe dose.
+
+103
+00:22:36,960 --> 00:22:49,992
+For opioid, adrenergic, muscarinic, histamine, serotonin and COX
+targets, give an intended effect and one important harm or limitation.
+Say what you would reassess.
+
+104
+00:22:49,992 --> 00:23:03,552
+Next, apply these mechanisms to the school's medication-safety, adult
+monograph, pediatric calculation and scope sections. Correct science
+is necessary, but it is not the complete authorization decision.

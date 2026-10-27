@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 590" role="img" aria-labelledby="title desc">
+  <title id="title">A modeled neuronal membrane action potential, not an ECG</title>
+  <desc id="desc">The modeled voltage starts near minus seventy millivolts, crosses an illustrative minus fifty-five threshold, rises toward plus thirty, repolarizes, briefly hyperpolarizes and returns toward rest. Sodium and potassium channel currents create rapid phases while the pump maintains gradients.</desc>
+  <rect width="1040" height="590" rx="20" fill="#f5fafb"/>
+  <g font-family="Arial, sans-serif" fill="#183d50">
+    <text x="44" y="48" font-size="29" font-weight="700">One modeled neuronal spike - not an ECG</text>
+    <path d="M96 88V420H920" stroke="#183d50" stroke-width="3" fill="none"/>
+    <path d="M96 115H920M96 190H920M96 370H920" stroke="#c9d9df" fill="none"/>
+    <path d="M96 330H920" stroke="#8974b5" stroke-width="2" stroke-dasharray="9 7"/>
+    <g font-size="25" text-anchor="end"><text x="81" y="123">+30</text><text x="81" y="198">0</text><text x="81" y="338">-55</text><text x="81" y="378">-70</text></g>
+    <text x="33" y="93" font-size="24">mV</text>
+    <text x="864" y="453" font-size="24">Time</text>
+    <text x="715" y="315" font-size="23" fill="#6d5896">Example threshold</text>
+    <path d="M98 370H225C250 370 265 346 280 330C309 305 326 137 355 115C384 115 390 277 423 342C452 398 478 421 511 397C544 373 587 370 650 370H915" stroke="#157f80" stroke-width="7" fill="none" stroke-linecap="round"/>
+    <text x="185" y="211" font-size="27" font-weight="700">Na+ entry</text>
+    <path d="M298 223L322 192" stroke="#183d50" stroke-width="2"/>
+    <text x="466" y="210" font-size="27" font-weight="700">K+ exit</text>
+    <path d="M465 223L410 274" stroke="#183d50" stroke-width="2"/>
+    <text x="535" y="438" font-size="23">Afterhyperpolarization</text>
+    <path d="M548 416L506 399" stroke="#183d50" stroke-width="2"/>
+    <text x="44" y="494" font-size="24">Illustrative values: -70 mV rest; -55 mV threshold; +30 mV peak.</text>
+    <text x="44" y="534" font-size="24">Channels make rapid phases. The Na+/K+ pump maintains gradients.</text>
+    <text x="44" y="570" font-size="21">Values and shape vary by cell and conditions. This diagram is not a clinical monitor trace.</text>
+  </g>
+</svg>

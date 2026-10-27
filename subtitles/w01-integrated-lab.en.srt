@@ -1,0 +1,616 @@
+1
+00:00:00,000 --> 00:00:14,568
+The school asks for more than separate definitions. You must move
+through an encounter, showing how each observation changes the next
+decision. This session connects the Week One teaching into two
+original simulation variants.
+
+2
+00:00:14,568 --> 00:00:29,448
+The first variant practises the approach to a prone unresponsive
+person. The second combines a fall with an underlying illness and
+hidden deterioration. They rehearse school task types without
+reproducing a school assessment answer.
+
+3
+00:00:29,448 --> 00:00:43,104
+Use a trainer and an observer for physical tasks. The observer gives
+only information actually available at each stage; the team must
+request or obtain the rest instead of assuming a normal examination.
+
+4
+00:00:43,104 --> 00:00:55,704
+The goal is a complete reasoning and action chain, not speed without
+care. The school timed rotation is a practice structure, not a
+guarantee of competence or permission for unsupervised treatment.
+
+5
+00:00:55,704 --> 00:01:06,792
+At the start, identify a lead and assign the immediate work. A task
+such as check breathing and tell me rate, depth and adequacy is
+clearer than somebody do vitals.
+
+6
+00:01:06,792 --> 00:01:18,384
+Use closed-loop communication: a named person acknowledges, performs
+and reports the result. The lead confirms that the result has been
+heard and changes the plan when necessary.
+
+7
+00:01:18,384 --> 00:01:30,048
+Roles can change as the patient changes. If two providers are needed
+for effective ventilation, stop nonessential recording or equipment
+tidying and redirect the available hands.
+
+8
+00:01:30,048 --> 00:01:42,552
+The recorder documents what actually happened, including delay or
+uncertainty. A neat record assembled from guessed values is less
+useful than an honest chronology of a difficult simulation.
+
+9
+00:01:42,552 --> 00:01:54,072
+In this original variant, an adult is found face down beside a bicycle
+path. Control the moving-traffic risk and preserve access before
+committing the team beside the person.
+
+10
+00:01:54,072 --> 00:02:07,416
+Ask bystanders what they directly saw, when the person was last known
+responsive and whether a collision or collapse preceded the position.
+Attribute those reports rather than converting them into confirmed
+findings.
+
+11
+00:02:07,416 --> 00:02:20,736
+Check responsiveness and obvious immediately accessible threats while
+planning access to the airway and chest. A rigid recital of a scene
+checklist must not obscure an urgent functional problem.
+
+12
+00:02:20,736 --> 00:02:32,976
+Unknown cause keeps both injury and illness in view. Spinal concern
+changes handling, but does not justify leaving an inaccessible,
+threatened airway unassessed indefinitely.
+
+13
+00:02:32,976 --> 00:02:45,696
+The selected Nancy airway page directs a prone unresponsive patient to
+be positioned for airway and breathing assessment, using a unit log
+roll. It does not make a blocked airway safer to leave face down.
+
+14
+00:02:45,696 --> 00:03:00,792
+Plan with the actual team and trainer. State who coordinates, who
+controls the relevant body regions and where the patient will end up.
+Prepare suction and ventilation equipment before a move likely to
+reveal an airway problem.
+
+15
+00:03:00,792 --> 00:03:13,704
+The principle is coordinated movement as a unit, with spinal motion
+minimized when indicated. Do not twist the head independently of the
+trunk or force an injured body into a position against resistance.
+
+16
+00:03:13,704 --> 00:03:25,608
+Your instructor must demonstrate the actual personnel arrangement and
+approved technique. Practise with a suitable manikin rather than an
+unsupported improvised roll on a real person.
+
+17
+00:03:25,608 --> 00:03:36,480
+Repositioning is not the endpoint. Immediately inspect and open or
+clear the airway as needed, assess actual breathing and circulation,
+and act on the findings.
+
+18
+00:03:36,480 --> 00:03:51,504
+A patient who is not breathing normally needs the appropriate
+resuscitation branch. A patient who is breathing adequately but cannot
+protect the airway needs protection and close monitoring under the
+actual injury and positioning context.
+
+19
+00:03:51,504 --> 00:04:02,976
+Do not call the roll successful just because the person is supine.
+Check whether the airway became obstructed, support detached, bleeding
+changed or an injury became more apparent.
+
+20
+00:04:02,976 --> 00:04:14,448
+State the result aloud and record the major move and subsequent
+reassessment. This makes the handoff more useful and gives the
+observer evidence of a safe action-response loop.
+
+21
+00:04:14,448 --> 00:04:29,400
+Name and perform the school primary-survey tasks, but treat the
+immediate life threat when found. Current A two explicitly prioritizes
+catastrophic bleeding and coordinates unconscious breathing and
+circulation assessment.
+
+22
+00:04:29,400 --> 00:04:41,400
+Rapid body survey looks for important concealed threats without
+turning the first minutes into a routine complete examination. Explain
+exposure, maintain warmth and protect dignity.
+
+23
+00:04:41,400 --> 00:04:55,512
+SOAPPP is the school stabilization reminder; the saved BCPEG
+intervention wording is different. In either source, select indicated
+care, not automatic oxygen or an adjunct for every patient.
+
+24
+00:04:55,512 --> 00:05:09,120
+The useful verbalization is finding, meaning, action and reassessment.
+Saying airway clear while never examining it, or calling breathing
+adequate from a saturation alone, does not show the skill.
+
+25
+00:05:09,120 --> 00:05:23,112
+After identifying and addressing immediate threats, state your
+transport category and the findings supporting it. The BCPEG generic
+flow permits earlier conveyance when condition and definitive-care
+needs require it.
+
+26
+00:05:23,112 --> 00:05:34,632
+Distinguish an action that changes immediate survival from a routine
+task that can occur en route. A school scene-time benchmark is not
+permission to use every remaining minute before leaving.
+
+27
+00:05:34,632 --> 00:05:47,712
+Movement needs an equipment and staffing plan, especially if airway
+support must continue. Check the route, straps, device security and
+access to the patient before committing to a narrow space.
+
+28
+00:05:47,712 --> 00:06:03,168
+Use an early report to request appropriate resources and prepare the
+receiver. Exact destination and clinical pathway depend on the actual
+presentation and service system; urgency does not justify an invented
+local rule.
+
+29
+00:06:03,168 --> 00:06:14,688
+The second original simulation uses a seventy-seven-year-old man with
+hip pain after a fall. Family report that he is normally independent
+but is unusually confused today.
+
+30
+00:06:14,688 --> 00:06:27,720
+Do not close the case as a simple mechanical fall. Ask whether
+illness, faintness or another problem caused the event, and examine
+both the possible injury and the current physiological disturbance.
+
+31
+00:06:27,720 --> 00:06:43,152
+Anticoagulant use and uncertain head impact are important reported
+risks, not proof of a brain bleed. Attribute the history, seek missing
+details and communicate uncertainty rather than making a false
+definitive diagnosis.
+
+32
+00:06:43,152 --> 00:06:57,672
+New confusion changes urgency independently of the pain complaint.
+Establish the previous baseline and timeline, check glucose and
+complete the immediate functional assessment before an extended
+orthopedic history.
+
+33
+00:06:57,672 --> 00:07:10,368
+Ask a question because its answer can change the plan. Medication
+history should establish actual names, use, timing and relevant doses,
+not simply that the patient takes pills.
+
+34
+00:07:10,368 --> 00:07:26,424
+For pain, obtain location, radiation, quality, onset and provoking
+factors, plus a patient-reported severity and trend. Do not
+deliberately repeat painful movement to reproduce a finding that is
+already clear.
+
+35
+00:07:26,424 --> 00:07:39,336
+For the fall, establish the mechanism, possible loss of consciousness
+and subsequent movement. Ask what happened before the fall; an illness
+causing collapse may be the more time-critical problem.
+
+36
+00:07:39,336 --> 00:07:54,240
+Include functional inquiry: what could the person do yesterday and
+what can they do now? If confusion limits reliability, document
+collateral information and unresolved questions rather than forcing a
+complete-sounding history.
+
+37
+00:07:54,240 --> 00:08:07,200
+The observer now provides measured values, not a diagnosis: twenty-six
+breaths, saturation ninety-five on air, pulse one hundred twelve and
+manual pressure one hundred two over sixty-four.
+
+38
+00:08:07,200 --> 00:08:22,080
+Temperature is thirty-eight point four by the stated method, and
+glucose is six point eight millimoles per litre. New confusion was
+established against the reported baseline, not inferred from an
+unfamiliar accent or hearing problem.
+
+39
+00:08:22,080 --> 00:08:34,320
+Verify measurement quality and record time, method and oxygen context.
+If a number conflicts with the examination, recheck it without
+delaying support for an obvious clinical threat.
+
+40
+00:08:34,320 --> 00:08:46,680
+A single glucose within a usual range does not make the patient
+stable. The complete pattern and trajectory determine concern, while
+each exact number allows another clinician to check your reasoning.
+
+41
+00:08:46,680 --> 00:08:57,384
+For this adult example, use scale one. Twenty-six breaths scores three
+and ninety-five percent scores one. On air there are no added oxygen
+points.
+
+42
+00:08:57,384 --> 00:09:08,040
+A systolic pressure of one hundred two scores one, pulse one hundred
+twelve scores two, temperature thirty-eight point four scores one and
+new confusion scores three.
+
+43
+00:09:08,040 --> 00:09:21,024
+Add all six contributions to obtain eleven. Do not leave consciousness
+out because a GCS is also charted, or forget oxygen points if you
+later calculate a new score during supplemental oxygen.
+
+44
+00:09:21,024 --> 00:09:34,680
+This high aggregate and single severe parameter support urgent
+escalation, but do not diagnose the cause. You still need the clinical
+examination, repeated observations and the applicable ambulance
+pathway.
+
+45
+00:09:34,680 --> 00:09:50,688
+Fever, confusion, tachypnea and circulation changes raise concern for
+infection-associated deterioration, including possible sepsis. A
+temperature alone cannot establish it, and absence of fever would not
+safely exclude it.
+
+46
+00:09:50,688 --> 00:10:03,888
+The fall also raises injury concerns, and anticoagulation increases
+the importance of an accurate history and examination. Infection and
+injury are not mutually exclusive explanations.
+
+47
+00:10:03,888 --> 00:10:16,944
+Do not explain every abnormality as pain or assume that one plausible
+diagnosis accounts for all findings. State the urgent physiological
+problem and preserve the serious alternatives in the report.
+
+48
+00:10:16,944 --> 00:10:29,976
+Provide indicated support, escalate and reassess. Do not make an
+unstable patient walk merely to test the hip, and do not administer a
+treatment simply because a score has a particular value.
+
+49
+00:10:29,976 --> 00:10:43,632
+Explain the movement and obtain the applicable cooperation or
+authority. Choose the approved method according to suspected injury,
+patient size, tolerance, staffing and route rather than convenience
+alone.
+
+50
+00:10:43,632 --> 00:10:56,616
+Coordinate the movement under one lead and minimize unnecessary
+painful motion. Maintain access to any support and protect lines,
+oxygen tubing and monitoring leads from entanglement.
+
+51
+00:10:56,616 --> 00:11:08,736
+After the major move, repeat the relevant assessment rather than
+copying the earlier numbers. If the patient worsens, stop where safe,
+reassess and address the immediate problem.
+
+52
+00:11:08,736 --> 00:11:21,288
+Document the movement method, assistance and response. A patient who
+was stable on the floor can deteriorate during packaging, so the
+reassessment is a clinical action, not a documentation formality.
+
+53
+00:11:21,288 --> 00:11:34,512
+Begin with your role and the urgent concern: an older fall patient has
+new confusion and abnormal physiology. Do not open with an extended
+chronological story that hides the reason for calling.
+
+54
+00:11:34,512 --> 00:11:48,288
+Give the relevant baseline and history, then exact observations with
+time and oxygen context. State NEWS2 eleven and the components that
+matter; the number should summarize evidence, not replace it.
+
+55
+00:11:48,288 --> 00:12:01,512
+Report what was actually done and the response, then make the request
+explicit. If a treatment or examination has not yet occurred, say so
+rather than speaking in a way that implies completion.
+
+56
+00:12:01,512 --> 00:12:15,048
+Confirm instructions with a read-back when appropriate and document
+them. A consultation does not transfer patient responsibility by
+itself; the later transfer uses the applicable handover structure and
+acceptance.
+
+57
+00:12:15,048 --> 00:12:29,712
+A timeline distinguishes event time from charting time. In this
+fictional demonstration, contact is ten hundred and the measured
+baseline is ten hundred four; do not backdate a later observation to
+the initial encounter.
+
+58
+00:12:29,712 --> 00:12:45,528
+Each action needs its reason and response. If oxygen is given,
+document the indication, device, flow and effect. If a task is
+declined or not possible, record what, why and what alternative was
+used.
+
+59
+00:12:45,528 --> 00:12:58,320
+Do not invent the second observation set to finish a worksheet. The
+simulator or actual examination must provide the value; a blank or
+explained omission is more truthful than a copied baseline.
+
+60
+00:12:58,320 --> 00:13:10,296
+Keep case information separate from real patient data. The
+demonstration is for learning the record structure; the student
+produces the actual school practice PCR from their own observed
+station.
+
+61
+00:13:10,296 --> 00:13:24,600
+The local BCPEG page seventeen is an image of the blank examination
+PCR. Its history boxes and examination fields are separate, so
+attribute reported information and keep it distinct from findings you
+obtained.
+
+62
+00:13:24,600 --> 00:13:39,264
+Its serial table includes GCS components and vital observations. Enter
+actual units and methods where needed, and record a non-testable
+component or an unobtainable measurement honestly rather than
+inventing a normal.
+
+63
+00:13:39,264 --> 00:13:52,704
+Use the care, protocol and additional-comment areas to connect
+actions, reasons and response. A tick beside oxygen does not replace
+its relevant device, flow and effect information.
+
+64
+00:13:52,704 --> 00:14:08,424
+Check identifiers, chronology, internal consistency and handover
+details before finalizing. Corrections must preserve the original
+record according to the actual documentation system; never erase an
+inconvenient observation.
+
+65
+00:14:08,424 --> 00:14:19,896
+Explain why each protective item is needed for the task and
+anticipated exposure. Equipment selection and correct removal matter
+more than wearing the greatest possible number of items.
+
+66
+00:14:19,896 --> 00:14:35,160
+Use the taught current procedure, including the respirator fit and
+seal requirements when relevant. The paired reading identifies the
+archived checklist separately so its sequence is not silently treated
+as every current local procedure.
+
+67
+00:14:35,160 --> 00:14:47,688
+Ask the observer to identify a contamination event such as a dirty
+glove touching a clean meter. Stop, clean or replace the affected
+items as required and repair the clean-dirty workflow.
+
+68
+00:14:47,688 --> 00:14:59,832
+Report an exposure promptly under the applicable procedure. A perfect-
+looking final glove removal does not undo contamination that already
+travelled to equipment, clothing or mucosa.
+
+69
+00:14:59,832 --> 00:15:13,752
+The school introduces a thirty-minute PAA rotation. Unless the
+instructor supplies a more specific station schedule, use that as the
+overall practice container rather than inventing mandatory minute-by-
+minute scoring rules.
+
+70
+00:15:13,752 --> 00:15:23,976
+Complete the case, report and a brief record outline, then debrief the
+decisive branch: what did you notice, what did it mean, what did you
+do and what changed?
+
+71
+00:15:23,976 --> 00:15:37,008
+Have each member lead and observe across repeated rotations. Change a
+meaningful feature rather than memorizing one script, such as normal
+versus ineffective breathing or a stable versus falling pressure.
+
+72
+00:15:37,008 --> 00:15:50,184
+Choose a specific improvement to test immediately: a clearer task
+instruction, better cuff positioning or an earlier airway
+reassessment. Feedback should name observed behaviour rather than
+judge the person.
+
+73
+00:15:50,184 --> 00:16:07,680
+The school links a short BVM demonstration in its Weekend One
+practical resources. First identify the clinical branch: a ventilation
+problem is not the same as isolated low oxygen saturation, and the
+current trained resuscitation pathway determines the sequence.
+
+74
+00:16:07,680 --> 00:16:20,088
+BVM provides positive-pressure breaths when spontaneous ventilation is
+absent or inadequate. It cannot compensate for an obstructed upper
+airway until the passage is opened or cleared.
+
+75
+00:16:20,088 --> 00:16:34,080
+Airway patency, oxygenation and ventilation are related but distinct.
+A reassuring saturation does not prove adequate ventilation, and
+oxygen through a mask alone does not replace a missing breath.
+
+76
+00:16:34,080 --> 00:16:50,904
+Do not memorize one ventilation rate for every situation. A pulse-
+present respiratory-arrest branch, cardiac arrest and a procedure-
+specific PEEP technique may have different instructions; identify the
+patient and use the current school/service protocol.
+
+77
+00:16:50,904 --> 00:17:07,944
+Use the school video to recognize the equipment and see one
+demonstration, not as a substitute for checking the device in your own
+lab. The assembly, oxygen reservoir and connections vary by model;
+follow that manufacturer’s instructions and the instructor’s checkoff.
+
+78
+00:17:07,944 --> 00:17:24,312
+Before use, inspect that the mask suits the patient, the bag and one-
+way valve function, the oxygen source is connected when indicated, and
+tubing and reservoir are arranged for the actual model. A familiar-
+looking bag is not proof that it works.
+
+79
+00:17:24,312 --> 00:17:37,128
+Position yourself where the airway and chest can be seen. In a team,
+name who maintains the airway and mask seal, who delivers breaths, and
+who watches chest movement and reports changes.
+
+80
+00:17:37,128 --> 00:17:50,016
+If secretions or vomit threaten patency, have appropriate suction
+ready and use the taught technique. Protect against exposure using
+current routine practices and task-specific precautions.
+
+81
+00:17:50,016 --> 00:18:10,296
+BCEHS B01 identifies a patent airway and a tight mask seal as
+prerequisites for effective BVM. With loss of airway tone, the jaw
+thrust is an effective opening maneuver; where cervical injury is not
+suspected, the current guideline describes jaw thrust and head-
+tilt/chin-lift together.
+
+82
+00:18:10,296 --> 00:18:22,608
+BCEHS says optimal BVM ventilation is performed by two providers. One
+can maintain jaw position and the mask seal while the other delivers
+breaths and watches the patient with the team.
+
+83
+00:18:22,608 --> 00:18:38,712
+The school’s linked video is an older visual resource. A sampled frame
+explains the E-C hand technique when an EMT is alone; that is a useful
+contrast, not evidence that a lone-rescuer grip is preferable when a
+second provider is available.
+
+84
+00:18:38,712 --> 00:18:51,144
+Practice the hand placement on the school’s manikin using the
+instructor’s chosen method. Never infer that a correctly shaped grip
+guarantees an open airway, a seal or a delivered breath.
+
+85
+00:18:51,144 --> 00:19:06,696
+BCEHS B01 calls for the chest to be appropriately exposed so that
+ventilation effectiveness is judged by chest rise. Only a slight but
+definite rise is needed for safe ventilation; more bag compression is
+not automatically better.
+
+86
+00:19:06,696 --> 00:19:19,800
+If the chest does not rise, stop and troubleshoot rather than forcing
+larger breaths: recheck airway position, mask fit, obstruction,
+equipment and the need for trained help or an adjunct.
+
+87
+00:19:19,800 --> 00:19:32,544
+Watch the patient’s work of breathing, color, responsiveness and
+perfusion, and compare with the pre-support state. A pulse-oximeter
+value may lag and does not measure ventilation directly.
+
+88
+00:19:32,544 --> 00:19:47,616
+Capnography can add useful ventilation information when available and
+appropriate, but it does not replace visible patient assessment or the
+actual local pathway. If the patient worsens, escalate and reassess
+immediately.
+
+89
+00:19:47,616 --> 00:20:01,704
+The school-link viewer did not provide an exportable transcript during
+review, so this lesson does not claim a complete spoken-content
+summary. Use the clip for visual orientation and follow the captions
+available in your own course player.
+
+90
+00:20:01,704 --> 00:20:15,720
+Pause the video to identify what the operator’s hands are doing,
+whether the airway remains positioned, what feedback the chest gives
+and whether another helper is present. Do not copy a movement without
+understanding its purpose.
+
+91
+00:20:15,720 --> 00:20:29,376
+Then practise with the actual school equipment and manikin. The
+observer should report visible chest rise, seal problems and changes
+in the patient scenario; give one specific correction and repeat the
+attempt.
+
+92
+00:20:29,376 --> 00:20:42,648
+Watching or playing a video is not proof of physical competence. The
+instructor’s current technique, relevant authorization, device
+instructions and supervised checkoff remain the standard for
+performance.
+
+93
+00:20:42,648 --> 00:20:56,928
+Before the school check, explain why your priority changed in each
+case, calculate a new NEWS2 and identify what the number cannot
+diagnose. This tests understanding rather than recognition of familiar
+words.
+
+94
+00:20:56,928 --> 00:21:09,744
+Demonstrate the applicable skills under supervision: PPE, measurement,
+safe coordinated repositioning and the PAA encounter. Playback
+completion does not replace the instructor observation.
+
+95
+00:21:09,744 --> 00:21:23,472
+The school pre-quiz requirement remains a student task; the saved
+outline states at least seventy-five percent. This course neither
+opens the quiz nor supplies its answers or a fabricated completion.
+
+96
+00:21:23,472 --> 00:21:37,008
+Use the reading tracker to distinguish taught concepts from unresolved
+assigned-edition coverage. The next week builds on these functions, so
+repair a specific weak decision or technique instead of just
+collecting more notes.

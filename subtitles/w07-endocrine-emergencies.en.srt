@@ -1,0 +1,1030 @@
+1
+00:00:00,000 --> 00:00:12,192
+The school Week Seven reading includes endocrine physiology, diabetes
+medicines and endocrine emergencies. This workshop turns those topics
+into an assessment and treatment-response sequence.
+
+2
+00:00:12,192 --> 00:00:23,904
+Measure glucose early in altered function, seizures, stroke-like
+symptoms and relevant acute illness. A known diabetes diagnosis is not
+required to have a dangerous glucose problem.
+
+3
+00:00:23,904 --> 00:00:36,528
+Correct confirmed low glucose promptly through the safe route while
+supporting ABCs. A glucose result must not delay treatment of
+inadequate ventilation or another visible life threat.
+
+4
+00:00:36,528 --> 00:00:47,712
+Then ask why it happened and whether the patient truly recovered.
+Persistent abnormalities can reflect recurrence, a second disease or a
+different primary diagnosis.
+
+5
+00:00:47,712 --> 00:01:01,440
+Endocrine cells release hormones into surrounding fluid and the
+circulation. Exocrine glands use ducts for substances such as
+digestive enzymes or sweat; their role is not simply waste
+elimination.
+
+6
+00:01:01,440 --> 00:01:12,672
+A circulating hormone affects cells with the relevant receptors and
+response machinery. More hormone is not always equivalent to a normal
+response if the target is resistant.
+
+7
+00:01:12,672 --> 00:01:25,248
+Receptor stimulation can change membrane signaling, enzyme activity or
+gene expression. Catecholamine effects can be rapid, while many
+steroid-mediated effects develop more slowly.
+
+8
+00:01:25,248 --> 00:01:36,912
+Endocrine emergencies can result from deficient secretion, excess
+secretion, resistance or disrupted feedback. Relate the mechanism to
+the actual physiological problem.
+
+9
+00:01:36,912 --> 00:01:47,640
+Negative feedback means that the response tends to reduce the original
+disturbance. For example, rising glucose stimulates insulin-related
+effects that lower glucose.
+
+10
+00:01:47,640 --> 00:02:00,312
+Thyroid signaling uses an axis: hypothalamic releasing hormone,
+pituitary TSH and thyroid hormone. Thyroid hormone feeds back to
+reduce excessive upstream drive.
+
+11
+00:02:00,312 --> 00:02:11,064
+The level of failure matters. A peripheral gland problem and a
+pituitary control problem can produce different laboratory patterns
+despite similar target-hormone deficiency.
+
+12
+00:02:11,064 --> 00:02:22,032
+The field task is usually recognition and support rather than a full
+hormone-level diagnosis. Ask about established disease, replacement
+treatment and current stressors.
+
+13
+00:02:22,032 --> 00:02:34,416
+The anterior pituitary produces hormones including TSH, ACTH, growth
+hormone, prolactin, FSH and LH. Not all six are gonadotropins.
+
+14
+00:02:34,416 --> 00:02:45,096
+The posterior pituitary stores and releases ADH and oxytocin made by
+hypothalamic neurons. Production and release locations are therefore
+different.
+
+15
+00:02:45,096 --> 00:02:57,000
+ACTH stimulates the adrenal cortex to support cortisol production. The
+medulla releases catecholamines through sympathetic neural
+stimulation, not the same ACTH route.
+
+16
+00:02:57,000 --> 00:03:07,368
+These distinctions explain why control failure, replacement medicines
+and stress can alter glucose, vascular responses and water balance in
+different ways.
+
+17
+00:03:07,368 --> 00:03:20,400
+Insulin supports glucose use and storage and restrains hepatic glucose
+production, fat breakdown and ketone generation. It has ongoing basal
+roles, not simply an on-off switch after meals.
+
+18
+00:03:20,400 --> 00:03:31,416
+Not every cell needs insulin for glucose entry. The brain and red
+cells use largely insulin-independent entry, so the book all-cells-
+need-insulin statement is too broad.
+
+19
+00:03:31,416 --> 00:03:44,016
+Glucagon helps the liver make glucose available, while stress hormones
+can raise production and reduce effective insulin action. Infection or
+another acute illness can therefore destabilize control.
+
+20
+00:03:44,016 --> 00:03:54,960
+The brain still needs a reliable energy supply, so severe low glucose
+is urgent. Avoid replacing this principle with an exact universal
+time-to-injury countdown.
+
+21
+00:03:54,960 --> 00:04:08,424
+Diabetes mellitus is a group of disorders of glucose regulation, not
+one uniform illness. Insulin deficiency, resistance and progressive
+secretion problems contribute in different combinations.
+
+22
+00:04:08,424 --> 00:04:19,344
+Long-term disease can injure vessels, nerves, retina and kidneys.
+Neuropathy and cardiovascular disease can alter how an acute illness
+presents.
+
+23
+00:04:19,344 --> 00:04:30,552
+Ask about the actual treatment, usual glucose pattern, recent illness
+and access to food or medicines. An insulin user is not automatically
+a type-one patient.
+
+24
+00:04:30,552 --> 00:04:42,360
+Diabetes can coexist with stroke, sepsis, trauma or poisoning. The
+diagnosis should trigger useful checks rather than explain every new
+symptom by itself.
+
+25
+00:04:42,360 --> 00:04:50,784
+Type one commonly involves autoimmune beta-cell loss and essential
+insulin replacement. It can begin in adults as well as children.
+
+26
+00:04:50,784 --> 00:04:59,880
+Type two involves resistance and variable impairment of secretion.
+Some patients use insulin, and type-two patients can develop DKA.
+
+27
+00:04:59,880 --> 00:05:11,136
+Gestational diabetes relates to pregnancy physiology and needs the
+actual pregnancy-specific plan. A general adult rule is not
+automatically an obstetric instruction.
+
+28
+00:05:11,136 --> 00:05:22,944
+Do not diagnose type from age, body size or a drug name alone. DKA and
+HHS have typical associations, but overlaps and first presentations
+are possible.
+
+29
+00:05:22,944 --> 00:05:33,720
+Low glucose can follow excess insulin effect, insulin-secretagogue
+medicines, reduced intake, activity, alcohol, renal disease or acute
+illness.
+
+30
+00:05:33,720 --> 00:05:48,072
+Autonomic warning symptoms may include sweating, tremor, hunger and
+palpitations. Brain dysfunction can cause confusion, poor
+coordination, altered speech, seizures or reduced responsiveness.
+
+31
+00:05:48,072 --> 00:05:57,696
+Some people have reduced warning awareness or a modified pulse
+response. Absence of sweating or tachycardia does not exclude low
+glucose.
+
+32
+00:05:57,696 --> 00:06:08,208
+The locally checked treatment gate is below four millimoles per liter.
+Interpret a reliable measurement with symptoms and treat promptly
+through an airway-safe route.
+
+33
+00:06:08,208 --> 00:06:20,304
+Low glucose can look like stroke, intoxication or a behavioural
+crisis. Check it in a relevant altered presentation rather than
+relying on appearance or a substance history.
+
+34
+00:06:20,304 --> 00:06:31,272
+There is no age-fifty-five minimum or requirement for a known diabetes
+history. A young or previously undiagnosed patient can have a severe
+glucose emergency.
+
+35
+00:06:31,272 --> 00:06:44,472
+After correction, repeat speech, limb function, face, awareness and
+the full primary assessment as indicated. Preserve last-known-well
+information when a stroke remains possible.
+
+36
+00:06:44,472 --> 00:06:54,864
+A better glucose or partial improvement does not exclude a second
+condition. Do not withhold urgent stroke evaluation merely because the
+first number was low.
+
+37
+00:06:54,864 --> 00:07:06,408
+Use the actual approved meter and sampling process, recording the
+value in millimoles per liter with time. A device reading HI or LO is
+not an exact number you should invent.
+
+38
+00:07:06,408 --> 00:07:18,576
+Poor perfusion, sample contamination or technical error can affect a
+capillary measurement. Follow the device checks and repeat or obtain
+an appropriate alternative when the result does not fit.
+
+39
+00:07:18,576 --> 00:07:31,680
+A continuous glucose sensor measures interstitial information and may
+not exactly match rapidly changing blood glucose. Assess the patient
+and use the actual confirmation process when needed.
+
+40
+00:07:31,680 --> 00:07:46,248
+If testing is unavailable or uncertainty persists in a critical
+patient, obtain clinical support while providing the safe indicated
+care. Do not give every unexplained coma an automatic glucose-naloxone
+cocktail.
+
+41
+00:07:46,248 --> 00:07:55,824
+For an appropriate conscious patient who follows commands and can
+swallow without aspiration or choking risk, oral glucose is the
+preferred simple route.
+
+42
+00:07:55,824 --> 00:08:06,696
+The checked local monograph gives fifteen grams of glucose, or a
+labelled tablet equivalent. The amount of glucose is different from
+the total mass of a tube or pouch.
+
+43
+00:08:06,696 --> 00:08:18,600
+The local repeat line is five minutes as required, with ongoing
+assessment and repeat glucose. Do not put gel, a drink or loose gauze
+into an unprotected airway.
+
+44
+00:08:18,600 --> 00:08:31,392
+Once recovery and safe intake allow, longer-acting carbohydrate can
+sustain correction through the actual plan. Food does not replace
+investigation of recurrent or unexplained hypoglycemia.
+
+45
+00:08:31,392 --> 00:08:43,752
+For indicated adult PCP intravenous correction, the currently checked
+pathway uses ten to twenty-five grams of dextrose, equivalent to one
+hundred to two hundred fifty milliliters of D ten.
+
+46
+00:08:43,752 --> 00:08:56,232
+Verify the bag and prescribed amount, assess a patent line and monitor
+it throughout delivery. A previous flashback alone is not a permanent
+guarantee that the infusion remains intravascular.
+
+47
+00:08:56,232 --> 00:09:08,424
+Dextrose extravasation can injure tissue. Stop delivery and follow the
+actual extravasation process with clinical help if pain, swelling,
+leakage or another concern appears.
+
+48
+00:09:08,424 --> 00:09:22,344
+The older Nancy D fifty recipe is not silently substituted for current
+D ten. The monograph pediatric PCP line specifically says older than
+twelve; do not scale the adult routine to younger children.
+
+49
+00:09:22,344 --> 00:09:32,376
+D ten contains ten grams per hundred milliliters, or point one gram
+per milliliter. Ten grams therefore corresponds to one hundred
+milliliters.
+
+50
+00:09:32,376 --> 00:09:42,264
+Twenty-five grams corresponds to two hundred fifty milliliters of that
+verified concentration. These volumes change if the product
+concentration changes.
+
+51
+00:09:42,264 --> 00:09:56,424
+For comparison, D fifty contains point five grams per milliliter, so
+its volume cannot be copied onto a D ten bag. Confusing grams,
+milligrams and milliliters creates a large error.
+
+52
+00:09:56,424 --> 00:10:09,432
+Read back the drug, prescribed grams, concentration, calculated volume
+and route, then reassess. A correct calculation does not replace the
+indication or a reliable line.
+
+53
+00:10:09,432 --> 00:10:21,120
+The current local monograph uses a sealed three-milligram intranasal
+kit when confirmed low glucose cannot be safely treated orally and IV
+access is unavailable.
+
+54
+00:10:21,120 --> 00:10:33,360
+The source excludes intranasal use under four years. A second dose at
+fifteen minutes if needed requires prior CliniCall consultation, with
+a maximum of six milligrams.
+
+55
+00:10:33,360 --> 00:10:46,392
+This is distinct from the older one-milligram IM textbook or exam
+reference. Verify the actual kit and instructions; the patient does
+not need to inhale deliberately for nasal administration.
+
+56
+00:10:46,392 --> 00:10:59,640
+Glucagon depends on available liver glycogen and can cause vomiting.
+Continue airway support, glucose reassessment and escalation while it
+acts; do not wait passively for fifteen minutes.
+
+57
+00:10:59,640 --> 00:11:09,672
+Recheck glucose after treatment and compare the actual function. A
+better number without recovery needs another explanation and continued
+support.
+
+58
+00:11:09,672 --> 00:11:23,784
+Ask about insulin and oral medicines, intake, activity, alcohol,
+kidney function and acute illness. A low-glucose episode can reveal
+infection or a medicine problem rather than merely a missed snack.
+
+59
+00:11:23,784 --> 00:11:35,040
+Insulin or secretagogue action can outlast the initial rescue glucose,
+so recurrence is possible. Renal impairment and poor intake can
+increase the difficulty.
+
+60
+00:11:35,040 --> 00:11:47,304
+Document timing, route, amount and response, then arrange the
+appropriate care plan. One normal recheck does not automatically
+justify leaving a high-risk patient.
+
+61
+00:11:47,304 --> 00:12:00,048
+The local adult nonconveyance criteria require an explained fully
+resolved episode, normal mentation and observations, glucose at least
+four and no fever or concurrent acute illness.
+
+62
+00:12:00,048 --> 00:12:13,872
+The page excludes overdose, excessive alcohol, oral hypoglycemic
+medicines and another treated hypoglycemic episode within twenty-four
+hours. Do not replace that list with personal reassurance.
+
+63
+00:12:13,872 --> 00:12:25,248
+It also requires a responsible adult for at least four hours and the
+follow-up and documentation process. These conditions are necessary
+checks, not a universal discharge order.
+
+64
+00:12:25,248 --> 00:12:39,000
+Use the actual capacity, informed-refusal and consultation pathway,
+especially when any criterion is uncertain. A signature or a glucose
+of four alone cannot establish a safe decision.
+
+65
+00:12:39,000 --> 00:12:49,488
+A forty-two-year-old using insulin has been unusually active and eaten
+little. Now there is sweating, confusion and slurred speech, with
+glucose two point four.
+
+66
+00:12:49,488 --> 00:13:02,040
+Support current ABCs while a partner establishes last known well and
+checks focal findings. The likely low-glucose mechanism does not
+remove the need to assess stroke and other causes.
+
+67
+00:13:02,040 --> 00:13:13,128
+Determine whether the patient can follow commands and swallow safely.
+Use oral treatment only if those conditions hold; otherwise use the
+actual authorized nonoral pathway.
+
+68
+00:13:13,128 --> 00:13:22,704
+Recheck glucose, speech, face, limbs, awareness and breathing after
+treatment. Keep the timeline and all residual findings for the
+receiving plan.
+
+69
+00:13:22,704 --> 00:13:34,752
+In a separate original case, a fifty-three-year-old taking gliclazide
+has eaten little during kidney illness. Initial treatment raises
+glucose to six point five and improves function.
+
+70
+00:13:34,752 --> 00:13:46,296
+Later glucose falls to three point one and confusion recurs. The
+medicine and illness may outlast the initial rescue, so the first
+improvement was not the end of the problem.
+
+71
+00:13:46,296 --> 00:13:58,320
+Repeat the appropriate airway-safe treatment and assessment, seek
+clinical support and arrange hospital evaluation. Do not treat this as
+an uncomplicated resolved adult episode.
+
+72
+00:13:58,320 --> 00:14:10,392
+Persistent focal findings after glucose correction also require urgent
+stroke evaluation rather than repeated treatment for a now-normal
+number. Match the action to the actual ongoing threat.
+
+73
+00:14:10,392 --> 00:14:22,104
+When filtered glucose exceeds the kidney reabsorptive capacity,
+glucose remains in tubular fluid. Water follows the osmotic effect and
+urine losses can increase.
+
+74
+00:14:22,104 --> 00:14:32,976
+The patient can lose water and electrolytes despite drinking because
+thirst may not keep up. Vomiting, illness or reduced access to fluids
+can compound the deficit.
+
+75
+00:14:32,976 --> 00:14:44,568
+Hypertonic extracellular fluid also draws water from cells. This helps
+explain both whole-body depletion and neurological dysfunction in
+severe hyperglycemic states.
+
+76
+00:14:44,568 --> 00:14:55,464
+Early frequent urination can become reduced output as perfusion or
+kidney function worsens. Do not require ongoing polyuria to recognize
+a late sick patient.
+
+77
+00:14:55,464 --> 00:15:07,320
+In DKA, insufficient effective insulin and counter-regulatory hormones
+promote hepatic glucose production and fat breakdown. Ketone
+production can exceed safe handling.
+
+78
+00:15:07,320 --> 00:15:22,464
+Ketone-associated acids contribute to metabolic acidosis, while
+glucose-related diuresis and vomiting cause fluid and electrolyte
+loss. These processes interact but are not measured completely by one
+glucose.
+
+79
+00:15:22,464 --> 00:15:35,352
+Possible findings include thirst, vomiting, abdominal pain,
+dehydration, deep breathing and altered awareness. Neither fruity
+breath nor every classic symptom is required.
+
+80
+00:15:35,352 --> 00:15:47,832
+DKA can occur with type two or a first diabetes presentation and can
+coexist with infection, stroke or MI. Ordinary hyperglycemia does not
+inevitably progress to DKA.
+
+81
+00:15:47,832 --> 00:15:59,280
+Kussmaul-type deep breathing can be a respiratory response to
+metabolic acidosis. Greater effective ventilation removes carbon
+dioxide and helps defend pH.
+
+82
+00:15:59,280 --> 00:16:09,312
+Do not label this harmless anxiety or ask the patient to rebreathe
+into a paper bag. That could increase carbon dioxide and worsen the
+acid-base problem.
+
+83
+00:16:09,312 --> 00:16:24,168
+Fatigue, declining awareness or airway failure still requires support.
+If advanced airway intervention becomes necessary, the team must plan
+to preserve needed ventilation rather than automatically impose a low
+fixed rate.
+
+84
+00:16:24,168 --> 00:16:39,720
+At PCP level, identify deterioration, provide effective basic
+assistance and obtain appropriate advanced help. Deep breathing does
+not by itself authorize intubation or an arbitrary very rapid bagging
+rate.
+
+85
+00:16:39,720 --> 00:16:51,144
+Osmotic urine loss and vomiting can deplete total-body potassium. At
+the same time, altered distribution can leave the measured blood
+potassium normal or elevated.
+
+86
+00:16:51,144 --> 00:16:59,160
+These are different compartments. A high blood concentration therefore
+does not prove that the body has an adequate total store.
+
+87
+00:16:59,160 --> 00:17:10,296
+Insulin therapy can shift potassium into cells and lower the blood
+value. Definitive therapy needs appropriate electrolyte measurements,
+monitoring and adjustment.
+
+88
+00:17:10,296 --> 00:17:22,008
+Monitor relevant rhythm changes and request help for instability. Do
+not give insulin, potassium or bicarbonate from a textbook algorithm
+without the actual advanced authority and plan.
+
+89
+00:17:22,008 --> 00:17:35,448
+HHS often develops in type-two diabetes with another illness and
+inadequate fluid intake. Severe hyperglycemia and osmotic losses can
+produce major depletion and hyperosmolality.
+
+90
+00:17:35,448 --> 00:17:47,712
+Some effective insulin may limit extensive ketogenesis while failing
+to control glucose adequately. Significant DKA-like acidosis is less
+typical, but mixed states occur.
+
+91
+00:17:47,712 --> 00:17:58,632
+Neurological findings can include confusion, focal-like deficits,
+seizures or coma. The older name nonketotic coma does not mean coma is
+mandatory.
+
+92
+00:17:58,632 --> 00:18:11,544
+Assess infection, stroke, cardiac disease and other triggers as well
+as glucose. Do not let an HHS label dismiss a new focal deficit or
+postpone urgent definitive evaluation.
+
+93
+00:18:11,544 --> 00:18:24,192
+DKA and HHS share hyperglycemic stress, fluid loss and electrolyte
+risk. The relative ketone and osmotic components differ, and a patient
+can have features of both.
+
+94
+00:18:24,192 --> 00:18:36,480
+Typical age and diabetes type can guide suspicion but cannot serve as
+strict gates. A new presentation may not come with a prior diagnosis
+or a familiar medication list.
+
+95
+00:18:36,480 --> 00:18:49,344
+Neither an isolated high glucose nor the absence of fruity breath
+supplies the full diagnosis. Laboratory evaluation of ketones, acid-
+base balance and osmolality may be needed.
+
+96
+00:18:49,344 --> 00:19:02,520
+Communicate suspected hyperglycemic crisis and the observed
+consequences without inventing a definitive subtype. Timely support
+and destination planning do not require perfect classification.
+
+97
+00:19:02,520 --> 00:19:16,728
+The selected modern adult consensus requires ketosis and metabolic
+acidosis alongside diabetes or hyperglycemia. It no longer makes the
+older Nancy value above eighteen a universal DKA gate.
+
+98
+00:19:16,728 --> 00:19:30,360
+DKA can occur without marked hyperglycemia, including with SGLT two
+medicines, reduced intake or pregnancy. A not-very-high glucose must
+not overrule a concerning illness pattern.
+
+99
+00:19:30,360 --> 00:19:42,552
+Most field assessments cannot establish every laboratory criterion.
+State the suspicion and what is actually measured rather than
+declaring normal glucose means no metabolic emergency.
+
+100
+00:19:42,552 --> 00:19:54,216
+International hospital insulin and glucose-fluid algorithms are not
+new PCP orders. Use the current local pathway, clinical consultation
+and urgent definitive assessment.
+
+101
+00:19:54,216 --> 00:20:05,568
+A fifty-six-year-old with type-two diabetes takes empagliflozin.
+During an illness with little intake and repeated vomiting, breathing
+becomes deep at twenty-eight per minute.
+
+102
+00:20:05,568 --> 00:20:17,400
+Glucose is nine point eight. That is below older dramatic DKA values,
+but it does not explain away a possible euglycemic ketotic crisis or
+another serious cause.
+
+103
+00:20:17,400 --> 00:20:30,480
+Assess airway, perfusion, glucose reliability and the illness
+timeline, and consider other causes of deep breathing such as sepsis.
+Do not assume that the drug history alone confirms DKA.
+
+104
+00:20:30,480 --> 00:20:43,200
+Arrange urgent evaluation, indicated support and a clear alert about
+the medicine, reduced intake, vomiting and breathing pattern. Do not
+attempt to normalize the number with extra insulin.
+
+105
+00:20:43,200 --> 00:20:53,280
+Support current airway and respiratory needs and prepare for vomiting.
+Preserve necessary compensatory ventilation while watching for fatigue
+or failure.
+
+106
+00:20:53,280 --> 00:21:05,328
+Assess actual depletion, perfusion and congestion before an indicated
+fluid plan. Cardiac or kidney disease, pregnancy and age can change
+the risk and response.
+
+107
+00:21:05,328 --> 00:21:18,360
+Monitor useful rhythm, glucose and functional trends. Do not
+automatically give insulin, bicarbonate or potassium, and do not delay
+urgent conveyance for an arbitrary volume target.
+
+108
+00:21:18,360 --> 00:21:31,440
+Seek the precipitant, including infection, missed delivery or another
+acute event, and communicate it. Treat access and device problems
+compassionately rather than labelling the person noncompliant.
+
+109
+00:21:31,440 --> 00:21:41,808
+Cortisol supports metabolic responses to stress and normal vascular
+responsiveness. Deficiency can make an acute illness much harder to
+tolerate.
+
+110
+00:21:41,808 --> 00:21:52,128
+Aldosterone promotes sodium retention and potassium excretion in the
+kidney. Primary adrenal failure can reduce both cortisol and
+mineralocorticoid function.
+
+111
+00:21:52,128 --> 00:22:05,688
+Pituitary failure or glucocorticoid suppression can reduce cortisol
+while aldosterone remains relatively preserved. Therefore not every
+adrenal-crisis patient has high potassium or the same skin findings.
+
+112
+00:22:05,688 --> 00:22:19,176
+Vomiting, weakness, hypotension, low glucose or confusion in a
+compatible history should raise concern. Do not wait for a laboratory
+cortisol or a classic pigmentation change to seek help.
+
+113
+00:22:19,176 --> 00:22:32,520
+Ask about Addison disease, pituitary insufficiency, prior crises and a
+prescribed emergency hydrocortisone kit. The patient may carry a
+steroid alert card or individualized plan.
+
+114
+00:22:32,520 --> 00:22:45,456
+The current local guideline uses three weeks or more of glucocorticoid
+treatment as a risk-history marker. Actual suppression depends on
+exposure and the individual; it is not a perfect bedside test.
+
+115
+00:22:45,456 --> 00:22:56,352
+Illness, trauma or vomiting can raise need or prevent retention of the
+usual replacement. Ask what was taken, kept down or injected before
+arrival.
+
+116
+00:22:56,352 --> 00:23:09,264
+Do not advise abrupt cessation from a chronic steroid history. Excess
+exposure can produce Cushing features while the normal stress axis is
+suppressed, so appearance alone does not settle reserve.
+
+117
+00:23:09,264 --> 00:23:20,664
+Current E zero two combines compatible signs such as vomiting,
+weakness, hypotension, low glucose or confusion with a qualifying
+adrenal or steroid history.
+
+118
+00:23:20,664 --> 00:23:31,656
+The published pathway also requires an existing hydrocortisone
+prescription for adrenal insufficiency. It is not a blanket steroid
+order for any undifferentiated shock.
+
+119
+00:23:31,656 --> 00:23:47,064
+Request the required consultation early and report previous doses. The
+guideline addresses treatment even after prior patient administration,
+so obtain an explicit plan rather than ignoring or automatically
+duplicating that dose.
+
+120
+00:23:47,064 --> 00:23:57,000
+Continue ABC support and correction of associated low glucose or
+hypoperfusion. Do not walk a suspected crisis patient to the
+ambulance.
+
+121
+00:23:57,000 --> 00:24:08,544
+The checked adult PCP monograph specifies one hundred milligrams of
+hydrocortisone directly over one minute, with prior CliniCall
+consultation for acute adrenal crisis.
+
+122
+00:24:08,544 --> 00:24:22,224
+IV is preferred, but IM is acceptable early if vascular access is
+delayed or unobtainable. Do not keep attempting a difficult vein while
+the authorized alternative is being unnecessarily delayed.
+
+123
+00:24:22,224 --> 00:24:34,920
+Use the actual product instructions, trained preparation, indication
+and contraindication checks. A one-hundred-milligram vial label does
+not by itself tell you the final reconstituted volume.
+
+124
+00:24:34,920 --> 00:24:50,448
+EMR assistance is limited to collecting the patient own medicine in E
+zero two, not preparing or injecting it. Adult PCP authorization does
+not establish a pediatric dose or a steroid order for all asthma or
+sepsis.
+
+125
+00:24:50,448 --> 00:25:01,080
+A thirty-eight-year-old with Addison disease and a prescribed rescue
+kit has repeated vomiting during an illness. It is unclear how much
+usual replacement was retained.
+
+126
+00:25:01,080 --> 00:25:12,120
+There is weakness and confusion, pressure eighty-two over fifty and
+glucose three point two. This needs immediate support and safe
+correction of the low glucose.
+
+127
+00:25:12,120 --> 00:25:23,568
+Obtain the actual medicine and prior-dose history, request the
+mandatory consultation and use the eligible hydrocortisone pathway
+with appropriate training and product checks.
+
+128
+00:25:23,568 --> 00:25:35,784
+Do not walk the patient or promise immediate normalization after
+injection. Reassess perfusion, breathing, glucose and possible
+infection while arranging urgent conveyance.
+
+129
+00:25:35,784 --> 00:25:48,360
+Thyroid hormone influences metabolism, temperature regulation, cardiac
+function and responsiveness. The hypothalamus-pituitary-thyroid axis
+helps regulate its production.
+
+130
+00:25:48,360 --> 00:26:01,536
+Low function can cause fatigue, cold intolerance, slowed thinking and
+constipation. Excess function can cause heat intolerance, tremor,
+rapid pulse and increased metabolic demand.
+
+131
+00:26:01,536 --> 00:26:11,376
+These chronic patterns do not diagnose an emergency on their own. Ask
+about current change, medicine delivery, infection and actual organ
+function.
+
+132
+00:26:11,376 --> 00:26:26,832
+Thyrotoxicosis means excess thyroid-hormone effect and need not always
+mean increased gland synthesis. Severe decompensation requires urgent
+support and definitive care, not an improvised field thyroid regimen.
+
+133
+00:26:26,832 --> 00:26:38,136
+Thyroid storm can occur when thyrotoxicosis decompensates during
+infection, another stressor or treatment interruption. No single
+temperature or pulse establishes it.
+
+134
+00:26:38,136 --> 00:26:50,736
+Look for the overall severe pattern: marked heat, rapid or irregular
+rhythm, gastrointestinal symptoms and altered mental status, sometimes
+with heart failure or shock.
+
+135
+00:26:50,736 --> 00:27:03,984
+Sepsis, toxic exposure and other causes can overlap. Assess glucose,
+breathing, perfusion, temperature and the medication/history timeline
+while obtaining urgent clinical help.
+
+136
+00:27:03,984 --> 00:27:16,104
+Provide indicated temperature and ABC support through the actual
+pathway. Specialist antithyroid, beta-blocking and other treatments
+are not a generic independent PCP bundle.
+
+137
+00:27:16,104 --> 00:27:29,472
+Severe hypothyroid decompensation is often called myxedema coma,
+although the patient need not be fully comatose. Infection, cold,
+medicines or another stressor can precipitate it.
+
+138
+00:27:29,472 --> 00:27:42,720
+Reduced responsiveness, hypoventilation, cold temperature, bradycardia
+and hypotension can occur. Check glucose and consider electrolyte
+disturbance without diagnosing from one sign.
+
+139
+00:27:42,720 --> 00:27:54,192
+Support effective ventilation and oxygenation, use careful temperature
+management and treat confirmed low glucose through the current route.
+Escalate urgently for deterioration.
+
+140
+00:27:54,192 --> 00:28:07,032
+Do not give a textbook dopamine, thyroid-hormone or large dextrose
+recipe independently, and do not use age, sex or absent fever to
+exclude another serious infection or endocrine cause.
+
+141
+00:28:07,032 --> 00:28:32,400
+In this original case, a patient with known hypothyroidism has been
+ill and is now drowsy, cold and breathing shallowly. Recognize the
+breathing and perfusion threats before trying to name the endocrine
+diagnosis. Assess airway and effective ventilation, measure glucose
+and temperature, and obtain medication and baseline history while your
+partner arranges urgent assistance.
+
+142
+00:28:32,400 --> 00:29:01,392
+Severe hypothyroid decompensation is possible, but infection,
+environmental exposure, medicines or more than one problem may
+coexist. A lack of fever is not infection clearance. Provide indicated
+breathing, glucose, temperature and perfusion support through current
+pathways, reassess the response and pre-alert with the observed
+findings. Do not independently copy a hormone, vasopressor or fixed
+fluid recipe.
+
+143
+00:29:01,392 --> 00:29:11,712
+ADH, or vasopressin, primarily increases water reabsorption through
+its renal effect. This is distinct from aldosterone-mediated sodium
+handling.
+
+144
+00:29:11,712 --> 00:29:23,808
+Deficient ADH effect can cause large dilute urine losses, as in
+diabetes insipidus. This is a water-balance disorder, not the same as
+diabetes mellitus or glucose in urine.
+
+145
+00:29:23,808 --> 00:29:36,216
+Excess ADH effect can retain water and contribute to dilutional low
+sodium. Neurological symptoms require assessment and proper chemistry
+rather than guessing sodium from appearance.
+
+146
+00:29:36,216 --> 00:29:50,544
+Ask about intake/output, pituitary or brain disease, medicines and the
+timeline. Do not automatically give plain water, salt, fluid
+restriction or hormone replacement from a suspected label.
+
+147
+00:29:50,544 --> 00:30:02,400
+Parathyroid hormone helps raise available calcium through kidney and
+bone effects and the vitamin-D pathway. Calcium regulation is not
+simply a two-hormone on-off switch.
+
+148
+00:30:02,400 --> 00:30:12,960
+Calcitonin is thyroid-derived and has a different role. Keep the
+thyroid metabolic-hormone pathway separate from parathyroid and
+calcium physiology.
+
+149
+00:30:12,960 --> 00:30:25,872
+Calcium disturbance can affect neuromuscular and cardiac function,
+with possible tingling, spasm, weakness or ECG change. None supplies a
+precise blood concentration.
+
+150
+00:30:25,872 --> 00:30:38,256
+Use the clinical history, actual laboratory information and
+appropriate support. A physiology reading does not authorize empiric
+calcium for every symptom or a single ECG interval.
+
+151
+00:30:38,256 --> 00:30:50,736
+Ask what medicine was actually delivered and when, including a pump
+interruption, injection issue or vomiting after tablets. A prescribed
+plan and delivered treatment are different facts.
+
+152
+00:30:50,736 --> 00:31:01,200
+Compare that with food, activity, infection symptoms, pregnancy and
+other stress. The balance can change even when the patient followed
+the usual prescription.
+
+153
+00:31:01,200 --> 00:31:12,000
+Kidney or liver dysfunction can modify medicine handling, glycogen
+availability and fluid risk. Ask about the baseline and verified
+recent findings.
+
+154
+00:31:12,000 --> 00:31:25,992
+Explore practical access barriers without blame and use the patient
+preferred communication support. Do not change an insulin pump program
+or long-term regimen without actual authority and an agreed clinical
+plan.
+
+155
+00:31:25,992 --> 00:31:37,632
+After correction of low glucose, ask whether the actual problem
+resolved. A patient can have a normal value and still have a stroke,
+infection, injury or toxic effect.
+
+156
+00:31:37,632 --> 00:31:51,480
+In a suspected high-glucose crisis, follow breathing, perfusion and
+rhythm with the illness course. A lower glucose alone does not prove
+resolution of ketosis, acidosis or hyperosmolality.
+
+157
+00:31:51,480 --> 00:32:03,408
+In adrenal crisis, accurate eligibility, dose history and early
+consultation matter alongside ABC support. Do not assume that a
+hormone injection instantly reverses shock.
+
+158
+00:32:03,408 --> 00:32:14,880
+If the response does not fit, reconsider delivery, timing, recurrence
+and another cause. Explain that revision clearly to the team and
+receiving clinicians.
+
+159
+00:32:14,880 --> 00:32:24,768
+Begin with the current patient, not only a glucose number. State
+awareness, breathing, circulation and the reason the case needs urgent
+evaluation.
+
+160
+00:32:24,768 --> 00:32:37,512
+Give measured glucose with units and times, relevant medicines or
+established hormone disease and the illness timeline. Preserve last
+known well when neurological disease remains possible.
+
+161
+00:32:37,512 --> 00:32:50,304
+Report the actual product, amount, concentration, route and time,
+including earlier rescue doses and the required consultation. Then
+describe both the number and functional response.
+
+162
+00:32:50,304 --> 00:33:02,904
+Mention recurrence, persistent focal findings, possible euglycemic
+crisis or unresolved shock. Accurate uncertainty helps the receiving
+team prepare the right investigation and care.
+
+163
+00:33:02,904 --> 00:33:13,776
+For low glucose, explain the route from command following, swallowing
+and IV availability, then calculate the actual product volume and
+predict the response.
+
+164
+00:33:13,776 --> 00:33:25,800
+For suspected DKA or HHS, explain two mechanisms and why one glucose
+does not describe the complete problem. Include ventilation and
+potassium risk.
+
+165
+00:33:25,800 --> 00:33:39,000
+For adrenal crisis, state the compatible illness, qualifying history,
+prescription and mandatory consultation. Include the adult regimen and
+what you do if IV access is delayed.
+
+166
+00:33:39,000 --> 00:33:49,728
+Finish each answer with an alternative diagnosis and a reassessment
+that could change your plan. Naming a hormone or a medicine is only
+the beginning of the explanation.
+
+167
+00:33:49,728 --> 00:33:59,472
+You should now explain the major endocrine feedback and glucose-
+regulation roles without using age, body size or an insulin label as a
+diagnostic shortcut.
+
+168
+00:33:59,472 --> 00:34:09,216
+You should choose an airway-safe low-glucose route, calculate D ten
+correctly, distinguish the current nasal glucagon product and
+investigate recurrence.
+
+169
+00:34:09,216 --> 00:34:20,880
+You should connect DKA and HHS mechanisms to breathing, fluid and
+potassium risk, and recognize adrenal or thyroid decompensation with
+actual local treatment boundaries.
+
+170
+00:34:20,880 --> 00:34:30,792
+Complete the bilingual reading and original practice, then use the
+integrated school cases to rehearse a changing-patient assessment and
+accurate handover.

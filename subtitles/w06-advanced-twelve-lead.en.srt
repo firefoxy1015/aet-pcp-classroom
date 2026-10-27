@@ -1,0 +1,757 @@
+1
+00:00:00,000 --> 00:00:12,432
+The school asks you to prepare for posterior, high-lateral and LBBB-
+related findings, then integrate atypical or incomplete presentations.
+This workshop makes those tasks explicit.
+
+2
+00:00:12,432 --> 00:00:22,296
+Use the earlier lead placement and rhythm framework. We now add the
+measurements and limitations that stop a confident but incorrect
+interpretation.
+
+3
+00:00:22,296 --> 00:00:31,752
+A pattern can justify urgent concern without proving one culprit
+artery. A negative special rule also cannot make an unstable patient
+safe.
+
+4
+00:00:31,752 --> 00:00:43,296
+Describe what is present, how reliable it is and what action follows
+through the actual regional pathway. These original exercises are not
+school examination strips or answers.
+
+5
+00:00:43,296 --> 00:00:57,264
+Ischemia may present with pressure, breathlessness, weakness, nausea
+or syncope rather than a complete classic story. An incomplete history
+is a reason to assess, not a reason to exclude.
+
+6
+00:00:57,264 --> 00:01:06,792
+Describe the actual symptoms and time course. The current chest-pain
+approach discourages using atypical as a dismissive shortcut.
+
+7
+00:01:06,792 --> 00:01:18,720
+Look for poor output, heart failure and dangerous alternatives while
+obtaining the useful ECG. No individual examination finding proves or
+excludes coronary ischemia.
+
+8
+00:01:18,720 --> 00:01:32,280
+Ask what would change the immediate plan: shock, ongoing symptoms,
+electrical instability or a concerning evolving trace. Do not spend
+the encounter collecting risk factors while function fails.
+
+9
+00:01:32,280 --> 00:01:41,808
+Confirm the patient, time and symptom or treatment state. A
+technically valid old tracing is not necessarily the current
+physiological picture.
+
+10
+00:01:41,808 --> 00:01:52,488
+Use actual landmarks and correct lead identity. Misplaced precordial
+or reversed limb electrodes can create misleading territory and
+conduction appearances.
+
+11
+00:01:52,488 --> 00:02:03,792
+Reduce correctable artifact and inspect the baseline before measuring
+a tiny J-point difference. A machine interpretation is a prompt for
+review, not a quality guarantee.
+
+12
+00:02:03,792 --> 00:02:13,392
+Keep all useful recordings with times and placement labels. Never
+discard the standard trace merely because supplemental leads have been
+acquired.
+
+13
+00:02:13,392 --> 00:02:24,144
+At standard gain, one millimeter corresponds to zero point one
+millivolt. Check the actual gain and paper speed before using
+remembered grid dimensions.
+
+14
+00:02:24,144 --> 00:02:34,080
+Locate QRS onset and the J point at the end of QRS. Baseline drift and
+an indistinct end can make a small measurement unreliable.
+
+15
+00:02:34,080 --> 00:02:45,384
+The universal-definition reference uses QRS onset for J-point
+comparison in the acute setting. Do not accidentally measure the
+T-wave peak or use a moving baseline as the reference.
+
+16
+00:02:45,384 --> 00:02:55,128
+State the measured finding and uncertainty. A threshold only helps
+when the calibration, anatomy and clinical setting match the rule
+being used.
+
+17
+00:02:55,128 --> 00:03:05,016
+Group the views by anatomy rather than their printed adjacency. Two
+boxes next to each other on the page are not automatically contiguous
+leads.
+
+18
+00:03:05,016 --> 00:03:17,496
+Inferior Two, Three and a V F are a familiar group. One and a V L
+examine high lateral regions, with V Five and V Six providing related
+lateral views.
+
+19
+00:03:17,496 --> 00:03:28,512
+Precordial territories overlap; use a consistent learned map without
+pretending each electrode sees one isolated wall or uniquely
+identifies an artery.
+
+20
+00:03:28,512 --> 00:03:39,672
+Supplemental leads change the view and must be labelled. A trace
+acquired after moving electrodes cannot be compared as if every lead
+position remained standard.
+
+21
+00:03:39,672 --> 00:03:50,784
+For conventional criteria, new or presumed-new elevation must be
+assessed in anatomically contiguous leads with the correct context,
+not in one isolated spike.
+
+22
+00:03:50,784 --> 00:04:02,472
+The usual one-millimeter cutoff does not apply unchanged to V Two and
+V Three. In men forty or older the cutoff there is two millimeters,
+and under forty it is two point five.
+
+23
+00:04:02,472 --> 00:04:15,264
+For women, the cited V Two and V Three cutoff is one point five
+millimeters. The complete rule still includes lead relationships and
+relevant conduction or hypertrophy context.
+
+24
+00:04:15,264 --> 00:04:26,400
+Lesser changes can still be important with symptoms or reciprocal
+findings. Failure to meet conventional elevation criteria does not
+exclude acute coronary occlusion.
+
+25
+00:04:26,400 --> 00:04:34,944
+State the abnormal leads and the kind of change before naming a
+territory. This keeps the interpretation traceable to the evidence.
+
+26
+00:04:34,944 --> 00:04:45,096
+Reciprocal depression can support concern but is not required in every
+true event. No mirror change does not make a concerning elevation
+harmless.
+
+27
+00:04:45,096 --> 00:04:55,728
+Coronary anatomy varies and regional views overlap. A territory is not
+proof of a particular culprit vessel or the exact size and age of
+infarction.
+
+28
+00:04:55,728 --> 00:05:07,224
+Communicate the pattern and patient-linked urgency through the actual
+pathway. Do not delay the alert while trying to prove anatomy that
+only definitive investigation can establish.
+
+29
+00:05:07,224 --> 00:05:17,088
+The standard tracing has limited direct posterior views. Horizontal
+depression in V One through V Three can be a reciprocal clue to
+posterior injury.
+
+30
+00:05:17,088 --> 00:05:26,688
+A prominent broad R wave, an R-to-S ratio above one in V Two and
+upright anterior T waves can support the pattern in the appropriate
+context.
+
+31
+00:05:26,688 --> 00:05:37,656
+These findings are not specific alone and may not all be present
+early. Do not require a complete memorized triad before taking ongoing
+ischemic symptoms seriously.
+
+32
+00:05:37,656 --> 00:05:50,928
+Acquire indicated trained posterior views and seek appropriate urgent
+interpretation/pathway support. The absence of ordinary anterior
+elevation is not a reassuring conclusion.
+
+33
+00:05:50,928 --> 00:06:03,384
+Use the trained supplemental placement method. V Seven lies at the
+left posterior axillary line, V Eight at the left midscapular line and
+V Nine at the left paraspinal border.
+
+34
+00:06:03,384 --> 00:06:12,600
+Maintain the horizontal posterior level specified by the reference and
+actual protocol, rather than following the changing scapular tip down
+the back.
+
+35
+00:06:12,600 --> 00:06:24,528
+If existing cables are repositioned, label the new positions clearly
+on the actual recording. Do not leave the receiver to interpret
+posterior positions as standard V Four to V Six.
+
+36
+00:06:24,528 --> 00:06:36,048
+Preserve the standard ECG and both acquisition times. Obtain useful
+additional views without abandoning treatment of instability or
+delaying necessary communication.
+
+37
+00:06:36,048 --> 00:06:50,088
+The cited universal-definition section gives a half-millimeter
+posterior elevation cutoff, with one millimeter used for men younger
+than forty. These are supplemental-view criteria, not a new rule for
+every standard lead.
+
+38
+00:06:50,088 --> 00:07:00,288
+A small signal demands a reliable baseline, correct placement and
+calibration. Do not manufacture precision from a moving or poor-
+quality tracing.
+
+39
+00:07:00,288 --> 00:07:12,096
+The downloaded twenty-twenty-two table prints a less-than-or-equal
+sign in this posterior item. It conflicts with the threshold concept
+and is not taught as a maximum allowed elevation.
+
+40
+00:07:12,096 --> 00:07:24,696
+The local notification and destination process still applies. High
+concern with ongoing symptoms or instability deserves escalation even
+when a supplemental trace is not definitive.
+
+41
+00:07:24,696 --> 00:07:33,384
+Posterior signals may be small and disease evolves. A nondiagnostic
+extra recording is not a universal rule-out test.
+
+42
+00:07:33,384 --> 00:07:44,928
+Check placement, quality and acquisition timing, then compare genuine
+serial changes. Do not repeatedly move electrodes and call every
+difference physiological evolution.
+
+43
+00:07:44,928 --> 00:07:58,224
+Anterior depression can have other explanations, including wider
+ischemia or conduction-related changes. Describe the observations and
+alternatives rather than declaring posterior infarction from one sign.
+
+44
+00:07:58,224 --> 00:08:08,352
+Continue appropriate patient support and timely expert review.
+Repeating tests must not become a reason to delay a necessary pre-
+alert or conveyance.
+
+45
+00:08:08,352 --> 00:08:18,336
+The school includes high-lateral patterns in its advanced list.
+Elevation in One and a V L can meet ordinary contiguous-lead STEMI
+criteria.
+
+46
+00:08:18,336 --> 00:08:27,744
+Review related lateral views and possible inferior reciprocal
+depression. These support localization but do not independently prove
+the culprit artery.
+
+47
+00:08:27,744 --> 00:08:39,912
+Subtle isolated findings need quality and clinical correlation, not a
+forced equivalent label. Do not ignore a small but concerning change
+simply because another lead looks normal.
+
+48
+00:08:39,912 --> 00:08:52,200
+Use the actual alert pathway and communicate the abnormal views,
+symptom state and stability. Classification should help timely care,
+not become an argument that delays it.
+
+49
+00:08:52,200 --> 00:09:02,064
+A wide QRS means ventricular activation takes longer. It does not
+alone prove LBBB, RBBB or ventricular tachycardia.
+
+50
+00:09:02,064 --> 00:09:13,872
+Pacing, pre-excitation, electrolyte/drug effects and other conduction
+disease can also produce a broad complex. Artifact may further confuse
+the apparent width.
+
+51
+00:09:13,872 --> 00:09:23,928
+Use the measured duration, morphology, rhythm and atrioventricular
+relationships. Check the whole lead set rather than one memorable
+shape.
+
+52
+00:09:23,928 --> 00:09:33,696
+Assess pulse and perfusion promptly. An unstable wide-complex patient
+needs the appropriate urgent pathway while the interpretation is
+refined.
+
+53
+00:09:33,696 --> 00:09:43,200
+The cited adult complete-RBBB definition includes a QRS of at least
+one hundred twenty milliseconds. The duration alone is insufficient.
+
+54
+00:09:43,200 --> 00:09:54,792
+Look for the specified terminal R-prime patterns in V One or V Two,
+with a broad terminal S in One and V Six. Recognize that real
+morphology has variants.
+
+55
+00:09:54,792 --> 00:10:05,472
+The full definition also considers R-peak timing. Do not reduce it to
+a cartoon of rabbit ears or infer a diagnosis from one misplaced
+right-precordial lead.
+
+56
+00:10:05,472 --> 00:10:18,504
+RBBB is a conduction description, not automatic infarction, embolism
+or atrioventricular block. New symptoms and perfusion changes still
+need an urgent clinical explanation.
+
+57
+00:10:18,504 --> 00:10:29,832
+The cited adult complete-LBBB definition begins with QRS at least one
+hundred twenty milliseconds and characteristic broad, notched or
+slurred lateral R waves.
+
+58
+00:10:29,832 --> 00:10:40,512
+The complete morphology includes absent Q waves in One, V Five and V
+Six, with the stated a V L exception, and delayed lateral R-peak
+timing.
+
+59
+00:10:40,512 --> 00:10:51,312
+ST and T usually oppose the dominant QRS direction. These secondary
+changes make ordinary ischemia reading harder; not every elevation is
+primary injury.
+
+60
+00:10:51,312 --> 00:11:05,976
+Use the whole pattern and clinical context rather than the machine
+label alone. Alternative LBBB definitions exist for specialist
+purposes, so do not import a CRT threshold into this basic recognition
+task.
+
+61
+00:11:05,976 --> 00:11:16,584
+Atrioventricular block describes impaired conduction from atria toward
+ventricles. Bundle-branch block describes delayed spread within the
+ventricular conduction system.
+
+62
+00:11:16,584 --> 00:11:27,816
+They can coexist, but a wide QRS does not establish complete AV block.
+Inspect atrial activity and its relationship to conducted ventricular
+beats.
+
+63
+00:11:27,816 --> 00:11:40,248
+Likewise, a two-to-one pattern cannot always be called Mobitz Two from
+one strip. Describe the observed relationship and seek appropriate
+review without delaying unstable-patient care.
+
+64
+00:11:40,248 --> 00:11:51,528
+The practical endpoint is a useful description of rate, rhythm,
+conduction and perfusion. A more precise label is valuable only when
+it improves the decision.
+
+65
+00:11:51,528 --> 00:12:01,200
+Concordance means that the ST displacement and dominant QRS point in
+the same direction. A positive QRS with elevation is one example.
+
+66
+00:12:01,200 --> 00:12:11,784
+Discordance means opposite directions. In LBBB, some discordant ST-T
+change is expected because activation and repolarization have changed.
+
+67
+00:12:11,784 --> 00:12:21,072
+Expected does not mean unlimited. The amount relative to the preceding
+complex and the clinical context can make a discordant finding
+concerning.
+
+68
+00:12:21,072 --> 00:12:31,920
+Use the schematic to understand direction, then measure on a real
+calibrated trace. A teaching drawing is not enough to diagnose LBBB or
+acute occlusion.
+
+69
+00:12:31,920 --> 00:12:42,936
+The school lists LBBB among advanced equivalent concerns. The
+important correction is that new or presumed-new LBBB alone is not
+diagnostic of acute MI.
+
+70
+00:12:42,936 --> 00:12:55,032
+A previous tracing can help establish whether the pattern changed, but
+obtaining it must not delay urgent care. If no old trace exists, say
+that newness is unknown.
+
+71
+00:12:55,032 --> 00:13:07,032
+Assess ongoing ischemic symptoms, perfusion and specific concerning ST
+relationships. LBBB can indicate underlying structural disease even
+without acute occlusion.
+
+72
+00:13:07,032 --> 00:13:18,504
+Urgently escalate an unstable or persistently symptomatic patient
+through the actual pathway. A negative special score is not a
+discharge or non-conveyance certificate.
+
+73
+00:13:18,504 --> 00:13:26,904
+The cited framework treats concordant elevation of at least one
+millimeter in a lead with a positive QRS as an important finding.
+
+74
+00:13:26,904 --> 00:13:37,728
+It also identifies concordant depression of at least one millimeter in
+V One to V Three. Confirm direction and baseline rather than merely
+seeing any depression.
+
+75
+00:13:37,728 --> 00:13:48,216
+These rules are discussed for LBBB or the appropriate ventricular-
+paced context. They are not a universal score for every conduction
+pattern or wide tachycardia.
+
+76
+00:13:48,216 --> 00:13:58,200
+Positive findings support urgent concern; their absence does not
+exclude occlusion. Continue patient-linked assessment and timely
+expert review.
+
+77
+00:13:58,200 --> 00:14:08,520
+Original Sgarbossa assigns five points for concordant elevation, three
+for concordant anterior depression and two for the absolute
+discordant-elevation item.
+
+78
+00:14:08,520 --> 00:14:18,984
+A score at least three is positive in the cited framework. You do not
+need all three items; the two-point item alone is not the same as
+reaching the score threshold.
+
+79
+00:14:18,984 --> 00:14:29,736
+The absolute five-millimeter discordant item has limitations when the
+preceding QRS is very large or small. This motivates the proportional
+modification.
+
+80
+00:14:29,736 --> 00:14:39,024
+Do not combine original points with modified items into a new hybrid
+score. State which framework you used and seek review when uncertain.
+
+81
+00:14:39,024 --> 00:14:47,952
+Smith-modified Sgarbossa keeps the concordant findings and replaces
+the absolute discordant-elevation item with a proportional
+measurement.
+
+82
+00:14:47,952 --> 00:14:57,240
+In the cited table, the J-point elevation must be at least one
+millimeter and at least one quarter of the preceding S-wave depth.
+
+83
+00:14:57,240 --> 00:15:07,584
+Use the magnitude of the S-wave depth as the denominator, measured
+from the proper reference. It is not a T-wave ratio or the height of
+the tallest R elsewhere.
+
+84
+00:15:07,584 --> 00:15:20,448
+The modified rule is positive if any qualifying item is present, not
+by adding the original weights. It supports an urgent interpretation
+pathway, not independent proof of one artery.
+
+85
+00:15:20,448 --> 00:15:30,552
+Assume a calibrated interpretable LBBB-context lead has a preceding S
+wave twelve millimeters deep and J-point elevation four millimeters
+high.
+
+86
+00:15:30,552 --> 00:15:41,592
+Divide four by twelve: the magnitude is about zero point three three,
+or thirty-three percent. Elevation also exceeds the one-millimeter
+minimum.
+
+87
+00:15:41,592 --> 00:15:53,184
+That meets the proportional teaching item in this assumed example. If
+the S depth were twenty-four with the same four-millimeter elevation,
+the proportion would be about seventeen percent instead.
+
+88
+00:15:53,184 --> 00:16:05,280
+A real patient decision still requires the right context, whole trace,
+symptoms and pathway. The second example not meeting one item does not
+rule out coronary occlusion.
+
+89
+00:16:05,280 --> 00:16:17,424
+Before using the rule, verify the trace quality and the actual
+conduction context. Mislabelled pacing, artifact or an unclear
+baseline can invalidate the calculation.
+
+90
+00:16:17,424 --> 00:16:27,648
+The original criteria are specific but not sensitive enough to exclude
+acute occlusion. A negative result does not explain away ongoing
+symptoms or shock.
+
+91
+00:16:27,648 --> 00:16:37,920
+Do not use an exact percentage as a substitute for judgment when
+measurements are uncertain. State the uncertainty and obtain a timely
+expert over-read.
+
+92
+00:16:37,920 --> 00:16:49,176
+Keep treating the immediate patient threat and follow the real
+notification pathway. A classroom rule cannot authorize automatic
+bypass, thrombolysis or a new medication.
+
+93
+00:16:49,176 --> 00:17:00,576
+Determine whether pacing is atrial, ventricular or another
+configuration and whether the trace is interpretable. A spike alone
+does not describe ventricular activation.
+
+94
+00:17:00,576 --> 00:17:10,008
+Check actual capture and perfusion through the patient assessment.
+Electrical-looking capture does not by itself prove effective
+mechanical output.
+
+95
+00:17:10,008 --> 00:17:20,856
+The cited ischemia framework includes an appropriate ventricular-paced
+context, but not every paced trace is identical to LBBB or suitable
+for automatic scoring.
+
+96
+00:17:20,856 --> 00:17:31,104
+Describe the device context, symptoms and concerning findings, then
+seek appropriate review. Pacing does not make acute coronary disease
+impossible.
+
+97
+00:17:31,104 --> 00:17:43,608
+Hyperacute T changes can be early ischemic findings, but potassium
+disturbance and hypertrophy can also affect T waves. No tall T wave is
+automatically one diagnosis.
+
+98
+00:17:43,608 --> 00:17:55,776
+The de Winter description combines upsloping precordial ST depression
+with prominent symmetric T waves. It can indicate serious coronary
+occlusion without ordinary precordial elevation.
+
+99
+00:17:55,776 --> 00:18:07,224
+Wellens is a clinical pattern with characteristic anterior biphasic or
+deep symmetric T changes and a relevant recent symptom history, not a
+label for any inverted T.
+
+100
+00:18:07,224 --> 00:18:18,096
+Describe the real findings and escalate the risk through the actual
+pathway. Do not add a provocative exercise test or declare a specific
+vessel from a cartoon.
+
+101
+00:18:18,096 --> 00:18:29,136
+Widespread depression with a V R elevation can represent high-risk
+diffuse subendocardial ischemia. It is not proof that every patient
+has an acute left-main occlusion.
+
+102
+00:18:29,136 --> 00:18:40,752
+Severe coronary disease and systemic supply-demand mismatch can both
+contribute. Hemorrhage, hypoxia or a compensatory fast rate may be
+central to the current problem.
+
+103
+00:18:40,752 --> 00:18:51,912
+Treat the actual reversible threats and support perfusion while
+escalating ischemic concern. Do not reflexively slow a bleeding
+patient because the tracing has a fast rate.
+
+104
+00:18:51,912 --> 00:19:02,904
+Communicate the pattern, patient state and response rather than a
+falsely certain anatomy. The receiving team needs both the ECG and the
+physiological explanation.
+
+105
+00:19:02,904 --> 00:19:14,424
+Repeat through the indicated pathway when symptoms recur, physiology
+changes or concern remains. A single nondiagnostic ECG is not the
+final story.
+
+106
+00:19:14,424 --> 00:19:24,528
+Use comparable placement and note supplemental positions. A difference
+caused by moving electrodes must not be silently called dynamic
+ischemia.
+
+107
+00:19:24,528 --> 00:19:34,080
+Preserve acquisition time, symptom state and intervention sequence. An
+earlier transient finding may remain important after it resolves.
+
+108
+00:19:34,080 --> 00:19:44,976
+Communicate concern promptly and seek an expert over-read when needed.
+Do not wait for every label to become certain while an unstable
+patient deteriorates.
+
+109
+00:19:44,976 --> 00:19:55,344
+Maintain primary airway, breathing and circulation care while
+interpreting. A beautiful trace is not useful if obtaining it
+displaced needed support.
+
+110
+00:19:55,344 --> 00:20:06,096
+Ask whether the rhythm or ischemia causes the low perfusion,
+contributes to it or reflects compensation for another process. The
+same rate can mean different things.
+
+111
+00:20:06,096 --> 00:20:15,528
+A traumatic or bleeding patient can also have coronary disease. Do not
+let the cardiac label hide uncontrolled hemorrhage or an airway
+problem.
+
+112
+00:20:15,528 --> 00:20:25,608
+Escalate through the actual regional system with an accurate
+description of both threats. You do not need angiographic certainty to
+request needed capability.
+
+113
+00:20:25,608 --> 00:20:39,192
+A sixty-nine-year-old at a garden exhibition develops sudden
+breathlessness and sweating without a classic pain description. Assess
+function and obtain a useful ECG rather than dismissing the
+presentation.
+
+114
+00:20:39,192 --> 00:20:52,272
+Assume the reliable tracing shows horizontal depression in V One to V
+Three with supportive R and T features. State posterior ischemic
+concern without calling the finding specific proof.
+
+115
+00:20:52,272 --> 00:21:04,512
+Obtain indicated trained supplemental views while assessing cardiac
+failure, embolism and other dangerous causes. Continue support and
+preserve the original trace and times.
+
+116
+00:21:04,512 --> 00:21:16,824
+If the extra trace remains nondiagnostic but symptoms or instability
+persist, escalate the concern and seek review. A negative extra view
+is not permission to stop caring.
+
+117
+00:21:16,824 --> 00:21:28,800
+A sixty-three-year-old at a ferry terminal has weakness, chest
+pressure and poor perfusion. The ECG has the adult LBBB morphology,
+but no prior tracing is available.
+
+118
+00:21:28,800 --> 00:21:39,000
+Do not label it definitely new, and do not diagnose MI from LBBB
+alone. Review the whole trace and the specific concerning ST
+relationships.
+
+119
+00:21:39,000 --> 00:21:49,848
+Use the referenced criteria carefully, state any measurement
+uncertainty and consider other contributors to shock. A negative
+result would not make this patient stable.
+
+120
+00:21:49,848 --> 00:22:02,760
+Continue appropriate support and urgent notification/consultation
+through the actual pathway. Report LBBB of unknown age with the
+observed ischemic concern and current physiology.
+
+121
+00:22:02,760 --> 00:22:12,888
+The school target is a complete pre-alert within sixty seconds. Start
+with the unit, patient and immediate threat so the receiver can
+allocate attention.
+
+122
+00:22:12,888 --> 00:22:26,112
+Give symptom timing, current perfusion and the actual abnormal leads
+or conduction context. State posterior concern or LBBB of unknown age
+rather than invented certainty.
+
+123
+00:22:26,112 --> 00:22:35,400
+Report treatment already given and response, including adverse change.
+Separate a possible intervention from one actually administered.
+
+124
+00:22:35,400 --> 00:22:46,224
+Finish with ETA, capability required and confirmation of the plan. The
+clock tests organized communication, not speed at the expense of the
+key risk.
+
+125
+00:22:46,224 --> 00:22:56,592
+You should now explain why anterior depression may raise posterior
+concern, where the additional views belong and why high lateral is not
+always an equivalent.
+
+126
+00:22:56,592 --> 00:23:06,144
+Distinguish adult RBBB and LBBB using duration and complete
+morphology, and distinguish bundle disease from atrioventricular
+block.
+
+127
+00:23:06,144 --> 00:23:15,576
+Reconstruct concordance, original weights and the proportional
+modification, including the S-wave denominator and the limits of a
+negative result.
+
+128
+00:23:15,576 --> 00:23:27,960
+Finally connect the finding to the current patient, serial evidence
+and an actionable pre-alert. The integrated workshop next combines
+these decisions with ROSC deterioration and trauma.

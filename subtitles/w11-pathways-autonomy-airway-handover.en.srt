@@ -1,0 +1,289 @@
+1
+00:00:00,000 --> 00:00:40,272
+This chapter is part of the school’s Week11 all-pathways review, not a
+new AET online-module allocation. It develops three previously thin
+source areas: A10 survivor-centered care, A13 care planning for
+handover, and B02 airway obstruction. The available April2026 export
+places them at physical164-172,176-177 and183-185. Their public pages
+were also checked. This chapter does not certify the entire136-620
+span.
+
+2
+00:00:40,272 --> 00:01:05,856
+Autonomy means making and updating a reasoned plan within the
+patient’s choices and your role, not acting without help. Begin with
+scene safety and immediate physiology, choose the relevant pathway,
+explain the next step and verify its effect. Requesting resources or
+consulting is part of competent autonomous care when the situation
+exceeds available information, skill or equipment.
+
+3
+00:01:05,856 --> 00:01:32,808
+A10 treats respectful communication as part of care, not a reward for
+a coherent story. Introduce yourself, explain your role, offer privacy
+and ask what the person wants now. Distress may appear as crying,
+quietness, anger, fragmented recall or little visible emotion. None of
+these reactions proves or disproves an assault; do not demand a
+particular emotional performance.
+
+4
+00:01:32,808 --> 00:01:58,488
+Invite information needed for immediate care without making disclosure
+a condition of help. Useful questions concern pain, bleeding,
+breathing, loss of consciousness, medicines and possible exposures.
+Repeated detailed retelling can add distress. Listen without blame,
+avoid leading questions and separate the person’s exact words from
+your own observations and inferences.
+
+5
+00:01:58,488 --> 00:02:29,112
+Ask permission before each examination or touch and say what it
+involves. Agreement to a blood-pressure measurement does not imply
+agreement to exposure, photographs, forensic collection or police
+involvement. A person can accept medical treatment while declining a
+forensic examination. Sexual-consent law and decision-specific
+capacity for medical treatment are different questions; a broad
+sentence about intoxication must not replace the actual medical
+consent assessment.
+
+6
+00:02:29,112 --> 00:02:59,832
+If an adult declines conveyance, explore the actual reason, assess the
+specific decision and explain available medical options without
+coercion. Fear of a forensic exam may not mean refusal of all care.
+Discuss a safe next contact, support person and practical follow-up
+when appropriate, and use the current non-conveyance/consent pathway.
+A refusal signature alone does not demonstrate capacity, understanding
+or safety.
+
+7
+00:02:59,832 --> 00:03:27,816
+Absence of obvious injury does not exclude serious harm. A10 asks
+clinicians to consider head injury, drug effects and neck compression.
+New hoarseness, swallowing difficulty, breathlessness, neck swelling,
+neurological change or a history of lost consciousness deserves prompt
+assessment; symptoms after neck compression can be delayed. Do not
+wait for a large external bruise before addressing the clinical
+concern.
+
+8
+00:03:27,816 --> 00:03:55,248
+Original case: a person reports recent neck pressure and asks not to
+explain the event again. Their voice is newly hoarse and swallowing is
+painful. Explain the immediate assessment you recommend, seek
+permission for each component, address airway risk and arrange
+appropriate resources/conveyance. Do not call the assessment normal
+because there is little bruising or insist on a full police-style
+account first.
+
+9
+00:03:55,248 --> 00:04:24,576
+Medical stabilization takes priority over preserving evidence. When
+the patient agrees and it does not interfere with care, avoid
+unnecessary cleaning, discarding clothing or cutting through visible
+damage. Use the service’s evidence-handling and receiving-facility
+process, keeping items identifiable and avoiding contamination. Do not
+delay airway support or hemorrhage control to protect a specimen, and
+do not invent chain-of-custody steps from a summary.
+
+10
+00:04:24,576 --> 00:04:56,040
+A10 describes medical care alone, medical care with forensic sampling
+stored where available, and medical care with police reporting. The
+person’s choices can change, and a local forensic team confirms actual
+options and timing. The source’s collection-window examples are not an
+expiry date for seeking care. Major-trauma destination needs take
+precedence; otherwise confirm the appropriate receiving pathway and
+the person’s preference rather than promising an unverified facility.
+
+11
+00:04:56,040 --> 00:05:25,104
+Safety planning must be individualized and discreet. Ask what contact,
+location, belongings, medicines or transport the person can safely
+access. Do not promise that an alleged perpetrator cannot reach them,
+that a telephone automatically reveals a precise location, or that
+emailing documents is safe on a monitored account. Explain the plan
+using the person’s own constraints rather than treating a generic
+checklist as a guarantee.
+
+12
+00:05:25,104 --> 00:05:57,312
+Control of a patient’s speech, movement or interpretation may raise
+concern about coercion or exploitation. Seek a safe opportunity for
+private communication and an appropriate independent interpreter,
+without creating a confrontation that increases danger. Clothing,
+poverty, nationality, tattoos or an inconsistent account do not
+diagnose trafficking. Focus on the person’s medical needs and safety,
+document observations and communicate concern through the appropriate
+pathway.
+
+13
+00:05:57,312 --> 00:06:28,104
+Cultural safety includes recognizing power imbalances and asking about
+preferred support rather than assigning needs from ethnicity or
+gender. The source discusses colonial and systemic harms affecting
+Indigenous survivors; its historical statistics are not current
+prevalence estimates for an individual. Female genital cutting can
+produce acute or long-term medical complications, but a paramedic does
+not need to assign a criminal charge before treating harm or raising a
+protection concern.
+
+14
+00:06:28,104 --> 00:06:57,408
+The source’s head-injury sentence refers to H04, but the export and
+current catalogue identify H03 as Head Trauma and H04 as Eye Injuries.
+Follow the named clinical problem, not a mistaken code. Its appendix
+references also disagree: the actual appendix B is a safety plan,
+although other passages point to B for reporting and C for safety.
+These labels do not supply a missing reporting procedure.
+
+15
+00:06:57,408 --> 00:07:30,816
+For a child-protection concern in BC, the current provincial guidance
+covers children and youth under nineteen and says not to wait for
+proof before reporting concern to a child-welfare worker. Immediate
+danger also needs emergency response. The public reporting route
+checked for this course is Provincial Centralized
+Screening,1-800-663-9122. Reporting is not a forensic interview or a
+guarantee of a particular child-welfare outcome; follow the applicable
+duty and service procedure.
+
+16
+00:07:30,816 --> 00:07:57,120
+A10’s advanced-provider sedation discussion does not turn fear, crying
+or refusal into a medication indication for a PCP. Comfort, clear
+explanation, privacy and choice remain useful. Record findings,
+relevant statements, what was offered or accepted and the observed
+response. Do not write a legal conclusion or an unsupported causal
+story in place of the clinical record.
+
+17
+00:07:57,120 --> 00:08:26,256
+B02 separates a foreign body from other causes of airway narrowing,
+including swelling, illness and trauma. First assess whether the
+person can speak, cough and move air, together with effort, color and
+responsiveness. A sound label such as stridor indicates a possible
+upper-airway problem; it does not prove a piece of food is present.
+Open the relevant linked pathway when the mechanism is pathological
+rather than mechanical.
+
+18
+00:08:26,256 --> 00:08:51,504
+An effective cough with adequate air exchange is different from a weak
+cough, worsening cyanosis or diminishing responsiveness. Encourage an
+effective cough and observe closely; do not wait for every last trace
+of airflow to disappear before recognizing severe obstruction.
+Persistent obstruction requires early additional resources, conveyance
+planning and receiving-facility notification.
+
+19
+00:08:51,504 --> 00:09:23,808
+The currently served B02 text describes abdominal/chest thrusts and
+retains older uncertainty about adult back blows. The named AHA2025
+comparison teaches five back blows followed by five abdominal thrusts
+for responsive adults/children with severe obstruction, and back blows
+with chest thrusts for infants. Preserve the source difference and use
+the actual trained local framework; do not invent a hybrid sequence or
+treat infant care as adult abdominal thrusts.
+
+20
+00:09:23,808 --> 00:09:52,440
+If the person becomes unresponsive with severe foreign-body
+obstruction, initiate the appropriate CPR response, inspect the mouth
+when opening the airway and remove only an object actually seen. Do
+not perform blind finger sweeps. B02 emphasizes the sequence of
+compressions, visualization and ventilation attempts, but its ratio-
+is-unimportant sentence is not permission to ignore the trained age-
+specific CPR framework.
+
+21
+00:09:52,440 --> 00:10:19,968
+A persistent inability to ventilate is a crisis, not a reason for a
+PCP to attempt advanced forceps or surgical-airway procedures from a
+paragraph. B02 places laryngoscopy/forceps and surgical-airway
+interventions in advanced-provider care. Request the appropriate help
+early and continue permitted resuscitation. Its pediatric surgical-
+airway wording does not create an independent needle or open-airway
+permission.
+
+22
+00:10:19,968 --> 00:10:48,192
+Clearing the object does not finish the encounter. Reassess air entry,
+breathing, responsiveness and injury after thrusts; B02 recommends
+evaluation after abdominal thrusts because injury can occur. Do not
+perform abdominal thrusts simply to remove water after submersion.
+Hypoxic drowning care and a genuine coexisting foreign body are
+different problems, each requiring its appropriate pathway.
+
+23
+00:10:48,192 --> 00:11:15,264
+Original contrast: Patient A coughs strongly, answers clearly and
+maintains air exchange after a bite of food. Patient B has a weak
+ineffective cough, cannot speak and is becoming less responsive.
+Explain why observation with encouraged cough is appropriate for one
+but waiting is not appropriate for the other. Name the actual
+framework, next action, help needed and the response you will
+reassess.
+
+24
+00:11:15,264 --> 00:11:40,272
+A13 asks whether a care plan can safely continue with the receiving
+provider, not merely whether a report can be recited. In the BCEHS
+model, the most responsible attendant considers present/future
+intervention needs, the projected clinical course and the receiver’s
+ability. These are interdependent: a quiet monitor cannot cancel a
+foreseeable need for skills that the receiver lacks.
+
+25
+00:11:40,272 --> 00:12:05,688
+Current and future need includes treatment, observation, reassessment,
+communication and advocacy. A therapy restricted by role cannot be
+handed down simply because the next crew is available. A completed
+single-dose treatment may still require observation for response or
+adverse effects; A13 does not supply one universal waiting time that
+makes every patient transferable.
+
+26
+00:12:05,688 --> 00:12:27,840
+Projected course covers the whole interval until hospital transfer,
+not only the next few minutes on scene. Consider whether
+deterioration, further treatment, a special destination pathway or
+complex patient advocacy is reasonably expected to require the current
+attendant. A short apparent improvement is not proof that the risk has
+disappeared.
+
+27
+00:12:27,840 --> 00:12:52,944
+The receiving crew needs the actual competence, equipment,
+understanding and agreement to carry out the plan and communicate it
+onward. Ask them to explain the key concern, monitoring and escalation
+plan back. Concern about accepting care should be resolved without
+coercion and without neglecting the patient; the highest licence title
+alone does not make an incomplete handover safe.
+
+28
+00:12:52,944 --> 00:13:16,128
+A handover includes baseline, important change, assessment limits,
+treatment and response, ongoing tasks, contingencies and who has
+accepted responsibility. Share the documented care plan with the
+receiver, not just a completed treatment list. Safety-event reporting
+may support later review but is not a substitute for resolving the
+immediate care gap.
+
+29
+00:13:16,128 --> 00:13:42,216
+Original handover challenge: after an airway concern briefly improves,
+the receiving crew says they cannot provide the monitoring and rescue
+support that the plan assumes. Do not write care transferred simply
+because a verbal summary was given. Reassess the projected risk,
+identify a suitable team/resource and maintain care while resolving
+the mismatch, then confirm agreement and understanding.
+
+30
+00:13:42,216 --> 00:14:09,096
+Build one changing plan: establish immediate safety, identify the
+physiological problem, respect the person’s decision-specific choices,
+provide permitted care and verify the response. Before leaving or
+delegating, test that the next plan matches likely needs and actual
+resources. This is clinical autonomy with accountability, not a
+requirement to solve every uncertainty alone.

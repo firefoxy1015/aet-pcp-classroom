@@ -1,0 +1,625 @@
+1
+00:00:00,000 --> 00:00:16,920
+These seven parallel Week Eight assignments explain mechanisms,
+development, airway care and pharmacology within the school’s
+pediatric and obstetric work. The other four required readings remain
+with their teaching sessions; all eleven belong to this week.
+
+2
+00:00:16,920 --> 00:00:26,544
+Anatomy and pathophysiology explain mechanisms. Fundamentals and
+mental-health nursing help adapt observation and communication.
+
+3
+00:00:26,544 --> 00:00:38,088
+Clinical procedures and medical-surgical nursing describe care
+concepts in other settings. They are not automatic authority to
+perform the same procedure in BC EMS.
+
+4
+00:00:38,088 --> 00:00:48,288
+Pharmacology explains what uterine-motility classes do and why
+monitoring matters; it does not turn a textbook drug table into a PCP
+medication card.
+
+5
+00:00:48,288 --> 00:01:15,072
+The actual course-folder Anatomy and Physiology second edition
+resolves this row: printed pages 1185 to 1216 and 1223 to 1266 map to
+physical pages 1201 to 1232 and 1239 to 1282. All seventy-six literal
+pages and the ten named section concepts have now been reviewed. The
+older candidate export had different pagination.
+
+6
+00:01:15,072 --> 00:01:37,848
+The actual FON, MSN, Pharmacology and PMHN course-folder copies were
+also checked. Read the literal page range alongside the named school
+topic. Where they point to different material, both must be explained
+rather than silently replacing one with the other. The separate
+readers record the actual extent and the remaining source differences.
+
+7
+00:01:37,848 --> 00:02:05,976
+The identified 2018 school-folder CPSC copy maps the assigned printed
+pages six hundred ninety-five through seven hundred twenty-four to
+intravenous therapy, while its named tracheostomy topic begins at page
+eight hundred thirty-eight. Both contents have been reviewed and
+explained. The book is identified; the remaining issue is the school’s
+literal locator versus named topic, not an unknown adopted edition.
+
+8
+00:02:05,976 --> 00:02:17,160
+Use each guide as a bilingual learning companion. When its locator
+differs, verify the chapter and instructor’s copy rather than silently
+substituting pages.
+
+9
+00:02:17,160 --> 00:02:29,136
+A&P links ovarian function, pregnancy and fetal development. The
+lesson focuses on how body systems adapt, not a memorized calendar of
+guaranteed events.
+
+10
+00:02:29,136 --> 00:02:40,320
+Congenital lesions alter pressure and flow in different ways. The same
+structural label can have variable consequences depending on the
+defect and developmental stage.
+
+11
+00:02:40,320 --> 00:02:49,392
+Respiratory and reproductive content helps explain why a pregnant
+patient’s oxygenation, perfusion and airway need integrated
+assessment.
+
+12
+00:02:49,392 --> 00:02:59,856
+Use physiology to decide what question or observation is useful. Do
+not use a classroom mechanism to diagnose a patient or replace a
+current local pathway.
+
+13
+00:02:59,856 --> 00:03:10,128
+Children develop skills in a broad sequence, but the timing varies.
+Age is useful context; it is not a substitute for observing the child
+in front of you.
+
+14
+00:03:10,128 --> 00:03:20,064
+A child with intellectual, communication or autism-spectrum
+differences may need a different way to signal pain, fear, consent or
+distress.
+
+15
+00:03:20,064 --> 00:03:32,208
+Ask what communication supports work and what the child usually does.
+Include the child directly, and invite a caregiver’s observations with
+the child’s safety and preferences in view.
+
+16
+00:03:32,208 --> 00:03:44,712
+Do not assume a diagnosis explains every new symptom, or that distress
+behavior is voluntary. Look for acute airway, breathing, seizure,
+injury and perfusion threats.
+
+17
+00:03:44,712 --> 00:04:01,320
+The CPSC reader explains the actual school-folder copy’s tracheostomy
+material and the separate literal intravenous pages. Its identified-
+copy evidence replaces the earlier candidate-only status, while the
+genuine page-topic mismatch remains visible.
+
+18
+00:04:01,320 --> 00:04:11,736
+CNS sections also span specimens, anthropometry and cardiopulmonary
+assessment. They are not three equivalent tracheostomy-procedure
+sections.
+
+19
+00:04:11,736 --> 00:04:21,408
+Suction depth should be related to the actual tube or an individual
+written plan. Do not borrow a generic fixed distance or push until
+resistance.
+
+20
+00:04:21,408 --> 00:04:31,392
+A text can inform your reasoning, but device manipulation and tube
+replacement require the trained role, current protocol, equipment and
+supervision.
+
+21
+00:04:31,392 --> 00:04:41,736
+Oxytocin acts on uterine smooth muscle and is also part of the
+physiology of milk ejection. The hormone’s roles differ by tissue and
+context.
+
+22
+00:04:41,736 --> 00:04:50,040
+Pharmacology texts compare medicines that increase uterine
+contractions with agents used to slow them in selected circumstances.
+
+23
+00:04:50,040 --> 00:04:59,040
+Hospital use can require continuous assessment because overly frequent
+or sustained contractions may affect maternal and fetal status.
+
+24
+00:04:59,040 --> 00:05:09,072
+The candidate textbook contains dosing tables for clinical settings.
+They are deliberately not reproduced as an EMS or PCP administration
+instruction.
+
+25
+00:05:09,072 --> 00:05:20,256
+The school’s saved newborn page says forty to sixty assisted breaths
+per minute. Current BCEHS M09 text and its linked algorithm specify a
+different rate.
+
+26
+00:05:20,256 --> 00:05:36,840
+BCPEG pages in the saved June 2026 snapshot also use a different
+compression threshold from current M09/AHA neonatal guidance. The
+existing newborn lesson labels the conflict and teaches the current
+local service route.
+
+27
+00:05:36,840 --> 00:05:48,408
+For exam expectations, ask the instructor which revision is assessed
+while keeping the current clinical distinction visible. Do not merge
+rates or thresholds into a compromise.
+
+28
+00:05:48,408 --> 00:06:00,072
+The same rule applies to pediatric glucose and device procedures:
+record age, units, source and scope; never replace uncertainty with a
+confident-looking number.
+
+29
+00:06:00,072 --> 00:06:09,768
+Start from the school’s exact chapter and page locator. If the book
+cover, edition or pagination differs, record that before taking notes.
+
+30
+00:06:09,768 --> 00:06:22,104
+For each section, separate a mechanism, a finding, an action concept,
+a caution and any role boundary. This makes it harder to mistake
+background theory for a protocol.
+
+31
+00:06:22,104 --> 00:06:32,880
+After reading, explain the point in your own English and Chinese words
+rather than copying a paragraph. Keep units, dates and qualifiers
+attached to the claim.
+
+32
+00:06:32,880 --> 00:06:43,752
+Test one fresh example, then return to the source to correct your
+explanation. A bilingual summary is a learning aid, not a substitute
+for reading the assigned work.
+
+33
+00:06:43,752 --> 00:06:54,048
+A congenital heart disease reading explains structural pathways, shunt
+direction and changing resistance. Current symptoms still require
+clinical assessment.
+
+34
+00:06:54,048 --> 00:07:04,080
+Developmental and mental-health readings help adapt the questions to
+the child and identify baseline communication. They do not erase the
+child’s own report.
+
+35
+00:07:04,080 --> 00:07:14,184
+The real tube, patient-specific plan and trained local procedure
+determine a safe depth. A candidate nursing source cannot replace that
+measurement.
+
+36
+00:07:14,184 --> 00:07:25,992
+No. A medication table describes pharmacology in its source context.
+Current service permission, indication, product and provider scope
+remain separate requirements.
+
+37
+00:07:25,992 --> 00:07:50,832
+The school links four historical articles as well as its module and
+reading table. Their original bilingual guides are now included here.
+Use them with the connected weekly lessons: neonatal illness after
+birth, difficult delivery, pediatric assessment and basic airway
+support. They are supplementary school readings, not four extra rows
+in the eleven-row required textbook table.
+
+38
+00:07:50,832 --> 00:08:15,960
+Read old clinical writing critically. It can explain a mechanism while
+giving an outdated treatment or an action outside the local role. The
+guides separate those questions. Learn the reason a finding matters,
+then apply the current, age-appropriate and authorized pathway; do not
+memorize an old article’s dose, oxygen target or invasive maneuver as
+a school-endorsed field order.
+
+39
+00:08:15,960 --> 00:08:43,632
+The assigned obstetrical video is now integrated with its original
+bilingual guide. Follow its clinical sequence into the detailed
+maternal assessment, delivery, newborn and Apgar lessons. A historical
+overview can help organize the subject, but it cannot replace the
+current decision gates or supervised skills practice. The full
+available English narrative was read; that is not a claim that every
+demonstrated technique was visually certified.
+
+40
+00:08:43,632 --> 00:09:13,776
+Keep three distinctions explicit. First, a normal pregnancy adaptation
+does not explain away new deterioration. Second, historical specialist
+treatments do not create PCP authority. Third, the newborn’s response
+to effective ventilation comes before the persistent bradycardia
+compression branch. Use the source-specific guide to identify the old
+shortcuts, then practise the connected original cases rather than
+memorize the video’s closing answers.
+
+41
+00:09:13,776 --> 00:09:49,104
+The four theories answer different questions. Erikson concerns
+psychosocial tasks and relationships; Piaget concerns ways of
+thinking; Kohlberg concerns the reasoning used to judge right and
+wrong; Freud proposes historical psychosexual stages and personality
+structures. Learn the names, sequence and explanatory purpose, then
+apply them modestly. They are frameworks to improve questions and
+support, not tests that classify a patient as successful, morally
+inferior, incapable of consent or permanently damaged.
+
+42
+00:09:49,104 --> 00:10:27,576
+Concrete operational thinking, approximately seven to eleven in this
+source, supports logical reasoning about tangible events. Conservation
+means that reshaping an equal amount does not change its quantity;
+reversibility means mentally undoing a process; decentering means
+considering more than one aspect or perspective. Formal operational
+thinking, described from about twelve onward, permits hypothetical and
+abstract reasoning. Stress, familiarity and individual development
+influence performance. Neither age nor performance on one example
+establishes decision-making capacity.
+
+43
+00:10:27,576 --> 00:11:04,728
+Vaccination is administration of a vaccine; immunization is the
+process of gaining protection. In active immunity, the person
+generates an immune response and memory; passive protection supplies
+antibodies made elsewhere, such as maternal antibodies or an
+immunoglobulin product. Antigen and antibody are not synonyms: one is
+a recognized target, the other a specific immune protein. Protection
+depends on the product, host and time, so neither breastfeeding nor a
+vaccination record guarantees that an unwell child cannot have an
+infection.
+
+44
+00:11:04,728 --> 00:11:47,184
+Before planned vaccination, verify the actual product, history, dose
+schedule, contraindications, prior reactions and consent; explain
+expected effects and serious warning signs. A catch-up plan is
+product- and history-specific. The textbook US rule requiring guardian
+consent for every non-emancipated minor must not replace BC assessment
+of the particular young person and decision. Local mature-minor
+conditions may permit the child to consent. Concerns about access,
+cost, fear or trust deserve accurate information and practical
+support, not punishment or withdrawal of unrelated care.
+
+45
+00:11:47,184 --> 00:12:30,600
+Havighurst adds developmental tasks influenced by maturation, social
+expectations and personal values. The source six stages are
+infancy/early childhood zero to six, later childhood six to thirteen,
+adolescence thirteen to eighteen, early adulthood eighteen to thirty,
+middle age thirty to sixty and later maturity sixty onward. Examples
+progress from walking, language and self-care to peer skills, values,
+work, relationships, contribution and adapting to change. Its
+historical gender-role, marriage and family assumptions are not
+compulsory healthy-life requirements or a way to judge disability or
+culture.
+
+46
+00:12:30,600 --> 00:13:08,376
+Original integration: a school-age child who usually explains symptoms
+clearly now gives short answers, sits apart and has new rapid
+breathing. A peer conflict and an established learning difficulty may
+be relevant, but neither explains away altered interaction or
+breathing. Start with the physiological assessment and required
+support, adapt questions to the child, obtain attributed caregiver
+history and reassess response. Later prevention and referral can
+address the wider context. The developmental framework helps the
+assessment; it must not replace it.
+
+47
+00:13:08,376 --> 00:13:43,200
+Oxytocin selectively promotes uterine smooth-muscle contraction,
+increasing rhythmic activity and tone. In the breast, it helps milk
+ejection by contracting myoepithelial cells; that is not the same as
+milk production. The expected effect must match the indication: labor
+contraction and postpartum uterine hemostasis are different clinical
+settings. A drug name alone does not identify the route, concentration
+or current order. An administered uterotonic does not eliminate the
+need to assess ongoing bleeding and perfusion.
+
+48
+00:13:43,200 --> 00:14:27,000
+Unit exercise, not a treatment order: if a simulation label contains
+10 units in 1000 mL, it contains 0.01 unit per milliliter, or 10
+milliunits per milliliter. If that simulation supplies a verified 1
+milliunit per minute order, dividing 1 by 10 gives 0.1 milliliter per
+minute, equivalent to 6 milliliters per hour. Units, milliunits,
+milliliters and minutes are different quantities; confusing units with
+milliunits creates a thousandfold error. The calculation does not
+select a clinical dose, diluent, pump program or indication. Verify
+the actual product and independently check the authorized plan.
+
+49
+00:14:27,000 --> 00:15:09,768
+Magnesium depresses neuromuscular activity; excessive effect can
+appear as weakness, reduced reflexes, reduced consciousness,
+hypotension or inadequate breathing. Renal impairment can increase
+accumulation, and other depressant medicines can complicate
+assessment. The fetus or newborn can also be affected. Follow the
+actual monitoring and escalation plan rather than calling quietness
+successful treatment. Calcium is a specialist countermeasure for
+significant toxicity, not an independent PCP dose derived here. Assess
+and support the actual airway, breathing and circulation while
+urgently communicating the suspected problem.
+
+50
+00:15:09,768 --> 00:15:50,712
+Original transfer case: a postpartum patient receiving a reported
+magnesium infusion becomes quieter, weaker and has shallower
+breathing. Quietness does not prove seizure prevention is safely
+achieved, and the medicine is not the only possible cause. Reassess
+airway, ventilation, circulation and responsiveness; verify the actual
+bag, concentration, pump history and units, and alert the responsible
+clinical team urgently. Provide indicated support within the actual
+emergency plan. Do not independently escalate an infusion or diagnose
+toxicity only from the drug name.
+
+51
+00:15:50,712 --> 00:16:27,048
+Expressive communication sends meaning; receptive communication
+receives and understands it. A child who cannot speak clearly may
+understand a great deal, while fluent speech does not guarantee
+understanding. Ask one concrete question, allow processing time, and
+offer the child's own effective method: speech, gesture, writing,
+pictures or a communication device. Check understanding by asking the
+child to show or explain the next step. Do not treat a communication
+aid as evidence that the child cannot decide or feel pain.
+
+52
+00:16:27,048 --> 00:17:06,576
+Sensory input and uncertainty can make an assessment overwhelming:
+touch, alarms, bright light, crowds or a sudden change may matter. Ask
+the child and caregiver what usually helps, reduce avoidable
+stimulation and explain before touching. Repetitive movement may help
+self-regulation rather than represent deliberate disruption. Support a
+preferred communication method and acknowledge strengths without
+assuming every autistic child has the same talent. These adaptations
+accompany assessment of breathing, perfusion, injury and other new
+illness; they do not replace it.
+
+53
+00:17:06,576 --> 00:17:40,680
+Motor tics are repeated movements; vocal tics are repeated sounds.
+Tourette syndrome involves a history of multiple motor tics and at
+least one vocal tic, with a course lasting at least a year and onset
+before eighteen; the motor and vocal tics need not occur together.
+Persistent motor or vocal tic disorder involves one type rather than
+both; provisional tic disorder has a shorter course. These
+distinctions describe formal assessment, not diagnosis by one observed
+twitch. Coprolalia is not required.
+
+54
+00:17:40,680 --> 00:18:18,432
+Original case: a twelve-year-old who usually uses short spoken phrases
+begins repeatedly turning away and pushing an assessment hand aside. A
+familiar caregiver reports this is new and the child is less
+responsive than usual. Reduce noise, explain one step and retain the
+child's communication support, while promptly assessing airway,
+breathing, perfusion, responsiveness and other indicated causes.
+Document the change and response. A developmental label does not
+explain the new decline, and forcing eye contact does not establish
+that the child is safe.
+
+55
+00:18:18,432 --> 00:18:57,504
+In bronchiectasis, damaged bronchial walls remain abnormally widened.
+Wider does not mean easier clearance: retained secretions can
+encourage infection, inflammation and further wall injury, creating a
+self-reinforcing cycle. The assigned page names cystic fibrosis,
+ciliary dysfunction, previous infection, immune problems and
+obstruction among associated causes or risks; some cases are
+unexplained. Assess the actual history and change, not sex or age
+stereotypes. A chronic diagnosis does not establish the cause of
+today's breathlessness.
+
+56
+00:18:57,504 --> 00:19:34,056
+The pneumonia page shows inflammation and alveolar filling reducing
+the normally open gas-exchange space. Infection and aspiration can
+both injure lung tissue, but aspiration inflammation is not
+automatically proof of a bacterial infection needing the same drug.
+Ask about onset, aspiration risk, fever, secretions, breathing work
+and clinical trend. Low reserve, fatigue or new reduced responsiveness
+matters. Explain the mechanism without turning a picture into a
+diagnosis or delaying indicated respiratory support while waiting for
+fever.
+
+57
+00:19:34,056 --> 00:20:16,560
+Pelvic symptoms overlap. PID may involve infection-associated
+pain/discharge; endometriosis often has a cyclical pain history;
+fibroids may produce bleeding or pressure. These are patterns for
+reasoning, not mutually exclusive field diagnoses. Ask about timing,
+bleeding, pregnancy possibility, recent birth/procedures, fever, pain,
+urinary symptoms, medicines and the person's concerns. Privacy,
+consent, relevant language and a nonjudgmental explanation improve the
+history. Acute perfusion or breathing threats take priority over
+completing an intimate checklist.
+
+58
+00:20:16,560 --> 00:20:56,976
+Original case: a postpartum patient reports a previous fibroid
+diagnosis and new heavier bleeding, dizziness and weakness. Do not let
+the familiar diagnosis settle the cause. Assess current
+responsiveness, airway, breathing and perfusion; clarify recent
+birth/procedures, the bleeding trend and the actual treatment plan;
+provide indicated support and urgent communication. The literal pelvic
+reading explains overlapping symptoms, while the separate maternal-
+hemorrhage pathway governs the obstetric response. Improvement must be
+demonstrated by reassessment, not assumed after an intervention.
+
+59
+00:20:56,976 --> 00:21:30,504
+Count chromosome sets separately from DNA copies. A primary gametocyte
+is diploid; after meiosis I, a secondary gametocyte is already haploid
+even though each chromosome still has two chromatids. Meiosis II
+separates those chromatids. Thus a secondary oocyte has twenty-three
+duplicated chromosomes, not a diploid forty-six-chromosome set. The
+source prose calls it diploid, but its own figure marks it n.
+Fertilization normally restores two chromosome sets in the zygote.
+
+60
+00:21:30,504 --> 00:22:08,184
+Oogenesis begins before birth. Primary oocytes pause in meiosis I; a
+selected one completes that division before ovulation and produces a
+large secondary oocyte plus a small polar body. The secondary oocyte
+pauses in metaphase II and completes the division after fertilization-
+related activation. Unequal division retains most cytoplasm in one
+cell; it does not make four equivalent eggs. Contrast this with four
+spermatids from one primary spermatocyte, and keep nuclear inheritance
+separate from mainly oocyte-derived cytoplasm/mitochondria.
+
+61
+00:22:08,184 --> 00:22:43,848
+FSH supports follicular development while ovarian steroids and inhibin
+influence feedback. Much of the cycle uses negative feedback.
+Sustained high estradiol near the appropriate pre-ovulatory stage
+instead promotes positive feedback and the LH surge. LH drives oocyte
+maturation, follicular rupture and luteinization. After ovulation,
+progesterone and estrogen from the corpus luteum support the
+endometrium and suppress another immediate recruitment cycle. A
+model's day fourteen is not a guaranteed ovulation date.
+
+62
+00:22:43,848 --> 00:23:19,176
+Match the two clocks: ovarian follicular phase overlaps uterine
+menstruation and proliferation; ovarian luteal phase overlaps uterine
+secretion. Estrogen helps rebuild the functional endometrium;
+progesterone supports its secretory state and vascular preparation.
+Without pregnancy-support signaling, luteal regression lowers steroid
+support and the functional layer is shed. Menarche is the first
+menstrual bleeding, but it is not a guarantee that every early cycle
+is ovulatory or that pregnancy was impossible before that first bleed.
+
+63
+00:23:19,176 --> 00:23:57,864
+Maternal blood normally flows around placental villi while fetal blood
+stays in villous vessels; exchange occurs across tissue interfaces.
+Normal separation is not an absolute ban on cell transfer. Fetal red
+cells can enter maternal circulation and sensitization can matter,
+including after prior pregnancy events or other exposures. Risk
+depends on antibodies and exposure history, not birth order alone. Rh
+status, relevant events and prior prevention belong in clinical
+history and specialist follow-up, not an independently selected
+prophylaxis schedule here.
+
+64
+00:23:57,864 --> 00:24:26,640
+The umbilical vein brings relatively oxygen-rich blood from the
+placenta toward the fetus. Some flow passes through the liver and some
+through the ductus venosus toward the inferior vena cava. The foramen
+ovale connects right and left atria; the ductus arteriosus connects
+the pulmonary arterial pathway to the aorta. These shunts distribute
+flow around a high-resistance lung circuit; they do not mean the fetal
+liver receives no meaningful blood flow.
+
+65
+00:24:26,640 --> 00:25:03,600
+Pregnancy increases blood volume, cardiac workload and ventilation,
+while vascular and mechanical changes alter the examination. Do not
+copy the source claim that blood pressure must rise or each
+inspiration becomes smaller: pressure can fall in mid-pregnancy, and
+tidal volume/minute ventilation generally increase despite reduced
+functional residual capacity. Reduced reserve helps explain rapid
+respiratory deterioration. Severe headache, new breathlessness,
+bleeding, syncope or poor perfusion still requires assessment rather
+than being called normal pregnancy.
+
+66
+00:25:03,600 --> 00:25:37,632
+Original synthesis: at a birth rehearsal, one learner says 'umbilical
+artery means oxygen-rich', another says 'all shunts close permanently
+with the first breath', and a third wants to wait for an Apgar total
+before supporting poor breathing. Correct the chain: name vessels by
+direction, trace placental gas exchange and the three shunts, explain
+gradual pressure/flow transition, and act on the newborn's actual
+breathing/heart rate through the current pathway. Keep a separate
+maternal reassessment running throughout.
+
+67
+00:25:37,632 --> 00:26:13,416
+Meiosis segregates alleles into gametes. In a simple complete-
+dominance model, cross two heterozygotes, each carrying one capital-G
+allele and one lowercase-g allele. The possibilities are two capital
+alleles, two mixed combinations, or two lowercase alleles. The
+genotype ratio is one to two to one; with complete dominance, the
+phenotype ratio is three to one. Independent assortment has linkage
+exceptions. These are probabilities for each conception, not a
+required order or exact number of affected children.
+
+68
+00:26:13,416 --> 00:26:48,264
+In a simplified X-linked model, an XY parent's X goes to XX offspring
+and the Y to XY offspring, so an X-linked variant is not transmitted
+father-to-son by that X. With a heterozygous XX parent and an
+unaffected XY parent, each child has a one-half chance of receiving
+the variant-bearing maternal X; the consequence depends on the child's
+chromosomes and the disorder. Do not turn the source's 'unaffected
+carrier' simplification into a clinical rule: females with hemophilia-
+related variants can bleed.
+
+69
+00:26:48,264 --> 00:27:24,072
+Use the complete Chapter Six reading to trace blood through each
+connection. An atrial or ventricular septal defect can add pulmonary
+flow and volume load; the amount depends on the defect and relative
+resistance. Coarctation obstructs systemic outflow and can threaten
+lower-body perfusion. Tetralogy combines outflow obstruction, a
+ventricular septal defect, an overriding aorta and right-ventricular
+hypertrophy. Describe pressure and direction rather than assuming
+every congenital lesion has the same cyanosis or saturation.
+
+70
+00:27:24,072 --> 00:27:55,680
+An infant who initially appeared well can deteriorate as transitional
+circulation changes. Compare feeding, breathing effort, alertness and
+limb perfusion with the actual baseline. Cyanosis is not required
+before a major defect becomes dangerous, and an isolated murmur or
+weak pulse cannot establish anatomy. Assess immediate threats and use
+the current pediatric support and escalation pathway while keeping
+infection and respiratory causes in the differential.
+
+71
+00:27:55,680 --> 00:28:32,328
+The complete chapter includes eight defect sections, not only the
+familiar five names. In d-transposition, the two circuits run in
+parallel and effective mixing is essential. A patent ductus can cause
+excess pulmonary flow in one lesion yet support mixing or systemic
+supply in another. Complete AV canal combines atrial and ventricular
+defects with an abnormal common atrioventricular junction and valve.
+Truncus arteriosus has one arterial outlet, with flow distribution and
+possible valve leakage adding to the burden.
+
+72
+00:28:32,328 --> 00:29:02,424
+For retrieval, contrast a large ventricular shunt with parallel
+circulation, then explain why an open duct is not universally good or
+bad. Ask about the actual diagnosis, operations, medicines and usual
+observations without inventing a target. Maintaining or closing a duct
+is specialist care, not a new PCP drug instruction. Hand over the
+deterioration and the evidence instead of delaying support to obtain a
+perfect anatomical label.

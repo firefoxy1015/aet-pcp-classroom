@@ -1,0 +1,300 @@
+1
+00:00:00,000 --> 00:00:16,752
+The Richmond Agitation-Sedation Scale is a structured observation
+scale developed for describing agitation and sedation. The AET module
+introduces it for prehospital assessment, but a score does not
+identify why the patient is agitated or less responsive.
+
+2
+00:00:16,752 --> 00:00:29,640
+Use this Week 10 supplement as shared vocabulary only when the course
+or current service protocol calls for it. Never let a scale delay
+immediate treatment of an airway, breathing or circulation threat.
+
+3
+00:00:29,640 --> 00:00:44,760
+The scale ranges from plus four, combative, through zero, alert and
+calm, to minus five, unarousable. The negative anchors distinguish eye
+contact, voice response and response to physical stimulation.
+
+4
+00:00:44,760 --> 00:00:58,752
+Follow the exact scoring method taught by your program and any current
+local protocol. This overview is not an independent bedside scoring
+credential or an instruction to apply physical stimulation outside
+training.
+
+5
+00:00:58,752 --> 00:01:10,176
+Zero means alert and calm. Plus one describes restlessness without
+aggressive or vigorous movement; it is not a score for every person
+who reports feeling anxious.
+
+6
+00:01:10,176 --> 00:01:25,080
+Plus two describes frequent non-purposeful movement. The original ICU
+scale also includes fighting the ventilator. That example does not
+require an EMS patient to be ventilated before the behavioural anchor
+can be used.
+
+7
+00:01:25,080 --> 00:01:39,888
+Plus three includes pulling out a tube or catheter or aggressive
+behaviour. Plus four describes overt combative or violent conduct with
+immediate danger. Use the actual pattern, not how much the clinician
+dislikes the person’s words.
+
+8
+00:01:39,888 --> 00:01:54,216
+A score describes observed behaviour, not intent or a legal
+conclusion. Scene-safety decisions and medical assessment still
+require their own evidence; a positive score never creates automatic
+restraint permission.
+
+9
+00:01:54,216 --> 00:02:07,056
+If the person is not alert, address them by name and ask them to open
+their eyes and look toward you. Observe whether they awaken and make
+eye contact; eye opening by itself is not the same finding.
+
+10
+00:02:07,056 --> 00:02:22,104
+Minus one is drowsiness with sustained awakening and eye contact to
+voice. Minus two is brief awakening with eye contact. The school and
+the SCCM chart contrast more than ten seconds with less than ten
+seconds.
+
+11
+00:02:22,104 --> 00:02:40,008
+The VCU web table uses ten seconds or more for minus one, while its
+introduction also contains an apparent plus-five range typo
+contradicted by its own table. Use the adopted chart and preserve the
+difference instead of inventing a universal boundary or a plus-five
+score.
+
+12
+00:02:40,008 --> 00:02:56,424
+In rehearsal, use clear examples: six seconds of eye contact after the
+prompt fits minus two; fourteen seconds fits minus one under both
+wordings. At a boundary, record the observed duration and apply the
+complete local version.
+
+13
+00:02:56,424 --> 00:03:09,600
+A movement or eye opening caused by the verbal prompt, without eye
+contact, fits minus three. Do not call that no response merely because
+the person does not speak or obey a complex instruction.
+
+14
+00:03:09,600 --> 00:03:24,480
+If there is no voice response, the approved physical step
+distinguishes minus four from minus five. A response in that step
+supports minus four; no response to either voice or the properly
+performed physical assessment supports minus five.
+
+15
+00:03:24,480 --> 00:03:41,664
+The exact stimulus must follow current training and the patient
+context. The school mentions shoulder, jaw and orbital methods; the
+historical SCCM method and Northern Health palliative adaptation
+differ. Do not combine these into a new painful routine.
+
+16
+00:03:41,664 --> 00:04:00,048
+Northern Health explicitly advises against sternal rubbing in
+palliative assessment. If stimulation is unsafe, inappropriate or not
+performed, document the limit and obtain assessment rather than
+manufacturing a complete score. Immediate life-threat care must not
+wait for scale completion.
+
+17
+00:04:00,048 --> 00:04:13,656
+A reproducible method makes comparisons more useful. Record the time,
+what prompt was used, what the patient did and what else was
+happening, such as pain, hypoxia concern, a recent medication or a
+seizure.
+
+18
+00:04:13,656 --> 00:04:24,192
+Do not score from a label such as “sleepy” or “aggressive” alone.
+Describe the actual response and document whether the patient’s state
+changed after an intervention.
+
+19
+00:04:24,192 --> 00:04:36,336
+Begin with spontaneous observation. If an alert and calm or positive
+agitation anchor is established, no additional stimulation is needed
+merely to finish three steps.
+
+20
+00:04:36,336 --> 00:04:51,840
+For a person who is not alert, use the verbal assessment and observe
+awakening, eye contact and its duration. A voice response can
+establish minus one, minus two or minus three without proceeding to a
+physical stimulus.
+
+21
+00:04:51,840 --> 00:05:03,312
+Only absent voice response takes the scoring sequence toward the
+approved physical step. Follow the taught method and stop if the
+clinical context requires a different urgent response.
+
+22
+00:05:03,312 --> 00:05:17,760
+Record the score together with the method and time. A short sequence
+improves consistency only when its branches are respected; applying
+every stimulus to every patient is neither necessary nor faithful to
+the tool.
+
+23
+00:05:17,760 --> 00:05:35,040
+A person may have a low score because of fatigue, medication, hypoxia,
+head injury, seizure, low glucose or another cause. A high score may
+reflect pain, fear, delirium, intoxication, hypoxia or a threat
+response.
+
+24
+00:05:35,040 --> 00:05:49,176
+The scale cannot determine whether a person has decision-making
+capacity, whether a refusal is valid, or whether a restraint is
+permitted. Those questions require the relevant law, current pathway
+and full assessment.
+
+25
+00:05:49,176 --> 00:06:02,688
+Before interpreting absent voice response, consider whether the prompt
+was accessible. Hearing loss, language mismatch or severe
+environmental noise can prevent the expected response without proving
+deeper sedation.
+
+26
+00:06:02,688 --> 00:06:17,400
+Eye injury or visual impairment can limit the eye-contact observation.
+Movement limitation or paralysis can make a motor response
+unavailable. Do not turn an unobservable response into a negative
+finding automatically.
+
+27
+00:06:17,400 --> 00:06:30,240
+Describe the prompt, what occurred and why interpretation is limited.
+Seek an appropriate alternative clinical assessment under the current
+pathway instead of inventing a replacement RASS formula.
+
+28
+00:06:30,240 --> 00:06:43,128
+A neurological examination, delirium assessment, capacity decision and
+airway evaluation answer different questions. The score can contribute
+shared language, but it does not replace those assessments.
+
+29
+00:06:43,128 --> 00:06:57,792
+If a patient becomes difficult to arouse, assess for immediate life
+threats before discussing scale trends. Preserve access to the airway
+and chest, check breathing and perfusion, and use your current PCP
+pathway.
+
+30
+00:06:57,792 --> 00:07:07,896
+Repeat measurements with the same method when possible, but do not
+wait for a second score if the patient is collapsing, hypoventilating
+or cannot protect the airway.
+
+31
+00:07:07,896 --> 00:07:22,056
+A trend is useful only when linked to clinical context. Ask about new
+medication, dose changes, substances, recent illness, head impact, a
+witnessed seizure, severe pain and the patient’s baseline.
+
+32
+00:07:22,056 --> 00:07:34,008
+A behavioral label must not hide physical deterioration. Conversely, a
+medical assessment should not erase the patient’s fear, goals or right
+to be treated respectfully.
+
+33
+00:07:34,008 --> 00:07:48,408
+Compare the score with respiratory effort, voice, eye opening,
+orientation, temperature, perfusion and the overall examination. A
+score that improves while breathing worsens is not an improvement in
+the whole patient.
+
+34
+00:07:48,408 --> 00:08:00,360
+Use trends to communicate urgency and response, not to create false
+precision. If the patient has a new decline, report the time course
+and escalate according to the current service pathway.
+
+35
+00:08:00,360 --> 00:08:13,944
+In an original assessment example, a person awakens to their name and
+makes eye contact for six seconds. The observed anchor is minus two;
+it is not minus three because eye contact did occur.
+
+36
+00:08:13,944 --> 00:08:27,624
+Later, using the same accessible prompt, eye contact lasts fourteen
+seconds. That observation fits minus one. Report the measured change
+and context, not simply that the number is better.
+
+37
+00:08:27,624 --> 00:08:40,248
+A different patient moves an arm to voice but never makes eye contact.
+That fits the minus-three response pattern if the assessment is
+interpretable. A spoken answer is not required for that anchor.
+
+38
+00:08:40,248 --> 00:08:54,816
+Check physiology alongside every comparison. If breathing effort or
+perfusion is worsening, a more awake appearance does not establish
+overall recovery. Treat the clinical change according to the current
+service pathway.
+
+39
+00:08:54,816 --> 00:09:10,584
+Sedating medication can change respiratory drive, airway protection,
+blood pressure and responsiveness. Effects may combine with illness,
+alcohol or other substances, so deterioration must be actively sought.
+
+40
+00:09:10,584 --> 00:09:25,728
+This course does not give medication doses or authorize PCP chemical
+restraint. Administer, assist with or monitor medication only as
+permitted by your licence, training, current service protocol and
+instructor direction.
+
+41
+00:09:25,728 --> 00:09:38,256
+A good report avoids “RASS is minus three” as the only information.
+Add the actual stimulus and response, vital-sign trend, relevant
+history and the action taken.
+
+42
+00:09:38,256 --> 00:09:49,032
+Say what remains uncertain and what should be watched next. Keep the
+handover focused on patient safety, not on defending a label or a
+previous decision.
+
+43
+00:09:49,032 --> 00:10:02,880
+An original report could begin: At this assessment the patient opened
+their eyes to their name and held eye contact for six seconds,
+matching minus two on the chart in use. This is more informative than
+sleepy.
+
+44
+00:10:02,880 --> 00:10:16,008
+Continue with the clinical findings you actually assessed and their
+trend. Add relevant medication or exposure history if known; do not
+imply that a negative RASS proves the person received a sedative.
+
+45
+00:10:16,008 --> 00:10:27,840
+State the action and response, including any inability to complete a
+component. Do not chart normal breathing, capacity or a physical-
+stimulus response that was not evaluated.
+
+46
+00:10:27,840 --> 00:10:38,592
+Finish with what remains concerning and who receives responsibility
+for follow-up. A complete sentence about the person is safer than
+handing over only a signed number.

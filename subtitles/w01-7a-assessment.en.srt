@@ -1,0 +1,741 @@
+1
+00:00:00,000 --> 00:00:16,848
+The Priority Action Approach organizes attention. Start with safety,
+identify the problem that could harm the patient first, act on it, and
+then continue gathering information. Saying an acronym without
+examining or intervening does not complete an assessment.
+
+2
+00:00:16,848 --> 00:00:31,824
+For an apparently well person, conversation and rapport can precede
+detailed examination. An unwell person needs a rapid formal survey.
+Either way, your first impression is provisional and must be tested.
+
+3
+00:00:31,824 --> 00:00:42,648
+A partner may obtain measurements while you assess another priority.
+Name the task and confirm its result; parallel work is not the same as
+leaving a step to chance.
+
+4
+00:00:42,648 --> 00:00:54,864
+This lesson follows the seven sections of school 7A. The laboratory
+timing targets are practice expectations; current service guidance and
+the patient determine clinical actions.
+
+5
+00:00:54,864 --> 00:01:09,096
+Before approaching, scan the area and your route back to the
+ambulance. Ask what could change once you are committed beside the
+patient: a closing door, an aggressive bystander, traffic or an
+unstable surface.
+
+6
+00:01:09,096 --> 00:01:21,072
+Count patients rather than accepting the dispatch count as final.
+Identify whether fire, police, rescue or an additional clinical crew
+is needed, and request them early.
+
+7
+00:01:21,072 --> 00:01:36,024
+Choose precautions from the actual exposure risk before contact.
+Gloves do not protect against every hazard and do not replace hand
+hygiene. An uncontrolled hazard is a reason to remain at a safe
+distance, not to hurry through it.
+
+8
+00:01:36,024 --> 00:01:45,840
+Recheck scene safety during treatment and departure. A safe arrival
+does not guarantee a safe move down the stairs or a safe return
+through the same doorway.
+
+9
+00:01:45,840 --> 00:02:00,432
+Mechanism of injury describes the forces or event associated with
+trauma. Nature of illness describes the medical problem being
+investigated. The two can coexist: a medical collapse can cause a
+traumatic fall.
+
+10
+00:02:00,432 --> 00:02:12,336
+Medication packaging suggests questions, not proof that a drug was
+taken today. A walker suggests asking about baseline mobility, not
+assuming that current weakness is usual.
+
+11
+00:02:12,336 --> 00:02:23,856
+Ask a witness what they saw, when the patient was last functioning
+normally and what changed. Attribute the account to that witness and
+retain uncertainty about unobserved events.
+
+12
+00:02:23,856 --> 00:02:34,272
+Several occupants with headache and nausea should redirect attention
+to a shared environmental exposure. Do not enter an unsafe building to
+obtain a better history.
+
+13
+00:02:34,272 --> 00:02:44,568
+Look before touching. A person unable to finish a sentence, slumping
+with poor tone or becoming confused is not made safe by a reassuring
+dispatch label.
+
+14
+00:02:44,568 --> 00:02:56,808
+If there is life-threatening external hemorrhage, arrange immediate
+control before the formal survey continues. Do not wait until the
+letter C simply because a memorized sequence places it later.
+
+15
+00:02:56,808 --> 00:03:10,968
+An unconscious patient requires breathing and circulation to be
+assessed together, with the arrest pathway activated when indicated. A
+slow, rigid airway-first recital must not delay chest compressions.
+
+16
+00:03:10,968 --> 00:03:24,264
+State your concern aloud and delegate. For example: this patient looks
+critically unwell; bring the resuscitation equipment and prepare for
+urgent movement while we assess immediate threats.
+
+17
+00:03:24,264 --> 00:03:39,240
+Introduce yourself if the person can engage, and assess spontaneous
+alertness and response to voice. AVPU is a rapid coarse description:
+alert, voice, pressure or pain response, and unresponsive.
+
+18
+00:03:39,240 --> 00:03:50,952
+A detailed Glasgow Coma Scale assessment comes next when appropriate.
+Report its components rather than guessing a total from a greeting or
+labelling every confused person intoxicated.
+
+19
+00:03:50,952 --> 00:04:06,264
+When trauma or the mechanism raises spinal concern, delegate suitable
+movement control. Opening an obstructed airway and effective
+resuscitation remain priorities; do not maintain a dangerous position
+just to avoid all movement.
+
+20
+00:04:06,264 --> 00:04:18,960
+Do not practise painful stimuli on classmates. In simulation,
+verbalize the assessment and use the instructor-approved response cue;
+practical technique requires direct supervision.
+
+21
+00:04:18,960 --> 00:04:33,504
+A speaking patient demonstrates airflow at that moment, but this does
+not guarantee continuing patency. Listen for changing voice, gurgling,
+snoring or stridor, and look for blood, vomit or swelling.
+
+22
+00:04:33,504 --> 00:04:45,816
+Use the airway-opening approach appropriate to the clinical situation
+and your training. Clear obstructing material with approved methods
+and suction when indicated; do not perform blind finger sweeps.
+
+23
+00:04:45,816 --> 00:04:59,304
+An OPA or NPA is considered according to responsiveness, protective
+reflexes, anatomy and contraindications. Reduced consciousness alone
+does not authorize either device without assessment.
+
+24
+00:04:59,304 --> 00:05:09,960
+Immediately reassess whether air moves. Preparing a device, inserting
+it or announcing airway clear is not equivalent to demonstrating a
+functioning airway.
+
+25
+00:05:09,960 --> 00:05:21,552
+Observe actual chest rise and respiratory effort. Six shallow breaths
+per minute in an unresponsive adult is a ventilation problem even
+before a monitor produces a number.
+
+26
+00:05:21,552 --> 00:05:35,496
+Supplemental oxygen can improve saturation without correcting carbon
+dioxide retention. If ventilation is inadequate, support it with the
+trained bag-mask technique and reassess chest rise and air movement.
+
+27
+00:05:35,496 --> 00:05:48,336
+The school uses respiratory-rate extremes as red flags. An apparently
+ordinary rate with tiny tidal volumes, exhaustion or irregular pauses
+can still represent respiratory failure.
+
+28
+00:05:48,336 --> 00:06:01,728
+Give indicated oxygen without delaying care to obtain a room-air
+reading. Device choice and oxygen targets must follow the relevant
+current clinical guidance, not an automatic maximum for every patient.
+
+29
+00:06:01,728 --> 00:06:12,744
+Palpate an appropriate pulse and correlate it with the patient, not
+only the displayed heart rate. Electrical activity on a monitor does
+not prove mechanical circulation.
+
+30
+00:06:12,744 --> 00:06:23,280
+Major visible hemorrhage should already be controlled. Recheck the
+effectiveness of pressure, packing or a tourniquet as appropriate to
+training, especially after movement.
+
+31
+00:06:23,280 --> 00:06:35,112
+A palpable radial pulse cannot be converted into a reliable systolic
+pressure. Nor does it prove adequate brain perfusion; compare
+alertness, skin and serial measurements.
+
+32
+00:06:35,112 --> 00:06:48,288
+Shock means inadequate tissue perfusion, not simply low blood
+pressure. Compensatory vasoconstriction and tachycardia can preserve
+the pressure while the patient is becoming more unwell.
+
+33
+00:06:48,288 --> 00:06:58,368
+The rapid body survey is a brief search for important hidden injury,
+tailored to the presentation. It is not the detailed secondary head-
+to-toe examination.
+
+34
+00:06:58,368 --> 00:07:24,144
+Inspect and gently assess systematically, including blood on your
+gloves and concealed surfaces when safe access is possible. The school
+also names subcutaneous emphysema: air in tissue under the skin,
+potentially felt as crackling around the chest or neck. Report the
+finding and assess related breathing or injury concerns; a rapid sweep
+does not exclude internal injury.
+
+35
+00:07:24,144 --> 00:07:38,184
+Do not repeatedly spring or rock a suspected injured pelvis to prove
+instability. Avoid unnecessary manipulation of fractures; arrange
+appropriate stabilization and movement with trained supervision.
+
+36
+00:07:38,184 --> 00:07:52,344
+The school describes an approximately thirty-second rapid survey and a
+primary survey within two minutes when no intervention is needed.
+These are fluency targets, not reasons to omit a threat or delay
+necessary care.
+
+37
+00:07:52,344 --> 00:08:08,352
+In school 7A, SOAPPP means skin, oxygen, airway adjunct, pupils,
+pressure or bleeding, and position or packaging. Use it as a final
+omission check, not a second primary survey performed from the
+beginning.
+
+38
+00:08:08,352 --> 00:08:22,032
+Ask whether each intervention is needed and effective now. Oxygen may
+need titration; an adjunct may become inappropriate if protective
+reflexes return; bleeding can recur after movement.
+
+39
+00:08:22,032 --> 00:08:34,920
+Packaging includes warmth, secure equipment, suitable positioning and
+a movement plan. The priority is safe, effective departure rather than
+making every strap and monitor lead look perfect first.
+
+40
+00:08:34,920 --> 00:08:47,880
+The current saved provincial exam list also names bandaging, pelvic
+binding and blankets. Learn both source-specific lists instead of
+assuming the school acronym reproduces every licensing item.
+
+41
+00:08:47,880 --> 00:08:59,952
+After initial life threats are addressed, state whether this is a
+rapid-transport-category patient in the school framework. The decision
+is based on the whole presentation and can change.
+
+42
+00:08:59,952 --> 00:09:11,328
+A major injury can need urgent definitive care despite a normal
+initial pressure. Conversely, a medical emergency can be unstable
+without a traumatic mechanism.
+
+43
+00:09:11,328 --> 00:09:22,800
+Give the reason and the operational consequence: urgent transport
+because of poor perfusion; essential hemorrhage and airway work now;
+remaining history during safe conveyance.
+
+44
+00:09:22,800 --> 00:09:32,040
+The destination follows the relevant regional clinical pathway and
+resources, not simply the nearest building or the existence of a
+particular acronym.
+
+45
+00:09:32,040 --> 00:09:45,768
+School 7A highlights penetrating injuries to the head, neck, torso or
+limbs proximal to the elbow or knee. The concern is damage to major
+structures and bleeding not visible from the wound size.
+
+46
+00:09:45,768 --> 00:09:59,040
+Chest-wall instability, pelvic injury and two or more proximal long-
+bone fractures can represent serious injury and concealed blood loss.
+Normal initial measurements do not cancel those risks.
+
+47
+00:09:59,040 --> 00:10:10,248
+A crushed, degloved, mangled or pulseless limb and an amputation
+proximal to the wrist or ankle require urgent attention to limb and
+systemic threats.
+
+48
+00:10:10,248 --> 00:10:24,312
+The provincial examination document adds other unstable findings,
+including new neurological deficits and major burns. A source list is
+not a reason to ignore an equally serious finding absent from a school
+slide.
+
+49
+00:10:24,312 --> 00:10:39,648
+The school gives GCS below fourteen and systolic pressure below ninety
+as numeric RTC cues. Its respiratory examples include fewer than ten
+or more than thirty breaths per minute, with inconsistent wording
+about accompanying shock.
+
+50
+00:10:39,648 --> 00:10:51,672
+Do not interpret that ambiguity as permission to wait for shock before
+treating severe respiratory distress. Assess adequacy, effort,
+mentation and the patient's trajectory.
+
+51
+00:10:51,672 --> 00:11:05,472
+The licensing document treats altered consciousness, airway
+difficulty, respiratory distress and several time-critical medical
+syndromes as unstable findings without requiring those exact school
+thresholds.
+
+52
+00:11:05,472 --> 00:11:16,464
+A change from a personal baseline matters. New confusion with a
+pressure of one hundred and twenty is still concerning, and shock can
+be present before a pressure falls below ninety.
+
+53
+00:11:16,464 --> 00:11:31,296
+Learn the school mechanism examples as assigned: an adult fall above
+twenty feet, and a child fall above ten feet or roughly two to three
+body heights. These are school triage cues, not a guarantee of safety
+below them.
+
+54
+00:11:31,296 --> 00:11:58,704
+Vehicle ejection, a death in the same compartment and major intrusion
+indicate substantial energy. School 7A names more than twelve inches
+of intrusion at the occupant site and a motorcycle crash above thirty
+kilometres per hour. Preserve those school examples alongside the
+provincial values on the next segment. Ask where the patient sat and
+how the body moved; a photograph alone does not establish the injury.
+
+55
+00:11:58,704 --> 00:12:13,512
+The saved provincial guideline specifies adult free fall above six
+metres, intrusion above point three metres on the occupant side or
+point five metres elsewhere, and high-risk road impacts. Keep units
+attached to the numbers.
+
+56
+00:12:13,512 --> 00:12:26,136
+A low-energy fall in a frail older adult can still cause major injury
+or follow a serious medical event. Mechanism supplements physiology
+and examination; it never replaces them.
+
+57
+00:12:26,136 --> 00:12:44,808
+School 7A repeatedly uses fifteen minutes as its RTC scene-time
+benchmark. Do not call it an absolute BC legal rule: current BCEHS A01
+and A02 emphasize meaningful interventions and minimizing scene time,
+not that universal deadline.
+
+58
+00:12:44,808 --> 00:12:56,424
+Fifteen minutes is not permission to remain until the timer expires.
+If essential support and safe packaging are complete, proceed
+according to urgency and the transport plan.
+
+59
+00:12:56,424 --> 00:13:08,784
+Neither should a deadline cause unsafe extrication or abandonment of
+essential resuscitation. Communicate barriers, request help and
+document the actual reason for unavoidable delay.
+
+60
+00:13:08,784 --> 00:13:21,384
+Do not blindly defer every vital sign. A delegated measurement that
+immediately changes management may be meaningful now; a long
+nonessential task should not postpone definitive care.
+
+61
+00:13:21,384 --> 00:13:35,472
+Before lifting, decide how the patient can be moved with the least
+additional risk. Consider consciousness, ventilation, pain, suspected
+injuries, body size, route restrictions and available personnel.
+
+62
+00:13:35,472 --> 00:13:48,624
+Assign a movement leader, agree on commands and specify when anyone
+should stop. Use the approved device within its limits; enthusiasm
+cannot replace adequate staff or equipment.
+
+63
+00:13:48,624 --> 00:14:00,336
+Choose a position the patient can tolerate without worsening the
+clinical threat. A standard diagram does not override vomiting,
+respiratory distress or the need for resuscitation.
+
+64
+00:14:00,336 --> 00:14:13,560
+Reassess immediately after movement: airway, ventilation, perfusion,
+symptoms, bleeding control and device function. A previously effective
+treatment can fail during loading.
+
+65
+00:14:13,560 --> 00:14:25,128
+For the school prone-patient exercise, begin with what is actually
+known: a person is face down and not responding. Do not invent a fall
+or intoxication as the established cause.
+
+66
+00:14:25,128 --> 00:14:39,336
+After safety, rapidly evaluate response and accessible signs of
+breathing and circulation. Obtain help and arrange a coordinated move
+when needed to open the airway, assess properly or resuscitate.
+
+67
+00:14:39,336 --> 00:14:54,096
+In the supervised station, identify the leader, protect alignment as
+practicable, coordinate shoulders, trunk and pelvis, and stop for a
+problem. Do not independently improvise a one-person roll from this
+text.
+
+68
+00:14:54,096 --> 00:15:06,480
+Once positioned, immediately reassess and treat findings. A glucose
+measurement and neurological examination are important, but neither
+precedes needed ventilation or CPR.
+
+69
+00:15:06,480 --> 00:15:17,160
+Start with an open account: what happened today and what is different
+from usual? Then use SAMPLE to check omissions rather than
+interrupting the story after every word.
+
+70
+00:15:17,160 --> 00:15:31,272
+For allergies, record the substance and reaction, not only yes or no.
+For medications, ask about actual use, dose timing, recent changes,
+nonprescription products and substances relevant to the presentation.
+
+71
+00:15:31,272 --> 00:15:43,320
+Past history should be pertinent, while last oral intake and events
+may explain risk or guide later care. Clarify whether the last meal
+was missed rather than assuming a normal schedule.
+
+72
+00:15:43,320 --> 00:15:53,376
+When the patient cannot answer, use a witness or caregiver and label
+the source. Not known is different from no history, no medication or
+no allergy.
+
+73
+00:15:53,376 --> 00:16:03,912
+Ask when the symptom began, whether onset was sudden or gradual, and
+what the patient was doing. Distinguish onset time from the time the
+ambulance was called.
+
+74
+00:16:03,912 --> 00:16:16,512
+Ask what worsens or relieves it, what it feels like, where it is and
+whether it travels. Avoid suggesting the answer: tell me what it feels
+like is better than it is just a sharp pain, right?
+
+75
+00:16:16,512 --> 00:16:27,576
+Use an appropriate severity scale, then ask how the symptom changed
+over time and what activity it now prevents. A numeric score alone
+does not describe the clinical problem.
+
+76
+00:16:27,576 --> 00:16:41,952
+A painless or low-pain presentation does not exclude serious disease.
+Link symptom characteristics with examination, risk context and
+associated findings rather than using one reassuring answer to stop.
+
+77
+00:16:41,952 --> 00:16:51,936
+School 7A uses PASTMED for dyspnea. Ask what provoked the problem and
+whether it is progressing, then ask about chest pain, cough and
+sputum.
+
+78
+00:16:51,936 --> 00:17:03,480
+Clarify timing and any trauma. Ask which medication was actually used,
+when it was taken and whether it helped; an inhaler nearby does not
+establish the response.
+
+79
+00:17:03,480 --> 00:17:17,328
+Compare current exercise tolerance with the patient's own baseline,
+including usual oxygen use and prior diagnosis. Ask about fever,
+allergens, leg symptoms or other relevant associated concerns.
+
+80
+00:17:17,328 --> 00:17:29,448
+Ask short questions if speech is limited, and obtain collateral
+history while another clinician supports breathing. Finishing the
+mnemonic is never more important than adequate ventilation.
+
+81
+00:17:29,448 --> 00:17:40,944
+A functional inquiry is a targeted review of related systems, not just
+asking how well the patient walks. It can reveal an associated symptom
+the patient did not think to mention.
+
+82
+00:17:40,944 --> 00:17:53,616
+With abdominal pain, ask about vomiting or stool blood, urinary
+symptoms, pregnancy possibility and previous surgery as relevant. Keep
+questions respectful and privacy appropriate.
+
+83
+00:17:53,616 --> 00:18:08,784
+With altered consciousness, establish baseline and last-known-well,
+investigate hypoxia and glucose, and consider trauma, stroke,
+seizures, infection and toxic exposure. Do not close on one scene
+clue.
+
+84
+00:18:08,784 --> 00:18:20,904
+A red flag changes urgency; a negative answer changes probability but
+does not prove absence. Explain which answer would change your next
+examination or transport decision.
+
+85
+00:18:20,904 --> 00:18:33,024
+A focused examination is not permission to inspect only the painful
+spot. For an injured wrist after a collapse, the collapse may require
+a broader assessment than the wrist itself.
+
+86
+00:18:33,024 --> 00:18:46,200
+Use a systematic complete examination when major trauma, altered
+mentation or uncertainty makes hidden findings plausible. Adapt the
+depth and location of the exam to transport urgency.
+
+87
+00:18:46,200 --> 00:19:00,456
+Explain what you need to examine and why, obtain appropriate
+permission, and limit exposure. Observe, feel and listen as relevant;
+compare bilateral findings and distal function when injury suggests
+it.
+
+88
+00:19:00,456 --> 00:19:09,720
+An examination should test a clinical question. State what a finding
+supports, what it cannot exclude and what you still need to
+investigate.
+
+89
+00:19:09,720 --> 00:19:21,768
+Repeat the primary priorities, compare the patient with the previous
+examination and recheck each intervention. Ask what changed, what
+should have changed and whether anything became worse.
+
+90
+00:19:21,768 --> 00:19:44,592
+School 7A teaches five-minute unstable and fifteen-minute stable
+reassessment. Older A01 uses a fifteen-minute minimum, but the new
+documentation section has selected thirty-minute, fifteen-minute and
+more frequent categories. The monitoring lesson explains this
+publication conflict; confirm the applicable service instruction.
+
+91
+00:19:44,592 --> 00:19:56,472
+These intervals are not waiting periods. New confusion, pain, a
+breathing change, an intervention, movement or an equipment alarm
+triggers reassessment immediately.
+
+92
+00:19:56,472 --> 00:20:06,408
+Record actual values and their times. A line saying stable cannot show
+a falling pressure, rising respiratory rate or failed response to
+treatment.
+
+93
+00:20:06,408 --> 00:20:17,424
+An initial explanation is useful only while it fits the evidence.
+Alcohol on the scene does not exclude hypoglycemia, head injury,
+hypoxia or stroke.
+
+94
+00:20:17,424 --> 00:20:29,664
+Actively seek a finding that could contradict your leading impression.
+If you believe anxiety explains breathlessness, ask what would suggest
+a dangerous respiratory or circulatory cause instead.
+
+95
+00:20:29,664 --> 00:20:40,728
+Task fixation can look like technical excellence: a perfect splint
+while perfusion worsens. Periodically ask whether the current task
+still deserves the team's time.
+
+96
+00:20:40,728 --> 00:20:51,792
+A cognitive pause is brief and targeted. It does not stop needed
+resuscitation; it prevents an untested assumption from controlling
+every later decision.
+
+97
+00:20:51,792 --> 00:21:04,608
+This original practice variant mirrors the type of reasoning required
+in the school older-fall case; it is not a school assessment answer.
+Ask whether illness caused the fall and what happened afterward.
+
+98
+00:21:04,608 --> 00:21:20,592
+A caregiver reports new confusion, while the patient reports hip pain.
+Both accounts matter. Establish baseline, head impact, anticoagulant
+use, preceding dizziness, infection symptoms and time on the floor.
+
+99
+00:21:20,592 --> 00:21:35,832
+Check immediate threats, actual vital signs, glucose and relevant
+neurological and injury findings. Do not force weight bearing to prove
+a fracture, and do not let a low total NEWS2 cancel a significant red
+flag.
+
+100
+00:21:35,832 --> 00:21:48,264
+State the movement and transport plan, reassess after packaging, and
+report uncertainty. The receiving clinician needs the new confusion
+and trajectory, not only the label mechanical fall.
+
+101
+00:21:48,264 --> 00:22:01,056
+Record scene context, initial findings and the transport decision with
+its reason. Add a timed history, examination and measured observations
+rather than simply marking every system normal.
+
+102
+00:22:01,056 --> 00:22:15,432
+Keep a patient statement distinct from observation: the patient
+reports dizziness; you observe pallor. A working impression is
+legitimate when labelled and supported, not presented as an
+established diagnosis.
+
+103
+00:22:15,432 --> 00:22:24,384
+Pair actions with response and time. Document what could not be
+obtained and why; never invent a number to make the record complete.
+
+104
+00:22:24,384 --> 00:22:37,056
+End with the receiving clinician, time, important unresolved concerns
+and transfer acceptance. Documentation and ongoing reassessment
+continue while waiting for formal handover.
+
+105
+00:22:37,056 --> 00:22:53,400
+NEWS2 structures adult observations using respiratory rate, oxygen
+saturation, systolic blood pressure, pulse, temperature and
+consciousness or new confusion. Learn the components and time of each
+observation, not only the total.
+
+106
+00:22:53,400 --> 00:23:21,384
+Record supplemental oxygen status, device and flow. The saved school
+7A narrative says one oxygen point, but the Royal College of
+Physicians NEWS2 chart adds two. Use the correct chart rather than
+combining the two versions, and ask the instructor to clarify the
+school discrepancy. Select the saturation scale and treatment target
+under the applicable clinical guidance; a score does not choose an
+oxygen target.
+
+107
+00:23:21,384 --> 00:23:42,336
+NEWS2 is not a pediatric score. School 7A introduces PEWS through
+behavior, cardiovascular status and respiratory effort. Children need
+the current age-specific PEWS reference taught in the school pediatric
+block. Do not apply adult NEWS2 thresholds or assume one age band fits
+every child.
+
+108
+00:23:42,336 --> 00:23:59,064
+Use scores to summarize a trend and communicate concern, never to
+diagnose, rule out deterioration or cancel a red flag. Reassess and
+escalate a significant change under current service direction even
+when a total appears reassuring.
+
+109
+00:23:59,064 --> 00:24:13,224
+First complete the clinically necessary assessment and write down what
+was actually observed or measured, with its time. A score is a way to
+organize information; calculating one must not delay an immediate
+response.
+
+110
+00:24:13,224 --> 00:24:29,352
+Choose the tool for the patient group and use its exact approved
+chart. In this school module, NEWS2 is the adult example and PEWS is
+the pediatric example. Do not apply adult thresholds to a child or
+combine different versions into a new chart.
+
+111
+00:24:29,352 --> 00:24:47,832
+Follow the selected chart’s age band, units, oxygen conditions and
+parameter definitions. Enter each required observation separately; if
+something is unavailable or cannot be assessed, report that limitation
+instead of inventing a value or treating it as normal.
+
+112
+00:24:47,832 --> 00:25:09,216
+Read both any single high-risk domain and the aggregate using that
+same chart’s escalation instructions. Communicate the score with the
+actual findings, time, change from baseline and clinical concern. The
+school’s detailed NEWS2 scoring is taught in 7D; PEWS band details
+belong to the designated pediatric teaching.
+
+113
+00:25:09,216 --> 00:25:29,904
+Original process drill: a child has new work of breathing and a
+behavior change. Identify the correct school PEWS reference, confirm
+the age band, collect the chart’s required observations, then explain
+how the result would be communicated and acted on. Do not substitute
+an adult NEWS2 calculation.
+
+114
+00:25:29,904 --> 00:25:41,664
+Use the school thirty-minute PAA rotation as a supervised practice
+block, not a thirty-minute permission to delay transport. Divide roles
+and rehearse the complete decision chain.
+
+115
+00:25:41,664 --> 00:25:53,544
+Have the instructor introduce a change after movement. Stop the
+current nonessential task, return to immediate threats, verify new
+measurements and revise your plan aloud.
+
+116
+00:25:53,544 --> 00:26:05,016
+Then produce your own PCR from the observed simulation and deliver a
+concise transfer report. Use the documentation and communication
+workshops already included in this week.
+
+117
+00:26:05,016 --> 00:26:18,000
+For review, explain the reason for every priority and what finding
+would change it. The aim is a reproducible safe assessment, not
+memorizing our fictional narrative or a school quiz answer.

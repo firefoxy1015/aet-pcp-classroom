@@ -1,0 +1,765 @@
+1
+00:00:00,000 --> 00:00:18,672
+This lesson follows the instructional themes of school 5B. Our
+original scene and reflection tasks prepare the same skills without
+reproducing the school competency check. Scene management is clinical
+work: uncontrolled hazards can prevent care and create additional
+patients.
+
+2
+00:00:18,672 --> 00:00:31,992
+The sequence is not one safety check followed by a fixed checklist.
+Risk changes from dispatch through approach, contact, care, movement
+and transfer; reassessment belongs in every phase.
+
+3
+00:00:31,992 --> 00:00:42,696
+We will use a fresh multi-vehicle scene to practise the school
+frameworks. The case is original and does not reproduce the older
+companion lesson or a school assessment answer.
+
+4
+00:00:42,696 --> 00:01:00,264
+Operational risk assessment means noticing a hazard, considering who
+could be harmed and deciding what is safe enough to do next. It is
+repeated, not completed once at the curb. Infection-control point-of-
+care risk assessment is a related but more specific exposure decision.
+
+5
+00:01:00,264 --> 00:01:13,104
+A short verbal estimate can be practical: what can happen, how soon,
+who is in the exposure path, and which reliable control would reduce
+the risk. A numerical score never grants permission to enter.
+
+6
+00:01:13,104 --> 00:01:27,168
+If there is an uncontrolled threat, the correct clinical move may be
+to stop, increase distance, reposition, withdraw or wait for a
+qualified specialist. That pause protects the ability to return and
+provide care.
+
+7
+00:01:27,168 --> 00:01:44,280
+Operational risk assessment covers traffic, unstable structures,
+violence, machinery, weather and the work itself. In infection
+control, point-of-care risk assessment more specifically considers
+infectious exposure during a particular patient interaction.
+
+8
+00:01:44,280 --> 00:01:56,976
+These are connected questions, not interchangeable labels. A mask
+decision does not clear a traffic hazard; moving to a safer road
+position does not decide whether suctioning could expose your face.
+
+9
+00:01:56,976 --> 00:02:11,712
+Prefer controls that reduce exposure before relying only on personal
+protective equipment. A controlled access route, assigned traffic
+management and a prepared clean work area can prevent hazards that
+gloves cannot stop.
+
+10
+00:02:11,712 --> 00:02:23,616
+Say the decision aloud: the hazard, who is exposed, the control and
+what would make you stop. Revisit it when the patient, procedure,
+environment or available protection changes.
+
+11
+00:02:23,616 --> 00:02:39,984
+A 360-degree survey deliberately looks beyond the patient and the
+first obvious mechanism. Observe approach and exit routes, overhead
+loads, ground stability, power sources, smoke direction, weather and
+where other people are moving.
+
+12
+00:02:39,984 --> 00:02:53,760
+Different hazard families can combine. A vehicle collision may include
+traffic, leaking fuel, damaged power lines, agitated bystanders and a
+changing wind that carries vapour toward the staging area.
+
+13
+00:02:53,760 --> 00:03:03,600
+The survey is not a guarantee that the scene is safe. It creates a
+working picture that must be updated whenever the scene, task or
+patient condition changes.
+
+14
+00:03:03,600 --> 00:03:17,280
+METHANE organizes an early report: Major incident declared, Exact
+location, Type of incident, Hazards, Access, Number and type of
+casualties, and Emergency services required or present.
+
+15
+00:03:17,280 --> 00:03:29,640
+A useful report is concise and updateable. State what you know, label
+estimates as estimates, identify the main hazard and describe the
+access or staging issue that changes responder safety.
+
+16
+00:03:29,640 --> 00:03:39,768
+Do not delay an initial warning while trying to complete every field
+perfectly. Give the critical known facts, then update command as
+information improves.
+
+17
+00:03:39,768 --> 00:03:57,528
+Here is an original report: Control, Unit Seventy-Two, possible major
+incident at Ridgeway depot west gate. A canopy has collapsed.
+Stability and power status are not confirmed. Hold incoming crews at
+the west access point.
+
+18
+00:03:57,528 --> 00:04:11,208
+Continue: Seven patients are visible from our position; that count is
+provisional. Request fire assistance and additional ambulances. We
+will update the safe access route after scene control is confirmed.
+
+19
+00:04:11,208 --> 00:04:23,904
+The report names uncertainty instead of disguising it as certainty. Do
+not announce that the area is safe because you cannot see smoke, or
+silently turn a visible count into a complete casualty count.
+
+20
+00:04:23,904 --> 00:04:36,936
+A later update might change the count or close an access route.
+Identify the change and obtain acknowledgment for a critical
+restriction. The shared incident picture must change when the evidence
+changes.
+
+21
+00:04:36,936 --> 00:04:47,952
+Reassess after wind shifts, fire or traffic changes, a load moves, a
+new patient appears, a bystander becomes threatening or protective
+equipment is damaged.
+
+22
+00:04:47,952 --> 00:04:58,200
+Before movement, verify that the route, people and equipment still
+support a safe transfer. A safe approach does not prove that the
+egress route is safe.
+
+23
+00:04:58,200 --> 00:05:10,848
+If the risk picture becomes unacceptable, stop work and report the
+reason. A useful stop-work message names the hazard, its location, who
+is exposed and what support or control is needed.
+
+24
+00:05:10,848 --> 00:05:24,504
+An incident management system creates a shared structure for command,
+operations, planning, logistics and information. A small incident may
+combine roles; a larger event separates them as needed.
+
+25
+00:05:24,504 --> 00:05:36,840
+The system reduces duplicated work and conflicting instructions.
+Personnel should know who supervises them, what task they own, where
+they report and how urgent changes will be communicated.
+
+26
+00:05:36,840 --> 00:05:56,544
+Use the current BC incident structure and dispatch procedures. First-
+arriving responsibilities include initial command and triage
+functions; a later arrival or higher clinical rank does not
+automatically transfer those roles. Establish, communicate and hand
+over the assignment explicitly.
+
+27
+00:05:56,544 --> 00:06:10,464
+The current BCEHS MCI page divides first-arriving responsibilities
+into Incident Commander and Triage Leader functions. The initial
+command function collects the scene picture and communicates with the
+communication centre.
+
+28
+00:06:10,464 --> 00:06:23,616
+This is not the same as inventing an independent command system.
+Establish the appropriate initial organization under the service plan,
+identify yourself clearly and request the resources the scene needs.
+
+29
+00:06:23,616 --> 00:06:36,912
+The initial command and triage roles remain in place unless
+appropriately relieved. A later arrival or higher clinical
+qualification does not, by itself, tell everyone that command has
+changed.
+
+30
+00:06:36,912 --> 00:06:51,696
+Use the deliberate transfer already taught: situation, hazards,
+objectives, resources, unresolved problems and acceptance. Tell
+affected crews who now holds the role and which instructions have
+changed.
+
+31
+00:06:51,696 --> 00:07:07,656
+A triage lead organizes rapid sorting and reports the emerging patient
+picture. A treatment lead organizes care after that first sort.
+Confusing these jobs can leave everyone treating one patient while
+other patients remain unseen.
+
+32
+00:07:07,656 --> 00:07:22,224
+Transport coordination links patient priority, available crews and
+receiving capacity. Staging keeps arriving units available and
+accounted for instead of allowing each unit to choose its own patient
+or destination.
+
+33
+00:07:22,224 --> 00:07:35,664
+A scribe preserves important times, counts, assignments and updates.
+Small incidents may combine functions, but the team still needs to
+know who owns each decision and where information must go.
+
+34
+00:07:35,664 --> 00:07:49,176
+Closed-loop tasking means the recipient repeats the critical
+assignment and reports completion or a problem. Saying that someone
+should arrange transport is weaker than assigning the task to a named
+role and confirming it.
+
+35
+00:07:49,176 --> 00:08:01,848
+A transfer of command is a deliberate handoff, not an assumption. The
+outgoing lead gives the current situation, hazards, objectives,
+resources, decisions and unresolved risks.
+
+36
+00:08:01,848 --> 00:08:12,504
+The incoming lead confirms acceptance and states immediate priorities.
+Crews need to know the new command point and whether assignments or
+restricted areas have changed.
+
+37
+00:08:12,504 --> 00:08:24,912
+Use plain language and read-back for critical instructions. When a
+communication fails or a hazard changes, correct the shared picture
+promptly rather than assuming everyone heard the first message.
+
+38
+00:08:24,912 --> 00:08:36,336
+Routine infection-prevention measures begin with hand hygiene and a
+point-of-care risk assessment. Add precautions according to the likely
+transmission route and current local policy.
+
+39
+00:08:36,336 --> 00:08:48,816
+PPE must match both the hazard and the task. Gloves do not replace eye
+protection when splash is likely; a surgical mask does not protect
+against an unknown airborne chemical atmosphere.
+
+40
+00:08:48,816 --> 00:09:01,584
+Use the taught donning, removal, disposal and hand-hygiene sequence.
+If equipment is damaged, contaminated or outside your training,
+withdraw and follow the supervisor’s plan.
+
+41
+00:09:01,584 --> 00:09:18,792
+The school groups standard, contact, droplet and airborne precautions
+together. In Canadian terminology, routine practices apply to every
+patient; contact, droplet and airborne precautions are additional
+layers, sometimes used together.
+
+42
+00:09:18,792 --> 00:09:35,544
+Routine practice does not mean gloves for every possible touch. Select
+gloves for the expected task and exposure, including blood, body
+fluids, mucous membranes, non-intact skin or contaminated items, and
+follow local policy.
+
+43
+00:09:35,544 --> 00:09:51,576
+The transmission concern changes which barriers and environmental
+controls are needed. A coughing patient may need source control and
+additional protection; one symptom does not let you invent a diagnosis
+or ignore current pathogen-specific direction.
+
+44
+00:09:51,576 --> 00:10:04,608
+Hand hygiene, equipment cleaning and clean-to-dirty task organization
+still matter under every layer. More PPE cannot repair contaminated
+technique or an uncontrolled chemical atmosphere.
+
+45
+00:10:04,608 --> 00:10:16,272
+First choose the equipment for the task and check its condition. Plan
+where it will be removed and discarded. Clean your hands before
+beginning; gloves are not a replacement for that step.
+
+46
+00:10:16,272 --> 00:10:33,600
+The PHAC Appendix Ten example then uses gown, mask or respirator, eye
+protection and gloves. When a gown is required, the gloves cover its
+cuffs. This is a named example, not a claim that every specialized
+ensemble uses one order.
+
+47
+00:10:33,600 --> 00:10:48,144
+For a tight-fitting respirator, use the make, model and size selected
+through fit testing and perform the user seal check as taught. A face
+shield adds eye or splash protection; it does not replace respiratory
+protection.
+
+48
+00:10:48,144 --> 00:11:01,680
+Before approaching, check that the items work together and allow the
+intended task. If a seal or barrier is not adequate, resolve the
+problem before exposure rather than hoping the next layer will
+compensate.
+
+49
+00:11:01,680 --> 00:11:16,200
+PPE removal can transfer contamination onto hands, clothing or the
+face. Prepare the waste or reprocessing route and remove items
+deliberately, avoiding unnecessary contact with contaminated fronts.
+
+50
+00:11:16,200 --> 00:11:31,776
+The PHAC example removes gloves and gown, cleans hands, removes eye
+protection and then the mask or respirator, and cleans hands again.
+Handle straps, ties or the designated clean parts rather than the
+exposed front.
+
+51
+00:11:31,776 --> 00:11:46,344
+The saved school narrative orders some steps differently. Keep that
+source difference visible and use the complete current employer or
+station protocol for the actual ensemble and removal location. Do not
+create a hybrid order from memory.
+
+52
+00:11:46,344 --> 00:12:01,992
+If you contaminate your hands during removal, stop and perform the
+indicated hand hygiene before continuing. Report a breach, manage the
+exposed equipment appropriately and seek the required exposure follow-
+up rather than silently carrying on.
+
+53
+00:12:01,992 --> 00:12:14,952
+A fit test selects and evaluates a specific respirator make, model and
+size on a person. A user seal check is performed when putting it on.
+Passing one does not eliminate the need for the other.
+
+54
+00:12:14,952 --> 00:12:29,352
+Facial hair in the sealing area, a changed face shape, incompatible
+eyewear or a different model may interfere with protection. Report the
+issue and use the respiratory-protection programme instead of
+improvising a fit solution.
+
+55
+00:12:29,352 --> 00:12:40,320
+The testing schedule comes from the applicable programme and
+jurisdiction. Do not turn a generic educational interval into a claim
+about the school or your employer’s current schedule.
+
+56
+00:12:40,320 --> 00:12:53,592
+A filtering medical respirator does not solve an unknown chemical gas
+exposure or a low-oxygen atmosphere. That is a different hazard
+assessment requiring the incident’s specialist protection and access
+plan.
+
+57
+00:12:53,592 --> 00:13:07,560
+WHMIS/GHS labels and Safety Data Sheets help identify a known
+product’s hazards, routes of exposure, storage and emergency
+information. Learn how to locate them through an authorized source.
+
+58
+00:13:07,560 --> 00:13:17,616
+Do not approach a leaking container simply to read its label. Use
+information supplied by witnesses, shipping documents or incident
+command from a safe position.
+
+59
+00:13:17,616 --> 00:13:32,496
+Unknown concentration, oxygen deficiency or reactive mixtures cannot
+be made safe by ordinary medical PPE. Isolation, monitoring and
+decontamination are specialist functions under the incident plan.
+
+60
+00:13:32,496 --> 00:13:46,704
+A flame and a flame over a circle are not interchangeable. The flame
+identifies specified fire-related hazards; the flame over a circle
+indicates an oxidizer, which can intensify combustion.
+
+61
+00:13:46,704 --> 00:14:01,056
+A cylinder symbol warns of pressure-related hazards. An exploding-bomb
+symbol identifies specified severe reactive hazards. Neither symbol
+tells a medical crew that a damaged container is safe to touch or
+move.
+
+62
+00:14:01,056 --> 00:14:13,152
+Corrosion can concern skin, eyes or metals according to the product
+classification. Do not assume that all corrosives have the same
+concentration, first aid or protective equipment.
+
+63
+00:14:13,152 --> 00:14:24,144
+The standard symbols shown here support visual recognition. The full
+label and Safety Data Sheet determine the product information; the
+incident plan determines what you may safely do.
+
+64
+00:14:24,144 --> 00:14:38,736
+The skull and crossbones identifies specified severe acute toxicity.
+The exclamation mark covers other specified harmful or irritant
+effects. The difference does not mean that an exclamation-mark product
+is harmless.
+
+65
+00:14:38,736 --> 00:14:54,288
+The human silhouette with a chest starburst identifies specified
+serious health hazards. Read the hazard statement to learn whether the
+concern is respiratory sensitization, organ toxicity, reproductive
+effects or another listed hazard.
+
+66
+00:14:54,288 --> 00:15:06,792
+Canada’s biohazardous infectious materials symbol has a black circular
+border, not the usual red diamond. The environment symbol may appear
+but is not required by WHMIS.
+
+67
+00:15:06,792 --> 00:15:21,624
+Some hazardous classes do not require a pictogram at all. No symbol, a
+missing label or an unknown product is not evidence of safety; report
+uncertainty and obtain the correct product information without
+approaching the hazard.
+
+68
+00:15:21,624 --> 00:15:36,888
+A supplier label connects the product identifier, supplier,
+pictograms, signal word, hazard statements and precautionary
+statements. Danger and Warning are signal words; they do not replace
+the actual hazard description.
+
+69
+00:15:36,888 --> 00:15:49,224
+Check that the Safety Data Sheet matches the product. In its sixteen-
+section format, identification and hazards come first; the revision
+date helps you recognize which document you are using.
+
+70
+00:15:49,224 --> 00:16:05,976
+For an exposure question, find first aid in section four. Release
+information is in section six, exposure controls in section eight and
+reactivity in section ten. Use the relevant information with
+specialist advice rather than guessing from a symbol.
+
+71
+00:16:05,976 --> 00:16:20,712
+An SDS describes a product; it does not measure oxygen, concentration
+or all mixtures at this incident. Reading it from a safe place can
+improve the report but does not grant entry or permission to clean a
+spill.
+
+72
+00:16:20,712 --> 00:16:34,752
+In a mass-casualty incident, triage aims to sort patients rapidly so
+limited resources are directed according to urgency. It is a time-
+limited first pass inside incident command, not complete clinical
+care.
+
+73
+00:16:34,752 --> 00:16:47,592
+START is an adult-oriented framework; JumpSTART adapts the approach
+for children. Use the exact version taught by the school and current
+service plan rather than blending algorithms from different posters.
+
+74
+00:16:47,592 --> 00:16:57,912
+Color categories communicate a priority, not a guarantee of outcome or
+a permanent label. A patient can move to a different priority when new
+findings emerge.
+
+75
+00:16:57,912 --> 00:17:12,096
+The current cards use Minor in green, Delayed in yellow, Immediate in
+red and Deceased in black. Match the actual local label and tracking
+process. A color is useful only if the team shares its meaning.
+
+76
+00:17:12,096 --> 00:17:26,976
+Minor does not mean no injury, and Delayed does not mean no care. They
+describe lower priority relative to immediate threats during this
+sort. Arrange the designated review and treatment process rather than
+leaving those groups unattended.
+
+77
+00:17:26,976 --> 00:17:43,176
+The pediatric chart sends walking children to Minor and then secondary
+triage. For a child who cannot walk because of developmental stage or
+disability, inability to walk alone is not a category; use the current
+tool and appropriate secondary assessment.
+
+78
+00:17:43,176 --> 00:18:00,240
+Deceased is the posted MCI tool’s label, not a new independent
+authority to pronounce death, abandon a patient or apply this
+algorithm to ordinary resuscitation. Categories, patient tracking and
+reassessment operate within the activated incident plan.
+
+79
+00:18:00,240 --> 00:18:14,928
+The current adult card first asks about walking on command and absence
+of major injury. Do not make every walking person automatically safe.
+For a non-walker, assess breathing and the specified airway-
+positioning branch.
+
+80
+00:18:14,928 --> 00:18:31,344
+If breathing remains absent after positioning, the card label is
+Deceased; if breathing starts, it is Immediate. This is the activated
+incident’s triage tool, not permission to replace ordinary
+resuscitation decisions outside that context.
+
+81
+00:18:31,344 --> 00:18:49,896
+With breathing present, use respiratory rate, radial pulse and simple-
+command response. More than thirty breaths per minute, an absent
+radial pulse or inability to follow a simple command reaches
+Immediate. Exactly thirty does not cross the rate branch by itself.
+
+82
+00:18:49,896 --> 00:19:04,968
+Other patients following that pathway are Delayed. Keep the approved
+brief lifesaving actions within the triage role; do not turn the first
+pass into full treatment or import an older capillary-refill threshold
+into this radial-pulse card.
+
+83
+00:19:04,968 --> 00:19:19,320
+In the current child chart, a non-walking child without spontaneous
+breathing first receives airway positioning. If breathing begins, the
+category is Immediate. Do not put the pulse check ahead of this airway
+step.
+
+84
+00:19:19,320 --> 00:19:32,880
+If apnea persists, assess a palpable pulse. No pulse in this branch
+leads to the chart’s Deceased label. If a pulse is present, the chart
+directs five rescue breaths using the taught technique.
+
+85
+00:19:32,880 --> 00:19:49,320
+Reassess breathing after those breaths. If it resumes, select
+Immediate; if apnea continues, follow the Deceased branch. The order
+matters because a child with respiratory arrest can differ from an
+adult in the corresponding rapid-sort tool.
+
+86
+00:19:49,320 --> 00:20:03,552
+These are MCI classification branches under the current incident plan
+and trained role. A label is not a stand-alone death pronouncement or
+a replacement for routine pediatric resuscitation outside the MCI
+process.
+
+87
+00:20:03,552 --> 00:20:19,368
+For the breathing pathway, a rate below fifteen or above forty-five
+per minute reaches Immediate. A rate of exactly fifteen or forty-five
+stays within the range and continues to the next branch; it does not
+by itself establish Delayed.
+
+88
+00:20:19,368 --> 00:20:30,192
+A breathing child without a palpable pulse reaches Immediate in the
+perfusion branch. Do not confuse that with the different apneic, no-
+pulse branch we just followed.
+
+89
+00:20:30,192 --> 00:20:47,568
+The current graphic uses AVPU: Alert, response to Voice, response to
+Pain, or Unresponsive. Alert, voice response or an appropriate pain
+response follows Delayed; an inappropriate pain response or
+unresponsiveness follows Immediate.
+
+90
+00:20:47,568 --> 00:21:03,120
+The graphic gives withdrawal as an example of an appropriate pain
+response and posturing as an inappropriate one. Use the trained
+assessment; do not substitute a full GCS or classify a normally non-
+walking child by mobility alone.
+
+91
+00:21:03,120 --> 00:21:13,752
+A quiet patient can deteriorate, and a patient initially classified as
+delayed can become immediate. Reassess at the interval and triggers in
+the current local plan.
+
+92
+00:21:13,752 --> 00:21:22,680
+Use a clear tag and tracking process so that triage category, patient
+movement, treatment and transport assignment remain connected.
+
+93
+00:21:22,680 --> 00:21:34,296
+Secondary triage and clinical treatment occur in designated areas
+under command. Do not allow a self-selected destination or ad hoc
+transport to defeat the coordinated plan.
+
+94
+00:21:34,296 --> 00:21:48,936
+In an original rehearsal at a cleared shelter walkway, Adult A cannot
+walk but breathes twenty-eight times per minute, has a radial pulse
+and follows a simple command. On the adult card, that pathway reaches
+Delayed.
+
+95
+00:21:48,936 --> 00:22:02,400
+Adult B breathes thirty-one times per minute. The rate already reaches
+Immediate. A child breathing forty-six times per minute also reaches
+Immediate, but through the pediatric rate boundary, not the adult
+number.
+
+96
+00:22:02,400 --> 00:22:16,944
+Later Adult A stops following simple commands. Repeat the relevant
+assessment, identify the new Immediate concern and update the tag and
+treatment team through the incident process. The original label is not
+permanent.
+
+97
+00:22:16,944 --> 00:22:30,096
+A useful update preserves patient identity, the changed finding and
+time, and the requested response. Do not remove the old timeline or
+send an untracked patient toward a self-selected ambulance.
+
+98
+00:22:30,096 --> 00:22:46,896
+CBRNE stands for Chemical, Biological, Radiological, Nuclear and
+Explosive. A cluster of similar illness, unexplained odour, unusual
+residue, damaged containers or a scene inconsistent with the call can
+raise concern.
+
+99
+00:22:46,896 --> 00:22:58,368
+These clues are not a field diagnosis. Avoid touching, smelling
+closely, sampling or moving suspected material; relay observations
+from a safe position.
+
+100
+00:22:58,368 --> 00:23:09,984
+A secondary device or continuing source may threaten responders after
+the first incident. Maintain distance, report the suspected hazard and
+await specialist direction.
+
+101
+00:23:09,984 --> 00:23:21,168
+Incident command and hazardous-material specialists define zones,
+access routes, decontamination and monitoring. Labels alone do not
+show that an area is safe.
+
+102
+00:23:21,168 --> 00:23:31,248
+Current BCEHS CBRNE guidance places clinical care in the cold zone.
+Medical awareness does not authorize routine entry into a hot or warm
+zone.
+
+103
+00:23:31,248 --> 00:23:41,856
+Do not enter to retrieve a patient, equipment or a partner without the
+required command authorization, specialist PPE, training and rescue
+capability.
+
+104
+00:23:41,856 --> 00:23:57,096
+Current BCEHS PR05 requires CliniCall contact with a paramedic
+specialist before assessing patients from a hazardous-material or
+chemical-exposure incident. Ordinary BCEHS equipment does not
+authorize work in the hot or warm zone.
+
+105
+00:23:57,096 --> 00:24:14,760
+Under the controlled plan, safe evacuation and clothing removal reduce
+ongoing exposure and secondary contamination. Explain the process,
+preserve dignity, arrange assistance for those who cannot follow
+instructions and control removed contaminated items.
+
+106
+00:24:14,760 --> 00:24:33,696
+The school’s blanket no-soap statement differs from PR05, which
+includes mild soap for wet decontamination. Do not infer that every
+unknown agent should simply be flooded with water; the dry or wet
+method is contaminant- and plan-dependent. Avoid abrasive scrubbing.
+
+107
+00:24:33,696 --> 00:24:53,304
+The CBRNE guidance prioritizes lifesaving airway and hemorrhage care
+over waiting for perfect decontamination, within safe roles and
+protection. This does not remove zone boundaries. Coordinate care,
+prevent hypothermia and notify receiving services about contamination
+risk.
+
+108
+00:24:53,304 --> 00:25:07,488
+A freight truck has overturned at a rural intersection. Several people
+are injured, a cargo drum is damaged, and the contents are not yet
+known. A responder sees vapour near the truck but has not entered the
+area.
+
+109
+00:25:07,488 --> 00:25:20,856
+Before anyone approaches, the wind shifts toward the initial staging
+point. The team withdraws to the new safe side, warns crews already
+moving in and reports the changed hazard and access route.
+
+110
+00:25:20,856 --> 00:25:35,136
+Command requests specialist hazardous-material support, confirms zone
+controls, and assigns a triage leader once a safe casualty area is
+established. The medical crew does not cross into an uncontrolled
+zone.
+
+111
+00:25:35,136 --> 00:25:46,776
+A learning review asks what was expected, what actually happened, what
+changed, and what the team should keep or improve. It is focused on
+systems and decisions rather than blame.
+
+112
+00:25:46,776 --> 00:25:57,000
+Protect patient and staff privacy in notes and discussion. Share only
+what is needed for handover, safety learning or the authorized
+reporting process.
+
+113
+00:25:57,000 --> 00:26:08,688
+The module’s scenario and reflection sections need active practice. A
+narrated lesson cannot demonstrate scene command, PPE competency or
+safe triage performance for you.
+
+114
+00:26:08,688 --> 00:26:23,280
+Experience helps only when you test whether the present scene is
+actually similar to the last one. Emotional urgency, a familiar
+address or a loud casualty can pull attention away from an unseen
+hazard or quieter patient.
+
+115
+00:26:23,280 --> 00:26:39,240
+In the review, name the cue you missed, the decision it affected and a
+practical repair. For example, a change report was transmitted but not
+acknowledged; the repair is a closed-loop update, not simply telling
+everyone to be more careful.
+
+116
+00:26:39,240 --> 00:26:56,880
+Check readiness after a difficult incident. If concentration,
+emotional control or safe task performance is affected, tell the
+appropriate lead and use the available peer, supervisor or
+professional support pathway. You do not need to diagnose yourself to
+ask for help.
+
+117
+00:26:56,880 --> 00:27:11,160
+Keep operational learning specific and protect privacy. Restore
+equipment and supplies, record authorized follow-up and make the
+agreed change visible before the next call rather than treating the
+debrief as the end of the work.

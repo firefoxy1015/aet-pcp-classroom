@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="650" viewBox="0 0 1160 650" role="img" aria-labelledby="title desc">
+  <title id="title">Four quality gates before a diagnostic action</title>
+  <desc id="desc">Patient identity and time, sample and method, instrument checks, then clinical interpretation. Each gate can reveal a result that is unreliable. Patient support continues in parallel; uncertainty is reported rather than called normal.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#53799b"/></marker></defs>
+  <rect width="1160" height="650" rx="24" fill="#f0f5fa"/>
+  <g font-family="Arial,sans-serif" fill="#16324b">
+    <text x="44" y="61" font-size="29" font-weight="700">A plausible result still needs four checks</text>
+    <text x="44" y="97" font-size="20">Original decision map: validity before confidence.</text>
+    <g fill="#fff" stroke="#b8cddd" stroke-width="2">
+      <rect x="44" y="151" width="238" height="184" rx="14"/>
+      <rect x="322" y="151" width="238" height="184" rx="14"/>
+      <rect x="600" y="151" width="238" height="184" rx="14"/>
+      <rect x="878" y="151" width="238" height="184" rx="14"/>
+    </g>
+    <text x="65" y="192" font-size="24" font-weight="700">1 Patient</text>
+    <text x="65" y="237" font-size="20">Right identity</text><text x="65" y="267" font-size="20">Right time</text><text x="65" y="297" font-size="20">Current condition</text>
+    <text x="343" y="192" font-size="24" font-weight="700">2 Sample</text>
+    <text x="343" y="237" font-size="20">Right site/type</text><text x="343" y="267" font-size="20">Technique/handling</text><text x="343" y="297" font-size="20">Matched label</text>
+    <text x="621" y="192" font-size="24" font-weight="700">3 Instrument</text>
+    <text x="621" y="237" font-size="20">Mode and checks</text><text x="621" y="267" font-size="20">Approved supplies</text><text x="621" y="297" font-size="20">Quality controls</text>
+    <text x="899" y="192" font-size="24" font-weight="700">4 Interpretation</text>
+    <text x="899" y="237" font-size="20">Units/reference</text><text x="899" y="267" font-size="20">Clinical fit</text><text x="899" y="297" font-size="20">Useful next action</text>
+    <g stroke="#53799b" stroke-width="3" marker-end="url(#arrow)"><path d="M288 246H313"/><path d="M566 246H591"/><path d="M844 246H869"/></g>
+    <rect x="44" y="383" width="1072" height="94" rx="14" fill="#dcefeb"/>
+    <text x="67" y="423" font-size="24" font-weight="700">Support the patient in parallel</text>
+    <text x="67" y="456" font-size="20">Do not delay needed airway, breathing, circulation or conveyance for a test.</text>
+    <rect x="44" y="516" width="1072" height="91" rx="14" fill="#fff1db" stroke="#d5a04a" stroke-width="2"/>
+    <text x="67" y="554" font-size="23" font-weight="700">Unreliable / unavailable / indeterminate is NOT normal</text>
+    <text x="67" y="586" font-size="19">Recheck safely, state the limitation, and use the actual authorized care pathway.</text>
+  </g>
+</svg>

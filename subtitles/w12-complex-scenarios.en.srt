@@ -1,0 +1,202 @@
+1
+00:00:00,000 --> 00:00:12,696
+The instructor will not give the next step. Do not wait for a hint.
+State your current concern, identify missing information and choose
+the next safe action that fits your role and the applicable pathway.
+
+2
+00:00:12,696 --> 00:00:25,800
+A partner should be able to tell what you are doing and why. Use
+names, closed-loop requests and a brief confirmation. When new
+evidence arrives, revise openly rather than defending the first plan.
+
+3
+00:00:25,800 --> 00:00:42,312
+An original two-patient drill begins with one person who is breathless
+and tiring, and another who looks relatively calm but has become pale
+with a weaker peripheral pulse. The call contains no dramatic alarm,
+and the full histories are not yet available.
+
+4
+00:00:42,312 --> 00:00:59,160
+Do not rank patients by who speaks loudest. Compare immediate airway,
+breathing and perfusion threats, evaluate whether one can be safely
+supported while help arrives, and make a resource request early.
+Reassess both patients after each major action.
+
+5
+00:00:59,160 --> 00:01:15,720
+Halfway through the drill, the primary oxygen source stops delivering.
+Announce the equipment failure immediately and keep the patient under
+direct observation. The team should maintain appropriate airway or
+ventilation support while the approved backup is prepared.
+
+6
+00:01:15,720 --> 00:01:34,368
+The person switching equipment follows the actual service checklist
+and training. The lead verifies the replacement source and reassesses
+the patient rather than assuming that a successful connection equals
+clinical improvement. If the patient continues to tire, escalate care
+and transport planning.
+
+7
+00:01:34,368 --> 00:01:50,184
+During treatment, one patient says they feel better and now refuses
+transport. A family member protests. Pause tasks that can safely wait,
+address the patient directly and assess the decision in the context of
+the current condition.
+
+8
+00:01:50,184 --> 00:02:09,000
+A symptom change does not prove the risk is gone. Explain the
+remaining uncertainty and options, ask the patient to describe their
+understanding and personal reasoning, and consult according to current
+guidance. Respect a capable decision while keeping care available and
+documenting the process.
+
+9
+00:02:09,000 --> 00:02:23,160
+Before the next action, give a short team update: name the leading
+threat, state who is doing what and specify the finding that will
+trigger a change. This creates a shared mental model and makes missed
+steps easier to catch.
+
+10
+00:02:23,160 --> 00:02:36,000
+Avoid vague directions such as “keep an eye on them.” Name the
+observation, its timing and the person responsible. If the patient
+changes, re-state the priority and close the communication loop.
+
+11
+00:02:36,000 --> 00:02:52,584
+The learner begins the debrief with three questions: What happened
+from your point of view? Which cue changed your plan, and how did you
+use it? What would you repeat or change next time? Ask the learner to
+cite observable evidence, not just a feeling of success or failure.
+
+12
+00:02:52,584 --> 00:03:08,688
+The facilitator then adds questions about patient response, team
+coordination, equipment readiness, consent and documentation. Separate
+a knowledge gap from an execution gap: one may need review, the other
+deliberate supervised practice.
+
+13
+00:03:08,688 --> 00:03:23,784
+Use the remaining debrief prompts to examine the patient perspective,
+cue quality, alternative explanations, priority choice, authorized
+actions and patient response. Ask which assumption was useful and
+which one needed testing.
+
+14
+00:03:23,784 --> 00:03:39,312
+End with one specific behaviour to practise, a condition under which
+it will be tested and a way to know it improved. “Be more confident”
+is not measurable. “State the risk and one alternative before
+documenting refusal” is observable.
+
+15
+00:03:39,312 --> 00:04:03,936
+After the learner has asked the first three debrief questions,
+separate the action from the patient result. A verified source
+replacement is a process achievement. What happened to breathing,
+interaction and perfusion is an outcome question. Both matter. An
+incomplete observation must remain unknown, not be filled with an
+assumed improvement because the device now works.
+
+16
+00:04:03,936 --> 00:04:28,344
+A useful review links cue, interpretation, chosen action, expected
+response and actual response. Include the patient's account and what
+mattered to them. If several interventions preceded an improvement,
+the sequence alone does not prove that one action caused every change.
+Describe the evidence before deciding what the team should repeat or
+change next time.
+
+17
+00:04:28,344 --> 00:04:54,792
+Reconstruct the two-patient drill without adding findings. The
+breathless person is tiring, while the quieter person has worsening
+perfusion cues. Calm appearance cannot settle priority. Form
+provisional explanations, compare immediate threats and available
+support, and identify what would change the plan. New evidence may
+require revising an earlier priority rather than defending the first
+choice.
+
+18
+00:04:54,792 --> 00:05:21,048
+The six judgment functions help show what happened: notice and analyze
+cues, compare hypotheses, generate feasible options, take an
+authorized action and evaluate. They overlap during care. A normal
+finding may still be relevant, and a plausible explanation is not
+confirmed simply because a treatment was given. Do not wait to
+complete every label before addressing a threat that cannot wait.
+
+19
+00:05:21,048 --> 00:05:50,856
+Environmental constraints include equipment, staffing, access to
+services, setting and time pressure. Clinician factors include
+cognitive load, fatigue, experience and actual skill. A plan that
+ignores these can fail even when its physiology sounds reasonable.
+Name the specific gap, request appropriate help and confirm who
+accepted responsibility. An unfamiliar task is not solved by quietly
+improvising beyond training.
+
+20
+00:05:50,856 --> 00:06:18,240
+Culture and communication should prompt respectful questions about
+this person, not a diagnosis by group membership. Check the actual
+history, relevant records and preferences and support understanding.
+In the debrief, ask whether an assumption hid a useful cue or a needed
+resource. Patient involvement and accessible explanation are part of
+reasoning, not optional decorations after the technical work.
+
+21
+00:06:18,240 --> 00:06:46,608
+The chapter's unfolding analysis adds pain, function, skin and
+elimination concerns after an initial respiratory problem. Learn to
+reopen the assessment rather than copy the hospital orders. Lack of
+wound pain does not prove healing, and a new symptom is not
+automatically arthritis, embarrassment or the bed. Keep chronology and
+associated findings visible and use the appropriate clinical pathway
+for the new concern.
+
+22
+00:06:46,608 --> 00:07:10,440
+In our drill, do not forget the second patient while troubleshooting
+the first person's equipment. Assign continuing observation and a
+clear escalation trigger for both. A symptom that improves does not
+erase other risks or settle a refusal decision. Handover should
+include the unresolved need and who will reassess it, not only the
+tasks that were completed.
+
+23
+00:07:10,440 --> 00:07:36,576
+ADPIE organizes assessment, diagnosis, planning, implementation and
+evaluation. The judgment model makes selected cognitive work more
+visible; it was not built to replace the nursing process or become an
+AET marking rubric. Use both ideas to explain a decision without
+claiming that naming a model proves competence. A useful goal
+specifies what will be observed and when it will be reviewed.
+
+24
+00:07:36,576 --> 00:08:01,056
+Choose one change for the reset, such as clearly assigning and
+reporting a patient reassessment after source replacement. Keep the
+other variables stable enough to see what changed. Review the observed
+behavior and the actual response without blaming hindsight or
+inventing success. Carry forward the next specific practice target and
+leave formal skill assessment with the school's supervised process.
+
+25
+00:08:01,056 --> 00:08:18,912
+After the debrief, repeat a short segment with only one variable
+changed: the equipment fails sooner, the second patient worsens or the
+patient gives a less clear explanation. Avoid changing every detail at
+once; the learner needs to see which adjustment mattered.
+
+26
+00:08:18,912 --> 00:08:31,584
+This weekend revisits existing knowledge and skills. It does not add a
+new technical skill station. Record the learner’s next practice target
+and carry it into the next school session as directed.

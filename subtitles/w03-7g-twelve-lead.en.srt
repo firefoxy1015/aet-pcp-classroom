@@ -1,0 +1,694 @@
+1
+00:00:00,000 --> 00:00:14,712
+The school expects a diagnostic-quality twelve-lead in under three
+minutes from contact in a cooperative, appropriate patient. This is a
+specific training target, not permission to omit resuscitation,
+consent or correct placement.
+
+2
+00:00:14,712 --> 00:00:28,152
+Module Seven G also introduces STEMI patterns, equivalents and mimics.
+We teach the recognition concepts while keeping current operational
+authorization separate from a classroom interpretation exercise.
+
+3
+00:00:28,152 --> 00:00:39,648
+A lead map suggests anatomical views; it does not prove a culprit
+artery or the absence of dangerous disease. The patient and evolving
+findings remain central.
+
+4
+00:00:39,648 --> 00:00:49,128
+The source notes distinguish the saved school wording from current
+public BCEHS workflow. Do not combine the two into a new invented
+treatment rule.
+
+5
+00:00:49,128 --> 00:01:01,008
+An electrode is a physical contact. A lead is a calculated view of
+electrical activity. Four limb contacts and six chest contacts create
+the standard twelve-lead information.
+
+6
+00:01:01,008 --> 00:01:11,352
+The six limb views look in the frontal plane, while the precordial
+views sample the horizontal plane. A monitoring strip supplies less
+spatial information.
+
+7
+00:01:11,352 --> 00:01:21,480
+This is not twelve different heartbeats or twelve physical sensors.
+The displayed arrangement may vary, so read the actual lead labels and
+recording format.
+
+8
+00:01:21,480 --> 00:01:32,592
+Multiple views help recognize regional changes, but correct geometry
+and signal quality are necessary. A wrong position can create a
+plausible but misleading picture.
+
+9
+00:01:32,592 --> 00:01:42,528
+Explain that you need skin contacts on the limbs and chest to record
+the heart's electrical activity. Describe the exposure and what the
+patient will feel.
+
+10
+00:01:42,528 --> 00:01:56,496
+Obtain appropriate consent and address questions or preferences. An
+emergency incapacity situation uses the actual legal process, not a
+routine assumption that every chest-pain patient has implicitly
+agreed.
+
+11
+00:01:56,496 --> 00:02:08,832
+Use draping and respectful assistance, particularly when chest
+landmarks lie under breast tissue. Do not substitute exposed nipple
+position for a true anatomical landmark.
+
+12
+00:02:08,832 --> 00:02:20,736
+Use a tolerable supine or semi-recumbent position as appropriate and
+support limbs. Do not force a breathless patient flat or ask a failing
+patient to perform a prolonged breath-hold.
+
+13
+00:02:20,736 --> 00:02:33,192
+Colour mnemonics depend on the cable standard. Check the printed RA,
+LA, RL and LL labels and the actual trained monitor procedure instead
+of assuming one colour sequence worldwide.
+
+14
+00:02:33,192 --> 00:02:45,264
+Use approved limb sites with good contact and avoid placing electrodes
+directly over bone. Keep comparable left/right placement and support
+the limbs to reduce muscle noise.
+
+15
+00:02:45,264 --> 00:02:57,216
+Do not casually move diagnostic limb electrodes to the torso just to
+make the trace look cleaner. Modified placement can change waveforms
+and needs its actual protocol and notation.
+
+16
+00:02:57,216 --> 00:03:09,864
+If body habitus, injury or access requires deviation, obtain
+appropriate guidance and record the actual sites and position so
+serial comparisons are not falsely reassuring.
+
+17
+00:03:09,864 --> 00:03:20,808
+The sternal angle helps identify the second rib. Count intercostal
+spaces downward to the fourth space rather than estimating by eye or
+by the nipple.
+
+18
+00:03:20,808 --> 00:03:29,544
+V one is at the right sternal border in the fourth intercostal space,
+and V two is at the left sternal border in the fourth space.
+
+19
+00:03:29,544 --> 00:03:40,296
+Putting V one and V two too high is a common avoidable source of
+misleading changes. Confirm the landmark before interpreting an
+unexpected anterior pattern.
+
+20
+00:03:40,296 --> 00:03:52,176
+Practice landmarking on the school model with feedback. A flat diagram
+can show relationships but cannot substitute for supervised palpation
+on different body shapes.
+
+21
+00:03:52,176 --> 00:04:01,968
+Find V four at the fifth intercostal space on the mid-clavicular line.
+Then place V three between the already located V two and V four.
+
+22
+00:04:01,968 --> 00:04:13,512
+Place V five at the anterior axillary line and V six at the mid-
+axillary line in the same horizontal plane as V four. Do not follow a
+descending rib curve around the chest.
+
+23
+00:04:13,512 --> 00:04:26,472
+Check the contact and actual positions before acquisition. Breast
+tissue, adiposity, dressings and clothing should prompt respectful
+correct access, not a guess at an approximate spot.
+
+24
+00:04:26,472 --> 00:04:35,976
+The diagram is relational, not a scale body map. State the landmarks
+aloud and ask an instructor to verify placement during practice.
+
+25
+00:04:35,976 --> 00:04:48,048
+The correct chest-wall location may be under breast tissue. Explain
+and provide privacy and appropriate assistance rather than placing a
+sensor over an arbitrary more convenient area.
+
+26
+00:04:48,048 --> 00:04:57,768
+Larger or smaller body size does not replace anatomical landmarking
+with a fixed number of centimetres from a nipple. Palpate what you
+need to identify.
+
+27
+00:04:57,768 --> 00:05:11,184
+When injuries, dressings or skin condition prevent usual placement,
+use the actual trained alternative and communicate the modification.
+Do not interpret a modified trace as if nothing changed.
+
+28
+00:05:11,184 --> 00:05:22,680
+For repeat ECGs, comparable placement and posture make change more
+interpretable. Record important unavoidable differences with the time
+and symptoms.
+
+29
+00:05:22,680 --> 00:05:34,224
+Before the encounter, organize the actual equipment and check
+consumables. An untangled cable and sound electrodes save time without
+cutting patient safeguards.
+
+30
+00:05:34,224 --> 00:05:44,688
+Prepare the skin using the approved technique, accounting for
+moisture, hair and sensitivity. Do not apply an improvised abrasive or
+chemical method.
+
+31
+00:05:44,688 --> 00:05:55,440
+Check connections and relieve traction. When ready, calmly ask the
+patient to rest the limbs, avoid talking and breathe normally for the
+short acquisition.
+
+32
+00:05:55,440 --> 00:06:07,752
+When acquisition fails, troubleshoot a specific cause instead of
+repeatedly pressing print. Continue assessment and avoid turning an
+equipment problem into a prolonged scene delay.
+
+33
+00:06:07,752 --> 00:06:17,520
+Verify that all twelve views are present and labelled, with readable
+complexes and a usable baseline. Check speed and gain before
+measuring.
+
+34
+00:06:17,520 --> 00:06:27,336
+Enter accurate identity and device-required demographic data. Wrong
+patient details can misdirect a transmission or influence automated
+processing.
+
+35
+00:06:27,336 --> 00:06:39,696
+Record when symptoms and acquisition occurred and what care was given.
+Select the correct ECG record for transmission; sending a previous
+person's tracing is not a minor labelling issue.
+
+36
+00:06:39,696 --> 00:06:50,040
+Check the actual transmission result and communicate failure through
+the appropriate alternative. A send button alone does not prove the
+receiving team has the tracing.
+
+37
+00:06:50,040 --> 00:07:02,952
+Start the practice clock at patient contact, as the school specifies
+for a cooperative appropriate patient. Assign a primary assessor and
+an acquisition partner so necessary tasks run in parallel.
+
+38
+00:07:02,952 --> 00:07:16,872
+Use the first practice to locate the bottleneck: equipment
+preparation, exposure/consent, landmarking, data entry or
+troubleshooting. Improve that step rather than sacrificing accuracy.
+
+39
+00:07:16,872 --> 00:07:27,984
+Stop the clock only when the required tracing is actually acquired and
+readable, not when the last electrode is attached. Record actual time
+and any quality failure.
+
+40
+00:07:27,984 --> 00:07:40,080
+If urgent breathing or circulation support takes priority, state that
+and provide it. Do not meet a classroom target by delaying a more
+important intervention or falsely documenting a time.
+
+41
+00:07:40,080 --> 00:07:51,888
+The current handbook has separate LifePak Fifteen and ZOLL acquisition
+pages. Buttons, demographics, noise handling and transmission workflow
+are not interchangeable.
+
+42
+00:07:51,888 --> 00:08:02,952
+The school exercise must be practised on its actual monitor. This
+lecture supplies the reasoning and sequence, not a claim that a
+generic diagram trains every device.
+
+43
+00:08:02,952 --> 00:08:11,688
+Do not invent an override when noisy data prevents a recording. Follow
+the device-specific authorization and obtain appropriate help.
+
+44
+00:08:11,688 --> 00:08:24,168
+The current PCP workflow warns to leave the twelve-lead acquisition
+screen when not actively acquiring because ongoing rhythm detection
+can be affected. Confirm the actual monitoring mode after recording.
+
+45
+00:08:24,168 --> 00:08:33,672
+An early ECG can be nondiagnostic while disease evolves. Save the
+initial record and link it to the symptom state and relevant
+treatment.
+
+46
+00:08:33,672 --> 00:08:44,256
+Repeat according to the actual pathway and clinical change.
+Deterioration requires immediate reassessment, not waiting for a
+scheduled ten-minute recording.
+
+47
+00:08:44,256 --> 00:08:55,488
+Compare leads, position, speed and gain as well as the waveform. A
+changed electrode position can create an apparent trend that is not a
+physiological change.
+
+48
+00:08:55,488 --> 00:09:05,592
+Report the evolving pattern with the patient response and time. A
+repeat that looks less dramatic does not independently establish that
+the danger has resolved.
+
+49
+00:09:05,592 --> 00:09:19,656
+The school uses inferior leads Two, Three and aVF; septal views V one
+and V two; anterior views V three and V four; and lateral views One,
+aVL, V five and V six.
+
+50
+00:09:19,656 --> 00:09:32,088
+These are useful teaching groupings. Anterior and septal regions
+overlap in clinical interpretation, and the standard lead label does
+not isolate a perfectly bounded piece of myocardium.
+
+51
+00:09:32,088 --> 00:09:42,576
+Contiguous means anatomically related views. Two traces beside each
+other in the printed layout are not automatically a qualifying
+anatomical pair.
+
+52
+00:09:42,576 --> 00:09:53,736
+Inspect all leads rather than only the region you expect from the
+symptom story. A prior infarction or a familiar machine phrase can
+bias attention away from a new pattern.
+
+53
+00:09:53,736 --> 00:10:05,952
+The common teaching associations are inferior with right coronary
+supply, anterior/septal with the left anterior descending artery and
+lateral with circumflex-related supply.
+
+54
+00:10:05,952 --> 00:10:18,312
+Coronary dominance, branching and overlap vary. Inferior changes are
+not proof that the right coronary artery is the culprit, and lateral
+supply is not identical in every person.
+
+55
+00:10:18,312 --> 00:10:30,624
+Localization helps anticipate complications such as conduction
+disturbance, pump failure or right ventricular involvement, but it is
+a risk-oriented inference, not definitive anatomy.
+
+56
+00:10:30,624 --> 00:10:40,752
+Communicate the exact leads and clinical state. That is more
+defensible than declaring a complete vessel occlusion or a specific
+lesion from a teaching map alone.
+
+57
+00:10:40,752 --> 00:10:51,408
+Locate QRS end before describing the ST segment. The J point is the
+boundary between the end of ventricular depolarization and the
+following segment.
+
+58
+00:10:51,408 --> 00:11:03,840
+Use a reliable reference and the actual calibration. Baseline wander,
+a wide QRS, pacing or other repolarization changes can make a simple
+displacement measurement misleading.
+
+59
+00:11:03,840 --> 00:11:16,176
+The original figure illustrates a baseline segment, elevation and
+depression at the same represented scale. A single illustrated change
+is not a full STEMI diagnostic example.
+
+60
+00:11:16,176 --> 00:11:26,400
+Describe what you measured and where. Do not equate every raised
+segment with infarction or every inverted T with completed
+irreversible damage.
+
+61
+00:11:26,400 --> 00:11:40,104
+For the usual adult reference criteria, new J-point ST elevation is
+assessed in at least two contiguous leads. The general threshold is
+one millimetre, with a specific exception for V two and V three.
+
+62
+00:11:40,104 --> 00:11:50,232
+In V two and V three the cited thresholds are two point five
+millimetres for men under forty, two for men forty or older and one
+point five for women.
+
+63
+00:11:50,232 --> 00:12:04,488
+These are qualified reference criteria, not a rule to apply
+indiscriminately with bundle-branch block, ventricular pacing or
+marked hypertrophy. Other ischemic patterns may be dangerous without
+satisfying this table.
+
+64
+00:12:04,488 --> 00:12:18,480
+Learn the measurements for the school interpretation task, but use the
+actual PCP acquisition, flagging and consultation pathway
+operationally. Manual recognition does not create independent
+reperfusion authority.
+
+65
+00:12:18,480 --> 00:12:32,136
+In original example A, One point five millimetres in Two and aVF
+exceeds the general one-millimetre reference in an inferior pair,
+assuming valid acquisition and the required clinical conditions.
+
+66
+00:12:32,136 --> 00:12:45,888
+Example B exceeds the cited one point five millimetre V two/V three
+threshold for women. Example C does not meet the two point five
+millimetre exception for men under forty.
+
+67
+00:12:45,888 --> 00:12:56,904
+Not meeting that numeric table is not a safe rule-out. Symptoms, other
+leads, reciprocal findings, evolution, equivalents and confounding
+conduction patterns still matter.
+
+68
+00:12:56,904 --> 00:13:08,712
+None of these isolated numbers proves the artery, extent or current
+viability of myocardium. Describe concern and follow the appropriate
+clinical review and workflow.
+
+69
+00:13:08,712 --> 00:13:21,168
+The school describes ischemia, injury and infarction with T-wave, ST
+and Q-wave changes. Use this to understand possible evolution, not as
+a mandatory timeline.
+
+70
+00:13:21,168 --> 00:13:32,664
+An acute event may lack a textbook sequence; Q waves can be old,
+absent or affected by other factors. Waiting for Q waves can delay
+time-sensitive care.
+
+71
+00:13:32,664 --> 00:13:44,472
+A Q wave does not alone confirm that all affected tissue is
+irreversibly dead, and ST elevation does not prove full-thickness
+necrosis or complete occlusion in every case.
+
+72
+00:13:44,472 --> 00:13:56,400
+Integrate symptoms, serial ECGs, specialist review and hospital
+testing. In the field, recognize concern early rather than waiting for
+a complete diagnostic story.
+
+73
+00:13:56,400 --> 00:14:05,520
+A posterior coronary event may show ST depression in anterior views
+rather than the obvious standard-lead elevation a beginner expects.
+
+74
+00:14:05,520 --> 00:14:17,016
+The school highlights depression and tall R waves in V one to V three
+as clues. They raise concern in context; they do not diagnose the
+cause of every anterior depression.
+
+75
+00:14:17,016 --> 00:14:31,752
+Additional posterior views may help under the actual authorized plan.
+The current ZOLL procedure labels posterior and right-sided
+acquisition ACP-only, so this classroom concept does not create an
+independent PCP procedure.
+
+76
+00:14:31,752 --> 00:14:42,480
+If electrodes are moved by an authorized clinician, the new
+designations must be clear. A V seven tracing labelled V four can
+mislead the receiving team.
+
+77
+00:14:42,480 --> 00:14:52,608
+Left bundle-branch block changes ventricular activation and secondary
+ST-T appearance. This makes ordinary elevation measurements harder to
+interpret.
+
+78
+00:14:52,608 --> 00:15:04,704
+The saved school wording calls a new or presumed-new LBBB a STEMI
+equivalent in context. Current ACS guidance says it is not diagnostic
+of acute infarction in isolation.
+
+79
+00:15:04,704 --> 00:15:19,008
+Symptoms, hemodynamic state, comparison with prior tracings and
+specialist criteria such as Sgarbossa can change the concern. This is
+not permission for a beginner to rule in or rule out by one wide
+complex.
+
+80
+00:15:19,008 --> 00:15:31,296
+Treat instability, obtain appropriate support and communicate the
+exact findings and uncertainty. A normal automated phrase or uncertain
+onset does not settle the clinical problem.
+
+81
+00:15:31,296 --> 00:15:43,176
+Noncoronary and nonacute patterns can produce ST changes, including
+early repolarization, pericarditis, ventricular hypertrophy and
+abnormal ventricular activation.
+
+82
+00:15:43,176 --> 00:15:52,488
+Technical error can also mimic disease. Confirm correct placement and
+signal, especially when a pattern conflicts with the clinical picture.
+
+83
+00:15:52,488 --> 00:16:03,912
+Do not rule out coronary disease simply by recognizing one feature
+associated with a mimic. A person can have a baseline abnormality and
+a new event together.
+
+84
+00:16:03,912 --> 00:16:12,072
+Communicate the concern and seek appropriate review rather than
+creating a confident benign diagnosis from a short classroom
+checklist.
+
+85
+00:16:12,072 --> 00:16:25,488
+A normal or nondiagnostic ECG does not exclude acute coronary
+syndrome. NSTEMI can have nonspecific or absent ECG changes and
+requires the broader clinical and hospital assessment.
+
+86
+00:16:25,488 --> 00:16:37,920
+Dangerous pulmonary, vascular and other conditions can also occur with
+a normal tracing. Do not cancel supportive care, transport or
+escalation solely because the machine says normal.
+
+87
+00:16:37,920 --> 00:16:49,752
+A person without chest pain can still have an acute coronary
+presentation. Consider the actual symptom pattern, including
+breathlessness, weakness, nausea or syncope.
+
+88
+00:16:49,752 --> 00:17:00,264
+Repeat assessment and obtain indicated review. Improvement of one
+symptom or one less dramatic tracing does not independently prove
+safety.
+
+89
+00:17:00,264 --> 00:17:12,768
+The school requires verbalizing what else could this be before the
+first intervention. The purpose is to prevent anchoring, not to demand
+that every alternative be definitively excluded before help begins.
+
+90
+00:17:12,768 --> 00:17:24,648
+For chest pressure, important alternatives may include aortic disease,
+pulmonary embolism or pneumothorax as well as other causes. State a
+relevant cue that would change the plan.
+
+91
+00:17:24,648 --> 00:17:36,984
+A focused cognitive check can run alongside oxygenation, ventilation
+and circulation support. It must never become a reason to delay CPR or
+other immediately indicated care.
+
+92
+00:17:36,984 --> 00:17:48,432
+After each action, ask what changed, what should have changed and
+whether anything worsened. A new finding should reopen the working
+explanation instead of being ignored.
+
+93
+00:17:48,432 --> 00:17:58,632
+Recognizing a concerning trace is not the end of assessment. Continue
+support and confirm whether the planned medicine or procedure is
+appropriate for this patient now.
+
+94
+00:17:58,632 --> 00:18:15,024
+Use actual local indications and safeguards for antiplatelet and
+vasodilator treatment. Hypotension, possible right ventricular
+involvement and interacting medicines can matter; an ECG label alone
+is not a nitroglycerin instruction.
+
+95
+00:18:15,024 --> 00:18:27,768
+Oxygen follows the applicable clinical target and exceptions, not a
+routine response to every chest-pain call. Do not silently replace the
+current A seven wording with a school blanket range.
+
+96
+00:18:27,768 --> 00:18:37,920
+Plan rapid appropriate conveyance and early communication. An IV
+attempt or a desire for a prettier printout must not create an
+avoidable delay.
+
+97
+00:18:37,920 --> 00:18:50,880
+The current public PCP workflow uses a STEMI flag to direct the local
+pathway, transmission and notification. Request the appropriate
+support without delaying on scene simply to wait for an intercept.
+
+98
+00:18:50,880 --> 00:19:06,576
+An ACUTE MI flag without STEMI does not automatically activate that
+PCP pathway. The workflow calls for clinical consultation, appropriate
+support and repeat twelve-leads every ten minutes, with immediate
+reassessment for deterioration.
+
+99
+00:19:06,576 --> 00:19:17,832
+These are operational distinctions, not a claim that automated
+software proves or excludes infarction. Follow your actual monitor
+training and applicable local requirements.
+
+100
+00:19:17,832 --> 00:19:28,992
+Return to the proper monitoring screen after acquisition and document
+the chosen route of communication. Do not invent a universal
+destination from a regional pathway used elsewhere.
+
+101
+00:19:28,992 --> 00:19:38,736
+Use the appropriate handover or consultation structure. State your
+role, the patient's presentation and the time of symptom onset and
+acquisition.
+
+102
+00:19:38,736 --> 00:19:51,312
+Describe exact lead findings, the machine flag and any signal
+limitation. Separate observation from inference, such as inferior
+elevation rather than certainty about a particular artery.
+
+103
+00:19:51,312 --> 00:20:03,864
+Include blood pressure and pulse trends, awareness, symptoms,
+important alternatives and the response to care. Say if a repeat has
+changed and whether the tracing was actually transmitted.
+
+104
+00:20:03,864 --> 00:20:16,368
+Finish with the intended destination or advice request, estimated
+arrival and closed-loop confirmation. A clear uncertainty statement is
+safer than an unsupported confident label.
+
+105
+00:20:16,368 --> 00:20:26,208
+This is an original teaching case, not the school Wednesday patient. A
+fifty-eight-year-old has new pressure and nausea with a history of
+infarction.
+
+106
+00:20:26,208 --> 00:20:36,936
+Obtain appropriate primary assessment and a quality tracing, while the
+team considers alternatives. Prior infarction does not prove every
+current change is old.
+
+107
+00:20:36,936 --> 00:20:48,936
+The new inferior pattern and falling pressure demand attention to
+perfusion and possible complications. Do not give a vasodilator
+automatically because the complaint is chest pain.
+
+108
+00:20:48,936 --> 00:21:03,864
+Follow the actual flag/local pathway, obtain support, communicate the
+lead findings and hypotension, and reassess after care. Do not delay
+conveyance to finish a perfect culprit-artery explanation.
+
+109
+00:21:03,864 --> 00:21:15,840
+The saved Seven G lesson asks learners to interpret a series of
+twelve-lead strips and submit findings. The actual assessed strip set
+and current submission settings are not recovered here.
+
+110
+00:21:15,840 --> 00:21:27,216
+Use an original practice sheet to organize your own observations:
+quality and settings, rhythm features, regional changes, clinical
+context and appropriate next steps.
+
+111
+00:21:27,216 --> 00:21:38,784
+Distinguish what is visible from what cannot be known without
+symptoms, prior traces or further assessment. Do not present a
+synthetic example as the answer to a missing assessed strip.
+
+112
+00:21:38,784 --> 00:21:47,592
+This course can teach and provide practice; it does not submit work,
+open a quiz or certify the school assignment as completed.
+
+113
+00:21:47,592 --> 00:21:57,528
+Point to each anatomical landmark on the training model and explain
+why V four precedes V three and why V five and V six stay level.
+
+114
+00:21:57,528 --> 00:22:06,024
+Rehearse the under-three-minute school target with a partner,
+measuring actual quality and time rather than treating speed alone as
+success.
+
+115
+00:22:06,024 --> 00:22:16,584
+Explain the V two/V three threshold exception, why new LBBB is not an
+isolated diagnosis and why a normal tracing cannot rule out ACS.
+
+116
+00:22:16,584 --> 00:22:26,400
+Finish with a concise report and the school reassessment questions.
+The important endpoint is a safer care sequence, not a memorized
+vessel label.

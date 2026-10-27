@@ -1,0 +1,873 @@
+1
+00:00:00,000 --> 00:00:14,904
+Week Five explicitly assigns Seven C Part A. This lecture teaches the
+first three school sections: failure mechanisms, the four arrest
+rhythms, and the reversible causes organized as the Hs and Ts.
+
+2
+00:00:14,904 --> 00:00:27,552
+The next lecture connects capnography with the arrest decision pathway
+and family communication. Together they follow all five saved teaching
+sections, not a separate collection of anatomy facts.
+
+3
+00:00:27,552 --> 00:00:39,648
+We follow one new patient story, then deliberately change the evidence
+to test alternative causes. The cases are original teaching exercises,
+not the answers to the school assessments.
+
+4
+00:00:39,648 --> 00:00:52,032
+Learn the reasoning and the immediate priorities. Actual devices,
+medications and invasive procedures still require the appropriate
+training, license level and current service instructions.
+
+5
+00:00:52,032 --> 00:01:04,440
+A fifty-five-year-old at a recreation centre describes pressure-like
+discomfort and nausea. Breathing becomes more difficult, the skin
+looks pale, and the patient loses track of your questions.
+
+6
+00:01:04,440 --> 00:01:16,248
+Do not wait for ventricular fibrillation before deciding this is
+serious. Altered awareness and worsening breathing may mean that vital
+organs are already receiving inadequate oxygen delivery.
+
+7
+00:01:16,248 --> 00:01:31,704
+Assess airway, breathing, circulation and immediate threats, obtain
+serial observations and request the appropriate support. Equipment
+preparation and history collection should occur alongside care, not
+before all care.
+
+8
+00:01:31,704 --> 00:01:43,968
+Our working question is whether the primary problem is coronary
+ischemia, pump failure, respiratory failure, obstruction or another
+cause. More than one mechanism can be active.
+
+9
+00:01:43,968 --> 00:01:56,880
+Air reaching the mouth is not enough. Effective ventilation must reach
+exchanging lung units, oxygen must enter blood, and the blood must
+carry and deliver that oxygen to tissue.
+
+10
+00:01:56,880 --> 00:02:12,696
+A useful relationship is oxygen delivery equals cardiac output
+multiplied by arterial oxygen content. Cardiac output depends on heart
+rate and stroke volume; oxygen content depends mainly on hemoglobin
+and its saturation.
+
+11
+00:02:12,696 --> 00:02:25,248
+A reassuring saturation cannot correct absent circulation or severe
+anemia. Likewise, a visible electrical rhythm does not prove that the
+heart is generating useful forward blood flow.
+
+12
+00:02:25,248 --> 00:02:39,144
+Use the chain to explain the intervention: open an obstructed airway,
+ventilate inadequate breathing, control bleeding, or provide
+compressions during arrest. Treat the failing link rather than a
+number alone.
+
+13
+00:02:39,144 --> 00:02:49,800
+The ventricle must fill before it can eject. Severe volume loss or an
+obstruction to venous return can reduce filling even when the
+myocardium still contracts.
+
+14
+00:02:49,800 --> 00:03:03,240
+A damaged or exhausted myocardium may eject poorly despite adequate
+filling. Excessive resistance to ejection can further burden a failing
+pump; more fluid is not automatically the answer.
+
+15
+00:03:03,240 --> 00:03:16,176
+Very slow rates may reduce output; very fast rates can reduce filling
+time and increase oxygen demand. Neither a fast rate nor a narrow
+pulse pressure alone identifies the cause.
+
+16
+00:03:16,176 --> 00:03:29,880
+The school groups failure as electrical, mechanical and potentially
+reversible. These are useful perspectives, not mutually exclusive
+diagnoses: ischemia can impair both contraction and electrical
+stability.
+
+17
+00:03:29,880 --> 00:03:43,680
+Acute coronary syndrome describes an acute ischemic problem, often
+involving plaque disruption and thrombosis. It is not defined by every
+patient having a completely occluded artery or dramatic chest pain.
+
+18
+00:03:43,680 --> 00:03:57,528
+Ischemic myocardium may become electrically unstable, contract less
+effectively or both. That explains why a patient with initially modest
+symptoms can deteriorate into a dangerous rhythm or shock.
+
+19
+00:03:57,528 --> 00:04:12,456
+Use symptoms, risk context, serial assessment and a properly acquired
+ECG together. The detailed inferior-infarction and preload-dependent
+nitroglycerin problem belongs to this weekend's linked cardiac-
+assessment teaching.
+
+20
+00:04:12,456 --> 00:04:25,248
+For our patient, ischemia is plausible, not yet proven. Prepare for
+deterioration and timely escalation without allowing diagnostic
+certainty to become a prerequisite for basic support.
+
+21
+00:04:25,248 --> 00:04:37,968
+Heart failure is a clinical syndrome involving impaired cardiac
+function or abnormal filling pressures. It can involve left or right
+chambers and is not limited to one low-ejection-fraction pattern.
+
+22
+00:04:37,968 --> 00:04:51,048
+Increased left-sided filling pressure can raise pulmonary venous
+pressure and promote lung congestion. Right-sided dysfunction can
+impair forward flow and contribute to systemic venous congestion.
+
+23
+00:04:51,048 --> 00:05:04,536
+Congestion and adequate perfusion are different questions. A congested
+patient may be hypertensive, normotensive or poorly perfused, so
+treatment must match the actual physiological state.
+
+24
+00:05:04,536 --> 00:05:15,840
+Do not infer a need for a large fluid bolus from breathlessness or
+hypotension alone. Reassess the likely mechanism and use the
+applicable guideline and clinical support.
+
+25
+00:05:15,840 --> 00:05:28,728
+Pulmonary edema means excess fluid in lung interstitium and alveoli.
+Increased hydrostatic pressure is one mechanism; permeability injury
+and other processes can also produce edema.
+
+26
+00:05:28,728 --> 00:05:42,528
+Gas exchange becomes less effective and breathing requires more
+effort. Crackles or frothy sputum can be clues, but their absence does
+not exclude serious edema or another respiratory emergency.
+
+27
+00:05:42,528 --> 00:05:55,560
+A patient who was breathing rapidly may become quieter because of
+exhaustion, not recovery. Interpret work, rate, chest movement, air
+entry, awareness and oxygenation together.
+
+28
+00:05:55,560 --> 00:06:08,544
+Support airway and breathing with the appropriate trained method. CPAP
+suitability depends on the patient and protocol; a failing or
+hypotensive patient is not automatically a CPAP candidate.
+
+29
+00:06:08,544 --> 00:06:21,024
+In cardiogenic shock, cardiac dysfunction produces inadequate tissue
+perfusion. Low output can impair the heart's own supply and create a
+worsening cycle of ischemia and pump failure.
+
+30
+00:06:21,024 --> 00:06:33,864
+Compensatory vasoconstriction may support pressure while increasing
+workload. A measurable blood pressure therefore does not guarantee
+adequate organ flow, especially early in deterioration.
+
+31
+00:06:33,864 --> 00:06:47,640
+Look for changing awareness, skin perfusion, pulse characteristics,
+breathing, pressure trends and relevant history. Cool skin and narrow
+pulse pressure can support concern but are not a complete diagnosis.
+
+32
+00:06:47,640 --> 00:06:59,856
+Our patient's deterioration requires serial reassessment and timely
+support. Do not wait for every classic sign, and do not assume that
+one normal early value rules out shock.
+
+33
+00:06:59,856 --> 00:07:14,376
+The school emphasizes altered mental status, severe work of breathing,
+cool clammy skin, persistent hypotension and a new ventricular
+dysrhythmia. Explain how each can reflect failing oxygen delivery.
+
+34
+00:07:14,376 --> 00:07:26,592
+None is a prediction clock or a diagnosis by itself. Some patients
+arrest without a recognizable warning, so absence of these findings
+does not eliminate the need for readiness.
+
+35
+00:07:26,592 --> 00:07:38,880
+Announce the trend clearly: the patient is becoming less responsive
+and breathing is deteriorating. Assign someone to prepare
+resuscitation equipment while the team continues immediate care.
+
+36
+00:07:38,880 --> 00:07:50,016
+Reassess after an intervention: what changed, what should have
+changed, and what worsened? A treatment name is not evidence that its
+intended physiological effect occurred.
+
+37
+00:07:50,016 --> 00:08:01,680
+The patient now collapses, is unresponsive and has only occasional
+gasping. Agonal gasps are not normal effective breathing and must not
+be used to exclude cardiac arrest.
+
+38
+00:08:01,680 --> 00:08:15,984
+Use the trained rapid assessment of breathing and central pulse,
+keeping the normal arrest-recognition check brief. If arrest is
+identified or the applicable algorithm directs action under
+uncertainty, begin CPR promptly.
+
+39
+00:08:15,984 --> 00:08:27,624
+Do not spend an extended interval finding a blood pressure, waiting
+for a saturation value or obtaining a twelve-lead. These do not
+replace immediate recognition and resuscitation.
+
+40
+00:08:27,624 --> 00:08:42,528
+A confirmed obvious-death situation or applicable lawful direction is
+a separate pathway. If the criteria are unclear, follow the current
+guidance to initiate care and seek consultation; do not infer death
+from pupils alone.
+
+41
+00:08:42,528 --> 00:08:56,328
+High-quality compressions temporarily generate blood flow while the
+cause is treated. Use the trained adult rate, appropriate depth,
+correct hand position and complete recoil rather than leaning between
+compressions.
+
+42
+00:08:56,328 --> 00:09:11,808
+Adult teaching generally uses a five-to-six-centimeter depth with
+avoidance of excessive depth. The local PR06 text describes five
+centimeters. Actual feedback, surface and patient context matter.
+
+43
+00:09:11,808 --> 00:09:24,912
+Plan compressor changes around the two-minute cycle, or earlier if
+fatigue reduces quality. Prepare the replacement before the planned
+pause so changing people does not create another long interruption.
+
+44
+00:09:24,912 --> 00:09:39,336
+Without an advanced airway, the local adult sequence uses thirty
+compressions to two breaths. With an effective advanced airway,
+continuous compressions and a breath every six seconds are the local
+reference.
+
+45
+00:09:39,336 --> 00:09:52,320
+Defibrillation can interrupt the disorganized or dangerous ventricular
+electrical process in VF or pulseless VT. It is not an injection of a
+normal heartbeat and does not itself guarantee circulation.
+
+46
+00:09:52,320 --> 00:10:06,216
+Apply pads and prepare the device without unnecessary compression
+interruption. Analysis and shock require the relevant safety and
+artifact precautions; follow the actual AED or manual-device workflow.
+
+47
+00:10:06,216 --> 00:10:21,528
+After an indicated shock, resume CPR immediately rather than stopping
+to admire the tracing or perform a routine immediate pulse check.
+Reassess at the appropriate analysis point or when convincing signs of
+circulation appear.
+
+48
+00:10:21,528 --> 00:10:37,152
+Energy selection and manual shock delivery are device- and
+authorization-specific. We will practice those details separately; do
+not copy a generic number or imply that a PCP course alone authorizes
+every defibrillator mode.
+
+49
+00:10:37,152 --> 00:10:52,152
+Ventricular fibrillation produces disorganized ventricular electrical
+activity without a useful coordinated contraction. In an arrest
+patient, the rhythm requires timely defibrillation alongside high-
+quality CPR.
+
+50
+00:10:52,152 --> 00:11:07,728
+Pulseless ventricular tachycardia is a ventricular tachycardia without
+a detectable pulse. Monomorphic VT often looks regular and wide;
+polymorphic patterns can vary, so regularity is not a universal
+requirement.
+
+51
+00:11:07,728 --> 00:11:20,376
+A wide fast rhythm in an awake perfusing patient is a different
+clinical situation from pulseless arrest. Do not apply the arrest
+branch solely because the tracing resembles a teaching example.
+
+52
+00:11:20,376 --> 00:11:32,112
+State both pieces of evidence in the handover: the patient is in
+cardiac arrest and the rhythm is shockable. The rhythm label
+supplements, rather than replaces, the clinical assessment.
+
+53
+00:11:32,112 --> 00:11:46,080
+Pulseless electrical activity is a clinical combination: organized
+electrical activity without a detectable pulse. There may be no
+mechanical contraction or contraction too weak to create a palpable
+pulse.
+
+54
+00:11:46,080 --> 00:11:58,632
+Asystole refers to absent detectable ventricular electrical activity.
+Atrial activity may sometimes remain, so it is not always a perfectly
+empty line without any visible wave.
+
+55
+00:11:58,632 --> 00:12:12,096
+Neither PEA nor asystole is treated by a reflex defibrillation
+attempt. Continue high-quality CPR, appropriate airway and ventilation
+support, and a targeted search for reversible causes.
+
+56
+00:12:12,096 --> 00:12:24,480
+If the rhythm changes into VF or pulseless VT, the branch changes.
+Reassess throughout resuscitation rather than permanently assigning
+the patient to the initial rhythm category.
+
+57
+00:12:24,480 --> 00:12:38,136
+Chest movement, muscle activity and loose connections can create
+confusing signals. Confirm the clinical arrest state and obtain the
+necessary clean analysis rather than interpreting compression artifact
+as VF.
+
+58
+00:12:38,136 --> 00:12:51,072
+For an apparent flatline, promptly check the equipment and appropriate
+display according to training. Do not label a disconnected monitor as
+asystole or prolong a hands-off interval while troubleshooting.
+
+59
+00:12:51,072 --> 00:13:04,008
+An organized rhythm during CPR is not by itself a reason to interrupt
+compressions. A pulse generated by manual or mechanical compressions
+is also not spontaneous cardiac output.
+
+60
+00:13:04,008 --> 00:13:17,688
+Use the planned analysis sequence and convincing signs or
+physiological evidence of circulation to guide a brief reassessment.
+Capnography adds useful evidence, with important limitations taught in
+the next lecture.
+
+61
+00:13:17,688 --> 00:13:29,688
+A vascular line, drug box or advanced airway can consume the team's
+attention. Organize these tasks so they do not interrupt effective
+compressions or delay an indicated shock.
+
+62
+00:13:29,688 --> 00:13:44,880
+The current local IO procedure has narrower independent PCP
+indications than a generic cardiac-arrest paragraph suggests. Review
+that authority and supervision boundary; arrest does not make every
+invasive task available.
+
+63
+00:13:44,880 --> 00:13:58,656
+Routine atropine in PEA, routine bicarbonate, calcium or
+indiscriminate crystalloid are not the standard response to every
+arrest. Specific causes may have advanced treatments under their own
+protocols.
+
+64
+00:13:58,656 --> 00:14:11,232
+The main textbook explains the broader ALS team, not only PCP
+permissions. Separate understanding another clinician's role from
+being independently authorized to administer that treatment.
+
+65
+00:14:11,232 --> 00:14:21,000
+The school's forcing question is what else could this be. Use it to
+interrupt tunnel vision mentally, not to interrupt chest compressions
+physically for a discussion.
+
+66
+00:14:21,000 --> 00:14:32,880
+For each possible cause, identify a clue, explain the mechanism, name
+a current action and state what must be escalated. Merely reciting the
+mnemonic does not treat the patient.
+
+67
+00:14:32,880 --> 00:14:46,200
+Prioritize clues from the scene, history, physical findings, waveform
+and response. Classic signs may be absent, especially during low flow,
+and several causes can coexist.
+
+68
+00:14:46,200 --> 00:14:58,704
+Allocate cause assessment while another person maintains CPR and the
+team prepares the next analysis. A brief shared update can happen
+during ongoing care without adding a hands-off meeting.
+
+69
+00:14:58,704 --> 00:15:13,728
+Hypoxia may follow obstruction, inadequate ventilation, lung disease
+or a preceding respiratory event. Arrest from a respiratory mechanism
+still requires circulation support as well as effective ventilation.
+
+70
+00:15:13,728 --> 00:15:27,288
+Do not wait for cyanosis or trust a poorly perfused pulse-oximeter
+signal to exclude it. Check airway patency, equipment connections,
+chest rise and bilateral air entry as appropriate.
+
+71
+00:15:27,288 --> 00:15:40,728
+Use the least invasive effective trained airway strategy and oxygen
+during CPR. A tightly held two-person mask technique may be more
+useful than repeated unsuccessful attempts at a more advanced device.
+
+72
+00:15:40,728 --> 00:15:54,576
+Reassess actual ventilation and the waveform. Excessive ventilation
+can increase intrathoracic pressure and reduce venous return;
+squeezing faster is not a reliable way to improve oxygen delivery.
+
+73
+00:15:54,576 --> 00:16:06,888
+Severe volume loss reduces venous return, stroke volume and oxygen-
+carrying delivery. Hemorrhage can be internal; absence of a visible
+pool does not exclude major blood loss.
+
+74
+00:16:06,888 --> 00:16:20,400
+Use the history, scene and focused examination to look for bleeding or
+another large fluid loss. Flat neck veins may be compatible but are
+not required or specific enough to establish the diagnosis.
+
+75
+00:16:20,400 --> 00:16:34,584
+Control accessible hemorrhage promptly, maintain appropriate
+oxygenation and ventilation, and provide indicated fluid support
+according to current authority. Do not assume every arrest needs a
+routine large fluid bolus.
+
+76
+00:16:34,584 --> 00:16:45,840
+If trauma is the primary cause, use the traumatic-arrest pathway and
+its time-critical causes rather than applying this medical-arrest
+discussion as a complete trauma algorithm.
+
+77
+00:16:45,840 --> 00:16:58,752
+Severe acidemia can impair myocardial and vascular function. It may
+contribute to arrest, result from prolonged poor perfusion, or coexist
+with respiratory and metabolic problems.
+
+78
+00:16:58,752 --> 00:17:10,224
+A history of renal disease, metabolic illness or preceding deep rapid
+breathing can provide context. None establishes the blood pH or proves
+a need for a particular drug.
+
+79
+00:17:10,224 --> 00:17:23,688
+Prioritize effective circulation, airway support and appropriate
+ventilation while communicating the likely cause. Do not
+hyperventilate simply to force the displayed carbon-dioxide value
+down.
+
+80
+00:17:23,688 --> 00:17:36,624
+Bicarbonate is not a routine treatment for every arrest or a
+replacement for flow. Selected toxicological or electrolyte situations
+have separate advanced guidance and consultation requirements.
+
+81
+00:17:36,624 --> 00:17:49,920
+Potassium disturbances alter membrane excitability and conduction,
+potentially causing lethal dysrhythmia. Both low and high potassium
+matter, although the histories and specific treatments differ.
+
+82
+00:17:49,920 --> 00:18:04,416
+Ask about renal failure, dialysis timing, substantial losses and
+relevant medications. ECG changes can raise suspicion, but absence of
+a textbook sequence does not reliably exclude an important
+disturbance.
+
+83
+00:18:04,416 --> 00:18:17,928
+During arrest, continue the essential resuscitation and communicate
+the suspected electrolyte problem promptly. Definitive assessment and
+specific therapy require the relevant advanced capability and pathway.
+
+84
+00:18:17,928 --> 00:18:30,888
+A general textbook list of calcium, insulin or other agents is not a
+PCP medication order. Never infer that the H mnemonic authorizes an
+unsupervised electrolyte correction.
+
+85
+00:18:30,888 --> 00:18:44,832
+Environmental hypothermia can produce extremely slow breathing and
+circulation and alter responses to resuscitation. The ordinary brief
+pulse check and medical-arrest stopping assumptions cannot simply be
+copied.
+
+86
+00:18:44,832 --> 00:18:59,808
+The current N02 text allows sixty seconds to assess very slow
+breathing and pulse in hypothermia; the I01 text has differing
+wording. Use the applicable cold pathway and obtain clinical
+direction.
+
+87
+00:18:59,808 --> 00:19:13,512
+Handle gently, prevent further cooling, provide indicated CPR and plan
+appropriate rewarming-capable care with consultation. Cold stiffness
+alone is not proof of irreversible death.
+
+88
+00:19:13,512 --> 00:19:27,576
+Temperature-specific shock and drug restrictions are separate from
+ordinary normothermic arrest. Do not invent a no-shock rule for all
+cold patients or apply routine TOR solely because the tracing looks
+unfavorable.
+
+89
+00:19:27,576 --> 00:19:39,552
+Rising pressure within the pleural space can impair lung function and
+obstruct venous return. During arrest this may present as a low-flow
+electrical rhythm with ineffective circulation.
+
+90
+00:19:39,552 --> 00:19:51,696
+Look for a compatible history and new asymmetry or ventilation
+difficulty, while considering alternatives. Classic tracheal deviation
+and neck-vein distension can be absent or late.
+
+91
+00:19:51,696 --> 00:20:06,168
+Do not wait for all classic signs or imaging before escalating a life-
+threatening suspicion. The current local needle or finger intervention
+level remains restricted; a PCP should request the appropriate capable
+response.
+
+92
+00:20:06,168 --> 00:20:20,736
+Continue necessary oxygenation and ventilation support, reassess the
+response and communicate the mechanism clearly. Merely saying tension
+pneumothorax does not confirm successful decompression or corrected
+perfusion.
+
+93
+00:20:20,736 --> 00:20:33,168
+Cardiac tamponade occurs when pericardial pressure impairs cardiac
+filling and output. It is an obstructive mechanism, not simply any
+pericardial fluid or every low blood pressure.
+
+94
+00:20:33,168 --> 00:20:47,736
+Penetrating injury or a relevant medical history can raise concern.
+Hypotension, venous distension and muffled sounds are not a mandatory
+complete triad, especially during arrest or accompanying blood loss.
+
+95
+00:20:47,736 --> 00:21:00,192
+Maintain the essential resuscitation and arrange urgent cause-specific
+support and definitive care. Invasive drainage and ultrasound
+decisions require the appropriate clinician and equipment.
+
+96
+00:21:00,192 --> 00:21:14,232
+The exact transport strategy differs for traumatic versus medical
+arrest and local systems. A mnemonic must not turn every suspected
+tamponade into unplanned transport with unsafe or ineffective CPR.
+
+97
+00:21:14,232 --> 00:21:29,904
+Toxic exposures may depress breathing, disrupt cardiac conduction or
+contraction, or impair cellular oxygen use. Scene evidence and history
+are clues, not proof that every collapse beside medication is an
+overdose.
+
+98
+00:21:29,904 --> 00:21:42,528
+Preserve scene safety, gather useful substance and timing information
+without unsafe contact, and communicate it to the appropriate clinical
+support. Assess for other simultaneous causes.
+
+99
+00:21:42,528 --> 00:21:59,016
+In suspected opioid-associated cardiac arrest, effective oxygenation,
+ventilation and compressions take priority. Naloxone must not replace
+or delay standard arrest care; its benefit during established arrest
+is not established.
+
+100
+00:21:59,016 --> 00:22:12,672
+Specific antidotes and toxicological treatments require the actual
+indication, dose, route and authority. Distinguish respiratory arrest
+with a pulse from pulseless arrest when explaining the plan.
+
+101
+00:22:12,672 --> 00:22:26,808
+A major pulmonary embolus can obstruct pulmonary blood flow, overload
+the right heart and prevent effective left-heart filling. A low ETCO2
+may fit this mechanism, but is not diagnostic by itself.
+
+102
+00:22:26,808 --> 00:22:40,992
+Coronary thrombosis can create acute ischemia, electrical instability
+and pump dysfunction. A preceding chest complaint supports the
+differential without proving that every arrest has the same coronary
+lesion.
+
+103
+00:22:40,992 --> 00:22:55,296
+Use risk factors, the event history and ongoing clinical evidence to
+guide escalation. Do not delay resuscitation for a complete clot
+checklist or give thrombolysis or antiplatelet therapy reflexively
+during arrest.
+
+104
+00:22:55,296 --> 00:23:10,128
+Treatment-in-place, selected early conveyance and post-ROSC PCI
+referral are different decisions. They require the applicable service
+pathway and clinical consultation, not a universal rule to move every
+patient immediately.
+
+105
+00:23:10,128 --> 00:23:23,976
+In our patient, the team identifies a shockable arrest and delivers an
+indicated shock. Compressions resume immediately while the leader
+states the working concern and asks for relevant competing causes.
+
+106
+00:23:23,976 --> 00:23:38,304
+Use closed loop: assign a named task, hear the acknowledgement and
+require completion or inability reporting. A statement that someone is
+handling the airway is less useful than an actual ventilation report.
+
+107
+00:23:38,304 --> 00:23:49,920
+Separate thinking from a physical pause. The cause update, history and
+equipment preparation continue during compressions; analysis pauses
+remain short and purposeful.
+
+108
+00:23:49,920 --> 00:24:01,872
+Do not claim every cause has been ruled out merely because the
+mnemonic was recited. Report what was assessed, what action occurred,
+what changed and what remains uncertain.
+
+109
+00:24:01,872 --> 00:24:14,064
+In version A, ischemic symptoms followed by VF support a coronary
+mechanism and a shockable response. They do not justify delaying the
+shock for an explanatory twelve-lead.
+
+110
+00:24:14,064 --> 00:24:29,568
+In version B, a reliable history of major gastrointestinal loss and
+PEA shifts attention toward volume loss while other causes remain
+possible. Prioritize cause-appropriate support rather than shocking
+the organized rhythm.
+
+111
+00:24:29,568 --> 00:24:43,344
+In version C, missed dialysis raises concern for potassium and acid-
+base disturbances. Communicate that information early and obtain
+capable support while essential resuscitation continues.
+
+112
+00:24:43,344 --> 00:24:54,600
+The discipline is the same: connect evidence to mechanism, action and
+reassessment. Do not force the first diagnosis to survive after the
+evidence changes.
+
+113
+00:24:54,600 --> 00:25:27,864
+Locate the pump before labelling it. The heart lies in the mediastinum
+between the lungs, behind the sternum and above the diaphragm. Its
+broad superior attachment region is the base; its pointed
+inferolateral tip is the apex. The cardiac notch belongs to the left
+upper lung lobe. The recovered copy reverses apex/base in a caption
+and calls the notch an inferior-lobe feature. Use the corrected
+anatomical relationships, not those printing errors, when orienting a
+diagram or examination.
+
+114
+00:25:27,864 --> 00:26:07,536
+Keep coverings and internal landmarks separate. Fibrous pericardium
+provides the outer enclosure; parietal and visceral serous layers
+border the lubricated space, and visceral pericardium is epicardium.
+The muscular myocardium lies outside the endothelial endocardium. The
+coronary sulcus marks the atrioventricular boundary; interventricular
+grooves mark ventricular separation on the surface. Pectinate ridges
+are atrial, trabeculae carneae ventricular, and the right ventricular
+moderator band carries part of the conduction route toward a papillary
+muscle. These are not extra chambers.
+
+115
+00:26:07,536 --> 00:26:47,184
+Map coronary routes without promising a fixed territory. The left
+coronary system divides into LAD and circumflex branches; the right
+system supplies variable right-sided and inferior regions and often
+gives rise to the posterior descending artery. Dominance concerns the
+origin of that posterior vessel, not which ventricle is stronger.
+Great, middle and small cardiac veins commonly return through the
+coronary sinus, while anterior cardiac veins can enter the right
+atrium directly. Anastomoses are communicating routes; their existence
+does not guarantee adequate flow during a sudden occlusion.
+
+116
+00:26:47,184 --> 00:27:27,384
+Compare muscle by structure and control. Cardiac and skeletal muscle
+both have striated sarcomeres; typical cardiac cells are shorter and
+branched, with intercalated connections rather than long independent
+skeletal fibres. Smooth muscle lacks those striations. Cardiac pumping
+is involuntary and its specialized conduction tissue can initiate
+activation without a voluntary command. Some smooth muscle is also
+spontaneously active, so do not memorize a blanket claim that
+automatic activity exists only in the heart. Autonomic and endocrine
+signals still adjust cardiac performance.
+
+117
+00:27:27,384 --> 00:28:07,320
+Intercalated discs solve two different problems: mechanical junctions
+help cells withstand force, and gap junctions permit electrical
+communication. The recovered text additionally lists tight junctions;
+they are not the ion-sharing mechanism to learn here. Atrial
+communication includes an interatrial route commonly called Bachmann
+bundle. Conducting cells coordinate activation, while contractile
+cells generate most pumping force. Electrical continuity, adequate
+calcium handling, oxygen supply and ATP are all necessary; a visible
+ECG establishes none of the other three by itself.
+
+118
+00:28:07,320 --> 00:28:48,624
+Name the controller and the feedback separately. Medullary
+cardiovascular centres integrate sensory input and alter sympathetic
+and vagal output through cardiac nerves and plexuses. Baroreceptors
+respond to arterial stretch; chemoreceptors respond to chemical
+conditions. Increased atrial filling can also trigger the Bainbridge,
+or atrial, reflex and increase rate. It is a different input from the
+arterial-pressure reflex. Exercise proprioception and emotional
+anticipation can change drive before a large pressure change occurs.
+These interacting pathways do not require every sick patient to become
+tachycardic.
+
+119
+00:28:48,624 --> 00:29:36,336
+Separate chronotropy from inotropy. Rate changes are chronotropic;
+changes in contractile performance are inotropic. Sympathetic
+activation and circulating catecholamines generally promote cardiac
+stimulation; vagal acetylcholine mainly slows nodal activity. Thyroid
+excess, temperature, stimulants, oxygenation and electrolytes can
+alter the response. The recovered increasing-effects table mistakenly
+says decreased catecholamine release and decreased calcium. The
+current publisher table corrects those directions, but even its
+simplified electrolyte rows are not a universal patient-level rule or
+a replacement-dose instruction. Severe disturbances can impair
+conduction or cause arrest.
+
+120
+00:29:36,336 --> 00:30:15,408
+Follow embryonic flow from inflow toward outflow: sinus venosus,
+primitive atrium, primitive ventricle, bulbus cordis and truncus
+arteriosus. The textbook often lists them in the reverse, head-to-tail
+anatomical order; that is not the direction of flow. Its simplified
+adult-contribution map links primitive ventricle mainly with left
+ventricle, bulbus cordis with right ventricular development, and
+truncus arteriosus with the separated proximal aortic and pulmonary
+outflow. This is a developmental overview, not proof that one tube
+region makes every part of one adult chamber.
+
+121
+00:30:15,408 --> 00:30:58,680
+Complete the other contributions: primitive atrium contributes to
+atrial anterior or trabeculated portions and auricles; sinus venosus
+contributes to the smooth right atrial region, sinoatrial region and
+coronary sinus. Paired endocardial tubes fuse, the tube loops, and
+chamber partitioning, valve formation and remodelling follow. Fetal
+communications are purposeful before birth: the foramen ovale permits
+right-to-left atrial flow, and its remnant is the fossa ovalis.
+Functional closure and later anatomical fusion are different events;
+do not teach that every fetal communication is permanently sealed
+within seconds.
+
+122
+00:30:58,680 --> 00:31:37,728
+Use the chapter-ending terms as a mechanism check, not a second set of
+rules. Isovolumetric means chamber volume stays nearly constant while
+pressure changes with both inlet and outlet valves closed. The
+dicrotic notch is a feature of the arterial pressure waveform around
+aortic valve closure, not an ECG notch, despite the recovered glossary
+and summary wording. The potential brief reverse flow at semilunar
+closure is toward the ventricles, not from major arteries into the
+atria. The electrical trace, arterial-pressure curve and audible heart
+sounds describe linked but different signals.
+
+123
+00:31:37,728 --> 00:32:17,136
+Turn labels into predictions. EDV is the volume present just before
+ventricular ejection; ESV remains after ejection. Preload describes
+stretch and is related to filling, not a perfect synonym for a
+measured volume in every disease. Cardiac reserve is maximum minus
+resting output, not resting output itself. Hypertrophy means increased
+muscle size and may be physiological or pathological; it does not
+alone prove hypertrophic cardiomyopathy or better pumping. A pacemaker
+supplies electrical stimuli, but capture and useful circulation still
+require assessment.
+
+124
+00:32:17,136 --> 00:32:57,120
+Original self-check: assume EDV 125 millilitres, ESV 50 millilitres
+and rate 80 per minute. Stroke volume is 75 millilitres, output is 6
+litres per minute and ejection fraction is 60 percent. Now keep that
+fraction but halve both ventricular volumes: stroke volume and output
+halve too. This explains why a familiar fraction or organized
+electrical pattern cannot certify adequate flow. Finish by drawing the
+adult serial circuit, the five embryonic regions and the pressure-
+driven valve sequence without looking, then explain each arrow aloud.
+
+125
+00:32:57,120 --> 00:33:09,768
+Without reading a list, explain how ischemia, heart failure, pulmonary
+edema and cardiogenic shock can lead to worsening oxygen delivery.
+Include why those conditions can overlap.
+
+126
+00:33:09,768 --> 00:33:24,384
+Then distinguish VF, pulseless VT, PEA and asystole using both patient
+findings and ECG evidence. Explain why an organized tracing or
+compression-generated pulse does not prove ROSC.
+
+127
+00:33:24,384 --> 00:33:41,136
+Work through hypoxia, hypovolemia, acid-base disturbance, potassium,
+hypothermia, tension pneumothorax, tamponade, toxins and pulmonary or
+coronary thrombosis. Each needs a useful action, not just a name.
+
+128
+00:33:41,136 --> 00:33:54,912
+The next lecture adds the carbon-dioxide trend, confirmed ROSC and the
+decision pathway when resuscitation is unsuccessful. Keep the same
+patient-first reasoning and do not let a number replace it.

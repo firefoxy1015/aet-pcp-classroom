@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="330" viewBox="0 0 960 330" role="img" aria-labelledby="t d">
+  <title id="t">Subcutaneous and intramuscular target layers</title>
+  <desc id="d">Subcutaneous medication is deposited below the dermis and above muscle. Intramuscular medication is deposited into the selected muscle. The schematic is not a landmark or needle-length guide.</desc>
+  <rect width="960" height="330" rx="20" fill="#0d2032"/>
+  <g stroke="#0d2032" stroke-width="3"><rect x="48" y="92" width="864" height="40" rx="8" fill="#d49e92"/><rect x="48" y="132" width="864" height="80" fill="#e4c57d"/><rect x="48" y="212" width="864" height="74" rx="8" fill="#a95765"/></g>
+  <g font-family="Arial,sans-serif" fill="#eef6ff"><text x="48" y="36" font-size="22">Different routes target different tissue layers</text><text x="66" y="118" font-size="18" fill="#10283a">Skin</text><text x="66" y="180" font-size="18" fill="#10283a">Subcutaneous tissue</text><text x="66" y="253" font-size="18">Muscle</text><text x="470" y="77" font-size="18">SC target</text><text x="740" y="77" font-size="18">IM target</text><text x="48" y="315" font-size="14">Original schematic only: not anatomical scale, a landmark map or a needle-selection instruction</text></g>
+  <g stroke="#eef6ff" stroke-width="5"><path d="M450 78L550 172"/><path d="M782 84V248"/></g>
+  <g fill="#57d4cc" stroke="#0d2032" stroke-width="2"><circle cx="550" cy="172" r="10"/><circle cx="782" cy="248" r="10"/></g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="560" viewBox="0 0 700 560" role="img" aria-labelledby="title desc">
+  <title id="title">Four links in oxygen delivery and use</title>
+  <desc id="desc">A vertical original concept map. Airway passage and lung gas exchange precede blood transport and cellular use. Carbon monoxide can impair transport; cyanide can impair cellular use. These are overlapping concerns, not mutually exclusive diagnoses.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#526b70"/></marker>
+  </defs>
+  <rect width="700" height="560" rx="20" fill="#f3f8f8"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="350" y="42" font-size="30" font-weight="700" fill="#183f45">Follow oxygen through four links</text>
+    <g stroke="#526b70" stroke-width="3" marker-end="url(#arrow)">
+      <path d="M350 141 V165"/><path d="M350 254 V278"/><path d="M350 367 V391"/>
+    </g>
+    <rect x="45" y="65" width="610" height="76" rx="13" fill="#e0eff0" stroke="#7aa4a8"/>
+    <text x="350" y="93" font-size="36" font-weight="700" fill="#173c42">1. Airway passage</text>
+    <text x="350" y="127" font-size="30" fill="#36585d">Can air reach the lungs?</text>
+    <rect x="45" y="178" width="610" height="76" rx="13" fill="#e0eff0" stroke="#7aa4a8"/>
+    <text x="350" y="206" font-size="36" font-weight="700" fill="#173c42">2. Ventilation and gas exchange</text>
+    <text x="350" y="240" font-size="30" fill="#36585d">Does the alveolar surface work?</text>
+    <rect x="45" y="291" width="610" height="76" rx="13" fill="#fff0df" stroke="#be8853"/>
+    <text x="350" y="319" font-size="36" font-weight="700" fill="#633d20">3. Blood transport / CO</text>
+    <text x="350" y="353" font-size="30" fill="#633d20">A normal-looking SpO2 may mislead</text>
+    <rect x="45" y="404" width="610" height="76" rx="13" fill="#fbe8e6" stroke="#bd7972"/>
+    <text x="350" y="432" font-size="36" font-weight="700" fill="#7b342c">4. Cellular use / cyanide</text>
+    <text x="350" y="466" font-size="30" fill="#7b342c">Arrival does not ensure ATP production</text>
+    <text x="350" y="518" font-size="23" fill="#36585d">One exposure can affect several links.</text>
+    <text x="350" y="545" font-size="20" fill="#526b70">Concept model, not a diagnostic test or complete toxin mechanism</text>
+  </g>
+</svg>

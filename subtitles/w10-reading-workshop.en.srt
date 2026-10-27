@@ -1,0 +1,110 @@
+1
+00:00:00,000 --> 00:00:13,896
+The saved school reading index assigns eleven Week 10 rows. Each guide
+below keeps its book, chapters, pages and focus visible, then explains
+the main learning ideas in English and Chinese.
+
+2
+00:00:13,896 --> 00:00:27,504
+This is a bilingual learning aid, not a replacement for the assigned
+text. If the exact school edition is unavailable or a candidate page
+points to a different topic, the mismatch is stated instead of
+silently corrected.
+
+3
+00:00:27,504 --> 00:00:59,376
+The recovered course copies now identify the actual VSM and CPSC page
+contents. VSM includes the visible older-adult documentation task,
+while the CPSC literal pages cover oxygen and an attribution page
+rather than the named intimate routes. The complete named rectal and
+vaginal section is taught separately. The March2025 and June2026 BCPEG
+copies agree on these four assigned cards; current service details
+remain a separate layer.
+
+4
+00:00:59,376 --> 00:01:34,344
+All eleven assigned readers now contain source-specific English and
+Chinese explanations. The service export includes behavioral transfers
+and palliative symptom care beyond the five named codes. The remaining
+differences are explicit: the cardiovascular locator is unavailable in
+the identified book, some chapter labels do not match literal page
+topics, and nursing procedures do not create paramedic authority. Use
+the explained literal ranges and separately identified named topics
+without pretending their locators are identical.
+
+5
+00:01:34,344 --> 00:01:46,296
+BCPEG is the saved school-exam snapshot for LOC, critical history,
+Entonox and methoxyflurane. Its medication language is a reading
+target, not a stand-alone order.
+
+6
+00:01:46,296 --> 00:02:00,552
+Current BCEHS guidance and current legislation govern practice. Verify
+the school’s adopted revision with the instructor. A historical page,
+nursing procedure or topic label does not create PCP authority.
+
+7
+00:02:00,552 --> 00:02:12,816
+First open the assigned source and read the surrounding context, not
+only the sentence that matches a keyword. Identify what the source
+actually claims and which provider or setting it describes.
+
+8
+00:02:12,816 --> 00:02:24,792
+Then close the text and explain the concept in your own English words.
+Restate it in Chinese while preserving the key English clinical term.
+Finish with a new application question.
+
+9
+00:02:24,792 --> 00:02:38,688
+The Week 10 theme connects agitation, refusal and palliative care. A
+behavior change can be medical; a refusal can be capable; and a
+palliative goal does not remove the need to assess an acute change.
+
+10
+00:02:38,688 --> 00:02:50,496
+Across all sources, keep three boundaries visible: the patient’s own
+goals, the current legal/service pathway, and the limits of the
+available edition or assigned pages.
+
+11
+00:02:50,496 --> 00:03:23,040
+The school names arrhythmia risk in psychiatric crisis. The actual
+cardiovascular chapter provides rhythm and electrolyte mechanisms, not
+a dedicated psychiatry page at the assigned locator. Connect those
+mechanisms to the real patient: distress and exertion can increase
+demand, while illness, medicines, substances or fluid losses may add
+risk. A psychiatric history does not explain away collapse, abnormal
+breathing, poor perfusion or a changing ECG.
+
+12
+00:03:23,040 --> 00:03:48,864
+Obtain the actual exposure timeline and a technically credible
+recording when indicated, while continuing immediate support. Do not
+diagnose a drug-induced rhythm from a medicine list or assume a normal
+first measurement ends the concern. Describe the observed change,
+relevant symptoms and uncertainty, reduce avoidable exertion and
+request the appropriate help through the current behavioural and
+medical pathways.
+
+13
+00:03:48,864 --> 00:04:22,752
+QT spans ventricular activation and recovery, and QTc applies a
+specified rate correction. A prolonged interval can raise concern, but
+does not mean that torsades must occur. Torsades is not every
+polymorphic ventricular tachycardia, and the school source’s old
+mandatory six-hundred-millisecond wording is not a universal
+definition. Interpret the preceding rhythm, measurement quality,
+symptoms and broader context rather than measuring through a chaotic
+tachycardia as if it were a normal beat.
+
+14
+00:04:22,752 --> 00:04:54,096
+Low potassium or other electrolyte changes, relevant medicines and
+concurrent illness can alter risk, but a waveform cannot give a serum
+concentration or identify one cause. In an original fainting-and-
+distress case, assess breathing and circulation, confirm the recording
+and seek appropriate assistance. Do not invent an electrolyte dose. Do
+not abruptly stop chronic therapy. Do not select a sedating medicine
+merely because a class name appears in the history.

@@ -1,0 +1,1042 @@
+1
+00:00:00,000 --> 00:00:21,120
+The saved reading index has eleven Week 11 rows. It lists all clinical
+pathways, BCPEG treatment protocols, endocrine and immune review,
+heart-failure types, clinical judgment and focused assessment,
+diagnosis and planning, analyzing cues, pain and respiratory
+pharmacology, mood disorders and diagnostic reasoning.
+
+2
+00:00:21,120 --> 00:00:35,544
+Nancy Caroline’s Canadian 8th edition is the learner-confirmed
+principal examination text, but it does not replace any of the eleven
+separate rows. Its selected chapter bridge is clearly labelled as
+additional study.
+
+3
+00:00:35,544 --> 00:01:01,128
+The eleven assigned readers now have source-specific English and
+Chinese explanations, with the actual files and review extents
+recorded. Repeated content retains genuine earlier source and meaning
+checks. This is not merely a collection of candidate summaries. The
+clinical rounds connect those readings to the patient; they do not
+claim every linked image, video or assessment has been completed.
+
+4
+00:01:01,128 --> 00:01:32,040
+The remaining differences are specific. The identified cardiovascular
+book contains the named heart-failure chapter but not the school table
+page range. The CPSC sedation table has duplicate score descriptions,
+and the pharmacology table has an inhaler dose-unit error. The readers
+explain the available assigned content and these corrections without
+pretending the locators or products are interchangeable. Current law,
+provider level and service guidance still govern actual care.
+
+5
+00:01:32,040 --> 00:01:50,664
+The BCEHS and BCPEG reading rows are not one interchangeable source.
+BCPEG is a saved provincial examination snapshot. Current BCEHS pages
+are service guidance. Read both when assigned, keep their revision
+context visible and do not average conflicting instructions.
+
+6
+00:01:50,664 --> 00:02:06,984
+For clinical use, check the current pathway and the line for your
+provider level. The school snapshot can help with examination recall,
+but a school page, a nursing textbook or a high-stakes exam diagram
+does not independently authorize an intervention.
+
+7
+00:02:06,984 --> 00:02:21,840
+Do not read only the sentence that contains a familiar term. Read the
+page heading, surrounding paragraph, figure and provider-level notes.
+Ask what the author is describing and which setting or profession the
+statement belongs to.
+
+8
+00:02:21,840 --> 00:02:36,096
+Close the book and explain the mechanism in your own words. Then
+connect it to one observation in the Week 11 cases. Keep a note of any
+exact school edition, linked figure or lab detail that is still
+missing.
+
+9
+00:02:36,096 --> 00:02:53,544
+The two CNS page ranges teach different material. The first eleven
+pages cover nutritional context, specialized diets and feeding routes;
+the final five cover clinical judgment. Keeping the page range while
+teaching only the model would not meet the school reading requirement.
+
+10
+00:02:53,544 --> 00:03:13,440
+Connect the nutrition review to an incomplete medical history. Ask
+about usual intake and recent change, an existing renal or
+carbohydrate plan, medicine timing, swallowing difficulty or a feeding
+device when relevant. These facts can change the questions and safety
+plan without proving the cause.
+
+11
+00:03:13,440 --> 00:03:28,992
+The bilingual guide explains each diet and route category in the
+actual assigned pages. It distinguishes US nutritional teaching from
+individualized care and leaves the patient’s assessed feeding plan and
+current service procedure intact.
+
+12
+00:03:28,992 --> 00:03:45,984
+Enteral nutrition reaches the gastrointestinal tract through the
+selected tube. Parenteral nutrition reaches the circulation through a
+selected venous route. Neither label tells you that an unfamiliar tube
+or line is correctly positioned or may be used by a PCP student.
+
+13
+00:03:45,984 --> 00:04:07,944
+The assigned page confuses peripheral insertion with peripheral tip
+location when discussing parenteral nutrition. A PICC is a central
+line despite its insertion site. Selected NICE guidance also
+recognizes suitable peripheral venous nutrition in specific short-term
+circumstances, so not all parenteral nutrition is automatically
+central.
+
+14
+00:04:07,944 --> 00:04:25,368
+For this week, identify the existing device and plan, assess the
+actual clinical concern and pass accurate information forward. Do not
+turn textbook maintenance routines into permission to flush, restart a
+feed or access a line whose use has not been authorized.
+
+15
+00:04:25,368 --> 00:04:41,592
+The reading set links body mechanisms with bedside observation and
+protocol use. A hypothesis should explain several cues, fit the timing
+and survive comparison with alternatives. It remains a hypothesis
+until the clinical picture supports it.
+
+16
+00:04:41,592 --> 00:05:00,840
+For the bradycardia case, connect conduction, medication history,
+renal context and perfusion. For the fall, connect anticoagulant use,
+possible hidden bleeding, the limb exam and repeated distal checks.
+Then use the current pathway and say what new finding would alter
+urgency.
+
+17
+00:05:00,840 --> 00:05:18,528
+The actual school-folder copy now resolves the PMHN locator. Printed
+pages four-eighty through five-oh-eight are physical pages four-
+ninety-four through five-twenty-two. This is a bounded reading range,
+not a claim to have covered every page of Chapter Sixteen.
+
+18
+00:05:18,528 --> 00:05:38,112
+The middle of the assignment covers self-harm and suicide. A course
+that teaches only depression and bipolar definitions would miss that
+requirement. The bilingual reading explains assessment, immediate
+safety and continuity without reproducing the textbook’s cases, answer
+choices or hospital orders.
+
+19
+00:05:38,112 --> 00:05:53,064
+Read the material as a US nursing text adapted to the school’s PCP
+learning aim. Current BC clinical and legal sources remain separate; a
+textbook page does not grant a medicine, restraint or disposition
+authority.
+
+20
+00:05:53,064 --> 00:06:11,784
+Low mood alone does not explain an entire presentation. Ask what
+changed in interest, sleep, appetite, energy, thinking and daily
+function, how long it lasted and how it differs from usual. A physical
+complaint may be important even when a mood diagnosis is already
+recorded.
+
+21
+00:06:11,784 --> 00:06:32,544
+For an activated pattern, ask about increased activity and reduced
+need for sleep over the relevant period. Mania is not simply being
+cheerful or talking fast; a longitudinal professional assessment
+determines the diagnosis. A known psychiatric history does not rule
+out a new medical or toxicologic problem.
+
+22
+00:06:32,544 --> 00:06:45,192
+Use the person’s own account, observed behaviour and attributed
+collateral together. Record uncertainties and the immediate needs
+rather than assigning a label to make an incomplete history appear
+complete.
+
+23
+00:06:45,192 --> 00:07:06,288
+The assigned pages introduce structured assessments, but the
+favourable description of SAD PERSONS needs a visible correction.
+Selected NICE guidance advises against using scales or global risk
+categories to predict future suicide or decide treatment or discharge.
+This is a current safety comparison, not BC law.
+
+24
+00:07:06,288 --> 00:07:25,080
+Use calm direct questions about the present concern and listen without
+judgment. Assess injury, illness and immediate safety alongside the
+reported thoughts. A denial of a detailed plan is one finding, not
+permission to stop assessing or leave without a defensible current
+plan.
+
+25
+00:07:25,080 --> 00:07:38,808
+Communicate what is known, what remains unclear and who is responsible
+during the next care transition. A useful record shows the patient’s
+needs and actual actions; it does not replace them with a reassuring
+score.
+
+26
+00:07:38,808 --> 00:07:56,928
+The assigned lithium pages link medicine safety to kidney function,
+hydration and interacting medicines. A patient with a mood diagnosis
+and new vomiting, tremor, unsteadiness or confusion needs a medical
+assessment; do not assume the change is only a mood episode.
+
+27
+00:07:56,928 --> 00:08:18,792
+Do not use the book’s statement that toxicity begins at two-point-zero
+as a reassuring cutoff. Current NHS Specialist Pharmacy Service
+guidance notes that toxicity may occur despite an apparently normal
+blood level. The field task is recognition, appropriate assessment and
+timely clinical advice, not laboratory exclusion.
+
+28
+00:08:18,792 --> 00:08:33,600
+Record the actual medicine history and the symptom timeline and follow
+the local pathway for the patient’s condition. This course does not
+instruct a student to prescribe, restart or independently adjust long-
+term psychiatric medicines.
+
+29
+00:08:33,600 --> 00:08:52,296
+The actual CPSC range is more specific than the old generic focused-
+assessment summary. It starts within neurological examination, crosses
+breathing and circulation, and stops during abdominal examination.
+Select the relevant findings without delaying the immediate
+assessment.
+
+30
+00:08:52,296 --> 00:09:08,184
+In our original parking-lot case, compare the new confusion with the
+breathing pattern, perfusion and abdominal complaint. One source
+heading does not make these four separate patients. The question is
+how the findings change the current priority and next information
+need.
+
+31
+00:09:08,184 --> 00:09:23,928
+The paired reading gives the actual page-specific concepts and keeps
+the hospital setting and source limitations visible. Use the existing
+service assessment pathway for actions; do not add a nursing procedure
+merely because it appears in the assigned text.
+
+32
+00:09:23,928 --> 00:09:40,824
+The source’s sedation example repeats the same two and three
+descriptions. We checked the rendered page, so this is not just a
+text-extraction problem. Report the observed response and use the
+exact approved tool; never repair a score by guessing its missing
+anchor.
+
+33
+00:09:40,824 --> 00:09:59,520
+Its pulse chart calls three normal, while other charts differ. Its
+capillary-refill wording separates less than three from more than
+three without defining exactly three. Describe what you observed and
+identify the source rather than treating bare numbers as
+interchangeable clinical conclusions.
+
+34
+00:09:59,520 --> 00:10:12,552
+A new decline in responsiveness or distal perfusion requires
+reassessment in its own right. A score, an isolated saturation or a
+completed checkbox does not cancel that clinical change.
+
+35
+00:10:12,552 --> 00:10:29,832
+For the injured patient in the foyer, record the distal findings
+before an authorized splint or movement and repeat them afterwards.
+Say which side and site were checked and what was limited. Do not
+write normal when sensation or movement could not be tested.
+
+36
+00:10:29,832 --> 00:10:46,152
+For the breathless patient, report effort, speech, air entry and the
+measured trend alongside the response to care. A sound label alone is
+less useful than a clear account of the new abnormality, its
+distribution and what changed.
+
+37
+00:10:46,152 --> 00:11:01,992
+For abdominal or neurological findings, distinguish the patient’s
+account from your observation and the possible explanation. Hand over
+the remaining uncertainty rather than converting a limited field
+examination into a definitive diagnosis.
+
+38
+00:11:01,992 --> 00:11:18,024
+The assigned FON chapter teaches how nursing organizes responses,
+risks and care plans. Understanding it supports clinical reasoning,
+but it does not require a PCP to chart a nursing taxonomy or
+independently adopt US nursing interventions.
+
+39
+00:11:18,024 --> 00:11:35,136
+Tanner separates noticing, interpreting, responding and reflecting.
+Reflection during care changes the immediate plan; reflection
+afterwards guides a later attempt. The measurement model offers
+another view of the reasoning, not a new treatment permission.
+
+40
+00:11:35,136 --> 00:11:54,120
+Predict a plausible complication, prevent a modifiable risk, manage
+the problem that is present and promote the person’s participation and
+function. In the original two-patient scene, this means tracking both
+the current breathing concern and the risk created by an unfinished
+second-patient assessment.
+
+41
+00:11:54,120 --> 00:12:10,440
+The book introduces actual versus potential and acute versus chronic
+comparisons. They help organize questions but cannot replace the
+clinical situation. A minor current complaint does not automatically
+outrank a credible immediate threat to breathing.
+
+42
+00:12:10,440 --> 00:12:26,496
+Similarly, a familiar symptom in a chronic illness can worsen. Ask
+about baseline, severity, new findings and the actual trend. Do not
+use expected as a reason to ignore a change or use acute as a reason
+to stop thinking.
+
+43
+00:12:26,496 --> 00:12:38,664
+State the current priority and the evidence supporting it, then name
+the finding that would make you revise the plan. This is the
+connection between the assigned reading and the school’s semi-
+autonomous scenario block.
+
+44
+00:12:38,664 --> 00:12:56,688
+A useful goal describes an observable patient result, not just an
+action completed. In the foyer case, assigning a partner to check the
+second patient is a task. Receiving and using the report is evidence
+that the communication loop happened; the patient’s response still
+requires assessment.
+
+45
+00:12:56,688 --> 00:13:13,536
+Make the goal realistic for the person’s baseline, available time and
+resources. Identify who is acting and which dependency remains
+unresolved. A requested crew or a message left for a service is not
+automatically an accepted handover.
+
+46
+00:13:13,536 --> 00:13:25,656
+Evaluate the actual result, record what remains incomplete and revise
+the plan when it does not work. Do not declare success because a
+checklist was signed or the original action was performed.
+
+47
+00:13:25,656 --> 00:13:39,432
+Ejection fraction divides the amount ejected by the starting
+ventricular volume. It is not the total amount ejected and is not the
+cardiac output. The original diagram uses a common volume scale to
+show the distinction.
+
+48
+00:13:39,432 --> 00:14:01,128
+In Example A, one-hundred-twenty minus forty-eight gives seventy-two
+millilitres, and seventy-two divided by one-hundred-twenty is sixty
+percent. In Example B, eighty minus thirty-two gives forty-eight
+millilitres, and forty-eight divided by eighty is also sixty percent.
+The equal fractions describe unequal stroke volumes.
+
+49
+00:14:01,128 --> 00:14:19,128
+Preserved fraction does not establish normal filling or exclude a
+heart-failure syndrome. Conversely, neither of these hypothetical
+numbers proves that a patient has heart failure. The school reading
+locator and the actual book chapter are identified separately in the
+paired guide.
+
+50
+00:14:19,128 --> 00:14:36,864
+The chapter connects pressure, renal perfusion and myocardial stretch
+to neural, hormonal and mechanical responses. Some initially support
+flow, while natriuretic peptides oppose fluid retention. These are
+mechanisms, not independent field treatment orders.
+
+51
+00:14:36,864 --> 00:14:53,712
+Extra filling and increased vascular resistance can eventually
+increase work and congestion in a failing heart. Volume and pressure
+loading also favour different simplified remodeling patterns. More
+wall thickness does not necessarily mean more effective function.
+
+52
+00:14:53,712 --> 00:15:09,768
+Use this knowledge to explain the new breathlessness, position
+intolerance or perfusion concern in the original case, without
+assuming that every symptom comes from the old heart-failure
+diagnosis. The current patient and authorized pathway determine the
+action.
+
+53
+00:15:09,768 --> 00:15:38,304
+The main chemical groups are amino-acid derivatives, peptides/proteins
+and cholesterol-derived steroids. Catecholamines and thyroid hormones
+are both amines, but have different solubility and receptor behavior.
+Peptide hormones usually act at surface receptors; steroids and
+thyroid hormones commonly use intracellular receptors. Transport-
+protein binding and clearance affect the duration and measured free
+versus total hormone.
+
+54
+00:15:38,304 --> 00:16:09,600
+Response depends on hormone concentration, receptor number/sensitivity
+and intracellular state. Upregulation and downregulation alter
+responsiveness but are not absolute one-direction rules for every
+disease. Permissive effects enable another signal, synergy amplifies
+combined effects, and antagonism produces opposing effects, as with
+many insulin/glucagon actions. Receptor resistance can cause disease
+even when hormone is present.
+
+55
+00:16:09,600 --> 00:16:38,496
+Anterior-pituitary GH promotes growth partly through IGF-1 and alters
+fuel use; excess before versus after growth-plate closure produces
+different patterns. Prolactin is under important inhibitory dopamine
+control and rises with appropriate lactation stimulation, not only
+during pregnancy. A single body feature or an isolated hormone value
+is not sufficient to diagnose a growth or pituitary disorder in the
+field.
+
+56
+00:16:38,496 --> 00:17:06,432
+The hypothalamus links neural and endocrine control to the pituitary
+through its stalk. Posterior pituitary is neural tissue that
+stores/releases hypothalamic hormones; anterior pituitary is glandular
+tissue receiving releasing/inhibiting signals through portal vessels.
+Calling the pituitary the master gland does not mean it independently
+controls every hormone or that the posterior lobe synthesizes ADH.
+
+57
+00:17:06,432 --> 00:17:33,864
+Adrenal cortex has glomerulosa, fasciculata and reticularis zones,
+associated mainly with mineralocorticoids, glucocorticoids and adrenal
+androgens respectively. The inner medulla contains chromaffin cells
+and releases catecholamines after sympathetic stimulation. Cortex and
+medulla share an organ but have different developmental origins,
+signals and products; cortisol is not epinephrine.
+
+58
+00:17:33,864 --> 00:18:04,344
+Insulin promotes GLUT4-mediated uptake in muscle/adipose tissue,
+supports glycogen, fat and protein storage and reduces hepatic glucose
+output. It does not open the glucose-entry gate in every cell: usual
+brain and red-cell uptake is largely insulin independent. Insulin
+deficiency also permits lipolysis and ketone production, so replacing
+fluid or lowering a displayed glucose does not alone prove
+ketoacidosis has resolved.
+
+59
+00:18:04,344 --> 00:18:29,448
+The right lymphatic duct usually drains the right upper quadrant:
+right head/neck, upper limb and thorax. The thoracic duct drains most
+remaining regions, including both lower limbs, and returns at the left
+venous angle. The right duct does not drain the entire right half of
+the body. These routes explain anatomy without identifying an edema
+cause from side alone.
+
+60
+00:18:29,448 --> 00:18:58,440
+Lymph enters a node through afferent vessels, passes through sinuses
+and leaves through efferent vessels. Nodes filter lymph and provide
+sites for antigen presentation and lymphocyte activation.
+Follicles/germinal centers are associated with B-cell responses; other
+regions support T-cell interactions. A tender or enlarged node
+suggests a process needing context, not automatic proof of one
+infection or malignancy.
+
+61
+00:18:58,440 --> 00:19:29,304
+Blood immune cells arise from hematopoietic precursors. Neutrophils
+and macrophages are important phagocytes; monocytes circulate and can
+contribute tissue populations. Dendritic cells are important antigen
+presenters. B cells can form antibody-secreting plasma cells, T cells
+coordinate or kill selected targets, and NK lymphocytes contribute
+innate cytotoxicity. Not every lymphocyte is adaptive and not every T
+cell secretes antibody.
+
+62
+00:19:29,304 --> 00:19:58,992
+Innate recognition uses pattern-recognition systems for microbial
+patterns and damaged-cell signals. Recognition can trigger
+phagocytosis, mediator release and cellular recruitment; it is not
+antigen-specific clonal memory in the usual B/T-cell sense.
+Phagocytosis encloses material in a phagosome that can fuse with
+lysosomal machinery. Some organisms evade killing, so engulfment does
+not guarantee elimination.
+
+63
+00:19:58,992 --> 00:20:26,640
+Cytokines coordinate cell behavior, and chemokines are a cytokine
+group that guides migration. Interferons can promote antiviral states
+in neighboring cells rather than directly acting as antibodies. Acute-
+phase proteins such as CRP participate in responses but a raised CRP
+does not identify the organism or diagnose sepsis alone. Chemotaxis
+means directed movement along chemical signals.
+
+64
+00:20:26,640 --> 00:20:54,672
+Printed912 pairs10 to the eleventh power with “100trillion,” which is
+arithmetically inconsistent; the comparison copy’s10 to the twelfth
+still does not equal100trillion. Do not create a new exact repertoire
+estimate from this typo. Learn combinatorial receptor diversity,
+clonal selection and memory, and remember that antigen exposure does
+not guarantee lifelong protection or symptom-free reinfection.
+
+65
+00:20:54,672 --> 00:21:28,776
+Printed933 Table21.7 actually reverses the thyroid-antibody actions:
+it labels Graves as receptor blockade and Hashimoto as receptor
+stimulation. Do not memorize those cells. NIDDK explains Graves
+through thyroid-stimulating antibodies and Hashimoto through immune-
+mediated thyroid injury commonly causing reduced hormone output.
+Hashimoto is not adequately defined as universal TSH-receptor
+blockade, and a disease name alone does not establish this patient’s
+current hormone state.
+
+66
+00:21:28,776 --> 00:21:59,592
+Thyroid follicles take up iodide, incorporate iodine into
+thyroglobulin-associated tyrosines and form T3/T4, storing precursor
+in colloid before release. T4 has four iodines and T3 three; tissues
+convert some T4 to the more active T3. TRH/TSH and thyroid-hormone
+feedback regulate the axis. Transport-protein-bound hormone and free
+hormone are not interchangeable measurements.
+
+67
+00:21:59,592 --> 00:22:41,640
+Chapter17 Figure17.19’s70-110mg/dL band is an illustration in this
+school copy, not the current BCEHS hypoglycemia intervention gate or a
+universal diagnostic reference range. Do not average it with the
+comparison copy’s70-100. Explain insulin/glucagon feedback, then
+interpret a measured glucose with units, symptoms, timing and the
+current pathway. The accompanying statement that brain/liver/kidney
+cells lack insulin receptors is not a sound general rule; insulin-
+independent uptake is not the same as absence of insulin signaling.
+
+68
+00:22:41,640 --> 00:23:15,600
+The assigned endocrine glossary endpoint includes acromegaly,
+cortex/medulla, ACTH, aldosterone, alpha/beta/delta cells, ANP,
+calcitonin, cAMP/DAG, EPO, FSH and G protein. Retrieve each as source,
+stimulus and effect, rather than equating a definition with treatment.
+Cortisol supports hepatic glucose availability through several
+metabolic effects; it should not be reduced to the glossary’s
+glycogen-catabolism wording.
+
+69
+00:23:15,600 --> 00:23:47,928
+Week11 original integration: a person with diabetes and a transplant
+becomes confused and breathless but has no fever. Link glucose fuel
+balance, fluid loss, immunosuppression and infection risk without
+assuming one diagnosis. Obtain actual glucose and repeated
+respiratory/perfusion findings, clarify medicines and recent changes,
+and act on present threats. Neither an absent fever nor correction of
+one measured value proves the remaining illness has resolved.
+
+70
+00:23:47,928 --> 00:24:15,264
+Nociceptive pain comes from tissue-related noxious stimulation:
+somatic pain involves structures such as skin, muscle and bone, while
+visceral pain arises from internal organs and may be diffuse or
+referred. Neuropathic pain involves a lesion or disease of the
+somatosensory system and may be burning, shooting or tingling.
+Descriptors suggest mechanisms but do not establish a diagnosis alone.
+
+71
+00:24:15,264 --> 00:24:43,488
+The five-step model is transduction, conduction, transmission,
+modulation and perception. A noxious stimulus activates a nociceptor;
+electrical activity travels through peripheral pathways and relays
+toward the brain. Spinal and descending systems can amplify or inhibit
+signaling, and conscious experience integrates those signals with
+context. A protective withdrawal reflex need not wait for conscious
+perception.
+
+72
+00:24:43,488 --> 00:25:08,496
+Pain threshold is the point at which a stimulus becomes painful, not
+the maximum pain a person can tolerate. Expectations, prior
+experience, support and physiology affect the experience and
+expression of pain. Use an appropriate self-report or observational
+tool, record function and reassess with a comparable method; a score
+alone is not a judgment of credibility.
+
+73
+00:25:08,496 --> 00:25:34,080
+Acetaminophen is analgesic and antipyretic, with little clinically
+useful peripheral anti-inflammatory action. Its analgesic mechanism is
+not completely settled. Ask about every combination cold, sleep and
+prescription product, total amount and timing, liver disease and
+alcohol exposure. An apparently ordinary product can contribute to
+serious cumulative toxicity.
+
+74
+00:25:34,080 --> 00:26:01,680
+Aspirin, ibuprofen and naproxen are NSAIDs. COX inhibition explains
+analgesic, antipyretic and anti-inflammatory effects, but also GI
+injury/bleeding and impaired renal perfusion in susceptible people.
+Dehydration, kidney disease, ulcer/bleeding history, anticoagulants
+and other NSAIDs change risk; taking a drug with food does not
+eliminate ulcer or bleeding risk.
+
+75
+00:26:01,680 --> 00:26:29,640
+Aspirin irreversibly inhibits platelet COX, so its antiplatelet effect
+lasts beyond its presence in plasma. An analgesic choice is not
+interchangeable with the separate suspected-ACS aspirin pathway. Ask
+about bleeding, aspirin-sensitive asthma, hypersensitivity and other
+medicines; pediatric viral-illness/Reye syndrome warnings also prevent
+casually transferring adult pain advice to children.
+
+76
+00:26:29,640 --> 00:26:59,760
+The book places tramadol under nonopioid analgesics, although it has
+opioid-receptor activity. Teach it as an opioid analgesic with
+additional norepinephrine/serotonin effects, not as a harmless
+nonopioid or a guarantee of partial-agonist safety. Sedative
+combinations, respiratory depression, seizures and serotonergic
+interactions matter. Neuropathic-pain adjuncts such as duloxetine,
+pregabalin and local anesthetics have different targets and risks.
+
+77
+00:26:59,760 --> 00:27:31,368
+Opioid agonists activate receptors involved in pain modulation,
+including mu receptors; analgesia and sedation/respiratory depression
+can occur through related receptor actions. Morphine is a classic
+reference agent. Fentanyl is synthetic, hydromorphone and oxycodone
+are semisynthetic, and heroin is semisynthetic rather than a naturally
+occurring poppy constituent. Similar class membership does not make
+dose, potency, route or duration interchangeable.
+
+78
+00:27:31,368 --> 00:28:01,608
+Codeine depends substantially on CYP2D6 conversion to morphine;
+genetic variation and interacting drugs can make effect less
+predictable. Meperidine has a neurotoxic metabolite of concern,
+especially with impaired clearance. Methadone can have prolonged and
+variable effects. Fentanyl patches and extended-release oral opioids
+are not rapid rescue substitutes; do not crush modified-release
+formulations or improvise conversions.
+
+79
+00:28:01,608 --> 00:28:30,912
+Nausea, constipation, urinary retention, sedation and hypotension can
+accompany opioid treatment. Slow or shallow breathing and reduced
+responsiveness demand immediate airway/breathing assessment, not just
+another pain score. Alcohol, benzodiazepines and other sedatives
+increase risk. A previous high tolerated dose does not establish
+safety after an interruption or in a new acute illness.
+
+80
+00:28:30,912 --> 00:28:56,496
+Clarify an allergy history: itching/flushing associated with histamine
+release is not automatically the same as anaphylaxis, but reported
+airway swelling or a severe reaction cannot be dismissed. The book’s
+different-structure fentanyl statement is not a guarantee of allergy
+safety. Document the actual reaction and follow the authorized drug
+pathway and consultation requirements.
+
+81
+00:28:56,496 --> 00:29:26,016
+Tolerance is reduced effect after repeated exposure; physical
+dependence means adaptation that can produce withdrawal when exposure
+falls. Opioid use disorder involves a problematic pattern with
+impairment or distress, not merely taking a prescribed opioid or
+having tolerance/withdrawal under appropriate medical supervision. Use
+nonjudgmental questions about amount, source, timing and co-use rather
+than diagnosing addiction from a pain request.
+
+82
+00:29:26,016 --> 00:30:01,320
+Naloxone competitively antagonizes opioid effects. For a patient with
+inadequate breathing, support airway and ventilation while following
+the current opioid-poisoning pathway; the clinical endpoint is
+improved spontaneous ventilation, not forcing complete wakefulness.
+Recurrent depression is possible because the opioid can outlast
+reversal. The book’s20-30minute statement and BCEHS
+monograph’s30-45minute IM/IV description are not a universal timer or
+discharge rule.
+
+83
+00:30:01,320 --> 00:30:30,912
+Naloxone can precipitate withdrawal and other adverse responses; the
+source phrase “only major adverse effect” is too absolute. Naltrexone
+is a longer-term antagonist treatment, not the same emergency reversal
+product. Nalbuphine is a mixed agonist/antagonist analgesic, not an
+interchangeable rescue antidote. Know the distinctions without
+importing the book’s hospital schedules or creating a new PCP drug
+entitlement.
+
+84
+00:30:30,912 --> 00:31:01,368
+Original retrieval: a patient with a painful wrist has taken a
+combination cold remedy and an unknown pain tablet, then becomes
+difficult to keep awake. First assess breathing, responsiveness and
+perfusion; obtain products, amounts, times and co-ingestants. Less
+reported pain with falling alertness is not successful analgesia.
+Reassess both comfort/function and safety, and explain the medication
+uncertainty in handover.
+
+85
+00:31:01,368 --> 00:31:30,624
+Obstruction limits airflow through narrowed airways; restriction
+limits expansion or available lung volume. Asthma includes variable
+narrowing and inflammation. COPD includes chronic airway and alveolar
+abnormalities; emphysema involves destruction of alveolar walls and
+loss of elastic recoil, not just the book’s generic airway-damage
+description. A bronchodilator does not reverse every cause of
+breathlessness.
+
+86
+00:31:30,624 --> 00:31:56,568
+Beta2 agonists relax bronchial smooth muscle. Albuterol is the US name
+for salbutamol; levalbuterol is another short-acting agent. Salmeterol
+is long acting and is not a substitute for immediate rescue in an
+acute attack. Do not generalize that all beta stimulation relaxes all
+tissues: cardiac beta effects differ, and beta2 selectivity is not
+absolute.
+
+87
+00:31:56,568 --> 00:32:23,688
+Check tremor, palpitations, heart rate/rhythm, breathing and the
+actual response after a beta agonist. A beta blocker or other
+sympathomimetic can change the response. Reduced wheeze alone is not
+enough: air entry, speech, effort, fatigue, mentation and oxygenation
+can reveal continuing or worsening obstruction, including a very quiet
+chest with poor airflow.
+
+88
+00:32:23,688 --> 00:32:59,928
+A source-table safety discrepancy is visible: printed691/692 describes
+albuterol inhalations as2.5mg per inhalation. Do not use that
+statement to dose an MDI or convert a nebulizer solution into puffs.
+The current BCEHS monograph lists a100mcg/spray MDI separately
+from2.5mg/mL nebules. Verify product, concentration, route, device and
+the current age/weight/provider-specific instruction before
+calculating.
+
+89
+00:32:59,928 --> 00:33:29,040
+An inhaler is a drug-device combination. A metered-dose aerosol, dry-
+powder device and nebulizer require different preparation and
+inhalation technique. Do not apply the book’s generic four-spray
+priming, fifteen-second interval or water-cleaning advice to every
+device. Check the actual instructions, use the appropriate spacer when
+indicated, assess technique and use teach-back; powder capsules
+intended for inhalation are not swallowed.
+
+90
+00:33:29,040 --> 00:33:57,096
+Ephedrine and epinephrine have broader adrenergic effects than a
+selective inhaled beta2 agonist. Epinephrine’s alpha effects support
+vasoconstriction and its beta effects include cardiac stimulation and
+bronchodilation. The textbook’s oral/inhaled/IV/SC/IM list is not
+permission to interchange routes or use a consumer inhaler instead of
+the authorized anaphylaxis pathway.
+
+91
+00:33:57,096 --> 00:34:29,832
+Ipratropium blocks muscarinic acetylcholine effects on bronchial
+smooth muscle; tiotropium provides longer maintenance bronchodilation.
+For the current BCEHS severe-bronchospasm pathway, ipratropium is an
+adjunct with salbutamol, not acute monotherapy; its repeat
+instructions are not copied from the textbook. Dry mouth, blurred
+vision, urinary-retention risk and paradoxical worsening merit
+attention. Avoid aerosol exposure to the eyes, especially with narrow-
+angle glaucoma.
+
+92
+00:34:29,832 --> 00:35:01,920
+Corticosteroids act through glucocorticoid receptors and altered
+inflammatory signaling, including gene regulation; “stabilizing
+lysosomes” is not a complete mechanism. Beclomethasone, fluticasone
+and budesonide are inhaled examples, while prednisone and
+methylprednisolone illustrate systemic treatment. Anti-inflammatory
+benefit is not instantaneous smooth-muscle relaxation, and an inhaled
+steroid alone is not the rescue bronchodilator for acute severe
+obstruction.
+
+93
+00:35:01,920 --> 00:35:36,408
+Inhaled steroids can cause local candidiasis and dysphonia;
+appropriate mouth rinsing and device technique reduce local problems.
+Systemic exposure can affect glucose, mood, infection risk, blood
+pressure and other functions. HPA suppression and stopping/tapering
+decisions depend on exposure and clinical context: do not tell every
+short-course patient they must taper or that inhaled and systemic
+risks are identical. Suspected adrenal illness needs assessment, not a
+self-designed taper.
+
+94
+00:35:36,408 --> 00:36:12,216
+Theophylline and aminophylline are xanthines with bronchodilator
+effects and a narrow therapeutic margin. The source’s10-20mcg/mL range
+is a textbook reference, not a PCP titration target. Vomiting,
+agitation, tremor, confusion, tachyarrhythmia or seizures can indicate
+toxicity; interactions and altered clearance matter. Obtain the
+formulation, last dose, recent illness and medication changes, and do
+not treat this as an invitation to initiate an infusion.
+
+95
+00:36:12,216 --> 00:36:41,136
+Leukotrienes contribute to bronchoconstriction, mucus and
+inflammation. Montelukast and zafirlukast block leukotriene receptors;
+zileuton inhibits leukotriene synthesis. These are not one identical
+mechanism or acute rescue substitutes. Oral montelukast is not an
+inhaled dry powder. Hepatic risk and interactions differ between
+products, so a shared class label does not replace a product-specific
+history.
+
+96
+00:36:41,136 --> 00:37:08,016
+Cromolyn stabilizes mast cells and reduces mediator release; its role
+is prevention rather than immediate bronchodilation. It is not
+naloxone, an antihistamine or a rescue replacement for epinephrine in
+anaphylaxis. Cough or worsening wheeze after an inhaled product still
+requires reassessment. Histamine is one mediator, not the entire
+explanation of every allergic response.
+
+97
+00:37:08,016 --> 00:37:38,880
+Montelukast has a serious neuropsychiatric warning, including
+behavior/mood changes and suicidal thoughts or actions, with or
+without prior psychiatric illness. The source’s blanket “do not stop”
+teaching must not override the regulator warning to stop montelukast
+and contact a clinician immediately for new neuropsychiatric symptoms.
+Assess immediate safety and report the timing; do not assume a new
+mental-health presentation is unrelated to medicines.
+
+98
+00:37:38,880 --> 00:38:11,976
+Original retrieval: a breathless patient points to a daily tiotropium
+device and says, “I already used my rescue.” Identify the actual
+product and rescue plan, assess speech/effort/air entry/mentation and
+look for deterioration. Explain why maintenance bronchodilation and
+anti-inflammatory control differ from acute rescue. After authorized
+care, compare the whole respiratory picture with baseline rather than
+counting puffs as proof of improvement.
+
+99
+00:38:11,976 --> 00:38:41,256
+Page38 starts IV therapy with a reason: access for an indicated
+medicine or appropriate fluid replacement. Then maintain asepsis while
+inspecting the catheter, solution and set, priming tubing,
+selecting/preparing a site, establishing access, connecting,
+controlling flow and securing. An open vein does not itself prove a
+fluid indication, and successful insertion does not finish patient or
+site monitoring.
+
+100
+00:38:41,256 --> 00:39:15,816
+Page39’s correct dimensional relationship is volume in millilitres
+times the tubing drop factor in drops per millilitre, divided by
+minutes. Its worked examples incorrectly label the factor as drops per
+minute, and one solution description combines5% with D10W; do not copy
+either error into a label or calculation. Original arithmetic:90mL
+over45minutes through a10drops/mL set gives20drops/minute. This is
+arithmetic, not a fluid prescription.
+
+101
+00:39:15,816 --> 00:39:45,864
+The same page describes an approximate75mL/hour maintenance reference
+and repeated checks of ABCs, observations, injury sites, IV site,
+tubing, bag, rate and infused volume. That reference is not a
+universal adult, child, heart-failure or renal-failure rate. Confirm
+the actual ordered plan and repeat assessment sooner if the patient,
+site or flow changes rather than waiting for a scheduled interval.
+
+102
+00:39:45,864 --> 00:40:12,912
+The page40 adult diagram links arrest recognition to CPR and early AED
+analysis. With basic bag-mask care it uses30compressions to2breaths; a
+shock-advised branch delivers the shock then resumes CPR, and the no-
+shock branch also resumes CPR before the next analysis cycle. No shock
+advised does not mean circulation is present. Organized electrical
+activity alone does not prove a pulse.
+
+103
+00:40:12,912 --> 00:40:51,576
+The school2025 page40 lists30minutes in its continuation box;
+pages42-45 also describe medical-oversight consultation and
+reversible-cause/transport decisions, including a20minute consultation
+point. The later public copy adds a30/40minute distinction and changes
+several consultation statements. These are materially different texts,
+not one blended timer. Current N02 directs resuscitation decision-
+making to its relevant pathway and clinical consultation; an elapsed
+time alone is not termination authority.
+
+104
+00:40:51,576 --> 00:41:27,384
+Pages42-43 emphasize rate100-120/minute, full recoil, minimal
+interruption, early defibrillation and compressor rotation when
+possible. The adult reference is5-6cm; the school also prints a broad
+one-third-to-one-half size adjustment that must not become a universal
+adult depth rule. The selected current pediatric comparison uses at
+least one-third chest depth, approximately4cm for infants and5cm for
+children, rather than deliberately targeting one-half.
+
+105
+00:41:27,384 --> 00:42:04,152
+The page41 infant/child diagram uses30:2 for one rescuer and15:2 for
+two; it also places neonatal3:1 in the same diagram. Page44 separately
+says no AED for a neonate. Do not follow the shared graphic’s shock
+loop as a neonatal AED instruction or apply birth-transition3:1 to
+every later infant collapse. First identify the age, circumstances and
+correct resuscitation framework; pediatric BLS and resuscitation at
+birth are not the same algorithm.
+
+106
+00:42:04,152 --> 00:42:42,264
+Page44’s2025 newborn sequence starts with an under100 description but
+uses under60 to move through its early ventilation steps; the2026
+comparison changes those early gates to under100, including a later
+transition. Neither old staircase should replace the current neonatal
+algorithm. In the current framework, apnea/gasping or heart rate
+below100 requires positive-pressure ventilation; compressions are
+considered for persistent rate below60 after effective ventilation and
+correction, not simply for every rate below100.
+
+107
+00:42:42,264 --> 00:43:18,096
+Page46 distinguishes an effective cough from severe obstruction and
+then loss of responsiveness. The selected AHA2025 comparison uses five
+back blows then five abdominal thrusts for responsive adults/children
+with severe obstruction; infants receive back blows and chest thrusts,
+not abdominal thrusts. If unresponsive, start CPR with compressions
+and remove only a visible object when opening the airway. Do not use
+the school’s initial failed-breath wording to delay that response, and
+never perform blind finger sweeps.
+
+108
+00:43:18,096 --> 00:43:55,560
+Page50’s fixed-flow/COPD and blanket high-flow statements differ from
+current assessment-led oxygen guidance. Current A07 gives a general94%
+target and a chronic-hypoxemia intervention band of88-90%, while the
+complaint-specific B05 text uses88-92%. Keep the named source and
+patient context visible rather than average these bands. Critical
+illness and unreliable oximetry require active support; do not
+withhold needed oxygen to obtain an untreated number.
+
+109
+00:43:55,560 --> 00:44:29,664
+That page’s statement that every adult mask below6L/min delivers less
+oxygen than room air is not a reliable universal device rule. Low flow
+in a simple mask can allow exhaled gas rebreathing, and
+reservoir/device performance matters. Flow in litres/minute, delivered
+oxygen fraction and airway pressure are different quantities. Choose
+the actual device instructions and current pathway; more flow does not
+correct an obstructed airway or absent ventilation by itself.
+
+110
+00:44:29,664 --> 00:44:59,448
+Pages51-52 describe CPAP as continuous pressure during spontaneous
+breathing, supporting recruitment and reducing work of breathing in
+selected patients. It does not deliver assisted breaths for a patient
+whose effort is failing. Positive intrathoracic pressure can also
+reduce venous return and blood pressure. Reassess breathing,
+alertness, mask tolerance, oxygenation and perfusion, not only the
+saturation display.
+
+111
+00:44:59,448 --> 00:45:41,400
+The school CPAP page requires age13orabove, wakefulness/commands, an
+open airway and its listed distress criteria, including rate above24,
+saturation below94% on oxygen and accessory-muscle use. It excludes
+impaired airway protection, hypoventilation/arrest, aspiration risk,
+poor mask fit, traumatic respiratory distress, tracheostomy, suspected
+pneumothorax and systolic pressure below90. Current PR09 also
+specifies the relevant CPAP training and recommends PCP consultation.
+Reading the table does not replace either requirement.
+
+112
+00:45:41,400 --> 00:46:10,320
+Page52 limits CPAP and PEEP escalation to10cmH2O, while page53’s
+device chart also displays higher columns. A displayed column is not
+permission to exceed the procedure cap. Nor does a litre/minute flow
+number equal a centimetre-of-water pressure. Current PR09 follows the
+manufacturer flow chart and its own escalation limit; no unverified
+chart for a different device is substituted.
+
+113
+00:46:10,320 --> 00:46:47,664
+The school page55 lists prior allergy history among its criteria; the
+later public copy removes it. Do not wait for a known prior allergy,
+rash or profound hypotension before recognizing a compatible systemic
+reaction. Current E09 prioritizes intramuscular epinephrine and ABC
+support; salbutamol is an adjunct after epinephrine, and
+antihistamines do not replace it. The school lists diphenhydramine
+under PCP, whereas current E09 places it under ACP; the exam page does
+not expand current authority.
+
+114
+00:46:47,664 --> 00:47:26,760
+Page56 emphasizes reduced responsiveness with slow, limited-volume
+breathing. Support airway and effective ventilation, obtain exposure
+history and glucose, and use the current opioid pathway rather than
+waiting for naloxone to work. Its glucose cross-reference uses less-
+than-or-equal4mmol/L, whereas page57 and current E01 define the
+correction gate as below4. Keep the exact inequality difference
+visible; measurement quality, symptoms and the active pathway
+determine the response, not an invented compromise cutoff.
+
+115
+00:47:26,760 --> 00:48:02,904
+BVM with PEEP adds end-expiratory pressure to assisted breaths and
+depends on an effective closed mask seal. It is not CPAP delivered to
+an apneic patient. Current general PR10 excludes adult systolic
+pressure at or below90, cardiac arrest, suspected pneumothorax and
+traumatic respiratory arrest, with age-specific pediatric pressure
+limits; neonatal specialty instructions are a separate context. Do not
+turn the school’s8-10/minute PEEP paragraph into a rate for every
+child, newborn or resuscitation.
+
+116
+00:48:02,904 --> 00:48:45,240
+Page57 includes unexplained altered consciousness even without known
+diabetes. Check airway/breathing, glucose and stroke features, then
+select a permitted route using airway protection and access. Its exam-
+copy PCP box lists D10W10-25g as100-250mL of10% solution and glucagon
+when IV access is unavailable; verify the current monograph rather
+than treating that box as an independent prescription. An oral product
+is not safe merely because it can enter the mouth. Recheck glucose and
+mentation and investigate persistent illness.
+
+117
+00:48:45,240 --> 00:49:13,872
+Original retrieval: a dyspneic patient initially follows commands on
+CPAP but becomes drowsy with weaker, shallower breaths and worsening
+perfusion. State the changed findings, recognize that the original
+CPAP assumptions no longer hold, and move to the appropriate
+supported-airway/ventilation plan with help. Turning up pressure to
+reach a saturation number does not fix lost respiratory effort or
+airway protection.
+
+118
+00:49:13,872 --> 00:49:25,992
+Use this retrieval sequence after each guide. The purpose is not to
+memorize a diagnosis label; it is to show how the reading informs one
+defensible decision and what you would reassess.
+
+119
+00:49:25,992 --> 00:49:40,008
+A strong answer identifies a finding, explains why it matters, names
+uncertainty and stays at the right provider level. If the source
+edition or page is not verified, say so instead of guessing.

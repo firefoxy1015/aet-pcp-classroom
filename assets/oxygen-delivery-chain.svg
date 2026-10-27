@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 410" role="img" aria-labelledby="title desc">
+  <title id="title">Oxygen delivery is a connected chain</title>
+  <desc id="desc">Ventilation and gas exchange feed arterial oxygen content; heart rate and stroke volume generate cardiac output. Both are required for tissue oxygen delivery.</desc>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#456582"/></marker></defs>
+  <rect width="1100" height="410" rx="20" fill="#f2f6fc"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <text x="550" y="42" font-size="25" font-weight="700" fill="#173047">DELIVERY NEEDS CONTENT AND FLOW</text>
+    <g fill="#fff" stroke="#b5c9dc" stroke-width="2">
+      <rect x="30" y="95" width="220" height="185" rx="14"/>
+      <rect x="310" y="95" width="220" height="185" rx="14"/>
+      <rect x="590" y="95" width="220" height="185" rx="14"/>
+      <rect x="870" y="95" width="200" height="185" rx="14"/>
+    </g>
+    <g fill="#173047" font-size="22" font-weight="700">
+      <text x="140" y="137">LUNGS</text><text x="420" y="137">BLOOD CONTENT</text><text x="700" y="137">CARDIAC FLOW</text><text x="970" y="137">TISSUE</text>
+    </g>
+    <g fill="#37566d" font-size="20">
+      <text x="140" y="184">Effective ventilation</text><text x="140" y="218">Gas exchange</text>
+      <text x="420" y="184">Hemoglobin</text><text x="420" y="218">Oxygen saturation</text>
+      <text x="700" y="184">Heart rate</text><text x="700" y="218">x stroke volume</text>
+      <text x="970" y="184">Perfusion</text><text x="970" y="218">Oxygen use</text>
+    </g>
+    <text x="550" y="332" font-size="23" fill="#173047">Oxygen delivery = cardiac output x arterial oxygen content</text>
+    <text x="550" y="374" font-size="19" fill="#8a3f31">A normal saturation or an electrical tracing cannot replace forward flow.</text>
+  </g>
+  <g stroke="#456582" stroke-width="3" fill="none" marker-end="url(#a)"><path d="M254 189H300"/><path d="M534 189H580"/><path d="M814 189H860"/></g>
+</svg>

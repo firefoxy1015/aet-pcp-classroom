@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="t d">
+  <title id="t">Anaphylaxis: connect the mechanism to complementary rescue effects</title>
+  <desc id="d">Original mechanism diagram. Mediator release can cause upper-airway edema, bronchospasm and vasodilation with plasma leakage. Epinephrine alpha effects support tone and reduce edema; beta2 relaxes bronchi and beta1 supports the heart. For recognized anaphylaxis, indicated IM epinephrine and ABC support run together.</desc>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#8fcddd"/></marker></defs>
+  <rect width="1200" height="440" rx="20" fill="#0b1726"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <text x="600" y="39" font-size="25" font-weight="700" fill="#ecf5ff">More than a rash. More than one histamine receptor.</text>
+    <rect x="285" y="64" width="630" height="58" rx="12" fill="#163d50" stroke="#5bb6cc"/>
+    <text x="600" y="101" font-size="23" fill="#edfbff">Mast-cell / basophil mediator release</text>
+    <path d="M600 123 V144 H210 V165 M600 144 V165 M600 144 H990 V165" fill="none" stroke="#8fcddd" stroke-width="3"/>
+    <path d="M210 156 V171 M600 156 V171 M990 156 V171" stroke="#8fcddd" stroke-width="3" marker-end="url(#a)"/>
+    <rect x="40" y="180" width="340" height="108" rx="12" fill="#392a3e" stroke="#c9a5df"/>
+    <rect x="430" y="180" width="340" height="108" rx="12" fill="#193a43" stroke="#87d7c4"/>
+    <rect x="820" y="180" width="340" height="108" rx="12" fill="#402d30" stroke="#edb3a6"/>
+    <text x="210" y="216" font-size="23" font-weight="700" fill="#efdcff">Upper-airway edema</text>
+    <text x="210" y="254" font-size="20" fill="#eff4ff">Voice change / stridor / obstruction</text>
+    <text x="600" y="216" font-size="23" font-weight="700" fill="#a4ecdc">Bronchospasm + mucus</text>
+    <text x="600" y="254" font-size="20" fill="#eff4ff">Poor airflow / work / fatigue</text>
+    <text x="990" y="216" font-size="23" font-weight="700" fill="#ffd7cd">Dilation + plasma leak</text>
+    <text x="990" y="254" font-size="20" fill="#eff4ff">Low return / perfusion failure</text>
+    <text x="210" y="325" font-size="21" fill="#efdcff">Alpha: reduce edema</text>
+    <text x="600" y="325" font-size="21" fill="#a4ecdc">Beta 2: relax bronchi</text>
+    <text x="990" y="325" font-size="21" fill="#ffd7cd">Alpha: tone; beta 1: heart</text>
+    <rect x="145" y="356" width="910" height="55" rx="12" fill="#124650" stroke="#64c5c5"/>
+    <text x="600" y="391" font-size="23" font-weight="700" fill="#e5ffff">Recognized anaphylaxis: indicated IM epinephrine + parallel ABC support</text>
+  </g>
+</svg>

@@ -1,0 +1,119 @@
+1
+00:00:00,000 --> 00:00:23,016
+The saved school index has eleven Week 12 reading rows: heart and
+respiratory review; all clinical pathways; all BCPEG treatment
+protocols; compensatory responses; critical thinking; IV
+troubleshooting; the clinical judgment model; collaboration; heart-
+failure medicines; somatic symptoms; and trend interpretation.
+
+2
+00:00:23,016 --> 00:00:38,424
+Nancy Caroline Canadian eighth edition is the learner-confirmed
+principal examination text. Its selected chapters are presented as an
+additional bridge, not as a replacement for these eleven assigned rows
+or as a claim that every chapter is complete.
+
+3
+00:00:38,424 --> 00:01:05,664
+The eleven assigned readers now explain the identified source ranges
+in English and Chinese, with genuine earlier reviews retained for
+repeated material. They are not merely unverified candidate files. The
+reading panels show the actual copy and the extent checked. A reviewed
+teaching range does not mean that every linked video, figure or
+assessment was completed, or that every school page locator matches.
+
+4
+00:01:05,664 --> 00:01:40,992
+Keep both tracks where the school locators conflict. CPSC literal
+pages teach part of an intramuscular procedure, while the named
+chapter teaches intravenous systems. PMHN literal pages discuss
+substance use, while the named chapter discusses somatic symptoms. The
+identified cardiovascular copy also has a genuine page mismatch. Both
+the available assigned content and named concepts are explained
+without inventing equivalence. Current law and authorized practice
+still control operational decisions.
+
+5
+00:01:40,992 --> 00:01:57,312
+As you read, write one sentence for the main idea, one mechanism and
+one patient-level implication. Then write what the chapter cannot tell
+you from one field observation. This keeps textbook theory useful
+without turning it into a shortcut diagnosis.
+
+6
+00:01:57,312 --> 00:02:19,896
+For a clinical pathway, add the page title, provider-level action,
+consultation note, linked pathway and reassessment trigger. For a
+school exam snapshot, preserve the revision date. If the reading
+conflicts with current law or service guidance, keep both contexts
+visible and seek instructor clarification for the examination
+expectation.
+
+7
+00:02:19,896 --> 00:02:38,352
+A nursing book can explain an IV device or a decision framework, but
+it does not authorize a PCP to manipulate a line, change an infusion
+or make a treatment decision. Follow the current BCEHS pathway,
+service policy, actual equipment instructions and supervised training.
+
+8
+00:02:38,352 --> 00:02:54,864
+Likewise, the school’s four-part capacity conversation is a learning
+aid, not the exact language of BC statute. Use current law and A09 for
+practice, and preserve the school’s terminology when preparing for its
+assigned examination.
+
+9
+00:02:54,864 --> 00:03:08,808
+Before looking at the guide again, explain how a change in heart or
+lung function could affect perfusion, breathing and fatigue. Then name
+one alternative cause and the next assessment finding that would help
+distinguish them.
+
+10
+00:03:08,808 --> 00:03:25,152
+For a refusal, do not retrieve only the four labels. Practise the
+actual conversation: explain the concern, ask the patient to teach
+back their understanding and personal reasoning, discuss options,
+consult when required and document what happened.
+
+11
+00:03:25,152 --> 00:03:58,656
+Do not stop the compensatory explanation at faster pulse. Reduced
+arterial stretch can decrease baroreceptor firing and increase
+sympathetic drive. Renal signals can activate the
+renin–angiotensin–aldosterone system, supporting vascular tone and
+sodium retention; antidiuretic hormone supports water retention.
+Stretch-related natriuretic peptides oppose some retention and
+constriction. These interacting responses help explain why pressure
+can look acceptable even while the patient is struggling.
+
+12
+00:03:58,656 --> 00:04:28,128
+A response that helps briefly can impose a chronic cost. Sustained
+constriction increases the load against ejection, a rapid rate
+increases demand, and retention can raise filling pressures and
+congestion. Not every heart-failure patient is hypotensive, and one
+preserved pressure does not prove adequate tissue delivery. Compare
+the whole patient and trend instead of treating the compensatory
+response as proof that the original problem is resolved.
+
+13
+00:04:28,128 --> 00:04:58,872
+Frank-Starling describes a length-dependent response to filling; it is
+not identical to increasing intrinsic contractility. In a failing
+ventricle, extra filling may produce little useful output while
+pressure rises. Volume and pressure loading can also drive different
+remodeling patterns, with real disease often mixed. These mechanisms
+explain why a general physiology arrow cannot become an automatic
+fluid challenge or a diagnosis made from one vital sign.
+
+14
+00:04:58,872 --> 00:05:26,328
+In an original case, pressure is close to the reported baseline but
+breathing, skin perfusion or awareness is worsening. Reassess the
+immediate threats, the reliability of measurements and the working
+explanation. State what is improving, what is not and what support or
+consultation is required under the actual pathway. Neither extra fluid
+nor stopping a chronic medicine follows automatically from the word
+compensation.

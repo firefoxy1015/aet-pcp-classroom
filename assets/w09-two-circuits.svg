@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="1000" viewBox="0 0 640 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Trace two connected circulation loops</title>
+  <desc id="desc">Original directional route map, not an anatomical drawing. Blood passes right heart, pulmonary arteries, lung capillaries, pulmonary veins, left heart, systemic arteries, body capillaries and systemic veins before returning to the right heart.</desc>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#385e68"/></marker></defs>
+  <rect width="640" height="1000" rx="18" fill="#f3f8f8"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#123c48">
+    <text x="320" y="43" font-size="29" font-weight="700">Trace two connected loops</text>
+    <text x="320" y="74" font-size="21">Direction defines artery or vein, not oxygen content</text>
+    <g fill="#e0edf4" stroke="#3f6d87">
+      <rect x="60" y="98" width="520" height="75" rx="12"/>
+      <rect x="60" y="205" width="520" height="75" rx="12"/>
+      <rect x="60" y="847" width="520" height="75" rx="12"/>
+    </g>
+    <g fill="#fbe8df" stroke="#986346">
+      <rect x="60" y="419" width="520" height="75" rx="12"/>
+      <rect x="60" y="526" width="520" height="75" rx="12"/>
+      <rect x="60" y="633" width="520" height="75" rx="12"/>
+    </g>
+    <g fill="#e0efe6" stroke="#4b7961">
+      <rect x="60" y="312" width="520" height="75" rx="12"/>
+      <rect x="60" y="740" width="520" height="75" rx="12"/>
+    </g>
+    <g font-size="26" font-weight="700">
+      <text x="320" y="129">RIGHT HEART</text>
+      <text x="320" y="236">PULMONARY ARTERIES</text>
+      <text x="320" y="343">LUNG CAPILLARIES</text>
+      <text x="320" y="450">PULMONARY VEINS</text>
+      <text x="320" y="557">LEFT HEART</text>
+      <text x="320" y="664">SYSTEMIC ARTERIES</text>
+      <text x="320" y="771">BODY CAPILLARIES</text>
+      <text x="320" y="878">SYSTEMIC VEINS</text>
+    </g>
+    <g font-size="21">
+      <text x="320" y="156">Right atrium then right ventricle</text>
+      <text x="320" y="263">Away from right ventricle, via pulmonary trunk</text>
+      <text x="320" y="370">Gas exchange beside the alveoli</text>
+      <text x="320" y="477">Toward left atrium, usually four main veins</text>
+      <text x="320" y="584">Left atrium then left ventricle</text>
+      <text x="320" y="691">Away from left ventricle, through aorta</text>
+      <text x="320" y="798">Regional tissue exchange</text>
+      <text x="320" y="905">Return to right atrium; coronary sinus also returns</text>
+    </g>
+    <text x="320" y="970" font-size="21">Follow return to the first box. Common adult route, not to scale.</text>
+  </g>
+  <g stroke="#385e68" stroke-width="3" marker-end="url(#arrow)">
+    <path d="M320 174 V199"/><path d="M320 281 V306"/>
+    <path d="M320 388 V413"/><path d="M320 495 V520"/>
+    <path d="M320 602 V627"/><path d="M320 709 V734"/>
+    <path d="M320 816 V841"/>
+  </g>
+</svg>

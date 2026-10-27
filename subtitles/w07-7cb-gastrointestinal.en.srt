@@ -1,0 +1,930 @@
+1
+00:00:00,000 --> 00:00:11,184
+The school next asks you to recognize gastrointestinal bleeding and
+bowel obstruction. One can hide blood loss; the other can hide fluid
+loss inside a distended bowel.
+
+2
+00:00:11,184 --> 00:00:23,064
+Both can present with vomiting, pain, poor perfusion or reduced urine.
+The shared consequences do not make their cause, definitive treatment
+or medication choices identical.
+
+3
+00:00:23,064 --> 00:00:34,128
+We will follow mechanisms, recognize red flags and build a safe
+assessment and conveyance plan. An exact source diagnosis is often
+unavailable in the field.
+
+4
+00:00:34,128 --> 00:00:46,944
+Use the original unfolding cases and the assigned CPSC reading to
+connect the patient, visible findings and any existing devices. These
+are preparation, not school assessment answers.
+
+5
+00:00:46,944 --> 00:00:58,320
+The school uses the classic ligament-of-Treitz boundary near the
+duodenojejunal junction. Upper sources include the esophagus, stomach
+and duodenum proximal to that boundary.
+
+6
+00:00:58,320 --> 00:01:09,264
+In that classic framework, distal bowel is grouped as lower.
+Contemporary resources often discuss small-bowel bleeding separately
+from colonic and rectal lower bleeding.
+
+7
+00:01:09,264 --> 00:01:20,496
+Know which framework the school question is using, but do not let the
+label overstate a field diagnosis. The receiving team benefits from
+the actual vomit and stool description.
+
+8
+00:01:20,496 --> 00:01:28,848
+A boundary helps organize likely causes. It does not make the blood
+color a reliable map or determine how sick the person is.
+
+9
+00:01:28,848 --> 00:01:41,424
+Hematemesis means vomiting blood. Fresh red material and coffee-ground
+material can both be important; coffee grounds reflect altered blood,
+often after contact with gastric contents.
+
+10
+00:01:41,424 --> 00:01:52,608
+Melena is black, tarry stool associated with digested blood. It
+commonly suggests an upper source, but does not prove one exact site
+or that bleeding has stopped.
+
+11
+00:01:52,608 --> 00:02:02,520
+Hematochezia describes red or maroon rectal blood. Although often
+lower, a brisk upper bleed can move rapidly and appear this way.
+
+12
+00:02:02,520 --> 00:02:14,520
+Ask whether the finding was observed or reported, and note possible
+nonblood color changes from foods or medicines. Describe uncertainty
+rather than declaring every dark stool melena.
+
+13
+00:02:14,520 --> 00:02:26,928
+Peptic ulcers can erode a vessel, with risks including Helicobacter
+pylori and NSAID exposure. A prior pattern of meal-related pain is not
+required before a serious bleed.
+
+14
+00:02:26,928 --> 00:02:38,736
+Portal hypertension can produce enlarged esophageal or gastric veins.
+Rupture can cause major hemorrhage, and impaired liver function can
+complicate coagulation and recovery.
+
+15
+00:02:38,736 --> 00:02:52,200
+A Mallory-Weiss mucosal tear can follow forceful retching. It is
+different from a full-thickness esophageal rupture, which may present
+with severe chest or upper-abdominal pain and systemic deterioration.
+
+16
+00:02:52,200 --> 00:03:04,272
+These histories refine suspicion, but absence of liver disease,
+alcohol use or known ulcers does not clear the patient. Treat the
+current airway and perfusion consequences.
+
+17
+00:03:04,272 --> 00:03:15,792
+Diverticular bleeding can be painless yet large. Pain severity and
+blood-loss severity are separate questions, so do not use a
+comfortable abdomen as a stability test.
+
+18
+00:03:15,792 --> 00:03:28,752
+Vascular lesions can bleed intermittently; inflammatory, ischemic or
+infectious colitis and malignancy have different patterns and risks.
+The field may not distinguish them definitively.
+
+19
+00:03:28,752 --> 00:03:40,440
+Hemorrhoids and fissures can produce bright red blood. A history of
+either does not explain away new heavy bleeding, fainting, poor
+perfusion or a major change from baseline.
+
+20
+00:03:40,440 --> 00:03:51,000
+Use the history to identify possibilities and risk. Avoid reassuring
+the patient that it is only hemorrhoids without appropriate assessment
+and follow-up.
+
+21
+00:03:51,000 --> 00:04:01,008
+Overt bleeding is visible. Occult bleeding is not visible to the eye
+and is commonly detected during evaluation of anemia or a positive
+stool test.
+
+22
+00:04:01,008 --> 00:04:13,032
+Slow chronic loss can lead to fatigue, pallor, breathlessness and
+reduced exercise tolerance. A change may seem gradual until another
+illness reduces the remaining reserve.
+
+23
+00:04:13,032 --> 00:04:24,144
+A major acute bleed can also be unrecognized because the blood has not
+yet been seen or reported. Do not confuse that situation with proof of
+a small chronic occult loss.
+
+24
+00:04:24,144 --> 00:04:36,240
+Shock findings with a compatible story require action without waiting
+for stool testing or visible blood. A field fecal test is not a
+prerequisite for stabilization or conveyance.
+
+25
+00:04:36,240 --> 00:04:47,592
+Blood loss can reduce venous return, ventricular filling and stroke
+volume. Sympathetic compensation may preserve cuff pressure through
+heart-rate and vascular changes.
+
+26
+00:04:47,592 --> 00:05:00,936
+Look at the whole pattern: pallor, skin temperature, pulse quality,
+dizziness, weakness, respiratory change and mentation. A normal
+pressure does not prove adequate organ perfusion.
+
+27
+00:05:00,936 --> 00:05:11,256
+Medicines, age, autonomic disease and baseline physiology can modify
+the pulse response. Absence of tachycardia cannot rule out hemorrhage.
+
+28
+00:05:11,256 --> 00:05:23,208
+Do not force the patient to stand to demonstrate orthostatic change or
+assign an exact blood-loss percentage from one observation. Use a safe
+supported move and repeat meaningful measurements.
+
+29
+00:05:23,208 --> 00:05:33,648
+Pulse oximetry estimates saturation of available hemoglobin. It does
+not measure how much hemoglobin is present or how much blood is
+reaching tissues.
+
+30
+00:05:33,648 --> 00:05:45,480
+A patient with anemia or low circulating volume may have a normal
+saturation and poor oxygen delivery. Interpret the number with
+perfusion, function and the bleeding story.
+
+31
+00:05:45,480 --> 00:05:58,608
+In acute blood loss, an early hemoglobin concentration may initially
+appear acceptable before redistribution and fluid effects evolve. A
+single result cannot cancel ongoing hemorrhage concern.
+
+32
+00:05:58,608 --> 00:06:10,872
+Give oxygen when indicated through the actual pathway and support
+ventilation if inadequate. Oxygen and crystalloid do not restore lost
+red-cell carrying capacity or stop the source.
+
+33
+00:06:10,872 --> 00:06:21,696
+Ask when the change began, how often blood or dark material appeared
+and whether it continues. Separate a witnessed event from a patient or
+companion report.
+
+34
+00:06:21,696 --> 00:06:33,456
+Ask about fainting, exertional breathlessness, chest discomfort,
+weakness and new confusion. These can reveal consequences even when
+the visible amount seems small.
+
+35
+00:06:33,456 --> 00:06:45,000
+Review prior ulcer or bleeding, liver disease, renal or cardiac
+illness and recent vomiting. Do not require a classic past history
+before taking a new bleed seriously.
+
+36
+00:06:45,000 --> 00:06:59,472
+Identify anticoagulants, antiplatelets and NSAIDs with the last known
+dose. Do not independently reverse or permanently discontinue a
+prescription; provide accurate information for urgent clinical review.
+
+37
+00:06:59,472 --> 00:07:09,576
+A sixty-four-year-old reports several black tarry stools and
+increasing weakness. The history includes apixaban and recent
+nonprescription ibuprofen.
+
+38
+00:07:09,576 --> 00:07:20,184
+The patient is pale, with pulse one hundred ten, breathing twenty-
+four, pressure one hundred sixteen over seventy-two and saturation
+ninety-eight on room air.
+
+39
+00:07:20,184 --> 00:07:30,408
+The patient feels faint when trying to move. The preserved pressure
+and saturation do not cancel concern about gastrointestinal bleeding
+and impaired delivery.
+
+40
+00:07:30,408 --> 00:07:42,288
+State the immediate priorities before naming the presumed source:
+supported safe positioning, primary assessment, serial perfusion
+checks, indicated care and timely conveyance.
+
+41
+00:07:42,288 --> 00:07:53,784
+Do not stand this patient to prove an orthostatic result. Explain the
+concern and plan a supported movement with the team, appropriate
+monitoring and airway equipment available.
+
+42
+00:07:53,784 --> 00:08:05,520
+Repeat airway, breathing and circulation assessment, with relevant
+glucose and abdominal examination. Track pulse quality, mental status
+and pressure with times.
+
+43
+00:08:05,520 --> 00:08:16,512
+Obtain indicated access and provide permitted support with
+reassessment. Do not delay conveyance for a perfect venous setup or to
+finish an arbitrary fluid volume.
+
+44
+00:08:16,512 --> 00:08:29,424
+Pre-alert the receiving team with suspected bleeding, anticoagulant
+and NSAID history, faintness and actual observations. Leave the exact
+source uncertain unless there is evidence to establish it.
+
+45
+00:08:29,424 --> 00:08:40,248
+Prepare suction, an emesis receptacle, suitable PPE and the airway
+equipment you can use. Active blood or vomit can rapidly alter the
+initial assessment.
+
+46
+00:08:40,248 --> 00:08:51,480
+Use a supported, tolerated position and enable drainage if vomiting,
+with injury needs respected. A mask must not prevent immediate access
+to clear the airway.
+
+47
+00:08:51,480 --> 00:09:02,376
+Check depth and effort as well as saturation. If ventilation is
+inadequate, provide effective support and early advanced help rather
+than waiting for a low oxygen number.
+
+48
+00:09:02,376 --> 00:09:14,544
+No airway device guarantees protection against aspiration. Reassess
+clearance and ventilation after any change, especially with declining
+responsiveness or continuing hematemesis.
+
+49
+00:09:14,544 --> 00:09:24,696
+Explain the examination, obtain the appropriate consent and protect
+dignity. Expose only what is needed and use a position the patient can
+tolerate.
+
+50
+00:09:24,696 --> 00:09:36,912
+Observe distention, scars, symmetry and how movement affects pain.
+Gentle assessment can identify tenderness or guarding without
+repeatedly reproducing severe pain.
+
+51
+00:09:36,912 --> 00:09:50,592
+The old deep five-to-ten-centimeter rebound instruction is not a
+routine field maneuver. Do not repeatedly press a suspected pulsatile
+mass or require a digital rectal examination to justify urgent care.
+
+52
+00:09:50,592 --> 00:10:02,208
+Bowel sounds may add information but cannot clear obstruction or
+ischemia. Document what was actually assessed and let current
+instability take priority over a lengthy examination.
+
+53
+00:10:02,208 --> 00:10:12,936
+Use serial observations with the frequency required by the patient and
+local standards. A changing pattern is more useful than one
+comfortable number copied forward.
+
+54
+00:10:12,936 --> 00:10:23,640
+Link each observation to the time, position and intervention. If the
+patient becomes confused or breathing worsens, repeat the primary
+assessment immediately.
+
+55
+00:10:23,640 --> 00:10:35,352
+Blood mixed with water, food or stool is difficult to quantify.
+Describe what you saw and give an honest estimate or uncertainty
+rather than a precise invented volume.
+
+56
+00:10:35,352 --> 00:10:45,096
+A small visible amount does not measure all hidden or previous loss.
+Likewise, a red toilet is not proof of a particular number of liters.
+
+57
+00:10:45,096 --> 00:10:55,272
+GI hemorrhage cannot usually be controlled by external pressure.
+Arrange timely definitive evaluation while supporting the current
+circulation and breathing.
+
+58
+00:10:55,272 --> 00:11:05,568
+Use indicated vascular access and the actual local fluid plan,
+comparing mentation, pulses, pressure and respiratory function after
+each step.
+
+59
+00:11:05,568 --> 00:11:19,392
+Crystalloid can support volume temporarily, but excess can dilute and
+worsen congestion. It does not replace red cells or close a bleeding
+vessel, so an empty bag is not the treatment endpoint.
+
+60
+00:11:19,392 --> 00:11:30,816
+The hospital may need blood support, endoscopic treatment or another
+source-control process. Communicate risk early rather than allowing
+minor setup tasks to consume that time.
+
+61
+00:11:30,816 --> 00:11:43,344
+Appropriate analgesia need not be withheld because it supposedly masks
+all abdominal disease. Symptom relief supports humane care while
+examination and reassessment continue.
+
+62
+00:11:43,344 --> 00:11:58,464
+Choose only an authorized option suitable for this patient. Active
+bleeding, kidney disease, allergy, interactions, impaired breathing
+and pressure can all matter; hypotension is not the only possible
+contraindication.
+
+63
+00:11:58,464 --> 00:12:09,264
+Gross abdominal distention is a current nitrous-oxide
+contraindication. Do not use a familiar pain medicine automatically
+just because it worked on a previous patient.
+
+64
+00:12:09,264 --> 00:12:21,864
+Use the indicated antiemetic and reassess, but prepare for vomiting
+despite treatment. Improvement of pain or nausea does not prove the
+dangerous underlying problem has resolved.
+
+65
+00:12:21,864 --> 00:12:32,832
+The currently checked BCEHS tranexamic-acid monograph explicitly lists
+nontraumatic gastrointestinal hemorrhage, such as a bleeding ulcer or
+varices, as a contraindication.
+
+66
+00:12:32,832 --> 00:12:42,384
+Do not borrow the trauma or maternal indication merely because this
+patient is bleeding. Cause-specific eligibility remains necessary.
+
+67
+00:12:42,384 --> 00:12:56,352
+The original HALT-IT trial did not demonstrate a reduction in bleeding
+death with its studied regimen and found more venous thromboembolic
+events. This supports avoiding a uniform all-bleeding treatment
+assumption.
+
+68
+00:12:56,352 --> 00:13:06,384
+Continue the indicated basic support, consultation and urgent
+conveyance plan. An old textbook statement about occasional use is not
+current permission.
+
+69
+00:13:06,384 --> 00:13:16,512
+A mechanical obstruction physically limits passage. Causes can be
+within the lumen, in the bowel wall or outside it, including adhesions
+from prior surgery.
+
+70
+00:13:16,512 --> 00:13:25,200
+A hernia can trap bowel, and a twisted segment or closed loop can
+threaten the blood supply as well as the passage of contents.
+
+71
+00:13:25,200 --> 00:13:37,920
+Fluid and gas collect upstream, increasing distention and vomiting
+risk. The location and completeness influence the pattern, but field
+symptoms cannot define the anatomy precisely.
+
+72
+00:13:37,920 --> 00:13:46,584
+Ask about prior surgery, hernia and previous obstruction. A patient
+without those histories can still have a serious obstruction.
+
+73
+00:13:46,584 --> 00:13:58,848
+Functional ileus means impaired bowel propulsion without a single
+physical blockage. Surgery, systemic illness, medicines and
+electrolyte problems can contribute.
+
+74
+00:13:58,848 --> 00:14:11,736
+Distention, discomfort, nausea, vomiting and reduced bowel output can
+resemble mechanical obstruction. Quiet bowel sounds do not establish
+which mechanism is present.
+
+75
+00:14:11,736 --> 00:14:23,232
+Both need evaluation in the right clinical context, with immediate
+support for airway, perfusion and other deterioration. Do not assume
+the functional label makes the patient safe.
+
+76
+00:14:23,232 --> 00:14:33,192
+The school small-versus-large pattern comparison is useful
+preparation. Keep it separate from claiming that examination alone has
+excluded a surgical cause.
+
+77
+00:14:33,192 --> 00:14:44,808
+Small-bowel obstruction often relates to adhesions or hernia. Crampy
+pain reflects contractions against resistance, and vomiting may be an
+early prominent symptom.
+
+78
+00:14:44,808 --> 00:14:56,088
+The more proximal the obstruction, the less dramatic the abdominal
+distention may initially be. A flat-looking abdomen cannot exclude a
+dangerous upper small-bowel problem.
+
+79
+00:14:56,088 --> 00:15:08,064
+Losses through vomiting and sequestration can reduce effective volume.
+Ask about intake, emesis, urine and the time course rather than only
+counting visible episodes.
+
+80
+00:15:08,064 --> 00:15:19,056
+A change from intermittent cramps to severe continuous pain is
+concerning, especially with tenderness or poor perfusion. It is not
+necessary to wait for feculent vomiting.
+
+81
+00:15:19,056 --> 00:15:30,432
+Large-bowel obstruction can relate to a colorectal tumor, a volvulus
+or a stricture. There may be a gradual bowel-habit change, although
+some causes present suddenly.
+
+82
+00:15:30,432 --> 00:15:40,464
+Distention is often marked, with reduced stool or flatus. Vomiting may
+be less prominent early than in a proximal small-bowel obstruction.
+
+83
+00:15:40,464 --> 00:15:52,224
+These are tendencies, not a checklist that safely identifies the
+segment. Severe distention and deterioration can require urgent
+evaluation even with little vomiting.
+
+84
+00:15:52,224 --> 00:16:03,072
+Do not label large-bowel obstruction slow and therefore safe.
+Ischemia, perforation, aspiration and shock can occur in either broad
+category.
+
+85
+00:16:03,072 --> 00:16:15,480
+Partial obstruction may permit some passage, and stool already beyond
+a new blockage can still be passed. A recent bowel movement or a small
+episode of diarrhea does not exclude obstruction.
+
+86
+00:16:15,480 --> 00:16:27,264
+Similarly, hearing bowel sounds does not prove normal passage, while
+not hearing them briefly does not establish paralysis. The noisy
+environment further limits confidence.
+
+87
+00:16:27,264 --> 00:16:37,584
+Ask about the last normal stool and flatus, not only whether anything
+passed. Compare that with distention, pain, vomiting, surgery and the
+clinical trend.
+
+88
+00:16:37,584 --> 00:16:47,064
+Do not delay necessary transport for prolonged auscultation or assume
+symptom improvement after an antiemetic has removed a mechanical
+problem.
+
+89
+00:16:47,064 --> 00:16:57,552
+The gut normally handles large amounts of fluid through secretion and
+absorption. Obstruction changes movement and absorption, with fluid
+accumulating upstream.
+
+90
+00:16:57,552 --> 00:17:08,520
+Fluid can become sequestered in the lumen and edematous bowel wall.
+The school calls this third spacing: fluid is unavailable to maintain
+effective circulation.
+
+91
+00:17:08,520 --> 00:17:18,552
+Vomiting adds external water and electrolyte loss. A distended abdomen
+therefore does not prove the person has sufficient circulating volume.
+
+92
+00:17:18,552 --> 00:17:31,368
+Assess perfusion and breathing, and provide only the indicated
+response-directed support. The diagram explains risk; it does not
+prescribe one fluid dose for every distended patient.
+
+93
+00:17:31,368 --> 00:17:41,568
+Increasing pressure or a trapped loop can impede venous drainage.
+Swelling can further impair perfusion, and arterial supply may become
+inadequate.
+
+94
+00:17:41,568 --> 00:17:53,400
+This can produce ischemia and eventually tissue necrosis. A
+strangulated hernia or closed-loop process may threaten blood flow
+before the typical full symptom pattern appears.
+
+95
+00:17:53,400 --> 00:18:07,776
+Concerning change includes severe continuous pain, tenderness,
+guarding, worsening perfusion or altered function. Normal temperature
+and a soft abdomen do not guarantee that ischemia is absent.
+
+96
+00:18:07,776 --> 00:18:19,320
+The field task is urgent recognition and escalation, not proving every
+surgical mechanism. Do not force a painful hernia back or wait for a
+dramatic late abdomen.
+
+97
+00:18:19,320 --> 00:18:32,256
+A compromised bowel wall can perforate, allowing irritating contents
+and bacteria into the peritoneal cavity. Peritonitis is inflammation
+of that lining and can have several causes.
+
+98
+00:18:32,256 --> 00:18:42,960
+Pain may become persistent and worsen with movement, with tenderness
+or guarding. Do not deliberately reproduce repeated rebound pain to
+prove the emergency.
+
+99
+00:18:42,960 --> 00:18:55,512
+Inflammation, leakage, infection and poor circulation can overlap. A
+patient may be deteriorating before fever, rigid abdomen or critical
+hypotension becomes obvious.
+
+100
+00:18:55,512 --> 00:19:07,320
+Request appropriate help, prepare airway and perfusion support and
+notify the receiving team early. Absence of one classic sign should
+not postpone definitive assessment.
+
+101
+00:19:07,320 --> 00:19:17,472
+Establish the pain onset and whether cramps have changed to persistent
+severe pain. Ask how vomiting, distention and output evolved together.
+
+102
+00:19:17,472 --> 00:19:29,424
+Ask about the last normal stool and flatus, the character of vomit,
+intake and urine. Avoid treating one bowel movement or one normal
+temperature as reassurance.
+
+103
+00:19:29,424 --> 00:19:42,456
+Ask about surgery, hernia, cancer, ostomy and prior episodes, with the
+actual baseline. The patient may know their anatomy and device plan
+better than a generic label describes.
+
+104
+00:19:42,456 --> 00:19:54,840
+Review illness and medication changes, especially agents that affect
+motility or fluid balance. Use this information to refine the problem,
+not to declare its cause from a single clue.
+
+105
+00:19:54,840 --> 00:20:05,208
+A fifty-three-year-old with prior abdominal surgery has crampy pain,
+repeated vomiting and increasing distention. There was a small loose
+stool eight hours ago.
+
+106
+00:20:05,208 --> 00:20:15,672
+Now flatus and urine are reduced. Pulse is one hundred twelve,
+pressure one hundred eight over sixty-eight and temperature thirty-
+seven point one.
+
+107
+00:20:15,672 --> 00:20:26,160
+The small stool does not exclude partial or newly developing
+obstruction. The loss history and reduced urine raise concern about
+effective volume and renal perfusion.
+
+108
+00:20:26,160 --> 00:20:40,008
+Assess current ABCs, perfusion, pain and relevant glucose/rhythm,
+support safely and arrange timely evaluation. Do not give a laxative
+or a trial meal to test the diagnosis.
+
+109
+00:20:40,008 --> 00:20:53,592
+During preparation, pain becomes severe and constant, tenderness
+increases and the patient looks paler. Pulse rises to one hundred
+twenty-four and pressure falls to ninety-six over sixty.
+
+110
+00:20:53,592 --> 00:21:05,760
+This worsening trend matters more than the earlier normal temperature
+or small stool. Possible ischemia, perforation, volume loss and
+another cause must remain open.
+
+111
+00:21:05,760 --> 00:21:17,496
+Repeat the primary assessment, provide indicated support and seek
+advanced resources without delaying urgent conveyance. Update the
+receiving team with the change and concern.
+
+112
+00:21:17,496 --> 00:21:28,608
+A field label cannot establish whether surgery is needed. The safe
+decision is urgent definitive assessment, with actual treatment and
+response documented en route.
+
+113
+00:21:28,608 --> 00:21:40,848
+Prepare for further vomiting with suction and safe positioning. Assess
+airway protection and effective ventilation repeatedly, especially if
+the patient becomes fatigued or confused.
+
+114
+00:21:40,848 --> 00:21:52,752
+Use indicated access and fluid support according to the current local
+plan. Reassess perfusion and breathing because congestion risk or
+another diagnosis may alter the response.
+
+115
+00:21:52,752 --> 00:22:04,584
+Provide authorized, appropriate symptom relief rather than withholding
+all medication out of fear of masking. Improvement of nausea does not
+remove the need for evaluation.
+
+116
+00:22:04,584 --> 00:22:18,792
+Red flags such as persistent severe pain, peritoneal concern, shock or
+altered function require early escalation and notification. Definitive
+decompression or surgery belongs to the appropriate clinical setting.
+
+117
+00:22:18,792 --> 00:22:28,968
+Withhold routine food and drink in suspected obstruction or active
+vomiting while arranging clinical evaluation. Do not try to flush the
+blockage with water.
+
+118
+00:22:28,968 --> 00:22:40,128
+Do not improvise laxatives, enemas or forceful reduction of a painful
+hernia. A suspected blockage needs proper evaluation, not a trial to
+provoke output.
+
+119
+00:22:40,128 --> 00:22:51,264
+Gross distention excludes nitrous oxide in current local guidance.
+Hospital NG decompression is not a blanket independent PCP insertion
+instruction.
+
+120
+00:22:51,264 --> 00:23:03,648
+Nothing-by-mouth precautions do not mean ignoring a separate time-
+critical threat. Use the appropriate safe route and clinical advice
+for essential indicated treatment, including a glucose emergency.
+
+121
+00:23:03,648 --> 00:23:15,216
+Ask about the actual device, purpose and normal output. An ileostomy,
+colostomy, urinary diversion, catheter or feeding tube does not tell
+you the whole anatomy from its name.
+
+122
+00:23:15,216 --> 00:23:25,176
+Trace visible tubing and check for traction, a kink or a collection
+problem within your competence. Reassess the patient even if one
+external problem is found.
+
+123
+00:23:25,176 --> 00:23:36,768
+Do not break a closed system, feed through an unverified tube or
+remove a drain simply to simplify transport. Secure and support the
+actual system according to its plan.
+
+124
+00:23:36,768 --> 00:23:50,136
+A new cessation of output with pain, distention, bleeding or
+deterioration needs urgent review. The paired CPSC guide connects
+these observations with safe transfer and device boundaries.
+
+125
+00:23:50,136 --> 00:24:02,376
+Abdominal symptoms can arise from aortic disease, impaired bowel blood
+flow or another vascular emergency. A pulsatile mass or unequal arm
+pressures are not mandatory findings.
+
+126
+00:24:02,376 --> 00:24:17,280
+ACS can present with epigastric discomfort, nausea or weakness. Obtain
+indicated ECG and cardiac assessment without assuming every abdominal
+patient should automatically receive aspirin or nitrate.
+
+127
+00:24:17,280 --> 00:24:29,136
+Consider pregnancy-related bleeding, pelvic disease, urinary retention
+and renal illness when relevant. Ask respectfully about the actual
+anatomy, dates and symptoms.
+
+128
+00:24:29,136 --> 00:24:41,712
+Check glucose when indicated and keep infection and other metabolic
+causes open. A GI symptom label cannot explain away new focal
+neurology or impaired consciousness.
+
+129
+00:24:41,712 --> 00:24:54,000
+Older, immunosuppressed or neuropathic patients may have less obvious
+pain, fever or abdominal signs. A subtle examination can coexist with
+serious disease.
+
+130
+00:24:54,000 --> 00:25:03,696
+Cardiac, kidney and liver disease can reduce reserve and complicate
+fluids or medicines. Ask what has changed from the individual
+baseline.
+
+131
+00:25:03,696 --> 00:25:15,792
+Use accessible communication and appropriate interpretation, with a
+chosen support person when agreed. Do not equate difficulty giving a
+history with incapacity or dismiss the report.
+
+132
+00:25:15,792 --> 00:25:27,864
+Support dignity during soiling or vomiting and document factual
+findings. Treatment urgency should reflect clinical need rather than
+age stereotypes or embarrassment about symptoms.
+
+133
+00:25:27,864 --> 00:25:39,984
+A bleed can reduce effective volume and renal perfusion. Obstruction
+can add vomiting and sequestration, producing a similar urine-history
+clue through a different initial mechanism.
+
+134
+00:25:39,984 --> 00:25:49,752
+If ischemia or perforation develops, inflammation and infection can
+add. Do not assume that one shock label contains the entire
+explanation.
+
+135
+00:25:49,752 --> 00:26:02,040
+The priorities remain current airway, ventilation and perfusion, with
+cause-sensitive permitted care and prompt definitive evaluation.
+Response must be measured, not promised.
+
+136
+00:26:02,040 --> 00:26:14,280
+Ask What Else when findings or response do not fit. Examples include
+aortic disease, cardiac ischemia, ectopic bleeding, glucose
+disturbance or a toxic exposure.
+
+137
+00:26:14,280 --> 00:26:23,568
+Lead with the current concern, such as suspected GI hemorrhage with
+near-syncope or possible obstruction with worsening constant pain and
+perfusion.
+
+138
+00:26:23,568 --> 00:26:33,456
+Include the symptom timeline, medicines, comorbidities and actual loss
+description. Make clear which findings were observed and which were
+reported.
+
+139
+00:26:33,456 --> 00:26:46,224
+State serial values and function, the interventions with times and the
+actual response. A pressure trend and change in mentation can be more
+useful than an invented source certainty.
+
+140
+00:26:46,224 --> 00:26:57,168
+Give the arrival estimate and requested preparation, with remaining
+uncertainty. Update the alert if bleeding, breathing or perfusion
+changes during conveyance.
+
+141
+00:26:57,168 --> 00:27:07,800
+For the bleeding case, explain why melena supports concern but does
+not prove a source, and why normal pressure and saturation do not
+establish adequate delivery.
+
+142
+00:27:07,800 --> 00:27:17,832
+For the obstruction case, explain why a recent small stool does not
+clear it, and how a larger bowel can be accompanied by reduced
+effective circulating volume.
+
+143
+00:27:17,832 --> 00:27:28,152
+State the safe examination, immediate support, medication checks and
+transport priority. Include an action you will avoid and the specific
+reason.
+
+144
+00:27:28,152 --> 00:27:40,224
+Then explain how worsening constant pain, altered function, new airway
+difficulty or a poor response changes urgency. Use the paired reading
+to repair any missing mechanism.
+
+145
+00:27:40,224 --> 00:28:28,440
+Correct the source drop-factor unit: tubing calibration is drops per
+milliliter, not drops per minute. For gravity, drops/minute equals
+milliliters/hour times drops/milliliter divided by sixty. Original
+calculation: an authorized 87 mL/hour through a verified 15 drops/mL
+set gives 21.75, approximately 22 drops/minute using the trained
+rounding method. Count over a full minute and verify the patient and
+delivered volume. A pump uses mL/hour; do not enter 22 as its rate or
+infer the set calibration from its appearance. An arithmetic answer
+does not establish that fluid is indicated.
+
+146
+00:28:28,440 --> 00:29:10,608
+Gravity flow changes with bag height, patient position, bends, lumen
+diameter, viscosity, clamp movement and infiltration. Reassess after
+the arm or stretcher moves; an initially correct clamp setting is not
+a guarantee. The dated source TKVO20-50 mL/hour, fixed cannula-change
+intervals and 24-hour bag statements are source/agency examples, not
+one universal field rate or a proof of sterility until a deadline.
+Distinguish product expiry, time since access and contamination.
+Clinical condition, actual device instructions and the prescribed plan
+determine action.
+
+147
+00:29:10,608 --> 00:30:00,456
+If a transfusion reaction is suspected, stop the suspected transfusion
+and obtain the immediate clinical/transfusion-service response while
+supporting ABCs. Preserve necessary vascular access using the
+authorized compatible plan; do not flush the remaining suspect blood
+into the patient. Recheck identity, document
+product/times/symptoms/response and preserve the bag/set for the
+investigation process. The source mild-fever continuation note is not
+permission to continue or restart without assessment and an explicit
+treating-team plan. Its IV-epinephrine equipment sentence is not an
+ordinary PCP IV epinephrine order; use the actual local pathway for a
+recognized anaphylactic threat.
+
+148
+00:30:00,456 --> 00:30:43,056
+Original integration: a patient with abdominal illness, a central line
+and a nutrition infusion develops a new fever and reduced
+responsiveness during transfer. Do not assume the line alone proves
+bloodstream infection or that stopping every infusion is harmless.
+Support immediate physiology, check glucose, compare actual baseline
+and inspect the visible system. Obtain a trained plan for any
+suspected source or critical-infusion interruption and arrange urgent
+evaluation. Handover includes every route/product/rate, last known
+normal function, new findings, actions, response and remaining
+uncertainty.
+
+149
+00:30:43,056 --> 00:30:53,304
+You should now describe the school upper/lower bleeding framework,
+major causes, overt and occult loss and important exceptions to color-
+based assumptions.
+
+150
+00:30:53,304 --> 00:31:05,544
+You should compare small and large bowel patterns, explain third
+spacing and recognize possible ischemia, perforation and systemic
+deterioration without demanding every classic sign.
+
+151
+00:31:05,544 --> 00:31:16,872
+Your care plan should protect airway and perfusion, relieve symptoms
+safely, avoid unnecessary provocation and use the actual local drug
+and procedure boundaries.
+
+152
+00:31:16,872 --> 00:31:28,992
+Finish with an accurate changing-patient handover and the bilingual
+reading, then move to the school endocrine and integrated medical
+requirements. Practical competence still needs supervised performance.

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 450" role="img" aria-labelledby="t d">
+  <title id="t">Where the end-tidal sample comes from</title>
+  <desc id="d">One idealized time capnogram progresses from low-carbon-dioxide early expiration to an upstroke and alveolar plateau. The end-expiratory value precedes the inspiratory fall.</desc>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 10 5 0 10Z" fill="#52758e"/></marker></defs>
+  <rect width="1100" height="450" rx="20" fill="#f2f6fc"/>
+  <g font-family="Arial,sans-serif" fill="#173047">
+    <text x="550" y="36" text-anchor="middle" font-size="25" font-weight="700">ONE IDEALIZED BREATH: TIME CAPNOGRAM</text>
+    <text x="28" y="218" transform="rotate(-90 28 218)" text-anchor="middle" font-size="20">Sampled CO2 (relative)</text>
+    <text x="1040" y="354" text-anchor="end" font-size="20">Time</text><text x="68" y="327" font-size="18">0</text>
+    <text x="180" y="280" text-anchor="middle" font-size="19">Early expiration</text>
+    <text x="306" y="191" text-anchor="middle" font-size="19">Upstroke</text>
+    <text x="534" y="88" text-anchor="middle" font-size="20">Alveolar plateau</text>
+    <text x="854" y="190" text-anchor="middle" font-size="19">Inspiration</text>
+    <text x="837" y="78" text-anchor="middle" font-size="21" font-weight="700" fill="#9b4536">END-TIDAL SAMPLE</text>
+    <text x="550" y="410" text-anchor="middle" font-size="20">Shape and endpoint shown for explanation, not a diagnostic cutoff.</text>
+  </g>
+  <g stroke="#a6bfd1" stroke-width="2" fill="none"><path d="M90 65V322H1040"/><path d="M90 114H1035" stroke-dasharray="5 7"/></g>
+  <path d="M95 318H246C275 318 290 314 304 289C330 244 342 180 370 142C392 119 411 117 440 116L700 99L724 95L756 318H1030" fill="none" stroke="#15567e" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="724" cy="95" r="7" fill="#b0523c"/>
+  <g stroke="#52758e" stroke-width="2" fill="none" marker-end="url(#a)"><path d="M805 85L740 95"/><path d="M840 204L754 281"/><path d="M306 201L337 217"/><path d="M534 97L534 112"/></g>
+</svg>

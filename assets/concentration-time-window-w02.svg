@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520" role="img" aria-labelledby="title desc">
+  <title id="title">Concentration, thresholds and time are different questions</title>
+  <desc id="desc">An illustrative single-dose concentration curve crosses an example minimum effective threshold, peaks, and falls below it. A shaded band lies between example effective and adverse-response thresholds. The band is not a therapeutic-index ratio or an individual redosing instruction.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#284d5d"/></marker></defs>
+  <rect width="1100" height="520" fill="#fffdf8"/>
+  <g font-family="Arial, sans-serif" fill="#17384b">
+    <text x="34" y="43" font-size="27">Concentration, thresholds and time</text>
+    <text x="34" y="76" font-size="18">Illustrative single-dose curve: no actual dose, units, patient values or fixed redosing time.</text>
+    <rect x="90" y="155" width="650" height="145" fill="#e4f2eb"/>
+    <path d="M90 110 V380 H755" fill="none" stroke="#284d5d" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M90 155 H740 M90 300 H740" fill="none" stroke="#638875" stroke-dasharray="7 5" stroke-width="2"/>
+    <path d="M90 370 C140 345 170 245 230 210 C315 167 405 220 460 270 C520 320 620 350 740 365" fill="none" stroke="#b85f30" stroke-width="5"/>
+    <path d="M160 300 V380 M500 300 V380" stroke="#284d5d" stroke-dasharray="5 4" fill="none"/>
+    <path d="M165 335 H495" stroke="#284d5d" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+    <text x="213" y="326" font-size="17">Time above example effective threshold</text>
+    <text x="102" y="145" font-size="17">Example adverse-response threshold</text>
+    <text x="102" y="290" font-size="17">Example minimum effective threshold</text>
+    <text x="265" y="179" font-size="17">Peak concentration</text>
+    <text x="115" y="408" font-size="17">Onset crossing</text>
+    <text x="458" y="408" font-size="17">Later crossing</text>
+    <text x="626" y="435" font-size="20">Time</text>
+    <text x="34" y="330" transform="rotate(-90 34 330)" font-size="20">Plasma concentration</text>
+    <rect x="795" y="116" width="267" height="95" rx="10" fill="#e8f0f6"/>
+    <text x="811" y="145" font-size="19">Concentration is not effect</text>
+    <text x="811" y="176" font-size="16">Effect can lag behind this curve.</text>
+    <rect x="795" y="228" width="267" height="95" rx="10" fill="#f5ebdf"/>
+    <text x="811" y="257" font-size="19">Band is not a ratio</text>
+    <text x="811" y="288" font-size="16">Window and index differ.</text>
+    <rect x="795" y="340" width="267" height="95" rx="10" fill="#eeeafa"/>
+    <text x="811" y="369" font-size="19">Reassess the person</text>
+    <text x="811" y="400" font-size="16">No automatic safe waiting period.</text>
+    <text x="34" y="483" font-size="17">Original concept schematic. Real thresholds vary; mixed exposures and active metabolites can change the clinical course.</text>
+  </g>
+</svg>

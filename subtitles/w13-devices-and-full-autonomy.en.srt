@@ -1,0 +1,945 @@
+1
+00:00:00,000 --> 00:00:14,544
+Full autonomy does not mean doing every possible procedure. It means
+taking responsibility for noticing the whole situation, stating the
+priority, selecting an authorized next step and checking the result
+without waiting for prompts.
+
+2
+00:00:14,544 --> 00:00:32,760
+Before acting, name the patient’s immediate needs, the device concern,
+what is unknown and which resource or provider can help. A nurse’s or
+advanced practitioner’s device procedure does not transfer to a PCP
+just because it appears in a textbook or training scenario.
+
+3
+00:00:32,760 --> 00:00:53,136
+The Week 13 school objective says not to remove or reposition a device
+unless there is an immediate life threat. Apply that instruction to
+this learning scenario. It is not a blanket clinical rule for every
+device; current device-specific guidance, provider scope and service
+direction govern actual practice.
+
+4
+00:00:53,136 --> 00:01:10,992
+If an immediate threat develops, act only within a current pathway,
+your licence and applicable rescue training. This lecture does not
+teach tube insertion, catheter flushing, replacement or adjustment.
+Use direct instructor supervision for any hands-on device lab.
+
+5
+00:01:10,992 --> 00:01:28,656
+A 55-year-old woman at home has new abdominal pain and nausea. A
+family member reports that her feeding tube shifted while she was
+being moved. The patient looks uncomfortable, and there is moisture
+near the dressing; no one can confirm when the tube was last used.
+
+6
+00:01:28,656 --> 00:01:53,952
+This original case follows the school objective without reproducing a
+web case stem. Do not use, remove or reposition the displaced tube.
+Assess airway, breathing, circulation, pain, abdominal appearance and
+any systemic change; obtain the device name, baseline and last-use
+history, then follow current guidance and arrange appropriate
+escalation.
+
+7
+00:01:53,952 --> 00:02:12,888
+Report the actual device label or the caregiver’s description, where
+it enters or exits, the visible external length if marked, and what
+has changed. Observe the site without advancing, rotating, flushing or
+testing patency. Do not infer internal placement from appearance.
+
+8
+00:02:12,888 --> 00:02:32,856
+Abdominal pain plus leakage, increasing tenderness, fever, vomiting,
+distension or deteriorating perfusion raises concern and requires
+prompt assessment. These findings do not prove peritonitis or sepsis;
+use the current abdominal-pain or sepsis pathway and communicate the
+uncertainty.
+
+9
+00:02:32,856 --> 00:02:52,224
+A long-term-care resident has become newly confused and weak. Staff
+report that little urine has entered the drainage bag over several
+hours; the urine looks darker than usual, and they believe the
+catheter may be blocked. The patient is warm, breathing faster than
+usual and less interactive.
+
+10
+00:02:52,224 --> 00:03:14,880
+The device may be part of the story, but the patient’s systemic change
+is the priority. Obtain the time course, baseline cognition, observed
+output and device history; assess perfusion and other sepsis cues,
+follow the current sepsis pathway and request appropriate support. Do
+not manipulate the catheter without current authorization and
+direction.
+
+11
+00:03:14,880 --> 00:03:30,816
+Low volume in the collection bag describes drainage, not a confirmed
+measure of kidney urine production. Consider the time interval,
+baseline, possible leakage or obstruction and other illness; do not
+infer one cause from the bag alone.
+
+12
+00:03:30,816 --> 00:03:44,016
+Urine colour, smell or appearance alone is not a diagnosis of urinary
+infection or sepsis. Assess the whole patient and escalate through the
+current pathway rather than manipulating the device.
+
+13
+00:03:44,016 --> 00:03:59,736
+Look for a change from baseline and combine respiratory effort,
+perfusion, mental status, measured observations and the patient’s
+story. If the patient is deteriorating, communicate that urgency
+before discussing device troubleshooting.
+
+14
+00:03:59,736 --> 00:04:15,912
+A useful handover describes the device in neutral terms: name or type
+if known, when it last functioned normally, what output was seen and
+what the caregiver observed. Attribute information to its source and
+distinguish measured output from estimates.
+
+15
+00:04:15,912 --> 00:04:31,800
+Also report the patient’s baseline and change, site findings, relevant
+medicines or recent feeding, consultation, and the reason the device
+was left in place. A device status is part of the handover, not a
+replacement for a full patient assessment.
+
+16
+00:04:31,800 --> 00:04:46,344
+The school weekend asks learners to manage two patients
+simultaneously. State which person has the most time-critical threat
+and why, assign a named partner to the other patient, and tell both
+teams when to report a change.
+
+17
+00:04:46,344 --> 00:05:01,560
+A plan is not autonomous if the second patient disappears from
+attention. Use a timer or spoken check-back, delegate repeat
+observations within training and request another crew or clinical
+support when available capacity is insufficient.
+
+18
+00:05:01,560 --> 00:05:30,624
+Return to the patient with the displaced feeding tube. The patient is
+worried about missing nutrition, while a family member wants the crew
+to put the tube back immediately. First hear the patient's own concern
+and assess the current symptoms. The school's patient-centered-care
+reading treats the patient as a team member with physical, emotional
+and social needs, not as the object of a device repair. Respect the
+concern without promising an unsafe or unauthorized intervention.
+
+19
+00:05:30,624 --> 00:06:04,056
+Explain what you observed, what remains uncertain and what safe
+assessment, support or consultation you can offer. Invite the
+patient's preferences and ask them to explain the agreed next step in
+their own words. A nod or a relative's answer does not establish
+understanding. Language, hearing, vision or literacy barriers call for
+suitable support; they are not automatic evidence of incapacity.
+Patient-centered communication is a clinical action, not a promise
+that every requested treatment will be provided.
+
+20
+00:06:04,056 --> 00:06:35,616
+In our original variation, the patient accepts examination but says
+they do not want the tube handled and are unsure about transport.
+Clarify each decision rather than documenting refuses everything. Use
+the applicable consent and refusal framework, explain the risks and
+reasonable alternatives, assess the relevant ability and seek required
+consultation. A family majority, a psychiatric history or the fact
+that the choice worries you does not by itself remove the patient's
+authority.
+
+21
+00:06:35,616 --> 00:07:04,800
+Continue care that is accepted and authorized while resolving
+uncertainty. The reading's potential benefits include trust, error
+prevention, self-management and a more feasible plan; they are not
+guarantees of compliance or recovery. Check whether the patient can
+obtain the agreed help and what support is actually available. A plan
+that looks correct on a form can still fail if no one understands it
+or the next service has not accepted responsibility.
+
+22
+00:07:04,800 --> 00:07:36,672
+While you discuss the feeding-tube problem, the second patient's
+catheter pain increases. Assign an appropriate colleague to assess
+that person and report actual findings, not just to watch them. Retain
+an overview of both patients and change priority if systemic
+deterioration appears. The nursing text's delegation carryover
+emphasizes supervision and evaluation, but the actual PCP licence,
+competence and service policy determine what may be assigned. Giving a
+task does not erase the need for feedback.
+
+23
+00:07:36,672 --> 00:08:08,928
+The collaborative-care reading identifies organized communication,
+effective protected data sharing, simplified referrals and coordinated
+scheduling. Together they reduce gaps between people and services. Ask
+for the expertise the problem needs, communicate urgency and confirm a
+feasible next step. A referral message sent is not an accepted
+appointment, and a portal upload is not an accepted clinical handover.
+State who is coordinating the plan and who will act if the patient
+changes.
+
+24
+00:08:08,928 --> 00:08:42,384
+At handover, give the device type and observed status, symptoms and
+trends, actions and response, the patient's actual decisions and
+remaining uncertainty. Confirm the receiving capability and explicit
+acceptance. Use the secure authorized record route, but do not mistake
+copying a medication list for reconciling it or assume every team
+member needs the entire record. Transparent communication includes
+correcting uncertainty and inaccuracy rather than disguising them with
+confident wording.
+
+25
+00:08:42,384 --> 00:09:13,296
+During debrief, compare the intended plan with what both patients and
+the team actually understood and did. Did communication uncover a
+safety issue? Was the agreed service accessible? Did the second
+patient receive a real assessment? Could the receiving clinician
+follow the reasoning? Potential convenience and resource savings
+should be evaluated, not promised. The school's timed PCR target does
+not justify omitting an unresolved clinical concern or an unaccepted
+transition.
+
+26
+00:09:13,296 --> 00:09:33,480
+Before any medication action, verify the patient, medication identity,
+strength, indication, route, calculated amount, timing, allergy status
+and expiry using the current service monograph and policy. Visually
+inspect the product and use the required label if it is removed from
+its package.
+
+27
+00:09:33,480 --> 00:09:51,360
+A mnemonic is not a substitute for an authorized indication, a correct
+calculation, consultation or documented administration. If the drug,
+patient, dose or route is uncertain, pause and resolve the uncertainty
+with the approved resource instead of guessing.
+
+28
+00:09:51,360 --> 00:10:07,920
+Medication errors and near misses are safety signals. Follow the
+service reporting process, document the patient response and notify
+the appropriate clinical lead. This lesson does not replace
+medication-math gating or hands-on competency assessment.
+
+29
+00:10:07,920 --> 00:10:26,376
+Nausea may accompany serious conditions, including acute coronary
+syndrome, stroke, sepsis, glucose disturbance, gastrointestinal
+bleeding, toxic exposure or pregnancy. Assess the patient and likely
+cause rather than treating nausea as a stand-alone problem.
+
+30
+00:10:26,376 --> 00:10:48,456
+BCEHS E07 lists provider-level antiemetic options, including PCP
+options. Before administration, follow current monographs, training,
+indication, contraindications, dose and route. The school reading on
+antiemetics does not authorize any drug outside the learner’s current
+licence and service direction.
+
+31
+00:10:48,456 --> 00:11:02,856
+After symptom treatment, reassess nausea, hydration, airway risk,
+mental status and the underlying concern. Improvement in one symptom
+does not prove the dangerous cause has been excluded.
+
+32
+00:11:02,856 --> 00:11:19,896
+Valve stenosis limits forward flow through an opening; regurgitation
+allows blood to move backward through an incompletely closed valve.
+Either can alter cardiac workload and may contribute to reduced
+exercise tolerance, dyspnea, fatigue or syncope.
+
+33
+00:11:19,896 --> 00:11:36,984
+A murmur is a sound produced by turbulent flow, not a measurement of
+how severe the disease is or what is causing today’s symptoms. Ask
+about known history and change from baseline; assess current perfusion
+and follow the applicable cardiac pathway.
+
+34
+00:11:36,984 --> 00:11:56,784
+The sympathetic nervous system supports rapid responses such as
+increased heart rate and vascular tone; parasympathetic influence
+supports restorative functions. Pain, fear, hypoxia or shock may
+activate a stress response, but tachycardia alone does not identify
+which cause is present.
+
+35
+00:11:56,784 --> 00:12:15,072
+Fluid balance affects circulation and may be influenced by intake,
+losses, renal function and medication. Acid-base balance is linked to
+carbon dioxide managed by ventilation and bicarbonate regulated by the
+kidneys; respiratory and metabolic disturbances can interact.
+
+36
+00:12:15,072 --> 00:12:29,184
+Use these mechanisms to ask better questions about vomiting, fluid
+intake, medications and baseline disease. They do not allow a
+prehospital learner to infer an arterial blood gas or prescribe fluid
+from a vague symptom.
+
+37
+00:12:29,184 --> 00:13:02,952
+Return to the two device patients. Pain, fear, medicines and illness
+can all change autonomic activity. Follow the circuit: sympathetic
+outflow is thoracolumbar; parasympathetic outflow is craniosacral.
+Both use acetylcholine at the ganglion, while the transmitter and
+receptor at the organ determine the effect. The adrenal medulla adds a
+circulating catecholamine signal. A large pupil or fast pulse is a
+finding to interpret, not a specific drug or disease diagnosis.
+
+38
+00:13:02,952 --> 00:13:37,296
+Connect the mechanism to the complaint. Alpha, beta and muscarinic
+effects differ between vessels, heart, airway, glands and smooth
+muscle. A medicine can therefore improve one intended symptom while
+affecting circulation, alertness or bladder function. Check the actual
+product, timing and patient response. For a patient who becomes dizzy
+with movement, compare volume, posture, pulse and perfusion rather
+than explaining everything as anxiety or assuming the autonomic reflex
+worked normally.
+
+39
+00:13:37,296 --> 00:14:12,288
+Most body water is within cells; extracellular water includes
+interstitial fluid and plasma. Sodium and potassium have different
+relative distributions, and cell membranes determine movement. Edema
+in one compartment does not prove adequate circulating volume. Thirst,
+antidiuretic hormone, renal handling and renin-angiotensin-aldosterone
+signaling regulate water and electrolytes over different timescales.
+These mechanisms help explain the findings but do not supply an
+unmeasured electrolyte result.
+
+40
+00:14:12,288 --> 00:14:45,864
+In the feeding-tube case, ask about actual intake, vomiting and other
+losses. In the catheter case, low collected urine may reflect reduced
+production, obstruction, displacement or a collection problem. Examine
+the patient and observed device status before attributing the number
+to kidney failure. A fluid calculation or a normal pressure does not
+prove that a bolus is indicated. Follow the current authorized pathway
+and evaluate the response, including any sign that breathing or
+perfusion worsens.
+
+41
+00:14:45,864 --> 00:15:21,624
+The bicarbonate and carbon dioxide relationship links lung and kidney
+function. Reduced alveolar ventilation can raise carbon dioxide and
+favor respiratory acidosis; increased elimination can favor
+respiratory alkalosis. Added metabolic acid or bicarbonate loss can
+cause metabolic acidosis, while gastric acid loss may favor metabolic
+alkalosis. Compensation moves pH toward baseline but does not
+establish cure, and two primary problems can coexist. Rate alone does
+not measure effective ventilation.
+
+42
+00:15:21,624 --> 00:15:55,968
+A vomiting patient with deep breathing needs an assessment, not an
+automatic acid-base label. Compare illness, intake, glucose as
+indicated, renal history, medicines, possible exposures and the
+respiratory and perfusion trends. When interpreting a blood-gas
+result, preserve arterial or venous sample identity, time and
+treatment context; a normal pH can conceal competing processes.
+Explain what would increase urgency and request the appropriate
+resources while immediate support continues.
+
+43
+00:15:55,968 --> 00:16:33,504
+The CPSC reading has two tracks: the literal assigned pages concern
+drains, while the named Chapter six framework concerns medicine
+safety. For our nauseated patient, begin with the current indication
+and patient assessment. Check allergies by reaction, relevant
+medicines, product and formulation, dose units, route,
+contraindications and the required monitoring. Prepare for one patient
+at a time and protect the preparation from avoidable interruption. An
+unknown syringe or an unclear instruction must be resolved before use.
+
+44
+00:16:33,504 --> 00:17:08,088
+Use the actual rights and label checks, not a recital that skips
+evidence. The textbook lists seven rights; the school may expand the
+framework. Recheck at retrieval, preparation and before
+administration, label prepared medicine as required and use a
+genuinely independent check where required. A tube problem is not
+permission to give a drug through that tube. Explain the treatment,
+respect the patient's choice, observe delivery and response, then
+document what actually happened rather than pre-signing a planned
+dose.
+
+45
+00:17:08,088 --> 00:17:40,008
+High-alert classification concerns the seriousness of harm if a
+medicine is used in error. It does not mean every such medicine
+produces errors more often. Use layered safeguards and the actual
+service requirements; a second person merely agreeing with your
+calculation is not an independent check. Several patients, repeated
+doses, distraction and fatigue also create risk. A patient asking why
+a medicine looks different can reveal a real error, so pause and
+investigate.
+
+46
+00:17:40,008 --> 00:18:15,696
+The source's scheduled-dose timing table belongs to an older acute-
+care policy context, not a new rule for delaying emergency care. Check
+the actual indication, previous dose and local requirement rather than
+inventing a due time. Electronic orders, barcodes and controlled
+dispensing can reduce some errors but can also transmit wrong data.
+Reconcile the medicine history, check the patient and record actual
+administration. If something goes wrong, assess and protect the
+patient first, then communicate and report through the appropriate
+system.
+
+47
+00:18:15,696 --> 00:18:50,256
+The literal CPSC pages show compressed-reservoir Hemovac and JP
+systems and a curled pigtail example. The photographs explain how a
+particular system works, not a universal instruction to open, flush,
+replace or remove every device. Identify the actual device, intended
+destination and management plan. Shape alone does not establish the
+suction arrangement. Support the patient and preserve the observed
+system without improvising an invasive repair outside your training
+and authority.
+
+48
+00:18:50,256 --> 00:19:23,112
+A fall in output could reflect less production, obstruction,
+displacement or lost suction. Compare symptoms, perfusion, the
+insertion site and the visible tubing, and identify multiple drains
+separately in handover. The source's routine emptying fractions and
+shift interval are planned nursing examples, not reasons to wait when
+the patient worsens. Removal requires the actual plan and appropriate
+clinician; its Hemovac or JP introduction does not supply a pigtail-
+removal procedure.
+
+49
+00:19:23,112 --> 00:19:51,936
+Autonomy means owning the whole plan, not working alone. Use the
+cumulative reader to connect the actual presentation with the relevant
+pathway and provider row, consultation and reassessment. The crew is
+one microsystem linked to other teams, supplies, policies and
+resources. A missing service or connector needs an accepted
+alternative and a system report, not an invented destination or a
+borrowed medicine from another patient.
+
+50
+00:19:51,936 --> 00:20:25,488
+Understand system frameworks accurately. IHI's Triple Aim concerns
+care experience, population health and per-person cost; its expanded
+framework separately recognizes workforce well-being and equity.
+Saving money does not automatically create equitable access. In this
+case, ask whether the actual patient can understand and reach the
+agreed next service, who accepted responsibility and what happens if
+the first plan fails. A portal upload or a referral sent is not the
+same as that closed loop.
+
+51
+00:20:25,488 --> 00:20:56,616
+The assigned VSM page is a chapter summary, not a new threshold chart.
+It asks you to interpret pressure as an objective cue alongside
+baseline, earlier values, pulse and subjective and objective findings.
+Check measurement quality and context before treating an isolated
+number as a conclusion. Pain, posture, movement, medicines and illness
+can all affect a reading. A normal pressure does not exclude an
+important perfusion, abdominal or device problem.
+
+52
+00:20:56,616 --> 00:21:29,088
+Repeat and trend observations while care continues, and recheck sooner
+when the condition changes. Do not interpret the book's repeat-
+measurement advice as a demand to delay support until a second
+pressure is obtained. For each of the two patients, state the main
+threat, actual trend, authorized action, expected response and
+escalation trigger. Record the decisions and an accepted next plan.
+That integrates physiology, safe implementation and systems-based
+autonomy.
+
+53
+00:21:29,088 --> 00:21:43,968
+Blood pressure is one measurement of pressure in the arterial system.
+Its significance depends on the patient, baseline, symptoms, technique
+and the other circulation findings. A single reading cannot establish
+adequate perfusion.
+
+54
+00:21:43,968 --> 00:22:01,272
+Check cuff size and placement, patient position and measurement
+conditions. Compare repeated values with mental status, skin, pulse
+quality and clinical response. A stable pressure does not cancel new
+confusion, cool skin or a weaker pulse.
+
+55
+00:22:01,272 --> 00:22:14,712
+A care plan becomes clinically useful when the team implements a
+specific authorized action and then checks whether the expected change
+occurred. State the measure or observation that will show success
+before acting.
+
+56
+00:22:14,712 --> 00:22:29,280
+If the patient is unchanged or worse, do not keep repeating the same
+action because it was in the plan. Reconsider the hypothesis,
+equipment, timing and available pathway; request support and document
+the new reasoning.
+
+57
+00:22:29,280 --> 00:22:55,944
+Return to our feeding-tube and catheter patients. You have a plan, but
+now distinguish a request from delivery. Did the other patient
+actually receive an assessment? Did the intended support reach the
+first patient? Implementation needs an appropriate, accepted and
+authorized action, the right person and working resources. A task on
+the board or a treatment prepared in advance is not proof of care
+delivered.
+
+58
+00:22:55,944 --> 00:23:23,976
+FON Chapter fourteen links implementation, evaluation and
+documentation. Use one repeated loop: state the expected response,
+act, observe what changed and revise when the result is inadequate or
+harmful. Evaluation is not reserved for the end of the call or a later
+long-term review. Immediate patient needs, preferences and evidence
+can change the plan before a routine task is finished.
+
+59
+00:23:23,976 --> 00:23:55,608
+Clinical knowledge, critical thinking and judgment answer different
+parts of the same task. Knowledge explains the problem; critical
+thinking tests the information and alternatives; judgment integrates
+the actual patient, urgency and options. Psychomotor skill makes an
+authorized procedure reliable, while cognitive and interpersonal
+skills support decisions, patient understanding and team coordination.
+A technically smooth action is still wrong if it was not indicated or
+accepted.
+
+60
+00:23:55,608 --> 00:24:27,144
+Prioritize the threat and allocate personnel, equipment, time and
+information deliberately. Patient-centered care, evidence,
+improvement, safety, teamwork and informatics are linked quality
+themes, not six disconnected definitions. Do not turn a nursing
+illustration into a new treatment bundle. The book's leg-position,
+oxygen, fluid or chronic-medicine examples require the actual
+presentation and current provider guidance, not automatic imitation.
+
+61
+00:24:27,144 --> 00:25:00,984
+Direct or indirect describes how an action reaches the patient.
+Independent, dependent or interdependent describes the authority or
+collaboration behind it. A patient explanation may be direct and
+within authorized independent practice; obtaining a receiving plan may
+be indirect and collaborative. Neither classification creates a
+licence. Similarly, actual, potential and collaborative problems can
+overlap; a small existing problem does not outrank a credible imminent
+threat simply because it is actual.
+
+62
+00:25:00,984 --> 00:25:29,016
+Before assigning the second patient, check the five delegation
+questions: is this the right task and circumstance, is the person
+competent and authorized, are the instructions clear, and how will
+supervision and report-back occur? Maintain an overview and an
+escalation trigger. The textbook's nursing role examples are not
+universal BC PCP rules, and giving a task does not erase either
+person's responsibility for their own work.
+
+63
+00:25:29,016 --> 00:25:58,848
+Suppose one patient reports less discomfort but becomes harder to
+engage while breathing grows shallow. Do not declare the goal met from
+the pain score alone. Assess the actual change and immediate breathing
+and perfusion needs, then follow the relevant pathway and escalation.
+Evaluation combines intended benefit, adverse effects and remaining
+threats. A better monitor number or a completed action does not
+establish overall recovery.
+
+64
+00:25:58,848 --> 00:26:30,624
+For a met goal, ask what care still has an indication. For a partly
+met or unmet goal, verify delivery, reconsider the explanation and
+revise with appropriate consultation. Stopping an unnecessary
+intervention is different from abandoning the patient. Document the
+reason, the person's decision, what support continues and who accepts
+the next plan. Do not independently discontinue prescribed long-term
+treatment because one teaching example says terminate.
+
+65
+00:26:30,624 --> 00:27:00,048
+Use the school's five-minute PCR rehearsal to explain Donabedian. A
+form and trained crew are structure. An accurate account of both
+patients, real actions and accepted handover is process. Safety,
+understanding and continuing care are outcomes to examine. Finishing
+faster is not proof of improvement if the note omits the quieter
+patient or invents a normal finding. Measure omissions and errors as
+well as time.
+
+66
+00:27:00,048 --> 00:27:29,760
+Quality assurance asks whether standards and supporting resources are
+in place; improvement tests ways to make care better. Include patient,
+team and data perspectives. Patient surveys and nursing-sensitive
+indicators can reveal gaps, but satisfaction is not a clinical safety
+certificate and a complication rate alone does not identify its cause.
+Use clear definitions and comparable populations, not a convenient
+database name or an isolated score.
+
+67
+00:27:29,760 --> 00:28:00,408
+For each patient, record relevant baseline and changes, actual support
+and response, the source of information, consultation, specific
+choices and the accepted next plan. Explain how you know the patient
+understood, rather than writing understands because a leaflet was
+supplied. Record the actual intervention, not a request or a prepared
+dose. Chart promptly when urgent care permits, using the approved
+process for corrections or late entries.
+
+68
+00:28:00,408 --> 00:28:32,280
+Objectivity does not mean hiding a clinically important refusal, delay
+or communication failure. Describe the concern, information exchanged,
+observed facts and resulting decision without disparaging labels.
+Immediate danger takes priority over perfect prose; a breathing
+problem after a medicine cannot wait for a complete paragraph. A
+truthful record supports continuity and accountability but cannot
+guarantee a legal outcome or substitute for the care itself.
+
+69
+00:28:32,280 --> 00:29:06,624
+Source-oriented records group information by form or professional: an
+admission reference, repeated observations on a flowsheet and a
+narrative explaining significant events. SOAP instead groups
+subjective report, objective findings, assessment and plan. SOAPIER
+adds the actual intervention, evaluation and revision. Separate the
+interpretation from a confirmed diagnosis, and a plan from what was
+actually delivered. Use the real required PCR format rather than
+creating duplicate forms for every acronym.
+
+70
+00:29:06,624 --> 00:29:37,488
+PIE links problem, intervention and evaluation. F-DAR links a focus
+with data, action and response. Charting by exception requires an
+approved system and actually assessed norms; it never makes an
+unexamined system normal. Case-management records track a complex plan
+across services and time. Whatever the format, another clinician
+should be able to identify the current concern, what happened, what
+changed and who owns the unresolved next step.
+
+71
+00:29:37,488 --> 00:30:04,656
+Return to the feeding-tube patient who is vomiting. First identify
+immediate airway, breathing and perfusion needs, then examine the
+symptom and its context. A tube does not explain every episode, and an
+antiemetic does not confirm tube position or fix an obstruction. Ask
+what changed from baseline, what preceded the vomiting, and which
+findings require urgent escalation rather than another routine task.
+
+72
+00:30:04,656 --> 00:30:34,848
+The brainstem coordinates inputs from the gut, circulating chemicals,
+vestibular pathways and higher centers. Receptors explain treatment
+targets, not the final diagnosis. Antacids neutralize existing acid;
+they are not all acid-production suppressors and do not treat every
+cause of nausea. If the patient vomits less but remains distended,
+poorly perfused or less alert, symptom control has not established
+recovery.
+
+73
+00:30:34,848 --> 00:31:06,720
+Map the six families rather than learning one interchangeable
+antiemetic list. Chlorpromazine and prochlorperazine illustrate
+dopamine-related phenothiazine effects. Promethazine has stronger
+antihistamine and anticholinergic characteristics with much weaker
+dopamine antagonism. Hydroxyzine and meclizine illustrate H one
+antihistamines; scopolamine illustrates antimuscarinic therapy. A
+chemical family, receptor effect and clinical indication are three
+different labels.
+
+74
+00:31:06,720 --> 00:31:36,072
+Ondansetron and granisetron target serotonin receptors; aprepitant and
+rolapitant target the substance P pathway. Many of the reading
+examples are planned chemotherapy or postoperative prevention, not
+rescue orders for this device encounter. Dronabinol acts at
+cannabinoid receptors in a selected chemotherapy setting. These
+distinctions help you understand a medicine history without making all
+eleven table prototypes authorized PCP treatments.
+
+75
+00:31:36,072 --> 00:32:04,104
+The assigned table contains errors and compressed regimens. Compro is
+a prochlorperazine product, not a chlorpromazine brand. The dronabinol
+chemotherapy comparison loses the per-square-meter unit, and the
+scopolamine line confuses patch content with delivery. A number
+without the correct drug, formulation, units and indication is not a
+usable dose. Never repair it by guessing or copying a neighboring row.
+
+76
+00:32:04,104 --> 00:32:34,368
+Aprepitant illustrates why checking matters more than a quick
+correction. Weight-based suspension labeling can include adults unable
+to swallow capsules, so do not declare every adult weight-based entry
+false. It still needs the right product, population, maximum and
+later-day regimen. Actual intravenous aprepitant also exists.
+Likewise, a granisetron chemotherapy schedule is not an automatic
+repeat-dose rule for every vomiting patient.
+
+77
+00:32:34,368 --> 00:33:05,232
+Suppose the patient is now quieter but harder to engage after a recent
+medicine. Reassess breathing, consciousness and perfusion instead of
+recording effective because vomiting stopped. Alcohol, opioids and
+other depressants can add risk. Watch for hypotension, falls and
+abnormal movements. An acute dystonic reaction is not simply anxiety,
+and fever with marked rigidity and altered awareness requires urgent
+attention rather than a behavioral label.
+
+78
+00:33:05,232 --> 00:33:35,040
+Anticholinergic effects are particularly relevant to our catheter
+patient: retention, constipation, blurred vision and confusion may
+complicate the presentation. A scopolamine patch may be missed in the
+medication history; handling can transfer medicine to the eye, and
+reduced sweating can contribute to overheating. A possible medicine
+effect does not prove causation or exclude another emergency. Keep the
+actual findings and uncertainty visible.
+
+79
+00:33:35,040 --> 00:34:03,744
+Do not flatten all class warnings into one rule. Promethazine
+injection is contraindicated below age two and still requires caution
+in older children; it can also cause severe tissue injury. Hydroxyzine
+injection has its own intramuscular-only restriction and early-
+pregnancy and prolonged-QT contraindications. These selected label
+comparisons correct the textbook; they do not authorize you to
+administer these products or improvise a route.
+
+80
+00:34:03,744 --> 00:34:38,280
+For any authorized medicine, verify the current indication, patient
+factors, allergies, prior doses, co-medications and exact product
+instructions. Ondansetron labeling adds QT and serotonergic concerns;
+nursing antipsychotic mortality warnings have their own context.
+Access to a tube or vein does not establish compatibility or
+authority. Use the actual school and service monograph, including the
+already-taught dimenhydrinate pathway, not the broad chapter as a new
+formulary.
+
+81
+00:34:38,280 --> 00:35:10,488
+Evaluate symptom relief together with consciousness, airway
+protection, breathing, perfusion and relevant adverse effects.
+Persistent symptoms require a new look at the cause, not automatic
+dose stacking. Tailor education and comfort measures: oral fluids or
+gum are not safe for every swallowing problem, and a fluid-restricted
+patient does not automatically need extra intake. Explain relevant
+driving, alcohol and warning-sign advice, then check real
+understanding.
+
+82
+00:35:10,488 --> 00:35:38,952
+The final assigned page also opens diarrhea assessment. Duration,
+blood, infection concerns, fluid loss and perfusion matter before
+deciding whether suppressing stool is appropriate. Apply the same
+patient-first logic to both device patients and preserve the actual
+assessment, choices, administered treatment, response and accepted
+handover in the PCR. A textbook mechanism is useful only when it
+supports that complete clinical chain.
+
+83
+00:35:38,952 --> 00:36:06,072
+Our catheter patient needs physical help, while the other patient
+needs a slower explanation. Neither fact tells you they cannot decide.
+Autonomy, independence and agency are different: a person can need
+practical assistance and still direct their own care. Ask what each
+person wants, what support helps and which decision is being made now.
+Representation starts with their objectives, not with your preferred
+answer.
+
+84
+00:36:06,072 --> 00:36:36,720
+Empowerment develops self-reliance, participation, dignity and
+belonging. Build on a real strength, explain an option and agree a
+manageable next step. Practical assistance is not automatically
+harmful enabling; it may make participation possible. Avoid the
+rescuer loop in which you take over, the person becomes quieter, and
+that silence is mistaken for inability. A diagnosis or frequent
+attendance does not determine worth or comprehension.
+
+85
+00:36:36,720 --> 00:37:07,632
+Use the six trauma-informed practices in the reading: safety, trust,
+chosen support, partnership, strengths and cultural or gender
+responsiveness. Introduce the next action before touching a device,
+explain what is available and invite questions. Include supporters
+appropriately without automatically disclosing private information or
+transferring the decision. Transparency matters most when the plan has
+limits or the patient has had a frightening prior experience.
+
+86
+00:37:07,632 --> 00:37:37,128
+Sharing power does not require unsafe treatment or abandoning urgent
+care. Explain real options and boundaries, assess the specific concern
+and obtain appropriate help when the lawful route is uncertain. Pain,
+distress, disability or disagreement alone does not authorize taking
+over. Preserve participation as far as possible and use the actual
+consent and service framework, not the textbook's broad nursing
+examples as an override rule.
+
+87
+00:37:37,128 --> 00:38:01,944
+Self-advocacy makes the person's questions and needs heard; it does
+not require unaided speech. Ask what is unclear, offer a usable
+explanation and help formulate one question for the next clinician.
+Model how to clarify an answer, then make room for the person to try.
+Check what they actually understood instead of treating a leaflet or a
+family member's agreement as proof.
+
+88
+00:38:01,944 --> 00:38:32,184
+The six-step judgment model also applies to advocacy. Notice the
+unanswered concern, analyze its context, identify the priority,
+generate an appropriate solution, carry it out and evaluate the
+result. For our quieter patient, that may mean arranging communication
+support while a colleague maintains the other patient's clinical plan.
+Verify both the completed explanation and the ongoing assessment;
+advocacy and safety are not competing tasks.
+
+89
+00:38:32,184 --> 00:39:01,032
+Use the five advocacy actions to check this encounter. Keep each
+person informed, mediate the current disagreement respectfully,
+safeguard against error or privacy loss, show equal dignity and
+address an actual access barrier. Set a realistic goal and preserve
+the patient's voice; agreement between professionals is not enough.
+Escalate a safety concern through the proper route instead of hiding
+it to avoid tension.
+
+90
+00:39:01,032 --> 00:39:31,368
+Match the repair to the barrier. Missing equipment needs a resource
+plan; inaccessible information needs communication support; hierarchy-
+related fear needs a supported reporting path. In the PCR, preserve
+choices, supports, real findings and actions, unresolved concerns and
+accepted handover for each patient. During debrief choose one
+observable improvement and how to test it next time, not simply that
+the scene felt calmer or the record was faster.
+
+91
+00:39:31,368 --> 00:39:57,936
+A valve lesion is another reason a device patient may deteriorate
+without the visible tube being the main cause. Begin with the valve as
+a one-way gate. Stenosis restricts forward passage; regurgitation
+allows backward leakage. Which chamber and which phase are involved
+determine the loading pattern. Total blood ejected from a ventricle is
+not always the amount delivered forward to the organs.
+
+92
+00:39:57,936 --> 00:40:26,208
+Use the normal cycle to orient a murmur. Aortic stenosis obstructs
+systolic outflow, while mitral regurgitation leaks back during
+systole. Mitral stenosis obstructs diastolic filling, while aortic
+regurgitation leaks back during diastole. These mechanisms guide
+interpretation, not a field anatomy diagnosis. Assess breathlessness,
+perfusion, rhythm and the change from usual function alongside the
+sound.
+
+93
+00:40:26,208 --> 00:40:56,760
+The assigned chapter describes several routes to structural damage.
+Calcification stiffens tissue; aortic cusps and the mitral annulus
+have different consequences. A prolapsing mitral leaflet can lose
+effective closure and cause regurgitation. Rheumatic immune injury can
+later thicken, fuse and scar the valve and chordae. Do not reverse the
+prolapse-to-leak explanation or assume rheumatic disease is the only
+possible cause of mitral stenosis.
+
+94
+00:40:56,760 --> 00:41:26,376
+A chronic lesion may be compensated until another illness increases
+demand or reduces reserve. Acute severe leakage may produce a rapid
+change without that adaptation. Ask about known valve disease, repair
+or replacement, baseline exercise tolerance and the current change
+when relevant. Then choose the appropriate patient-level pathway. A
+familiar murmur or a past diagnosis should not distract from a new
+breathing or perfusion problem.
+
+95
+00:41:26,376 --> 00:41:56,016
+Infective vegetations can damage the valve or nearby tissue and send
+infected or obstructing material elsewhere. Presentation is variable;
+no fever or no classic peripheral sign cannot exclude the condition.
+Sterile vegetations are different but not necessarily harmless.
+Hypercoagulable thrombotic lesions can embolize, and lupus-related
+lesions involve immune injury. A source photograph is not a diagnosis
+you can make from one symptom.
+
+96
+00:41:56,016 --> 00:42:28,440
+Carcinoid mediator injury provides another mechanism, often affecting
+right-sided valves. For our weekly encounter, use this pathology to
+widen a thoughtful history, not to invent a rare diagnosis. A new
+focal deficit, sepsis pattern or acute congestion needs its relevant
+urgent pathway. Preserve observed findings, uncertainty, authorized
+support and accepted handover. Neither a loud murmur nor a quiet
+examination measures the whole risk.
+
+97
+00:42:28,440 --> 00:42:44,640
+The saved school plan names a five-minute PCR completion target for
+the weekend practice. Treat this as a school exercise standard, not a
+universal statutory deadline. Use the actual rubric and service PCR
+system for required fields.
+
+98
+00:42:44,640 --> 00:43:04,752
+A concise record can still be complete: timeline, patient baseline,
+device condition, objective findings, actions and response, medication
+verification, consultation, capacity or consent discussion, and
+destination handover. Never fabricate a missing detail to meet the
+timer.
+
+99
+00:43:04,752 --> 00:43:30,816
+The school practises SBAR or MIST. Keep that exercise requirement
+distinct from current BCEHS A zero three: ATMIST AMBO for transfer of
+care, and SBAR for consultation. In either setting, communicate the
+findings, device uncertainty, actions and response, then confirm who
+accepted the next responsibility. A transmitted report alone is not a
+completed transfer.
+
+100
+00:43:30,816 --> 00:43:43,920
+The Week 13 school plan asks the learner to lead all seven debrief
+questions. Start with the patient’s main problem, then identify the
+cue that changed your thinking and the competing explanation you
+considered.
+
+101
+00:43:43,920 --> 00:44:00,576
+Next examine the priority, authorized actions and observed response.
+Finish by naming one specific practice target and how the next run
+will test it. A debrief should improve the next attempt, not assign
+blame or merely list the steps.
+
+102
+00:44:00,576 --> 00:44:15,984
+A device can be displaced, blocked or malfunctioning while the
+patient’s most urgent problem is systemic. Keep the device where it
+is, avoid unsupported manipulation and use the appropriate pathway to
+address the patient’s condition.
+
+103
+00:44:15,984 --> 00:44:32,016
+Full autonomy is visible in the complete loop: assess, prioritize, act
+within scope, evaluate and communicate. This is the standard you will
+practise in the device lab, two-patient scenario and timed
+documentation exercise.

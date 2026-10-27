@@ -1,0 +1,812 @@
+1
+00:00:00,000 --> 00:00:13,176
+Three B links collaborative practice, Crew Resource Management,
+quality assurance and just culture. They are not separate slogans:
+each describes how a team prevents, detects or responds to failure.
+
+2
+00:00:13,176 --> 00:00:26,208
+We will follow an original crew from the shift briefing through a
+changing trauma call and a simulated medication near miss. The cases
+rehearse the school objectives without using its assessed scenario
+bodies.
+
+3
+00:00:26,208 --> 00:00:36,240
+The important performance is observable: a role is assigned, a concern
+is heard, an unsafe action stops and a report leads to a practical
+correction.
+
+4
+00:00:36,240 --> 00:00:49,488
+Learning from an event does not remove accountability, and
+accountability does not require blaming a person for every bad
+outcome. Keep behavior, context and outcome distinct throughout this
+lesson.
+
+5
+00:00:49,488 --> 00:01:01,416
+A crew may appear busy while important needs remain uncovered. One
+person sets up equipment, another asks a history and neither notices
+that no one owns the immediate airway problem.
+
+6
+00:01:01,416 --> 00:01:12,624
+The school contrasts simple side-by-side cooperation with true
+collaboration: coordinated work, clear communication and shared
+decision-making toward the patient's needs.
+
+7
+00:01:12,624 --> 00:01:22,560
+A shared goal does not mean everyone performs the same task. It means
+the separate tasks fit together and the team can explain their
+priorities and dependencies.
+
+8
+00:01:22,560 --> 00:01:33,504
+Ask a partner to state the current objective in one sentence. If your
+answers differ materially, reconcile them before the mismatch produces
+a missed or duplicated action.
+
+9
+00:01:33,504 --> 00:01:42,456
+Name the person and the task instead of announcing that someone should
+do it. Include the immediate priority and the relevant safety
+constraint.
+
+10
+00:01:42,456 --> 00:01:51,504
+The receiver acknowledges and clarifies uncertainty. An assigned task
+without acknowledgement may exist only in the leader's mind.
+
+11
+00:01:51,504 --> 00:02:00,024
+The leader monitors whether the workload is feasible and whether the
+patient has changed. Delegating a task does not mean the leader can
+forget it.
+
+12
+00:02:00,024 --> 00:02:12,048
+Completion, inability to perform and a new hazard all return to the
+team. Reassign explicitly when roles change so that ongoing care does
+not silently lose its owner.
+
+13
+00:02:12,048 --> 00:02:22,440
+A shared mental model is a common understanding of the patient, risks
+and plan. It is not a demand that all team members hold the same
+unchanging diagnosis.
+
+14
+00:02:22,440 --> 00:02:35,016
+In the original trauma call, one clinician notices worsening pallor
+and a weaker pulse while the other is completing a secondary survey.
+Without an update, they are treating two different mental patients.
+
+15
+00:02:35,016 --> 00:02:46,584
+Announce the new finding and its significance, then state the revised
+priority. Confirm who continues support, who requests resources and
+how the movement plan changes.
+
+16
+00:02:46,584 --> 00:02:56,112
+Invite a challenge to the new explanation. A shared model is useful
+because it is visible and revisable, not because it prevents
+disagreement.
+
+17
+00:02:56,112 --> 00:03:07,248
+Situational awareness includes the patient, the environment and the
+crew. A monitor may remain stable while an exit becomes blocked or a
+partner becomes overwhelmed.
+
+18
+00:03:07,248 --> 00:03:17,640
+Watch for fixation on a procedure or diagnosis. If both clinicians are
+occupied with the same detail, ask who is watching the broader patient
+and scene.
+
+19
+00:03:17,640 --> 00:03:30,024
+Share uncertainty early and anticipate the next likely need. A short
+request for help before overload is safer than silently falling behind
+until a critical task is missed.
+
+20
+00:03:30,024 --> 00:03:41,952
+Use protocols and team input to make timely decisions, then reassess
+the result. Awareness without an action or plan update is only
+noticing, not effective CRM.
+
+21
+00:03:41,952 --> 00:03:53,208
+A leader gives direction while admitting limits and inviting
+information. Saying please tell me if I miss something is useful only
+when the response to a real concern is respectful.
+
+22
+00:03:53,208 --> 00:04:04,632
+Followership is not silent obedience. It includes completing tasks,
+reporting changes, supporting the plan and challenging a safety
+problem regardless of experience or rank.
+
+23
+00:04:04,632 --> 00:04:17,232
+Flattening hierarchy reduces the barrier to speaking up; it does not
+abolish clinical responsibility or expand anyone's scope. Keep the
+responsible roles and required supervision clear.
+
+24
+00:04:17,232 --> 00:04:29,136
+When a junior member is right about a hazard, acknowledge the
+contribution and change the plan. Defending status at the expense of
+patient safety teaches the crew to hide the next concern.
+
+25
+00:04:29,136 --> 00:04:41,304
+The module includes police, fire, hospital staff and appropriate
+bystanders in collaborative practice. Each may hold information or
+expertise that the ambulance crew does not.
+
+26
+00:04:41,304 --> 00:04:52,344
+Explain the patient's need and listen to the other discipline's
+constraints. An urgent care request and a rescue hazard must be
+reconciled into a workable sequence.
+
+27
+00:04:52,344 --> 00:05:03,360
+Respect does not mean avoiding a difficult conversation. Describe a
+specific conflict and seek a patient-centered solution rather than
+accusing another agency of not caring.
+
+28
+00:05:03,360 --> 00:05:13,680
+Confirm who owns the next step and communicate any delay or changed
+risk. Several agencies working hard do not guarantee that the critical
+task has an owner.
+
+29
+00:05:13,680 --> 00:05:23,592
+A brief safety huddle makes important information visible before
+pressure increases. Discuss readiness, known limitations and who can
+provide help.
+
+30
+00:05:23,592 --> 00:05:34,176
+Identify missing or unreliable equipment through the actual service
+process. Do not let an informal workaround silently become the crew's
+accepted standard.
+
+31
+00:05:34,176 --> 00:05:44,736
+Agree on roles and likely hazards, while leaving room for new
+information. A briefing is a starting model, not a script that must
+survive every change.
+
+32
+00:05:44,736 --> 00:05:54,624
+Ask directly for uncertainty and thank the person who raises it.
+Repeated respectful responses make psychological safety credible in
+daily work.
+
+33
+00:05:54,624 --> 00:06:08,400
+The tools overlap, but they are not interchangeable acronyms. Choose
+one based on whether the problem is a task, critical information, an
+urgent change, a structured update or an unheard safety concern.
+
+34
+00:06:08,400 --> 00:06:19,056
+A long SBAR is not the first response to a medicine about to be
+administered incorrectly. A direct stop can protect the patient,
+followed by a structured explanation.
+
+35
+00:06:19,056 --> 00:06:29,040
+Likewise, a shouted callout does not replace the detailed handover
+needed at transfer. The receiver needs enough context to continue care
+safely.
+
+36
+00:06:29,040 --> 00:06:38,424
+Practice the actual words with a partner. Knowing an acronym's
+expansion is not evidence that you can use the tool under interruption
+or noise.
+
+37
+00:06:38,424 --> 00:06:48,240
+Use a named receiver and a specific request. For an original example:
+Alex, obtain a repeat manual blood pressure and report it now.
+
+38
+00:06:48,240 --> 00:06:57,528
+The receiver repeats the essential task, and the sender confirms or
+corrects it. This catches a misheard action before it becomes a wrong
+action.
+
+39
+00:06:57,528 --> 00:07:07,968
+When completed, report the actual result and any problem. If the
+measurement cannot be obtained, report that instead of silently
+attempting forever.
+
+40
+00:07:07,968 --> 00:07:16,728
+Read-back confirms the message, not the clinical appropriateness of
+the instruction. A correctly repeated unsafe plan must still be
+questioned.
+
+41
+00:07:16,728 --> 00:07:27,960
+In a simulated medication task, two people repeat the same volume but
+neither reads the concentration. The communication is consistent, yet
+the clinical check has failed.
+
+42
+00:07:27,960 --> 00:07:37,896
+An independent check uses the original patient, order or protocol and
+actual product information. It does not start by accepting the first
+person's answer.
+
+43
+00:07:37,896 --> 00:07:49,056
+Read back critical numbers with units and clarify ambiguity. Dose,
+concentration and volume answer different questions even when one
+number happens to look familiar.
+
+44
+00:07:49,056 --> 00:07:57,648
+Use both tools where required: confirm the message and verify the
+plan. Team agreement is not a substitute for evidence.
+
+45
+00:07:57,648 --> 00:08:07,200
+A callout is a brief direct statement of an urgent need or change. It
+helps the team notice information that might otherwise remain with one
+person.
+
+46
+00:08:07,200 --> 00:08:19,632
+In the trauma case, say that the patient is less responsive and the
+pulse is weaker, then request immediate reassessment and the relevant
+support. Avoid a vague announcement that things look bad.
+
+47
+00:08:19,632 --> 00:08:30,072
+Acknowledge the callout and state the change in plan. If no one
+responds, the sender should verify it was heard rather than assuming
+silence means agreement.
+
+48
+00:08:30,072 --> 00:08:40,392
+Keep the tone calm and the content concise. Urgency is carried by
+clear findings and action, not by humiliation or competing shouts.
+
+49
+00:08:40,392 --> 00:08:48,984
+Lead with the current problem and urgency. A listener should not need
+to wait through a long history to discover that the patient is
+deteriorating.
+
+50
+00:08:48,984 --> 00:08:57,528
+Give the background that changes the decision, then your assessment
+and evidence. Separate what you measured from what you think it means.
+
+51
+00:08:57,528 --> 00:09:07,368
+Include treatment and response, not only the first set of
+observations. Make a specific recommendation or request within the
+actual clinical pathway.
+
+52
+00:09:07,368 --> 00:09:19,320
+Confirm the response and clarify uncertain instructions. SBAR
+organizes communication; it does not grant a new treatment authority
+or guarantee that a message was received.
+
+53
+00:09:19,320 --> 00:09:29,352
+The school PACE model expands to Probe, Alert, Challenge and
+Emergency. It is a graded-assertiveness tool for an unresolved safety
+concern.
+
+54
+00:09:29,352 --> 00:09:39,192
+Use progressively explicit language if the concern is not addressed.
+Name the risk and the action needed instead of repeating an
+increasingly frustrated hint.
+
+55
+00:09:39,192 --> 00:09:48,984
+The goal is safe action, not winning a disagreement. Once the unsafe
+step is paused, verify the facts together and revise the plan.
+
+56
+00:09:48,984 --> 00:09:58,200
+The stages are not a mandatory slow sequence. If a harmful
+administration is imminent, use the direct emergency stop immediately.
+
+57
+00:09:58,200 --> 00:10:07,920
+In the original near-miss case, the junior partner notices a
+concentration mismatch while the senior clinician is preparing to
+deliver a simulated medicine.
+
+58
+00:10:07,920 --> 00:10:19,656
+The safe response is to pause and hear the concern, not to defend
+experience. A statement that anyone may speak up is meaningless if the
+first actual challenge is punished.
+
+59
+00:10:19,656 --> 00:10:29,424
+Check the source information, product, intended amount and patient
+before resuming. Do not merely change the volume to the second
+person's guess.
+
+60
+00:10:29,424 --> 00:10:40,128
+Acknowledge the intercept and report the near miss through the
+appropriate process. The team protected this patient, but the
+confusing system may remain for the next crew.
+
+61
+00:10:40,128 --> 00:10:50,640
+Conflict language should describe a specific behavior or unresolved
+fact. General attacks invite a dispute about personality instead of
+correcting the action.
+
+62
+00:10:50,640 --> 00:11:00,624
+Use an observation, a concern and a clear request. The request should
+say what needs to happen now, not merely express dissatisfaction.
+
+63
+00:11:00,624 --> 00:11:10,560
+Respectful language can still be firm. Immediate safety does not
+require an apologetic hint, especially after a clear concern has been
+ignored.
+
+64
+00:11:10,560 --> 00:11:21,456
+Resolve the urgent hazard first and address broader disagreement
+afterward through the appropriate channel. Do not turn an active
+clinical problem into a prolonged argument.
+
+65
+00:11:21,456 --> 00:11:32,592
+Give feedback soon enough to be useful and focus on an observed
+action. Explain its consequence and a practical next step rather than
+judging the person's character.
+
+66
+00:11:32,592 --> 00:11:42,168
+When receiving feedback, listen and ask what specifically was
+observed. You can clarify context without treating every concern as a
+personal attack.
+
+67
+00:11:42,168 --> 00:11:56,592
+Acknowledge useful information and identify a change you can
+demonstrate. If a proposed correction conflicts with the actual
+protocol or device, resolve that evidence rather than agreeing
+politely and remaining confused.
+
+68
+00:11:56,592 --> 00:12:06,552
+Repeat the relevant sequence and check whether performance changes. A
+friendly debrief is valuable, but the safety target is a more reliable
+action.
+
+69
+00:12:06,552 --> 00:12:18,216
+The school uses the Swiss Cheese Model to explain interacting
+weaknesses across defensive layers. A final wrong action may be
+visible while the contributing conditions are less obvious.
+
+70
+00:12:18,216 --> 00:12:31,992
+In the original near miss, similar labels, crowded storage,
+interrupted checking and an authority gradient all matter. Correcting
+only the person at the syringe may leave the same trap in place.
+
+71
+00:12:31,992 --> 00:12:44,328
+System analysis does not mean every event has identical causes or no
+individual responsibility. Investigate the actual event rather than
+forcing every detail into a diagram.
+
+72
+00:12:44,328 --> 00:12:57,024
+Ask which defenses existed, why they did not work and what could
+reliably interrupt recurrence. More reminders alone may be weaker than
+correcting confusing storage or unavailable equipment.
+
+73
+00:12:57,024 --> 00:13:08,208
+A layered approach reduces reliance on one perfect person or one
+perfect check. Design, preparation, communication and learning each
+contribute something different.
+
+74
+00:13:08,208 --> 00:13:20,616
+The layers are not automatically independent. If two clinicians rely
+on the same wrong assumption or unreadable label, two signatures may
+still represent one shared failure.
+
+75
+00:13:20,616 --> 00:13:31,104
+Choose a correction that addresses the observed cause, and test
+whether it creates another problem. Moving a product may reduce one
+confusion but make urgent access harder.
+
+76
+00:13:31,104 --> 00:13:40,968
+Use follow-up information to refine the change. The purpose of the
+model is better care, not a visually satisfying explanation that no
+one evaluates.
+
+77
+00:13:40,968 --> 00:13:53,832
+Quality assurance is structured review of whether care meets expected
+standards, using records, audits, peer review and incident
+information. It is more than finding a person to criticize.
+
+78
+00:13:53,832 --> 00:14:07,200
+Your role includes complete patient records, timely safety reports,
+honest debriefs and receptiveness to feedback. A missing record can
+hide both an unsafe process and a successful defense.
+
+79
+00:14:07,200 --> 00:14:18,360
+Ask how the findings lead to action and who owns follow-up. Repeatedly
+discussing the same near miss without changing the process is not a
+completed improvement cycle.
+
+80
+00:14:18,360 --> 00:14:30,720
+Interpret report counts carefully. More reports may reflect better
+willingness to speak up, not necessarily more underlying harm; compare
+the reporting process and relevant care measures.
+
+81
+00:14:30,720 --> 00:14:41,736
+The school repeatedly describes a near miss as intercepted before
+reaching the patient, but its glossary also says before harm. Those
+are not identical thresholds.
+
+82
+00:14:41,736 --> 00:14:53,784
+The WHO terminology separates a near miss, which did not reach the
+patient, from a no-harm incident, which reached the patient without
+discernible harm. A harmful incident causes harm.
+
+83
+00:14:53,784 --> 00:15:06,912
+An error can be caught before administration or can reach the patient.
+Do not define all errors as necessarily reaching the patient, and do
+not infer no harm merely because the first observation is reassuring.
+
+84
+00:15:06,912 --> 00:15:17,376
+Use the actual reporting system's fields while describing the event
+precisely. Do not relabel a wrong administration as a near miss just
+because the patient survived.
+
+85
+00:15:17,376 --> 00:15:30,264
+Human error is an unintentional slip, lapse or mistake. A competent
+person may misread a confusing label or omit a step during
+interruption despite intending to follow the correct process.
+
+86
+00:15:30,264 --> 00:15:39,744
+Understand what information and conditions existed at the time.
+Hindsight can make an ambiguous situation seem much clearer than it
+was to the provider.
+
+87
+00:15:39,744 --> 00:15:50,760
+The school response is to support or console the provider, learn and
+correct system contributions. Support is compatible with an honest
+report and appropriate review.
+
+88
+00:15:50,760 --> 00:16:01,416
+Do not classify intent from the severity of the outcome alone. The
+same unintentional action may have no harm in one case and severe
+consequences in another.
+
+89
+00:16:01,416 --> 00:16:13,968
+At-risk behavior is a choice that increases risk when the risk is not
+recognized or seems justified. A repeated shortcut may feel normal
+because it has not yet caused a visible injury.
+
+90
+00:16:13,968 --> 00:16:24,264
+The module gives prematurely abbreviated assessment as an example.
+Investigate why the shortcut made sense to the person and what
+workload or rewards may encourage it.
+
+91
+00:16:24,264 --> 00:16:36,408
+Use coaching and clear expectations, while correcting the conditions
+that reward the unsafe choice. Education alone may fail if the
+workflow makes the safe method impractical.
+
+92
+00:16:36,408 --> 00:16:46,320
+Do not automatically call every intentional deviation reckless.
+Context, risk awareness and the actual choice require fair review.
+
+93
+00:16:46,320 --> 00:16:58,704
+The school defines reckless behavior as conscious disregard of a
+substantial unjustifiable risk. This is different from an
+unintentional mistake or a shortcut whose risk was not appreciated.
+
+94
+00:16:58,704 --> 00:17:09,552
+If an immediate safety threat is present, protect patients and
+colleagues through the appropriate process. Do not wait for a later
+learning discussion before stopping unsafe practice.
+
+95
+00:17:09,552 --> 00:17:20,904
+Formal review and corrective or disciplinary action may be required.
+The course is not an authority for a partner to deliver an instant
+legal verdict or an employment sanction.
+
+96
+00:17:20,904 --> 00:17:31,608
+Evidence and context matter regardless of seniority. A good outcome
+does not make a reckless choice safe, just as a bad outcome does not
+prove recklessness.
+
+97
+00:17:31,608 --> 00:17:43,104
+Just culture seeks learning and appropriate accountability. It
+distinguishes behavior and system contributions instead of responding
+only to the outcome or the person's reputation.
+
+98
+00:17:43,104 --> 00:17:56,352
+Psychological safety means people can raise concerns, ask questions
+and admit uncertainty without humiliation or automatic blame. It does
+not remove professional responsibilities.
+
+99
+00:17:56,352 --> 00:18:09,624
+Do not promise that every report has no consequences or that all
+discussion is legally privileged. Follow the actual reporting and
+review policy, with fair treatment and appropriate support.
+
+100
+00:18:09,624 --> 00:18:21,072
+The strongest practical signal is what happens after a real concern: a
+respectful pause, accurate review, visible correction and feedback to
+the people who reported.
+
+101
+00:18:21,072 --> 00:18:30,960
+A simulated syringe has been prepared using the wrong assumed
+concentration. The partner identifies the mismatch before any
+simulated medication is delivered.
+
+102
+00:18:30,960 --> 00:18:42,240
+Pause, verify the patient and source information, and restore a
+correct authorized preparation. Do not continue because the error was
+only a small calculation issue.
+
+103
+00:18:42,240 --> 00:18:53,160
+This is a near miss because the incident did not reach the patient.
+The intercept is a successful defense, but the confusing concentration
+or storage still needs attention.
+
+104
+00:18:53,160 --> 00:19:03,240
+Report through the appropriate safety process and include what enabled
+the intercept. Learning from what worked is as important as describing
+the initial failure.
+
+105
+00:19:03,240 --> 00:19:14,688
+Change one variable: the mismatch is noticed after some simulated
+medicine has already entered. The event has reached the patient even
+if the person initially looks unchanged.
+
+106
+00:19:14,688 --> 00:19:30,576
+Stop the implicated delivery as appropriate, assess and support the
+patient, and determine the actual product, concentration, amount and
+time. Uncertain delivery is stated as uncertain, not rounded into a
+reassuring number.
+
+107
+00:19:30,576 --> 00:19:42,360
+Obtain the appropriate urgent clinical guidance and monitoring.
+Reversal is substance-specific and may not exist; do not improvise an
+antidote or wait for harm before seeking help.
+
+108
+00:19:42,360 --> 00:19:54,480
+If no discernible harm is established, it is a no-harm incident under
+the stated terminology, not a near miss. Harm and later evolution
+still require appropriate evaluation.
+
+109
+00:19:54,480 --> 00:20:05,208
+The first priority after recognizing an error is patient safety.
+Address the implicated action and immediate clinical need before
+treating the event as paperwork.
+
+110
+00:20:05,208 --> 00:20:19,728
+Notify the appropriate clinical and supervisory resources promptly,
+with enough detail for useful advice. Consultation should be
+concurrent with necessary immediate support, not a reason to leave the
+patient unattended.
+
+111
+00:20:19,728 --> 00:20:32,040
+Communicate honestly with the patient or appropriate authorized person
+through the actual disclosure process. Do not delay urgent care while
+trying to settle blame or a complete causal explanation.
+
+112
+00:20:32,040 --> 00:20:44,712
+Then complete patient documentation and the separate safety report,
+participate in review and use available support. Protecting future
+patients requires a follow-through beyond the immediate recovery.
+
+113
+00:20:44,712 --> 00:20:55,272
+Use plain compassionate language to explain what is known and the
+immediate care plan. Acknowledge uncertainty and answer questions
+honestly within your role.
+
+114
+00:20:55,272 --> 00:21:10,488
+The school includes disclosure as part of responding to errors and
+near misses. The actual scope and process, including near-miss
+disclosure, must follow applicable organizational guidance; do not
+invent one universal script.
+
+115
+00:21:10,488 --> 00:21:21,840
+Family involvement depends on the patient's wishes, capacity and the
+applicable authority. A relative being present is not automatic
+permission to share every clinical detail.
+
+116
+00:21:21,840 --> 00:21:31,032
+Do not speculate about another person's motives or promise that there
+will be no harm. Explain the assessment and follow-up while the facts
+are established.
+
+117
+00:21:31,032 --> 00:21:43,776
+Record the actual administration, observations, actions, response and
+relevant consultations. Saying only medication given hides the
+information the next clinician needs.
+
+118
+00:21:43,776 --> 00:21:55,296
+Objective language means accurate facts and attributed information,
+not removing the fact that an incorrect amount was delivered. Reasoned
+clinical concerns are labelled, not erased.
+
+119
+00:21:55,296 --> 00:22:09,888
+Complete the separate required safety report and notification. Under
+current A zero four, PSLS reporting covers clinical deviations, safety
+events, near misses and errors; it does not replace the PCR.
+
+120
+00:22:09,888 --> 00:22:23,304
+Protect privacy through the approved secure channel and actual legal
+framework. Correct records using the authorized process; do not
+delete, backdate or rewrite the event to make it appear safer.
+
+121
+00:22:23,304 --> 00:22:35,736
+The module names fear of discipline, peer judgment, lack of time and
+the belief that nothing will change. These are real process barriers,
+not simply a lack of professional motivation.
+
+122
+00:22:35,736 --> 00:22:47,424
+Leaders can make reporting safer by explaining the process, responding
+fairly and avoiding ridicule. They must not promise immunity that the
+actual policy cannot guarantee.
+
+123
+00:22:47,424 --> 00:22:59,520
+Make the route clear and accessible, and ensure immediate safety
+information reaches the right person without waiting for a long form.
+Complete the required documentation promptly afterward.
+
+124
+00:22:59,520 --> 00:23:10,800
+Close the feedback loop with a visible correction and its result.
+Acknowledging the report without changing a persistent hazard teaches
+people that reporting has little value.
+
+125
+00:23:10,800 --> 00:23:20,592
+Build the timeline from actual records and participant accounts.
+Separate established facts, differing recollections and remaining
+uncertainty.
+
+126
+00:23:20,592 --> 00:23:27,984
+Ask what the provider saw and expected at the time. Avoid assuming
+that the final outcome was obvious from the beginning.
+
+127
+00:23:27,984 --> 00:23:39,192
+Identify both failed and successful defenses and consider behavior
+fairly. A near-miss intercept may reveal useful teamwork as well as a
+system weakness.
+
+128
+00:23:39,192 --> 00:23:50,712
+Finish with a practical action, an owner and a way to check change.
+Offer appropriate support to involved staff without making the debrief
+a forced personal disclosure exercise.
+
+129
+00:23:50,712 --> 00:24:04,488
+For the original near miss, propose an approved storage and labelling
+correction plus a reliable independent check. The correction should
+address the observed confusion, not merely add a warning to be more
+careful.
+
+130
+00:24:04,488 --> 00:24:16,176
+Test it safely with training materials under realistic interruption.
+Observe whether people identify the right product and detect the
+mismatch rather than asking whether they like the new system.
+
+131
+00:24:16,176 --> 00:24:26,256
+Look for unintended consequences such as harder access or a new look-
+alike arrangement. A locally improved step can still worsen the
+overall workflow.
+
+132
+00:24:26,256 --> 00:24:37,152
+Record the result and revise the change as needed. Reporting,
+respectful review and measured correction together create the safer
+next call described by the module.
+
+133
+00:24:37,152 --> 00:24:47,280
+Be able to assign roles and update the team when the patient or scene
+changes. Invite concerns and show that a junior voice can stop an
+unsafe action.
+
+134
+00:24:47,280 --> 00:24:58,944
+Demonstrate closed loop, a useful callout, a structured SBAR and
+appropriate PACE escalation. Do not force a slow sequence when an
+immediate stop is needed.
+
+135
+00:24:58,944 --> 00:25:10,560
+Distinguish human error, at-risk behavior and recklessness using
+evidence and context. Separately identify whether the incident reached
+the patient and whether harm occurred.
+
+136
+00:25:10,560 --> 00:25:23,568
+Finally, protect the patient, communicate honestly, complete the
+correct records and report, then help test a practical improvement.
+That is the complete safety cycle, not merely a promise to try harder.

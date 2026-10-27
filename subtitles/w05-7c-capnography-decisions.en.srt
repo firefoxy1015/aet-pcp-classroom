@@ -1,0 +1,908 @@
+1
+00:00:00,000 --> 00:00:14,352
+This lecture completes school Seven C Part A sections four and five.
+We connect the physiology of exhaled carbon dioxide to ROSC
+recognition, resuscitation decisions and family communication.
+
+2
+00:00:14,352 --> 00:00:26,496
+The main textbook reading is integrated below in paired English and
+Chinese. It covers the named adult-arrest section and clearly labels
+older statements that differ from current local guidance.
+
+3
+00:00:26,496 --> 00:00:39,384
+No carbon-dioxide number independently proves a good outcome or
+authorizes stopping. Every interpretation needs the patient, signal
+quality, intervention history and applicable decision pathway.
+
+4
+00:00:39,384 --> 00:00:50,952
+Our aim is a complete reasoning sequence: useful observation,
+justified action, reassessment and an accurate account to the team,
+clinical support and family.
+
+5
+00:00:50,952 --> 00:01:02,208
+Carbon dioxide is produced by metabolism and carried in blood to the
+lungs. It must reach ventilated lung units and then the sampling
+interface before the monitor can display it.
+
+6
+00:01:02,208 --> 00:01:15,384
+During CPR, compressions can generate some pulmonary blood flow. With
+ventilation and other factors reasonably stable, a change in flow may
+change the amount of carbon dioxide reaching the sensor.
+
+7
+00:01:15,384 --> 00:01:26,544
+This is a physiological relationship, not a direct measurement of
+every organ's perfusion or metabolic viability. A low display can
+arise from several links in the chain.
+
+8
+00:01:26,544 --> 00:01:35,064
+Ask where the chain could have changed before deciding what the number
+means. That prevents both false reassurance and premature pessimism.
+
+9
+00:01:35,064 --> 00:01:50,040
+A time capnogram plots exhaled carbon-dioxide concentration or
+pressure over time. The early expiration, rising phase, alveolar
+plateau and inspiratory fall help explain where the end-tidal value
+comes from.
+
+10
+00:01:50,040 --> 00:02:02,664
+Check that a plausible repeated waveform accompanies ventilation and
+that the displayed units and interface are understood. A disconnected
+line or poor sample can still create a misleading number.
+
+11
+00:02:02,664 --> 00:02:14,088
+Waveform shape, frequency, baseline and change can add context. They
+do not substitute for observing chest movement, airway patency and the
+patient's circulation.
+
+12
+00:02:14,088 --> 00:02:23,784
+This school section focuses on arrest trends. Do not use a single
+altered waveform shape to diagnose one disease without the rest of the
+assessment.
+
+13
+00:02:23,784 --> 00:02:36,048
+Continuous waveform capnography with clinical assessment is important
+for confirming and monitoring a tracheal tube. It also helps identify
+subsequent displacement or interruption of ventilation.
+
+14
+00:02:36,048 --> 00:02:49,992
+A supraglottic airway or bag-mask interface may also provide sampled
+carbon dioxide, but leaks and sampling behavior differ. A number from
+one interface is not automatically equivalent evidence from another.
+
+15
+00:02:49,992 --> 00:03:05,352
+When the trace changes, check the patient and visible airway system
+promptly: seal, connections, tube position, secretions and sampling
+obstruction. Keep necessary oxygenation and circulation support going.
+
+16
+00:03:05,352 --> 00:03:15,504
+Evidence about a poor-prognosis cutoff in intubated adults must not be
+transferred to a mask or SGA as though the same test had been
+validated there.
+
+17
+00:03:15,504 --> 00:03:30,096
+When production and circulation are stable, increased alveolar
+ventilation tends to lower carbon dioxide and reduced ventilation
+tends to raise it. Arrest physiology adds substantial flow and
+sampling limitations.
+
+18
+00:03:30,096 --> 00:03:44,832
+Therefore, do not teach that all underventilation produces a low
+ETCO2. A low sample with poor chest rise may reflect very little
+exhaled gas reaching the sensor rather than a simple blood-gas
+relationship.
+
+19
+00:03:44,832 --> 00:03:58,704
+Excessive ventilation may reduce venous return as well as wash out
+carbon dioxide. Deliberately ventilating faster to improve a
+saturation or reduce a number can worsen the circulation you are
+trying to support.
+
+20
+00:03:58,704 --> 00:04:12,960
+Use the appropriate airway, rate and volume strategy and reassess
+actual ventilation. An isolated capnography target cannot justify
+ignoring chest rise, air entry or hemodynamics.
+
+21
+00:04:12,960 --> 00:04:28,368
+With the airway and ventilation reasonably consistent, a falling value
+may prompt review of compressor fatigue, depth, recoil, position and
+interruptions. Watch the technique instead of diagnosing poor CPR from
+the number alone.
+
+22
+00:04:28,368 --> 00:04:40,248
+Correct an observed problem, such as leaning or an exhausted
+compressor, with a coordinated change that minimizes interruption.
+Then reassess the waveform and the rest of the resuscitation.
+
+23
+00:04:40,248 --> 00:04:52,320
+A rise after improved compressions supports a useful response but does
+not prove every organ is adequately perfused. Patient factors, cause
+and ventilation still influence the result.
+
+24
+00:04:52,320 --> 00:05:04,080
+Do not give an extra drug, excessive breaths or untrained compressions
+merely to reach a desired display. Quality monitoring should improve
+actual care rather than replace it.
+
+25
+00:05:04,080 --> 00:05:16,416
+During a transfer, the trace suddenly falls after being stable. Do not
+decide immediately that circulation has failed or that the monitor is
+wrong; both patient and equipment need prompt assessment.
+
+26
+00:05:16,416 --> 00:05:31,008
+Check ventilation, airway position and seal, visible connections and
+the sampling path while another clinician maintains effective CPR.
+Look for a change in the patient or a newly developing cause.
+
+27
+00:05:31,008 --> 00:05:42,720
+If a connection is corrected and the trace returns, reassess the
+patient rather than assuming the entire problem is solved. A sampling
+fault and physiological deterioration can occur together.
+
+28
+00:05:42,720 --> 00:05:54,216
+Report the time, preceding action, observed problem, correction and
+response. That creates a useful clinical trend instead of a collection
+of unexplained numbers.
+
+29
+00:05:54,216 --> 00:06:05,064
+An abrupt sustained increase can occur when spontaneous circulation
+delivers more accumulated carbon dioxide to the lungs. It is an
+important cue to announce to the team.
+
+30
+00:06:05,064 --> 00:06:16,872
+No absolute value of thirty-five or forty proves ROSC. Ventilation,
+airway changes, drugs, compressions and the arrest cause can also
+affect the trend.
+
+31
+00:06:16,872 --> 00:06:29,304
+Check the context, look for other signs and coordinate a brief
+appropriate reassessment of circulation. Do not create repeated long
+pulse checks every time one breath produces a higher value.
+
+32
+00:06:29,304 --> 00:06:41,304
+If spontaneous circulation is confirmed, change to post-arrest care.
+If it is not confirmed, continue or promptly resume effective arrest
+care and investigate the change.
+
+33
+00:06:41,304 --> 00:06:53,904
+The school highlights values below ten millimeters of mercury. Treat a
+persistent low value as a reason to review the resuscitation, not as
+direct proof of severe metabolic failure.
+
+34
+00:06:53,904 --> 00:07:08,400
+Review compression quality and ventilation together, verify the
+waveform and interface, and reconsider reversible causes. Low
+pulmonary flow from an obstruction may not improve simply by telling
+the compressor to push harder.
+
+35
+00:07:08,400 --> 00:07:22,104
+Document what was assessed and corrected, and communicate an
+unresolved low trend early. A sentence saying CPR was excellent is
+less useful than actual observations and the response to correction.
+
+36
+00:07:22,104 --> 00:07:32,592
+Do not stop on that number. Even a concerning prognostic association
+does not replace the local eligibility, consultation and
+discontinuation pathway.
+
+37
+00:07:32,592 --> 00:07:43,968
+A group of patients with a particular measurement can have worse
+outcomes without the measurement perfectly identifying every person
+who cannot survive. Prediction and certainty are different.
+
+38
+00:07:43,968 --> 00:07:58,152
+Current AHA guidance discusses a low value after prolonged intubated
+adult ALS only as one part of a multimodal decision. It specifically
+warns against a universal cutoff in nonintubated patients.
+
+39
+00:07:58,152 --> 00:08:10,824
+A higher value is also not a guarantee that ongoing efforts will
+produce a favorable neurological result. Integrate the entire clinical
+course rather than using either side of a threshold as a verdict.
+
+40
+00:08:10,824 --> 00:08:21,696
+For this course, the actual BCEHS pathway and appropriate clinical
+direction govern the stopping decision. We do not replace them with a
+textbook rhyme or foreign rule.
+
+41
+00:08:21,696 --> 00:08:34,464
+In our original case, the ETCO2 rises persistently and the patient
+begins normal breathing. The team announces the change and coordinates
+a brief appropriate assessment that confirms circulation.
+
+42
+00:08:34,464 --> 00:08:45,672
+Do not confuse an organized rhythm alone, an occasional gasp or a
+pulse generated by the compressor with this confirmation. Those
+findings need their own clinical interpretation.
+
+43
+00:08:45,672 --> 00:08:59,040
+If the assessment does not confirm circulation, promptly return to the
+indicated arrest response. A plan for ROSC must not create a prolonged
+no-flow interval in a patient who remains pulseless.
+
+44
+00:08:59,040 --> 00:09:13,008
+With confirmed ROSC, stop unnecessary compressions and immediately
+reassess airway, breathing, perfusion and neurological state. Continue
+monitoring because re-arrest remains possible.
+
+45
+00:09:13,008 --> 00:09:25,944
+Global ischemia and reperfusion can injure brain, myocardium and other
+organs. Restored circulation does not immediately repair the original
+cause or the consequences of low flow.
+
+46
+00:09:25,944 --> 00:09:39,720
+Maintain an effective airway and assess whether spontaneous breathing
+is adequate. An airway device that was tolerated during arrest may
+become inappropriate as consciousness and protective reflexes return.
+
+47
+00:09:39,720 --> 00:09:54,048
+Monitor rhythm and perfusion, check and address glucose as indicated,
+and reassess after every change. Prepare equipment and team roles for
+possible re-arrest rather than dismantling the response immediately.
+
+48
+00:09:54,048 --> 00:10:07,032
+Communicate the arrest course and current instability to the receiving
+system. Suspected cause, ECG findings, clinical support and local
+destination rules together determine the appropriate transport plan.
+
+49
+00:10:07,032 --> 00:10:20,904
+During arrest and before reliable post-ROSC oxygen measurement,
+avoiding hypoxemia is essential. Do not abruptly reduce oxygen because
+a theoretical hyperoxia risk has become the only focus.
+
+50
+00:10:20,904 --> 00:10:34,296
+Once the measurement is reliable, use the applicable local target and
+titrate unnecessary excess. Saturation near its upper plateau does not
+reveal how high arterial oxygen has risen.
+
+51
+00:10:34,296 --> 00:10:49,536
+Know the labelled source difference: N03 essentials use ninety-two to
+ninety-eight percent, whereas AHA twenty-twenty-five discusses ninety
+to ninety-eight after reliable measurement. Do not invent an averaged
+target.
+
+52
+00:10:49,536 --> 00:11:03,792
+Consider signal quality, perfusion and the patient instead of treating
+one pulse-oximeter value as infallible. Continue oxygenation
+assessment and communicate uncertainty when the reading is unreliable.
+
+53
+00:11:03,792 --> 00:11:19,200
+After ROSC, carbon dioxide influences cerebral blood flow. Excessively
+low arterial CO2 can constrict cerebral vessels, so purposeful
+hyperventilation is not a neutral way to improve a monitor number.
+
+54
+00:11:19,200 --> 00:11:31,824
+End-tidal and arterial values can diverge when perfusion, ventilation-
+perfusion matching and dead space change. A normal end-tidal number
+does not prove a normal arterial value.
+
+55
+00:11:31,824 --> 00:11:46,800
+Current N03 has an internal target difference between its essentials
+and ACP paragraph. AHA's arterial range is a separately labelled
+recommendation, not a way to silently resolve the local end-tidal
+wording.
+
+56
+00:11:46,800 --> 00:12:01,920
+Use the current applicable clinical direction, monitor ventilation and
+avoid large reflex changes based on one value. Preserve these source
+distinctions in your study notes rather than memorizing a fabricated
+universal range.
+
+57
+00:12:01,920 --> 00:12:16,056
+Avoid hypotension after ROSC and reassess actual perfusion. The
+oxygen-delivery chain still requires adequate forward flow; a good-
+looking saturation does not protect a poorly perfused brain.
+
+58
+00:12:16,056 --> 00:12:32,112
+The local N03 text contains differing systolic wording and a mean-
+pressure reference near sixty-five. AHA twenty-twenty-five uses at
+least sixty-five mean arterial pressure as a minimum, with
+individualized clinical context.
+
+59
+00:12:32,112 --> 00:12:44,592
+The textbook's generic one-to-two-liter bolus is not a universal
+order. Assess volume loss, pump function and response, and stay within
+the current local fluid plan and permissions.
+
+60
+00:12:44,592 --> 00:12:54,912
+Persistent shock may require advanced clinician support. Understanding
+vasopressors in the reading does not give a PCP unrestricted
+permission to start an infusion.
+
+61
+00:12:54,912 --> 00:13:08,688
+Do not deliberately cool every survivor with large cold-fluid boluses.
+Temperature management is a monitored strategy; traumatic injury and
+spontaneous hypothermia add important qualifications.
+
+62
+00:13:08,688 --> 00:13:21,552
+A head-up position after ROSC may be useful when compatible with
+airway, perfusion and injury. This is not permission to elevate the
+head during ongoing arrest as a routine CPR technique.
+
+63
+00:13:21,552 --> 00:13:36,384
+N03 says about ten minutes before post-ROSC twelve-lead acquisition,
+while its checklist says five to ten. AHA recommends as soon as
+feasible and highlights early false-positive patterns and repeat
+recordings.
+
+64
+00:13:36,384 --> 00:13:49,032
+Do not combine those statements into an invented compromise clock. Use
+current local direction and communicate the actual time, tracing and
+clinical state without delaying urgent coordination.
+
+65
+00:13:49,032 --> 00:14:02,016
+Withholding CPR concerns whether resuscitation should begin, including
+obvious death, applicable lawful direction and safety. Discontinuation
+concerns stopping efforts that are already underway.
+
+66
+00:14:02,016 --> 00:14:14,880
+Recognition of life extinct is the required assessment following the
+appropriate discontinuation process, except for the separate obvious-
+death situation. It is not simply another name for the decision to
+stop.
+
+67
+00:14:14,880 --> 00:14:28,536
+The school introduces these decisions together, but the current local
+R01, R02 and R03 assign distinct requirements. Keep the sequence and
+the evidence for each decision clear.
+
+68
+00:14:28,536 --> 00:14:42,552
+An isolated poor ETCO2, a family request or an elapsed timer cannot
+substitute for that whole pathway. Uncertainty is a reason to seek
+appropriate clinical support, not to invent criteria.
+
+69
+00:14:42,552 --> 00:14:56,712
+Current obvious-death examples include decomposition, dependent
+lividity or whole-body rigor, and specified injuries incompatible with
+life. A cold or stiff body is not automatically the same finding.
+
+70
+00:14:56,712 --> 00:15:12,792
+An applicable lawful direction may include an advance directive, MOST,
+No CPR form or recognized No CPR identification. Verify relevance and
+authority rather than treating every paper or relative's statement as
+equivalent.
+
+71
+00:15:12,792 --> 00:15:23,976
+No CPR does not mean no appropriate care or no family support. Follow
+the applicable direction and care plan without turning the absence of
+CPR into abandonment.
+
+72
+00:15:23,976 --> 00:15:37,824
+If the criteria are unclear, start the appropriate care and seek
+CliniCall support under the guidance. Scene safety remains essential;
+clinical uncertainty does not require entering an unsafe scene.
+
+73
+00:15:37,824 --> 00:15:58,128
+For a PCP- or EMR-led arrest without ACP or CCP present, current R02
+requires early CliniCall contact after initial CPR, analysis and
+indicated shocks. Initial care takes priority; the first call is not
+deferred until resuscitation seems hopeless.
+
+74
+00:15:58,128 --> 00:16:11,568
+A designated team member can communicate while others maintain care.
+The consultation may clarify treatable causes and the plan for
+continued efforts, selected conveyance or later discontinuation.
+
+75
+00:16:11,568 --> 00:16:21,624
+A prior consultation may include standing direction for a specified
+later point. That is different from independently deciding to stop
+when a minimum duration passes.
+
+76
+00:16:21,624 --> 00:16:32,592
+Communicate new findings or uncertainty that may change that
+direction. Do not treat a phone call as blanket legal immunity or
+permission to ignore a changed patient.
+
+77
+00:16:32,592 --> 00:16:45,024
+Prepare the collapse and witness history, bystander actions, actual
+resuscitation times and initial rhythm. Distinguish facts from
+estimates and state when the history is uncertain.
+
+78
+00:16:45,024 --> 00:16:59,376
+Summarize current physiology and care: compression quality, analyses
+and shocks, airway and ventilation, capnography trend, access or
+medicines actually given, and any period of ROSC.
+
+79
+00:16:59,376 --> 00:17:10,896
+Report relevant causes and interventions with results, not merely that
+the Hs and Ts were done. A negative or unavailable assessment is
+different from a cause being excluded.
+
+80
+00:17:10,896 --> 00:17:22,416
+Ask a clear question about the next plan and read back the direction,
+including conditions and timing. Document who gave it, what it
+authorized and what prompted later updates.
+
+81
+00:17:22,416 --> 00:17:37,128
+R02 describes several rapid-discontinuation considerations, not a rule
+that a first nonshockable rhythm or low ETCO2 is enough. The
+prolonged-no-flow route requires all of its stated elements.
+
+82
+00:17:37,128 --> 00:17:51,072
+That route includes at least twenty minutes observed unresponsive and
+presumed pulseless before emergency-service arrival, no CPR during
+that period, absent signs of life and the specified nonshockable
+rhythm evidence.
+
+83
+00:17:51,072 --> 00:18:08,184
+The medical terminal-illness consideration describes imminent
+unavoidable death and unsuccessful expected CPR, not simply anyone
+with cancer or a chronic condition. Lawful direction and verified
+representative authority are separate considerations.
+
+84
+00:18:08,184 --> 00:18:21,024
+Do not apply these as independent student decisions. Consult through
+the actual pathway, preserve legal-direction distinctions and obtain
+clarification whenever authority or facts are uncertain.
+
+85
+00:18:21,024 --> 00:18:32,832
+The general twenty-minute minimum pathway is different from the rapid
+prolonged-no-flow route. One describes a resuscitation interval; the
+other includes the pre-arrival no-CPR history.
+
+86
+00:18:32,832 --> 00:18:45,480
+Current R02 body requires all three: not witnessed by paramedics, EMRs
+or first responders, nonshockable throughout, and no ROSC at any time
+for any duration.
+
+87
+00:18:45,480 --> 00:18:55,968
+Its diagram abbreviates the rhythm wording as initially nonshockable.
+Do not drop the stricter throughout requirement from the body when
+studying or presenting the case.
+
+88
+00:18:55,968 --> 00:19:08,592
+A bystander-witnessed event is not the same as an emergency-provider-
+witnessed event for that particular criterion. Document exactly who
+saw what, and do not stop simply because the clock reaches twenty.
+
+89
+00:19:08,592 --> 00:19:22,728
+R02 describes a thirty-minute minimum pathway for initially
+nonshockable arrests and forty minutes for initially shockable
+arrests. These are minimum considerations, not independent countdown-
+to-death rules.
+
+90
+00:19:22,728 --> 00:19:35,904
+A patient initially in VF does not become a twenty-minute-pathway
+patient merely because the latest analysis shows asystole. Initial
+rhythm and the entire resuscitation course remain relevant.
+
+91
+00:19:35,904 --> 00:19:49,080
+Any transient ROSC must be reported; do not erase a brief circulation
+period because arrest recurred. Clarify how actual timing and changed
+circumstances affect the plan with clinical support.
+
+92
+00:19:49,080 --> 00:20:00,888
+Continue the required treatment and assessment while using the
+appropriate consultation and standing direction. Do not invent clock
+resets or add drug rounds from an unrelated textbook rule.
+
+93
+00:20:00,888 --> 00:20:13,608
+A duration only has meaning within the correct patient population and
+clinical pathway. Hypothermia, trauma and toxicological or other
+special circumstances may need a different approach.
+
+94
+00:20:13,608 --> 00:20:26,616
+Confirm the actual care, rhythm course, signs of life, causes and
+response. A poorly delivered interval cannot be presented as a
+complete high-quality resuscitation simply because time elapsed.
+
+95
+00:20:26,616 --> 00:20:45,936
+R02 contains lawful- or verified-direction exceptions, while R03 asks
+for confirmation when CPR has been commenced. Preserve those source
+statements and promptly clarify the actual situation rather than
+inventing a universal exception or ignoring patient direction.
+
+96
+00:20:45,936 --> 00:20:59,328
+Clinical consultation and accurate documentation support accountable
+care. Neither a rule nor a telephone call guarantees immunity,
+certainty of prognosis or permission to omit required assessment.
+
+97
+00:20:59,328 --> 00:21:15,072
+Once the appropriate discontinuation process is complete, R03
+specifies how life extinct is assessed. Except for obvious-death
+circumstances, at least two paramedics or EMRs are involved in
+independent confirmation.
+
+98
+00:21:15,072 --> 00:21:27,336
+This is not simply checking that the monitor is flat or pupils are
+fixed. The actual assessment specifies heart sounds, breathing
+observations and a central pulse over defined intervals.
+
+99
+00:21:27,336 --> 00:21:38,472
+Keep noise and movement low enough for an adequate assessment, and
+record what each clinician actually found. Do not copy another
+provider's findings as your own examination.
+
+100
+00:21:38,472 --> 00:21:49,176
+Uncertainty means obtain further clinical direction. The generic pupil
+wording in the school summary is not a substitute for the currently
+served R03 procedure.
+
+101
+00:21:49,176 --> 00:22:02,928
+The current R03 describes one clinician simultaneously listening for
+heart and breath sounds and observing respiratory effort for ninety
+seconds, while the second assesses the carotid pulse for ninety
+seconds.
+
+102
+00:22:02,928 --> 00:22:14,208
+These are concurrent roles in a two-provider assessment, not the
+ordinary initial brief arrest-recognition check and not a reason to
+delay starting indicated CPR for ninety seconds.
+
+103
+00:22:14,208 --> 00:22:28,248
+Its additional asystole or very slow PEA observation is labelled ACP
+and CCP, and ultrasound assistance is labelled CCP. Do not erase those
+scope labels when making a PCP study card.
+
+104
+00:22:28,248 --> 00:22:39,768
+Record the real assessment and times after the appropriate direction.
+Environmental hypothermia is an important exception and must not be
+forced through a routine ROLE checklist.
+
+105
+00:22:39,768 --> 00:22:52,632
+In environmental hypothermia, absence of usual signs cannot be used
+routinely to record life extinct. Seek the appropriate clinical
+direction and rewarming-capable destination planning.
+
+106
+00:22:52,632 --> 00:23:05,232
+Traumatic arrest prioritizes particular reversible causes and has its
+own time-critical transport considerations. This adult medical-arrest
+lecture does not replace the traumatic pathway.
+
+107
+00:23:05,232 --> 00:23:17,592
+A prediction rule from one population must not be used as certain
+evidence in another. Toxicological events and unusual circumstances
+require the relevant expertise and pathway.
+
+108
+00:23:17,592 --> 00:23:32,448
+If the scene history, legal direction, assessment or consultation plan
+is unclear, state the uncertainty and obtain clarification. Inventing
+a confident answer is not safer than communicating what is unknown.
+
+109
+00:23:32,448 --> 00:23:45,144
+When staffing and circumstances permit, assign someone to explain what
+is happening and support the appropriate family or support person. Do
+not let all communication wait until a final decision.
+
+110
+00:23:45,144 --> 00:23:57,336
+Ask about relationship, preferred name, language and cultural needs
+without assuming one family pattern. Arrange suitable interpretation
+rather than relying on medical jargon.
+
+111
+00:23:57,336 --> 00:24:08,088
+Acknowledge useful bystander actions, such as calling for help or
+attempting CPR, without guaranteeing that those actions will produce
+survival or blaming them for a poor outcome.
+
+112
+00:24:08,088 --> 00:24:20,448
+Keep privacy and scene safety in view. Removing PPE is appropriate
+only when the clinical exposure risk permits it; a compassionate
+interaction must not require unsafe removal.
+
+113
+00:24:20,448 --> 00:24:33,768
+After the appropriate process establishes death, give the news plainly
+and accurately. For example: I am very sorry. The treatment has not
+restored circulation, and Sam has died.
+
+114
+00:24:33,768 --> 00:24:44,640
+Avoid phrases that may imply sleep, temporary absence or that the
+person might still be alive elsewhere. Use a calm tone and the
+person's name when appropriate.
+
+115
+00:24:44,640 --> 00:24:56,952
+Describe only the care actually provided. Do not say every possible
+intervention was tried, promise an exact cause of death, or claim
+advanced treatments that the team did not perform.
+
+116
+00:24:56,952 --> 00:25:08,280
+Then pause. Remain present and listen rather than filling the silence
+with a long technical explanation. Offer practical next steps under
+the actual service process.
+
+117
+00:25:08,280 --> 00:25:18,192
+A family member asks whether anything else can be done. Acknowledge
+the shock and answer the actual question without becoming defensive or
+listing your credentials.
+
+118
+00:25:18,192 --> 00:25:31,272
+A truthful response may explain that the team provided the indicated
+treatment, obtained clinical direction and completed the required
+assessment, but circulation did not return. Match the statement to the
+facts.
+
+119
+00:25:31,272 --> 00:25:45,312
+Do not imply the heart must have no electrical activity if the
+assessment involved PEA, or that a protocol can mathematically prove
+zero chance in every individual. Clear language need not create false
+claims.
+
+120
+00:25:45,312 --> 00:25:57,264
+Allow further silence, answer honestly and explain what happens next
+within the actual process. Respectful presence is care; it is not an
+attempt to force acceptance immediately.
+
+121
+00:25:57,264 --> 00:26:10,968
+Record actual times and clearly identify estimates. Include initial
+rhythm, changes, bystander and team interventions, pauses, shocks,
+airway findings and any transient ROSC.
+
+122
+00:26:10,968 --> 00:26:23,592
+Document observed CPR quality and the reasons for clinical choices. Do
+not state all reversible causes excluded when only a mnemonic
+discussion occurred or an assessment was unavailable.
+
+123
+00:26:23,592 --> 00:26:37,488
+Record clinical consultation and direction with its conditions, the
+applicable discontinuation basis and the actual ROLE findings,
+providers and times. A blank template is not evidence of an
+examination.
+
+124
+00:26:37,488 --> 00:26:50,256
+Describe relevant family communication and the subsequent service
+steps honestly. Preserve the record and scene requirements; no
+procedure should be performed after death merely to gain practice.
+
+125
+00:26:50,256 --> 00:27:05,304
+In ending A, a sustained rise and the coordinated clinical assessment
+confirm ROSC. The team supports airway, ventilation and perfusion,
+communicates the course and plans definitive care while preparing for
+re-arrest.
+
+126
+00:27:05,304 --> 00:27:19,440
+In ending B, the value stays low despite reviewed technique and no
+circulation is confirmed. The team continues appropriate care,
+investigates causes and uses the early consultation and applicable
+pathway.
+
+127
+00:27:19,440 --> 00:27:33,864
+Because this original patient initially had a shockable rhythm, an
+eventual asystolic analysis does not create eligibility for the
+general twenty-minute pathway. Communicate the whole course, not the
+last strip alone.
+
+128
+00:27:33,864 --> 00:27:47,016
+Neither ending is decided by what the team hopes to see. The
+transition, continued care or eventual discontinuation must follow
+verified evidence, current direction and the correct sequence.
+
+129
+00:27:47,016 --> 00:28:29,688
+The assigned saturation page gives several contextual numbers: 97-100
+percent as its usual reference, about 95 percent as an older-adult
+example, and a broader 92-100 percent practice statement. They are not
+interchangeable prescriptions for a post-arrest patient, nor proof
+that every person above 90 percent is safe. Compare the reliable
+reading with baseline, symptoms, oxygen support and the separately
+identified current N03 or other applicable pathway. The source also
+confuses hypercapnia with carbon-monoxide interference: carbon dioxide
+retention and carboxyhemoglobin are different problems.
+
+130
+00:28:29,688 --> 00:29:08,184
+Choose a sensor designed for the patient, site and monitor: an adult
+spring clip is not automatically suitable for a small infant, and a
+wrap, ear or forehead sensor has its own placement and compatibility
+instructions. Inspect skin, alignment, attachment and signal quality
+rather than taping any probe anywhere. An inflating blood-pressure
+cuff can interrupt the pulsatile signal on that limb; do not interpret
+the concurrent lost or falling oximeter signal as a new diagnosis
+before checking that interaction. A different site may help, but does
+not guarantee accuracy in low perfusion.
+
+131
+00:29:08,184 --> 00:29:49,320
+Explain all five assigned pressure factors as interacting variables:
+cardiac output supplies flow; arteriolar resistance opposes it;
+circulating volume influences venous return; viscosity affects
+resistance; and large-artery elasticity permits expansion and recoil.
+Compliance is change in volume for a change in pressure, not another
+name for peripheral resistance. A stiff artery, a constricted
+arteriole and thickened blood are different mechanisms. The source
+alternates elasticity and rigidity in a way that can reverse the
+meaning: less arterial compliance generally means more stiffness, not
+improved cushioning.
+
+132
+00:29:49,320 --> 00:30:29,712
+The volume paragraph describes atrial stretch and a faster-rate
+response. Distinguish that atrial or Bainbridge input from the
+arterial baroreflex, where increased arterial stretch usually promotes
+a slowing response. One paragraph does not mean more fluid always
+improves pressure or that every increased pressure produces
+tachycardia. For the weekly case, repeat a reliable pulse, pressure
+and clinical assessment after the actual intervention; explain whether
+flow, resistance, measurement conditions or several links may have
+changed. Do not select a fluid or vasodilator solely from one
+simplified factor.
+
+133
+00:30:29,712 --> 00:31:19,272
+The ending glossary adds legal vocabulary. Absconding is the source
+term for leaving an inpatient setting without permission, not an
+independent ambulance power to confine someone. False imprisonment
+concerns confinement without consent or lawful authority. The source
+distinguishes assault as threatened harmful contact and battery as
+intentional harmful or offensive contact. This U.S.-style distinction
+is not a complete Canadian offence map: Criminal Code section265
+includes intentional force without consent and specified attempts or
+threats. An intentional tort is a civil-wrong category, not a synonym
+for every treatment error or criminal charge. Assess consent, safety
+and the real applicable authority instead of deciding from a label.
+
+134
+00:31:19,272 --> 00:32:08,664
+Keep other glossary concerns distinct. Fraud concerns deception; the
+source uses libel for a damaging published falsehood. Neither one-line
+entry is a complete legal test. Malpractice concerns professional care
+failing the applicable duty or standard, not proof that a poor outcome
+alone establishes wrongdoing. Confidentiality protects entrusted
+information but is not a promise that relevant information can never
+be shared lawfully. Duty to warn raises a protection-and-disclosure
+question; it is not permission to broadcast a diagnosis or treat every
+angry statement as one universal legal trigger. Record facts, protect
+information and obtain appropriate guidance through the actual BC
+clinical/legal-service framework.
+
+135
+00:32:08,664 --> 00:32:53,376
+The first boundary page introduces forensic psychiatric nursing:
+appropriately qualified assessment, evidence handling, testimony and
+links to rehabilitation or social services can connect health care
+with justice systems. These are different tasks, not a qualification
+gained by reading the paragraph. A paramedic can accurately document
+observed behaviour, injuries, statements and care while preserving
+consent, dignity and the actual evidence pathway. Do not declare legal
+fitness, criminal responsibility or psychiatric diagnosis from a
+difficult interaction. U.S. insurance and benefits examples remain
+source context, not a reason to ration emergency assessment by
+presumed ability to pay.
+
+136
+00:32:53,376 --> 00:33:03,624
+Explain an abrupt rise, persistent low value and sudden drop with at
+least two possible mechanisms each. State what you would assess before
+changing the plan.
+
+137
+00:33:03,624 --> 00:33:13,200
+Demonstrate the transition after confirmed ROSC and keep arterial
+versus end-tidal measurements and local versus AHA targets clearly
+labelled.
+
+138
+00:33:13,200 --> 00:33:25,992
+Then explain withholding, the rapid and general discontinuation
+pathways, early consultation and the current concurrent ninety-second
+ROLE assessment without substituting one number for the process.
+
+139
+00:33:25,992 --> 00:33:38,280
+Finish by giving a concise consultation, a factual record and a clear
+compassionate family explanation. That completes the five saved Seven
+C teaching sections as a connected course.

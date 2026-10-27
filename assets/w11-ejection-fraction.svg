@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 550" role="img" aria-labelledby="title desc">
+  <title id="title">Same ejection fraction, different stroke volume</title>
+  <desc id="desc">Original arithmetic diagram, not patient measurements. Example A starts with120mL and ejects72mL, leaving48mL. Example B starts with80mL and ejects48mL, leaving32mL. Both ejection fractions are60percent. Bar lengths use a common volume scale.</desc>
+  <rect width="600" height="550" rx="14" fill="#ffffff"/>
+  <g font-family="Arial, sans-serif" fill="#18363d">
+    <text x="35" y="42" font-size="27" font-weight="700">Same EF, different stroke volume</text>
+    <text x="35" y="82" font-size="22">EF = (EDV - ESV) / EDV x 100%</text>
+    <text x="35" y="114" font-size="22">Stroke volume = EDV - ESV</text>
+    <text x="35" y="158" font-size="24" font-weight="700">A: starting volume 120 mL</text>
+    <rect x="35" y="178" width="216" height="54" fill="#087e83"/>
+    <rect x="251" y="178" width="144" height="54" fill="#e5edef"/>
+    <rect x="35" y="178" width="360" height="54" fill="none" stroke="#264b53" stroke-width="2"/>
+    <text x="143" y="213" text-anchor="middle" font-size="25" fill="#ffffff">72 mL</text>
+    <text x="323" y="213" text-anchor="middle" font-size="25">48 mL</text>
+    <text x="427" y="212" font-size="25" font-weight="700">EF 60%</text>
+    <text x="35" y="283" font-size="24" font-weight="700">B: starting volume 80 mL</text>
+    <rect x="35" y="303" width="144" height="54" fill="#087e83"/>
+    <rect x="179" y="303" width="96" height="54" fill="#e5edef"/>
+    <rect x="35" y="303" width="240" height="54" fill="none" stroke="#264b53" stroke-width="2"/>
+    <text x="107" y="338" text-anchor="middle" font-size="25" fill="#ffffff">48 mL</text>
+    <text x="227" y="338" text-anchor="middle" font-size="25">32 mL</text>
+    <text x="427" y="337" font-size="25" font-weight="700">EF 60%</text>
+    <path d="M35 385H395 M35 379V391 M155 379V391 M275 379V391 M395 379V391" fill="none" stroke="#536e75" stroke-width="2"/>
+    <g font-size="21" text-anchor="middle">
+      <text x="35" y="416">0</text><text x="155" y="416">40</text><text x="275" y="416">80</text><text x="395" y="416">120 mL</text>
+    </g>
+    <rect x="35" y="443" width="22" height="20" fill="#087e83"/>
+    <text x="70" y="460" font-size="22">Ejected: stroke volume</text>
+    <rect x="35" y="480" width="22" height="20" fill="#e5edef" stroke="#536e75"/>
+    <text x="70" y="497" font-size="22">Remaining: end-systolic volume</text>
+    <text x="35" y="534" font-size="18">Arithmetic example, not a diagnosis or treatment.</text>
+  </g>
+</svg>

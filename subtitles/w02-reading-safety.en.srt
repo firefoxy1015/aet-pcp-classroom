@@ -1,0 +1,997 @@
+1
+00:00:00,000 --> 00:00:14,808
+The school assigned these readings because a patient is more than a
+medication calculation. You need to understand what was ordered, what
+the patient actually took, how breathing can fail and whether your
+proposed care is lawful and within your role.
+
+2
+00:00:14,808 --> 00:00:29,448
+The paired reading below follows the assigned page spans in the
+available candidate books. It teaches the narrative domains and
+identifies incorrect or jurisdiction-specific statements rather than
+reproducing every textbook sentence.
+
+3
+00:00:29,448 --> 00:00:42,792
+This lecture links those domains to the Week Two airway and medication
+stations. The practical airway sequence remains in its own lesson so
+that a mental-health discussion never delays an effective breath.
+
+4
+00:00:42,792 --> 00:00:56,016
+Use the source notes for unresolved edition and interactive material.
+A detailed reading guide is useful learning content, but it is not
+evidence that an unrecovered school activity has been completed.
+
+5
+00:00:56,016 --> 00:01:10,512
+Begin with the patient and the reason for treatment. An amount can be
+mathematically correct while the indication is wrong or a
+contraindication makes it unsafe. Explain what improvement you expect
+and what harm you are looking for.
+
+6
+00:01:10,512 --> 00:01:25,896
+Verification includes the real package, formulation, expiry and
+integrity as well as the order. Similar brand names, combination
+products and a changed tablet strength can create an error before
+anyone touches a syringe.
+
+7
+00:01:25,896 --> 00:01:40,944
+Delivery means the medicine actually reaches the appropriate place at
+the appropriate rate. A leaking IV, an uncoordinated inhaler or
+swallowed sublingual tablet can change delivery even when the prepared
+amount was correct.
+
+8
+00:01:40,944 --> 00:01:54,480
+Finish with the patient again. Record what happened, including partial
+or failed delivery, and reassess the effect. Reciting a list of rights
+is preparation for that process, not a substitute for carrying it out.
+
+9
+00:01:54,480 --> 00:02:10,008
+A usable order identifies the person, drug, amount, route and timing,
+with relevant concentration, weight, limits and indication. A missing
+route is not repaired by choosing whichever route seems fastest.
+
+10
+00:02:10,008 --> 00:02:24,816
+An as-needed order still has a reason and safe boundaries. A stat
+order changes urgency, not the obligation to check. Titration requires
+a defined target, increments and reassessment under actual authority.
+
+11
+00:02:24,816 --> 00:02:38,088
+Do not silently translate twice daily into every twelve hours or three
+times daily into every eight hours. Those may be different schedules;
+use the actual instruction and resolve uncertainty.
+
+12
+00:02:38,088 --> 00:02:50,376
+For a verbal order, read back the complete medicine, units, route and
+timing and obtain confirmation according to policy. Guessing is not
+made safer by saying the scene was busy.
+
+13
+00:02:50,376 --> 00:03:05,880
+The actual formulation determines how the medicine is prepared and
+absorbed. Crushing an enteric-coated or modified-release product can
+change its intended function; swallowing trouble needs an appropriate
+plan, not automatic crushing.
+
+14
+00:03:05,880 --> 00:03:21,024
+A sublingual or buccal product uses mucosal delivery. A swallowed dose
+is not necessarily equivalent. Rectal, vaginal, topical and
+transdermal routes also need their own product, consent and scope
+checks.
+
+15
+00:03:21,024 --> 00:03:35,760
+For nasal medication, follow the actual device. Do not prime a sealed
+emergency naloxone or glucagon spray by wasting part of its dose. The
+dead-space arithmetic for a syringe atomizer is a separate process.
+
+16
+00:03:35,760 --> 00:03:50,976
+IV medicine enters the circulation without an absorption step, but
+target effects can still take time. Check patency, compatibility, rate
+and residual tubing volume rather than assuming a pushed syringe
+proves successful treatment.
+
+17
+00:03:50,976 --> 00:04:05,808
+A pressurized metered-dose inhaler uses propellant. A nebulizer may be
+driven by compressed gas or electricity depending on the system. Do
+not repeat the candidate text's implication that every inhaler needs
+electrical power.
+
+18
+00:04:05,808 --> 00:04:20,664
+Select and coordinate the actual spacer or mask with the person's
+breathing. A severely distressed patient may be unable to perform an
+ideal prolonged breath-hold, and a poorly sealed interface can waste
+the prepared dose.
+
+19
+00:04:20,664 --> 00:04:34,368
+Count what was actually administered, then assess whether the person
+is moving air. A fading wheeze with reduced air entry and exhaustion
+is not reassuring merely because the device ran for the expected time.
+
+20
+00:04:34,368 --> 00:04:46,416
+If effective breaths are failing, provide ventilatory support and
+reassess the pathway. Do not continue counting bronchodilator puffs
+while ignoring a patient who needs assisted ventilation.
+
+21
+00:04:46,416 --> 00:05:00,312
+Reassessment begins during administration when immediate harm is
+possible. A textbook five-to-fifteen-minute interval is not permission
+to wait through apnea, anaphylaxis or a suddenly painful swollen IV
+site.
+
+22
+00:05:00,312 --> 00:05:15,360
+Record the product, actual amount, route, relevant site, time, reason,
+response and complication. If half the prepared medicine leaked or
+delivery stopped, do not chart the whole planned dose as administered.
+
+23
+00:05:15,360 --> 00:05:28,080
+An incident report and a patient care record have different purposes.
+Complete the required process without falsifying, deleting an
+important finding or pre-charting treatment that has not happened.
+
+24
+00:05:28,080 --> 00:05:42,768
+After an error, first protect and assess the patient and get
+appropriate assistance. Honest communication and system learning
+follow; hiding an error prevents both effective rescue and prevention
+of the next one.
+
+25
+00:05:42,768 --> 00:05:57,264
+Explain the proposed care, important benefits and risks, alternatives
+and the consequences of declining. Check understanding, not just
+whether a form has a signature. A patient may understand and still
+make a choice you dislike.
+
+26
+00:05:57,264 --> 00:06:10,896
+Language difference, deafness, a psychiatric diagnosis or an unusual
+appearance does not alone prove incapacity. Use appropriate
+communication support and assess the actual decision the person is
+making.
+
+27
+00:06:10,896 --> 00:06:24,456
+Urgency does not erase a capable refusal. If the person cannot
+participate, establish the actual emergency and legal pathway rather
+than using implied consent as an unlimited permission label.
+
+28
+00:06:24,456 --> 00:06:39,672
+After oxygenation, ventilation, glucose or poisoning improves, revisit
+capacity and the explanation. Naloxone response alone does not
+establish an informed refusal or remove the need for the current
+refusal process.
+
+29
+00:06:39,672 --> 00:06:56,160
+The assigned legal reading uses U.S. Nurse Practice Acts, state
+boards, HIPAA and other U.S. structures. Learn the distinctions
+between law, regulation, licence and policy without copying those
+structures as BC paramedic legislation.
+
+30
+00:06:56,160 --> 00:07:10,296
+A course certificate, an employer instruction and a textbook procedure
+do not independently create every practice permission. Check the
+actual licence, required education, service conditions and current
+procedure.
+
+31
+00:07:10,296 --> 00:07:27,240
+Likewise, neither a diagnosis nor a difficult interaction grants a
+blanket power to restrain or transport someone involuntarily. Use
+actual legal authority and the least restrictive appropriate approach,
+with reassessment and consultation.
+
+32
+00:07:27,240 --> 00:07:43,296
+Keep evidence factual: observations, timing, what was said, options,
+reasoning, consultations and actual care. An adverse outcome alone
+does not prove negligence, and a confident note cannot repair an
+unsafe action.
+
+33
+00:07:43,296 --> 00:07:54,360
+Ask for the exact product and formulation rather than accepting only a
+familiar brand name. Inspect the package when available and compare
+the usual strength with the recent refill.
+
+34
+00:07:54,360 --> 00:08:06,288
+Explore timing, missed doses and extra doses without blame. A person
+may be trying to follow instructions but misunderstand a changed
+tablet strength or dosing device.
+
+35
+00:08:06,288 --> 00:08:19,416
+Ask about alcohol, supplements, pain and cold medicines and other
+substances. A prescribed sedative combined with an opioid may explain
+respiratory depression better than either medication name alone.
+
+36
+00:08:19,416 --> 00:08:32,112
+Do not force every finding into the psychiatric history. Hypoglycemia,
+infection, trauma and medication toxicity remain possible in a person
+with a mental-health diagnosis.
+
+37
+00:08:32,112 --> 00:08:45,552
+Antipsychotic medications differ in their dopamine and serotonin
+effects. Some movement reactions follow treatment and can be mistaken
+for psychiatric deterioration if the exposure timeline is ignored.
+
+38
+00:08:45,552 --> 00:08:59,976
+Acute dystonia involves sustained abnormal contractions. Neck, tongue
+or airway involvement requires urgent assessment. Do not merely tell
+the person to calm down or assume every unusual posture is deliberate.
+
+39
+00:08:59,976 --> 00:09:14,424
+Akathisia can cause intense inner restlessness, while drug-induced
+parkinsonism produces a different pattern of slowness and rigidity.
+Tardive dyskinesia is another pattern, not an interchangeable name for
+all of them.
+
+40
+00:09:14,424 --> 00:09:32,088
+Ask about new treatment, dose changes and symptom onset; assess ABCs
+and distress and communicate the suspected medication relationship.
+Specific reversal treatment requires the appropriate authorized
+pathway, not a guessed extra drug.
+
+41
+00:09:32,088 --> 00:09:47,976
+Neuroleptic malignant syndrome is an emergency concern with relevant
+exposure and a combination of altered awareness, marked rigidity,
+temperature elevation and autonomic instability. It is not simply a
+mild extrapyramidal effect.
+
+42
+00:09:47,976 --> 00:10:03,816
+Serotonergic toxicity has a different medication context and important
+neuromuscular findings such as clonus or hyperreflexia. Real
+presentations can overlap; do not diagnose either from one temperature
+or movement alone.
+
+43
+00:10:03,816 --> 00:10:18,456
+An initially alert overdose patient can still deteriorate. Tricyclic
+medicines can produce serious cardiac and neurologic toxicity, and
+modified-release bupropion can produce delayed seizures and serious
+effects.
+
+44
+00:10:18,456 --> 00:10:33,144
+Preserve airway and breathing support, obtain the appropriate
+assistance and convey the exposure, amount uncertainty, formulation
+and time course. Do not substitute a psychiatric label for an acute
+poisoning assessment.
+
+45
+00:10:33,144 --> 00:10:45,960
+Lithium has a narrow safety margin and important renal handling.
+Intercurrent illness, fluid and sodium changes and interacting
+medicines can change risk even when the prescription is not new.
+
+46
+00:10:45,960 --> 00:11:03,360
+Vomiting, diarrhea, tremor, poor coordination, slurred speech and
+confusion deserve attention in the right context. Do not dismiss the
+combination as a harmless side effect or wait for an exact laboratory
+number before recognizing possible toxicity.
+
+47
+00:11:03,360 --> 00:11:16,560
+For a changed refill, calculate from the actual old and new labels
+rather than tablet count alone. Carry the packaging or reliable
+medication list into the handover and document the uncertainty
+honestly.
+
+48
+00:11:16,560 --> 00:11:29,832
+The role here is recognition, assessment and appropriate escalation.
+This lesson does not prescribe a home dose change, fluid-and-salt
+rescue plan or a psychiatric medication substitution.
+
+49
+00:11:29,832 --> 00:11:45,672
+Benzodiazepines enhance inhibitory GABA-A function. Combined with
+opioids, alcohol or other depressants, the concern includes impaired
+airway protection and inadequate ventilation, not only whether the
+person looks sleepy.
+
+50
+00:11:45,672 --> 00:11:59,136
+Assess rate and effective depth, chest movement, air entry, awareness
+and circulation. Supplemental oxygen can improve saturation while
+carbon dioxide clearance remains inadequate.
+
+51
+00:11:59,136 --> 00:12:14,304
+In suspected opioid poisoning, provide effective ventilation and use
+naloxone under the actual pathway. An incomplete wake-up response can
+reflect co-exposure; repeated medication is not a substitute for
+giving a needed breath.
+
+52
+00:12:14,304 --> 00:12:26,136
+The goal is adequate breathing with ongoing assessment. Do not
+improvise a benzodiazepine antidote or conclude that a brief
+improvement makes recurrence and other pathology impossible.
+
+53
+00:12:26,136 --> 00:12:39,072
+Poisoning and withdrawal are not opposite labels that can be assigned
+from agitation alone. Determine exposure and timing, assess physiology
+and consider mixed substances and other illnesses.
+
+54
+00:12:39,072 --> 00:12:54,720
+Opioid withdrawal commonly includes yawning, sweating, rhinorrhea,
+pain and gastrointestinal symptoms. Significant illness, dehydration,
+pregnancy or another substance withdrawal may change the risk and the
+needed care.
+
+55
+00:12:54,720 --> 00:13:07,728
+COWS is not an overdose meter and should not be repurposed as an
+isolated stimulant-withdrawal scale. CIWA-Ar is an alcohol-withdrawal
+assessment, not a universal benzodiazepine withdrawal tool.
+
+56
+00:13:07,728 --> 00:13:19,152
+A score supports a defined assessment in an appropriate patient. It
+never overrides an immediate airway threat or creates permission to
+start an unauthorized medication regimen.
+
+57
+00:13:19,152 --> 00:13:34,512
+Tolerance and physical dependence are not automatically opioid use
+disorder. OUD is a clinical pattern involving impaired control and
+significant harm or dysfunction, not a diagnosis made from housing
+status or appearance.
+
+58
+00:13:34,512 --> 00:13:49,824
+Naloxone reversal addresses an acute threat. Longer-term treatment can
+include methadone, buprenorphine and other appropriate options.
+Naltrexone is a different drug and purpose; do not confuse similar
+names.
+
+59
+00:13:49,824 --> 00:14:04,464
+BC treatment resources and their updates guide access and clinical
+selection. Withdrawal management alone is not a prerequisite for
+ongoing treatment, and psychosocial support should not be used as a
+barrier to receiving medication.
+
+60
+00:14:04,464 --> 00:14:19,320
+Discuss recurrence, loss of tolerance, the unpredictable supply,
+naloxone access and safer-use support respectfully. Ask what the
+person wants and provide a realistic connection instead of demanding
+abstinence before offering help.
+
+61
+00:14:19,320 --> 00:14:33,408
+The innovations reading compares therapies with very different
+mechanisms and preparation. TMS is not ECT, and neither is a procedure
+to reconstruct from a summary or use as a PCP treatment option.
+
+62
+00:14:33,408 --> 00:14:47,712
+ECT requires individualized specialist screening, consent, anesthesia
+planning and recovery assessment. Avoid universal fasting rules or
+automatic exclusions based on one textbook sentence.
+
+63
+00:14:47,712 --> 00:15:02,064
+For esketamine, the checked U.S. label requires at least two hours of
+monitoring and a stability assessment before leaving. A per-device
+amount is not the total regimen, and symptom improvement does not
+prove prevention of suicide.
+
+64
+00:15:02,064 --> 00:15:15,792
+Digital and remote care still need evidence, suitable access, privacy
+and a practical emergency plan. A technology label does not remove
+clinical risk or make a U.S. privacy declaration sufficient for BC.
+
+65
+00:15:15,792 --> 00:15:29,976
+Follow air from nose or mouth through pharynx, larynx, trachea and
+branching bronchi. Terminal bronchioles end the conducting zone;
+respiratory bronchioles begin the region where gas exchange becomes
+possible.
+
+66
+00:15:29,976 --> 00:15:44,808
+Mucus, cilia and coordinated laryngeal protection reduce contamination
+but do not make aspiration impossible. The epiglottis helps protect
+the laryngeal entrance, not closes an opening from the esophagus.
+
+67
+00:15:44,808 --> 00:15:58,656
+Type One alveolar cells provide much of the thin exchange surface.
+Type Two cells produce surfactant at the inner air-liquid interface,
+helping reduce surface tension; macrophages contribute to defense.
+
+68
+00:15:58,656 --> 00:16:12,120
+The surface must also receive ventilation and perfusion. Naming an
+alveolus is useful when you can explain why blocked airflow, fluid,
+lost surface or poor flow can impair the whole exchange chain.
+
+69
+00:16:12,120 --> 00:16:25,344
+Diaphragm and chest movement create pressure changes. Compliance
+describes volume change for pressure change; recoil is the tendency to
+return. They are related but not the same property.
+
+70
+00:16:25,344 --> 00:16:38,760
+Rapid shallow breaths may provide inadequate alveolar ventilation.
+Hyperventilation means ventilation exceeds metabolic carbon dioxide
+production, not simply a high respiratory rate.
+
+71
+00:16:38,760 --> 00:16:54,864
+A normal saturation does not measure total oxygen content, tissue flow
+or carbon dioxide removal. Likewise, a normal blood pressure does not
+prove adequate microcirculation. Interpret the chain, not one
+reassuring number.
+
+72
+00:16:54,864 --> 00:17:08,184
+An exhausted person who becomes quiet and slow may be failing. Do not
+use a paper bag or suppress breathing on an assumed anxiety diagnosis;
+assess and support the actual physiological problem.
+
+73
+00:17:08,184 --> 00:17:25,728
+An adult has taken an extra sedative and may also have used an opioid.
+Breaths are shallow at five per minute and responses are brief. Oxygen
+saturation is ninety-six percent after oxygen was applied. Pause and
+decide whether this is reassuring.
+
+74
+00:17:25,728 --> 00:17:42,384
+It is not reassuring. Open and assess the airway, clear obstruction or
+secretions as needed and provide effective ventilatory support under
+the trained pathway. Recheck chest movement, air entry and circulation
+while obtaining the exposure history.
+
+75
+00:17:42,384 --> 00:17:58,656
+If the opioid pathway applies, use its actual naloxone product and
+reassessment plan without delaying a breath. Record the oxygen device,
+dose actually delivered, time and response; do not invent a
+benzodiazepine reversal order.
+
+76
+00:17:58,656 --> 00:18:12,048
+As awareness improves, explain continuing risks and reassess decision-
+making capacity. A briefly normal conversation does not by itself
+establish a safe discharge or an informed refusal.
+
+77
+00:18:12,048 --> 00:18:54,336
+Correct the classification before interpreting the patient. Table 4.2
+places lamotrigine among second-generation antipsychotics, but it is
+an antiseizure medicine also used for bipolar-I maintenance, not an
+antipsychotic. Nor are lithium, valproate, carbamazepine and
+lamotrigine one interchangeable voltage-channel-blocker mechanism. The
+paragraph also confuses 5HT with 5-hydroxytryptophan/dopamine: 5HT
+means serotonin, whereas 5-HTP is its precursor. A drug name, receptor
+and indication must be checked separately rather than inherited from a
+faulty table heading.
+
+78
+00:18:54,336 --> 00:19:32,136
+Smoking history can change a medication story even when the tablet
+dose is unchanged. Tobacco smoke can induce CYP1A2 and reduce
+clozapine exposure; stopping that exposure can allow levels and
+adverse effects to rise. The medication does not contain the metabolic
+enzyme, as the textbook sentence implies. Ask about recent smoking
+changes, admission to a smoke-free setting, new sedation, dizziness
+and other symptoms, then communicate the change for clinician review.
+Do not tell the patient to resume smoking or independently recalculate
+the prescription.
+
+79
+00:19:32,136 --> 00:20:09,144
+Use the source timing windows as history clues, not diagnostic
+cutoffs. Dystonia often begins within hours to days after
+starting/increasing an antipsychotic, akathisia and parkinsonian
+features may emerge over the first weeks, and tardive movements often
+follow months or years. Ask about recent injections, dose changes and
+medicines removed as well as newly added. A distressed patient who
+cannot sit still may be describing a drug effect; a rigid jaw or
+tongue problem can threaten the airway and deserves immediate primary
+assessment.
+
+80
+00:20:09,144 --> 00:20:44,808
+Original six-step application: notice the medication change and new
+jaw/voice abnormality; connect the timing and physical observations
+without assuming a psychiatric cause; prioritize airway risk; choose
+authorized support and early help; carry out and document those
+actions; then evaluate the actual response and revise the plan. The
+reading's clinic example waits an hour for a later documented review,
+but that is not permission to postpone reassessment of an acute airway
+threat. Use teach-back and the patient's concerns when discussing the
+next steps.
+
+81
+00:20:44,808 --> 00:21:33,456
+For the source injection comparison, intradermal delivery targets the
+dermis at about 10-15 degrees; subcutaneous delivery targets fatty
+tissue at 45-90 degrees; intramuscular delivery targets muscle at 90
+degrees. Its example needle ranges are respectively 25-27 gauge and
+one-quarter to one-half inch, 25-30 gauge and three-eighths to five-
+eighths inch, and 20-25 gauge and five-eighths to one-and-a-half
+inches. These are textbook examples, not a universal age/size
+selection rule. Match tissue depth, medicine, device and the actual
+approved procedure; neither a blanket pediatric length nor routine
+aspiration for every IM product is justified.
+
+82
+00:21:33,456 --> 00:22:12,240
+Read the three IM-site drawings by landmarks rather than by a general
+body-region name. The deltoid site is located relative to the acromion
+and surrounding structures; vastus lateralis uses the outer middle
+third of the thigh, not the anterior rectus femoris; the ventrogluteal
+site uses the greater trochanter, anterior superior iliac spine and
+iliac crest. A buttock label is not permission to choose a
+dorsogluteal site. Practise identifying the actual landmarks,
+appropriate tissue and local exclusions with the instructor before
+practising the authorized injection sequence.
+
+83
+00:22:12,240 --> 00:22:52,272
+The assigned printed 676 already begins Advocacy, section 16.4. Its
+opening objectives and narrative connect advocacy to speaking up for
+patient needs and rights, helping the person obtain understandable
+information and appropriate services, and supporting professional
+standards. Advocacy means helping the patient voice their own
+preferences, not replacing those preferences with the clinician's
+choice. Patient-rights statements and nursing professional-rights
+lists are important ethical/organizational tools but are not all
+independently enacted BC statutes or authority to expand PCP scope.
+
+84
+00:22:52,272 --> 00:23:46,032
+Keep adult-consent principles separate from the authority of a
+particular practitioner. The BC adult consent Act defines a statutory
+provider through prescribed legislation; Consent Regulation section 3
+names the Health Professions and Occupations Act and Social Workers
+Act, not the Emergency Health Services Act. Therefore do not assign an
+EMA every hospital-provider or temporary-substitute-decision-maker
+power simply by citing that Act. Use the actual EMA role, current
+service consent/refusal pathway and consultation. Infants Act section
+17 separately requires explanation, understanding of
+nature/consequences and reasonably foreseeable benefits/risks, and
+reasonable efforts to conclude the care is in the young person's best
+interests; it is not a fixed birthday or a signature-only rule.
+
+85
+00:23:46,032 --> 00:24:33,264
+BC safeguarding routes are not interchangeable. CFCSA section 14
+requires prompt reporting when there is reason to believe a child
+needs protection under section 13; the specified Indigenous-authority
+route has its own confirmation requirement. Merely telling a
+supervisor is not the statutory report. Adult Guardianship Act section
+46 says a person may report to a designated agency where the section
+44 circumstances apply; it is not a blanket mandatory report of every
+adult concern, and capable adult choices remain relevant. Other
+specific duties can still apply. Observe objectively, communicate
+privately and use the actual applicable route rather than promise
+secrecy or broadcast an allegation.
+
+86
+00:24:33,264 --> 00:25:11,328
+The lawsuit diagram is a process map: a claim is filed and served, a
+response is made, evidence is exchanged in discovery, and the matter
+may settle or proceed to trial and judgment. The source example
+includes a fourteen-day response step; that is not a BC deadline
+taught by this course. A claim is not a finding of negligence, and a
+settlement is not automatically an admission. When a complaint or
+legal notice arrives, preserve records and follow the actual employer,
+insurer and professional process rather than altering old notes or
+contacting witnesses to align accounts.
+
+87
+00:25:11,328 --> 00:25:54,816
+Trace the RAAS figure in order: the kidney releases renin, which acts
+on liver-derived angiotensinogen to form angiotensin I; ACE helps form
+angiotensin II. Pulmonary vascular endothelium is an important site,
+not the only place ACE exists. Angiotensin II supports
+vasoconstriction and adrenal aldosterone release; aldosterone promotes
+sodium retention with water following. The diagram also shows ADH-
+related water reabsorption. These mechanisms link lungs, kidneys,
+vessels and volume regulation over time; they do not establish that
+one BP reading proves adequate perfusion or authorize a drug or fluid
+amount.
+
+88
+00:25:54,816 --> 00:26:36,960
+The incentive spirometer picture illustrates a slow deep inspiration,
+not blowing out through a peak-flow meter. With the prescribed device
+and individual goal, the person inhales steadily, watches the
+volume/feedback marker and demonstrates the technique back. Check
+pain, understanding, cognition, hearing and the ability to use the
+mouthpiece; a generic volume or schedule is not suitable for everyone.
+Incentive spirometry supports a prescribed lung-expansion plan. It is
+not assisted ventilation, CPAP or a diagnostic pulmonary-function
+result, and must not delay help for an acutely failing patient.
+
+89
+00:26:36,960 --> 00:27:23,112
+Use the arterial-gas table as a recognition exercise, not a treatment
+order: the source pairs respiratory alkalosis with arterial pH above
+7.45 and PaCO2 below 35 mmHg, and respiratory acidosis with pH below
+7.35 and PaCO2 above 45 mmHg. Compensation and mixed disorders can
+change the pattern, so interpret all available gases and the actual
+patient. PaCO2 is arterial carbon dioxide pressure, not oxygen
+saturation; PaO2 is arterial oxygen pressure, not the SpO2 display. A
+fast respiratory rate does not by itself tell you any of these values.
+
+90
+00:27:23,112 --> 00:28:02,928
+The assigned printed 792 already opens 19.2 Cardiovascular System. Its
+introductory framework connects the pump, circulating volume and
+vessels to tissue perfusion, then locates the heart in the mediastinum
+and begins describing the great vessels. Use this opening to connect
+breathing with circulation: oxygen reaching alveoli still needs blood
+flow, hemoglobin and a functioning pump to reach tissues. The
+assignment ends mid-description; it does not assign the entire
+following cardiovascular section, and a normal BP alone cannot certify
+the whole delivery system.
+
+91
+00:28:02,928 --> 00:28:42,120
+The assigned chapter summary connects critical thinking to clinical
+judgment. Use the six CJMM actions as a loop: recognize cues, analyze
+them, prioritize hypotheses, generate solutions, take action and
+evaluate outcomes. A hypothesis remains provisional. For example, a
+person unable to finish a sentence needs an immediate breathing
+assessment while the team gathers history; do not choose a familiar
+diagnosis and stop noticing contradictory findings. Record relevant
+positive and genuinely assessed negative findings, then explain how
+the repeated assessment changes the plan.
+
+92
+00:28:42,120 --> 00:29:23,016
+Check units before accepting a charted number. The source abdominal
+chart pairs 89.3 degrees Fahrenheit with 38.5 degrees Celsius, but
+they are not equivalent: 38.5 Celsius is 101.3 Fahrenheit, while 89.3
+Fahrenheit is about 31.8 Celsius. The mismatch is a reason to verify
+the original measurement, unit, time and patient, not to choose the
+number that fits a preferred diagnosis. Apply the same discipline to
+drug strength, laboratory units and times. This is a data-quality
+lesson, not an answer to the source worked-case questions.
+
+93
+00:29:23,016 --> 00:29:59,928
+Read the actual Figure 7.9 rather than its erroneous caption. Although
+labelled a pain-treatment agreement, the displayed sheet explains U.S.
+Prescription Drug Monitoring Programs: databases collect controlled-
+substance prescription information, can reveal duplicate therapy or
+interactions, and require appropriate privacy/access controls. A
+monitoring database and a shared treatment agreement are different
+tools. Neither its U.S. access rules nor its phone numbers become BC
+instructions, and the presence of a prescription record does not prove
+what the patient took today.
+
+94
+00:29:59,928 --> 00:30:43,896
+Correct the SUD treatment comparison: methadone is an opioid agonist,
+buprenorphine a partial agonist, and naltrexone an antagonist.
+Naltrexone is not simply a weaker opioid used to wean a person off a
+stronger one; starting it after recent opioid exposure can precipitate
+severe withdrawal. Likewise, physical dependence is physiologic
+adaptation with withdrawal risk after reduction, not by itself proof
+of OUD or a moral failing. Ask what medicine is actually used and when
+it was last taken; continuing treatment and acute pain both deserve an
+individualized clinician plan. No initiation, stopping, taper or dose
+is supplied here.
+
+95
+00:30:43,896 --> 00:31:23,808
+Follow the auscultation figure by comparing matching levels side to
+side, moving from upper to lower accessible fields on the front and
+back when safe; avoid listening through bone or assuming a numbered
+dot samples an entire lobe. Bronchial sounds are normally louder and
+higher pitched centrally, bronchovesicular sounds intermediate over
+larger bronchi, and vesicular sounds softer over peripheral fields.
+Document site, phase, symmetry and intensity, not simply lungs clear.
+A patient unable to tolerate repositioning needs adapted assessment
+and immediate support, not completion of every dot first.
+
+96
+00:31:23,808 --> 00:32:09,552
+Local pulmonary vascular responses can partly redirect flow away from
+poorly ventilated regions, but this does not guarantee adequate total
+gas exchange. Air reaching an alveolus without usable blood flow and
+blood passing a poorly ventilated region are different mismatch
+patterns. Connect the source table to separate mechanisms: narrowing
+restricts airflow, reduced expansion/drive limits ventilation,
+filling/collapse impairs exchange, low hemoglobin reduces carrying
+capacity, and a vascular obstruction limits perfusion. Several can
+coexist, so reassess both breathing and circulation instead of
+assigning every abnormal saturation the same explanation.
+
+97
+00:32:09,552 --> 00:32:54,120
+Read the concentration-time plot by its axes and thresholds. Time is
+horizontal; plasma concentration is vertical. An illustrative curve
+crosses an example minimum effective concentration, reaches a peak and
+later falls below that threshold. The therapeutic window is the
+concentration band between desired and adverse-response thresholds,
+not the length of time between crossings and not a therapeutic-index
+ratio. The source mixes Drug Effect with Cp and describes peak effect
+as if it always equalled peak blood level; real effects can lag. Use
+the actual person, exposure and response rather than predicting a safe
+repeat dose or discharge time from this schematic.
+
+98
+00:32:54,120 --> 00:33:44,304
+Use the actual label illustrations to separate content, concentration
+and dose. The tablet label gives 125 mcg, also written 0.125 mg, per
+tablet. The illustrated injection contains 100 mcg in 2 mL, equivalent
+to 50 mcg/mL; the vial total is not the amount per millilitre. One
+milligram equals one thousand micrograms. Generic name, strength,
+route/form, expiry, single-dose designation and manufacturer serve
+different checks. A controlled-substance symbol belongs to its
+jurisdiction and does not establish BC scheduling or permission. These
+are label-reading examples, not instructions to administer digoxin or
+fentanyl.
+
+99
+00:33:44,304 --> 00:34:28,056
+Ephedrine and epinephrine are not interchangeable names or products.
+Both have adrenergic effects beyond airway smooth muscle, so pulse,
+rhythm, blood pressure and interacting sympathomimetic/MAOI exposure
+matter. The source ephedrine table calls intermittent asthma both an
+indication and a contraindication; do not convert that contradiction
+into a patient rule. Its epinephrine table also gives volumes without
+a clear concentration in the sentence. Use the actual current
+indication, product concentration, route and local protocol. An
+inhaled product or oral ephedrine example is not a replacement for the
+anaphylaxis IM pathway.
+
+100
+00:34:28,056 --> 00:35:15,360
+The last assigned printed697already begins25.2and includes its
+objectives, inflammation illustration and first drug table.
+Beclomethasone is the inhaled corticosteroid example, while prednisone
+is an oral systemic example; they are not interchangeable formulations
+or an immediate bronchodilator. The figure contrasts airway wall
+inflammation, mucus and narrowed lumen with an unobstructed example.
+Corticosteroids address inflammation on the relevant treatment
+timescale, not rescue ventilation. The full following steroid
+discussion is outside this page span, and neither inhaled steroids for
+every COPD patient nor the wide oral dose range is made a blanket
+instruction here.
+
+101
+00:35:15,360 --> 00:36:01,656
+Use the cardiovascular name stems as recognition prompts, then verify
+the real medicine: -pril commonly suggests an ACE inhibitor, -sartan
+an angiotensin-receptor blocker, -dipine a dihydropyridine calcium-
+channel blocker, -lol a beta blocker, -osin an alpha blocker and
+-dralazine the hydralazine vasodilator example. The source -ide
+examples include furosemide and hydrochlorothiazide, but -ide is far
+too broad to identify all diuretics. The -vastatin examples concern
+lipid-lowering drugs, not an immediate blood-pressure treatment.
+Knowing a class helps focus the exposure history; it supplies neither
+an indication nor a dose for this patient.
+
+102
+00:36:01,656 --> 00:36:42,216
+Test the naming rule against exceptions. Aripiprazole is not a proton-
+pump inhibitor merely because its name ends in prazole. The source
+separates -statin examples such as cilastatin/pepstatin from lipid-
+lowering -vastatin examples. Its minaxolone entry refers to a steroid-
+structured anesthetic studied historically, not permission to classify
+it as an anti-inflammatory corticosteroid. A drug class may describe
+chemistry, mechanism or therapeutic use, which are different
+classification axes. Resolve the actual generic product and mechanism
+before using a suffix to explain the patient.
+
+103
+00:36:42,216 --> 00:37:24,408
+For nervous-system and symptom medicines, -azepam suggests the
+benzodiazepine examples, -barb- the barbiturates, -caine local-
+anesthetic examples, -axine the venlafaxine antidepressant example,
+-peridol and -peridone antipsychotic examples, and -pidem a hypnotic
+such as zolpidem. Do not assume every barbiturate is being used for
+seizures or every antidepressant for the same diagnosis. Ask about
+actual indication, recent changes, sedation, breathing and
+interactions. A shared naming fragment does not make two products
+interchangeable or prove that an observed behaviour is psychiatric.
+
+104
+00:37:24,408 --> 00:38:06,048
+The anti-infective and other source stems include -cillin for
+penicillin-family beta-lactams, -cycline for tetracycline examples,
+-oxacin for fluoroquinolones, -conazole for antifungals and -vir for
+antiviral examples. Other recognition groups are -atadine
+antihistamines, -ac and -profen NSAID examples, -terol bronchodilators
+and the omeprazole -prazole proton-pump-inhibitor example. These cues
+help ask targeted questions about allergy, interactions and intended
+use. They do not determine infection type, rescue-versus-maintenance
+use or whether an unfamiliar same-ending medicine belongs to that
+class.
+
+105
+00:38:06,048 --> 00:38:55,536
+Original gravity-flow rehearsal: a simulation instruction specifies
+180 mL over 60 minutes using a set labelled 20 gtt/mL. Calculate 180
+mL times 20 gtt/mL divided by 60 minutes = 60 gtt/min. Reverse-check:
+60 gtt/min times 60 minutes divided by 20 gtt/mL = 180 mL. A pump
+would express this example as 180 mL/hour, not 60 mL/hour. A different
+set factor changes the drop rate. This is unit practice, not a fluid
+order; verify the actual authorized amount, patient, access, delivery
+system and response.
+
+106
+00:38:55,536 --> 00:39:41,688
+Original daily-dose rehearsal: an unnamed training medicine is ordered
+at 8 mg/kg/day for an 18 kg simulation patient, divided every 12
+hours, with a training concentration of 24 mg/mL. Daily amount is 144
+mg/day; two administrations per day give 72 mg/dose; 72 mg divided by
+24 mg/mL gives 3 mL/dose. Reverse-check both the dose and the daily
+total. If the instruction were per kilogram per dose, this calculation
+would be different. No real pediatric drug, safe maximum or permission
+to administer has been supplied by this exercise.
+
+107
+00:39:41,688 --> 00:40:28,968
+Compare the actual inhaler motions. A pressurized MDI coordinates a
+slow inhalation with actuation, with an appropriate spacer/valved
+chamber when indicated. A DPI needs adequate device-specific
+inspiratory effort; load or pierce its capsule only as instructed,
+exhale away, and never swallow an inhalation capsule. A soft-mist
+inhaler has its own preparation and dose-release sequence with a slow
+inhalation. Rinsing and spitting after an inhaled corticosteroid
+addresses local exposure, not a universal rule that every inhaler
+contains a steroid. Ask for return demonstration when stable; device
+preparation must not delay support for ineffective breaths.
+
+108
+00:40:28,968 --> 00:41:07,488
+The source sequence of bronchodilator, dornase alfa, airway clearance,
+inhaled antibiotic and steroid is a specific multi-treatment context,
+not an order to give every breathless person all five. Match each
+prescribed treatment to its purpose and the person's actual care plan.
+Bronchodilation, secretion modification, antimicrobial treatment and
+anti-inflammatory control solve different problems. Check what was
+already taken, whether the person can use the device and how the
+response changes the next action; do not turn the list into an
+automatic PCP treatment stack.
+
+109
+00:41:07,488 --> 00:41:46,800
+Read the drain photographs by system and purpose. Hemovac and Jackson-
+Pratt examples use a compressed reservoir to provide closed-system
+suction; a Penrose example allows passive drainage into a dressing. A
+pigtail describes a curled catheter shape, not by itself the
+destination, fluid or suction plan. The source notes emptying closed
+reservoirs around one-third to one-half full and measuring output, but
+a hospital shift schedule is not an EMS monitoring interval. Know what
+is connected, keep it secured and communicate the actual type, site
+and output trend before moving the patient.
+
+110
+00:41:46,800 --> 00:42:33,792
+Original integrated encounter: a postoperative adult has new drain
+leakage, increasing sleepiness after an extra home analgesic and very
+shallow breaths despite a reassuring saturation on oxygen. First
+assess/support the immediate airway and breathing threat, obtain help
+and reassess circulation; do not complete a dressing change before
+restoring effective breaths. Then reconcile the actual medicine,
+amount and timeline, describe the wound/device/output change and
+preserve the appropriate system during transfer. Handover should
+connect observations, actual actions and response, not diagnose every
+symptom from the drain or dismiss deterioration because a monitor
+number looks normal.
+
+111
+00:42:33,792 --> 00:43:26,472
+Keep the source oxygen numbers with their setting. Checklist 42
+mentions an expected saturation above 95%, a general treatment band of
+92-98% and a low-start nasal-prong example. The historical flowchart
+instead branches at 88% or below versus 89-91%, with different initial
+nasal flows and five-minute reassessment. Table 5.6 discusses 88-92%
+for a known chronic-retention context. These are not one internally
+identical algorithm, a rule to wait five minutes during failure or a
+reason to start every critically ill person on low-flow prongs. Use
+the actual school/current BCEHS indication, device, target and
+exception pathway; treat ineffective ventilation as a different
+immediate problem.
+
+112
+00:43:26,472 --> 00:44:19,512
+Distinguish the source oral Yankauer procedure from its flexible
+oropharyngeal-catheter procedure: they use different equipment,
+depth/asepsis considerations and monitoring. The actual 2018 copy also
+prints the unresolved portable 10-15 mmHg value beside a 100-150 mmHg
+wall-suction range; do not silently reinterpret the unit as kPa or
+transplant either number to every device/age/route. Use the school-
+trained method and verified device settings, clear the obstruction
+without prolonged suction or tissue trauma, and reassess between
+attempts. Worsening oxygenation, bleeding, distress or ineffective
+breaths calls for stopping/reassessment and appropriate support, not
+finishing a textbook sequence first.
+
+113
+00:44:19,512 --> 00:45:03,384
+The scheduled-medication table distinguishes locally defined time-
+critical medicines from other scheduled medicines: it gives a thirty-
+minute window for selected time-critical orders, one hour for some
+other repeated schedules and two hours for daily/weekly/monthly
+examples. This is a hospital scheduling framework, not a universal
+allowance to delay an emergency medicine or redefine PRN repeat
+limits. Clarify the actual order and current policy, then record the
+time actually administered. An electronic MAR checked by two people
+can still contain the same stale order; reconciliation must compare
+actual patient use and the authoritative current instruction.
+
+114
+00:45:03,384 --> 00:45:50,040
+For a feeding-tube medicine, verify the tube type/destination, the
+approved placement check and the actual product/formulation before
+delivery. A whoosh, aspirate appearance or lack of distress alone does
+not prove initial NG placement; the NHS enduring standard uses a
+validated safe-range pH result or appropriate x-ray confirmation in
+its setting. Give suitable medicines separately and follow the
+individualized flush/feed plan. The book's 30/15/30 mL flush and feed-
+interruption examples are not universal pediatric or fluid-restricted
+instructions. Do not force resistance, mix everything into feed or use
+an uncertain tube merely because the syringe fits.
+
+115
+00:45:50,040 --> 00:46:03,168
+Without notes, explain why a correct milligram calculation can still
+lead to unsafe care. Include the patient, indication, formulation,
+route, delivery and response in your answer.
+
+116
+00:46:03,168 --> 00:46:15,072
+Then distinguish opioid poisoning, opioid withdrawal and ongoing
+opioid use disorder treatment. Name what COWS does, what it does not
+do and why naloxone is not naltrexone.
+
+117
+00:46:15,072 --> 00:46:25,584
+Explain two medication-related red flags that should not be dismissed
+as psychiatric behaviour, and one respiratory finding that overrides a
+normal saturation display.
+
+118
+00:46:25,584 --> 00:46:40,104
+Finally open the book-specific bilingual guides and work through the
+original retrieval prompts. Keep the exact school edition and
+unrecovered activities visible in the coverage record rather than
+marking them complete by familiarity.

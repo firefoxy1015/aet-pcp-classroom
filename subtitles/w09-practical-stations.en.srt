@@ -1,0 +1,291 @@
+1
+00:00:00,000 --> 00:00:12,144
+The saved school outline lists a 60-second tourniquet competency,
+burns, heat and cold, altitude syndromes, submersion, crush, complex
+trauma and a rapid load-and-go decision.
+
+2
+00:00:12,144 --> 00:00:23,280
+The stopwatch values are station benchmarks. They do not replace
+correct indication, safety, effective treatment, team communication or
+clinical judgment.
+
+3
+00:00:23,280 --> 00:00:35,184
+Use the school’s own equipment and rubric under instructor
+supervision. This lesson prepares your reasoning; it does not certify
+a procedure or reproduce an assessed checkoff answer.
+
+4
+00:00:35,184 --> 00:00:57,336
+The live school lab summary specifies application, cessation of
+bleeding and time-marking in under sixty seconds. Keep that less-than
+boundary for the station, rather than silently changing it to sixty
+seconds or less. This is an integrated supervised skill target, not
+permission to omit assessment or an effective bleeding check.
+
+5
+00:00:57,336 --> 00:01:12,360
+Current BCEHS PR03 applies to severe extremity bleeding when the
+indicated prior method has not controlled it; it requires complete
+bleeding control and documentation of application time. Follow the
+actual local procedure.
+
+6
+00:01:12,360 --> 00:01:25,920
+During supervised practice, use the school’s specified trainer and
+technique. The instructor should confirm placement, securement,
+windlass/locking method, reassessment and documentation.
+
+7
+00:01:25,920 --> 00:01:36,624
+A fast incomplete application is not a pass. Confirm the expected
+station rubric, then practise until the effective sequence is both
+accurate and repeatable.
+
+8
+00:01:36,624 --> 00:02:06,360
+For supervised practice with the approved windlass trainer, identify
+uncontrolled external limb bleeding and follow the current procedure’s
+direct-pressure attempt. If ineffective, place the device on skin,
+five to eight centimetres above the injury or high on the limb,
+avoiding a joint. Tighten the strap, then the windlass until bleeding
+stops; secure the windlass. The instructor checks technique and actual
+effect, not just completion of movements.
+
+9
+00:02:06,360 --> 00:02:32,904
+Record the actual application time and procedure, reassess bleeding
+and the patient, and communicate the intervention. PR03 calls for
+consultation if management or transport may extend beyond two hours;
+that is not an instruction to loosen or remove the device at a timer.
+In class, practise correct placement and repeated assessment on the
+trainer, using the school’s device and checkoff requirements.
+
+10
+00:02:32,904 --> 00:02:46,320
+In this original practice case, a sixty-one-year-old is brought from a
+detached workshop fire. The patient has a hoarse voice, cough and soot
+around the lips, with a visible partial-thickness forearm injury.
+
+11
+00:02:46,320 --> 00:03:01,752
+Treat the changing voice and soot as airway-risk information. Continue
+ABC assessment, consider combustion exposure and follow current H10,
+B01 and J02 guidance within the authorized provider role.
+
+12
+00:03:01,752 --> 00:03:15,480
+Use the Rule of Nines or a suitable hand method to communicate an
+estimate of partial/deeper burn area. Superficial erythema is excluded
+from BCEHS TBSA, and the estimate is not exact.
+
+13
+00:03:15,480 --> 00:03:33,096
+The school outline calls CO-oximetry mandatory in every enclosed fire.
+Current BCEHS J02 supports oxygen and consultation for suspected CO,
+while available CO-oximetry is an adjunct; do not teach the school
+phrase as a universal prerequisite.
+
+14
+00:03:33,096 --> 00:04:00,312
+Use the adult Rule of Nines as an approximate model: head and neck
+nine percent, each complete arm nine, each complete leg eighteen,
+front trunk eighteen, back trunk eighteen, and perineum one. The
+linked BCEHS chart also offers a more detailed subunit method with
+different allocations. Choose and state one suitable method, rather
+than mixing its numbers with nines or applying adult proportions to a
+child.
+
+15
+00:04:00,312 --> 00:04:31,608
+Depth changes what you count. Superficial injury is limited to the
+epidermis, often red and dry. Partial-thickness injury extends into
+dermis; superficial partial injury commonly blisters and weeps, while
+deeper injury may be patchy or less sensitive. Full-thickness injury
+destroys dermis and may look leathery or charred with reduced
+sensation. Appearance evolves: record findings and uncertainty rather
+than diagnosing depth from pain alone.
+
+16
+00:04:31,608 --> 00:05:02,328
+For an explicitly fictional update to the fire case, the whole left
+arm now has partial-thickness findings, while front-trunk redness is
+superficial only. Using adult nines, count nine percent, not nine plus
+eighteen. This is a teaching update, not a fact from the original
+patient description. Report the method, depth and estimate; ongoing
+hoarseness and soot still make airway and toxic exposure urgent, and
+the number does not prescribe a fluid dose.
+
+17
+00:05:02,328 --> 00:05:16,824
+A twenty-eight-year-old climber at three thousand three hundred metres
+has a worsening headache and now cannot walk a straight line. There is
+no resting dyspnea reported. This is an original practice case, not
+the saved school case.
+
+18
+00:05:16,824 --> 00:05:31,080
+New ataxia or altered mental status raises concern for high-altitude
+cerebral edema. Ask about ascent and sleep altitude, assess neurologic
+and respiratory status, and look for alternative causes.
+
+19
+00:05:31,080 --> 00:05:42,024
+Resting dyspnea, cough or worsening oxygenation would raise concern
+for HAPE, but its absence does not make HACE safe. Avoid further
+ascent and reduce exertion.
+
+20
+00:05:42,024 --> 00:05:55,536
+Urgent descent is central for severe altitude illness. If oxygen is
+available and indicated, start it while organizing safe descent;
+neither action should be delayed solely to complete the other.
+
+21
+00:05:55,536 --> 00:06:09,888
+Compare a person who feels faint and sweaty after prolonged exertion
+with one who is confused and hot. Altered mental status with heat
+exposure raises a high-consequence concern and needs the current
+hyperthermia pathway.
+
+22
+00:06:09,888 --> 00:06:22,728
+Current BCEHS I02 calls for prompt cooling and continuation during
+transport when possible. Choose a method that remains safe for the
+patient’s mobility, airway, trauma and the crew.
+
+23
+00:06:22,728 --> 00:06:36,144
+For cold exposure, remove the person from further cooling, dry and
+insulate, and handle gently. Peripheral thermometer readings are
+imperfect; mental status and physiologic trends matter.
+
+24
+00:06:36,144 --> 00:06:47,544
+The cold-water submersion station can involve both hypoxia and
+hypothermia. Continue to reassess breathing and perfusion instead of
+treating temperature as the only problem.
+
+25
+00:06:47,544 --> 00:07:00,528
+A rescuer must not enter unsafe water without the required training,
+flotation and rescue plan. Use appropriate rescue resources and
+maintain scene safety before patient contact.
+
+26
+00:07:00,528 --> 00:07:13,944
+After removal, assess breathing, oxygenation, airway contamination,
+perfusion, temperature and mechanism-related trauma. Drowning may
+follow a medical event rather than cause it.
+
+27
+00:07:13,944 --> 00:07:27,888
+Current H12 directs care through the appropriate resuscitation pathway
+with particular attention to airway and oxygenation. Cold-water cases
+can require specialist consultation and continued resuscitation
+decisions.
+
+28
+00:07:27,888 --> 00:07:39,864
+Fresh versus salt water does not create two field treatment recipes. A
+seemingly minor rescue may still have later respiratory risk, so
+follow current conveyance guidance.
+
+29
+00:07:39,864 --> 00:07:51,312
+A mechanic is trapped under a collapsed vehicle lift in a cold garage.
+The compression duration is uncertain; the lower leg is swollen and
+the patient is pale and anxious.
+
+30
+00:07:51,312 --> 00:08:07,200
+The team verifies machinery and structural stability, obtains rescue
+resources, identifies access/egress and reports the entrapment time as
+uncertain. The release is a coordinated operation, not a spontaneous
+pull.
+
+31
+00:08:07,200 --> 00:08:19,464
+Use the current H02 pathway and required consultation to plan what is
+feasible before release. Anticipate systemic deterioration and prepare
+monitoring and reassessment.
+
+32
+00:08:19,464 --> 00:08:31,536
+The case does not supply a universal fluid amount or automatic
+tourniquet rule. Mechanism, duration, muscle burden, hemodynamics and
+provider authorization shape the plan.
+
+33
+00:08:31,536 --> 00:08:46,032
+Before moving, decide whether the patient can assist and whether a
+lift, carry, slide or evacuation device is appropriate. Check the
+route for stairs, turns, weather, contaminated surfaces and obstacles.
+
+34
+00:08:46,032 --> 00:08:58,176
+Assign a clear leader and one coordinated count. Protect airway
+access, oxygen, bleeding control, temperature measures and monitoring
+from being unintentionally disconnected.
+
+35
+00:08:58,176 --> 00:09:08,640
+Reassess immediately after packaging or movement. A new breathing
+problem, loss of pulse quality, increased pain or displaced device
+changes the plan.
+
+36
+00:09:08,640 --> 00:09:20,928
+The saved outline asks learners to make a rapid thirty-second load-
+and-go decision. Treat this as a school verbalization exercise to
+surface priorities, not an operational stopwatch law.
+
+37
+00:09:20,928 --> 00:09:34,536
+State the threat, the reason transport cannot wait, the minimum safe
+preparation and who will continue care during movement. Identify any
+rescue or extrication step that must happen first.
+
+38
+00:09:34,536 --> 00:09:46,248
+A rapid decision is not a rushed move. Package safely, maintain airway
+and hemorrhage priorities, secure equipment and reassess after each
+major change.
+
+39
+00:09:46,248 --> 00:10:14,856
+This fire-exposed patient has hoarseness, soot and increasing effort.
+Airway deterioration and combustion toxicity are immediate concerns. I
+recommend rapid conveyance with indicated oxygen and early higher-
+level support. Before moving, confirm a safe route, secure the patient
+and equipment, and assign airway observation. Reassess after movement,
+and send a pre-alert with actual care and response.
+
+40
+00:10:14,856 --> 00:10:42,456
+That is an original worked decision, not a school answer or a new
+diagnosis. It names the threat, choice, essential preparation and
+continuing care. Say it in your own words and time the rehearsal
+against the school’s thirty-second target. If breathing is inadequate,
+indicated ventilation cannot wait for completion of a speech or
+loading. Revise the plan when new findings or rescue conditions
+change.
+
+41
+00:10:42,456 --> 00:10:54,456
+After each station, say what the task was testing, what you observed,
+what action you took and what changed. A score without a reasoned
+debrief can hide an unsafe shortcut.
+
+42
+00:10:54,456 --> 00:11:06,624
+Ask the instructor to clarify the official sequence, device model,
+time target and documentation requirement. Do not infer an unknown
+school rubric from a generic textbook.
+
+43
+00:11:06,624 --> 00:11:17,448
+Repeat the station until the skill is both safe and reproducible.
+Narrated preparation supports practice but cannot replace witnessed
+competency sign-off.

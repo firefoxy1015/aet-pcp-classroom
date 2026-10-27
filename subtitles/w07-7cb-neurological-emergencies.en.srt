@@ -1,0 +1,904 @@
+1
+00:00:00,000 --> 00:00:10,704
+This session follows the reasoning, stroke and seizure sections of
+Seven C Part B. The school asks you to connect mechanisms to what you
+can assess and do now.
+
+2
+00:00:10,704 --> 00:00:20,184
+Stroke and seizures can overlap, and both have important mimics. One
+plausible label must not close the assessment of a changing patient.
+
+3
+00:00:20,184 --> 00:00:29,688
+We will practise glucose-first, last-known-well timing, both FAST and
+VAN, continuing seizures and postictal reassessment using original
+examples.
+
+4
+00:00:29,688 --> 00:00:40,584
+Keep the school teaching and checked current clinical references
+identified. Medication knowledge does not erase the actual PCP, ACP or
+specialist boundaries.
+
+5
+00:00:40,584 --> 00:00:50,520
+Normal includes the expected physiology and the person usual function.
+A chronic deficit must be distinguished from a new one without
+dismissing either.
+
+6
+00:00:50,520 --> 00:01:00,648
+Gather current cues and compare them with the baseline. A vital sign
+within a population range does not prove that compensation or serious
+disease is absent.
+
+7
+00:01:00,648 --> 00:01:09,408
+Interpret what the change may mean and consider a dangerous
+alternative. Then choose the permitted action that addresses the
+immediate risk.
+
+8
+00:01:09,408 --> 00:01:20,256
+Reassess continuously and change the working explanation when evidence
+changes. The five-step loop is a reasoning aid, not a guarantee that
+the first pattern is right.
+
+9
+00:01:20,256 --> 00:01:30,216
+Neurons require continuing energy supply for signaling and membrane
+stability. Oxygen and glucose must reach the tissue through effective
+blood flow.
+
+10
+00:01:30,216 --> 00:01:41,112
+Perfusion is more than a cuff pressure. Low output, vascular
+obstruction or impaired oxygen carriage can threaten function through
+different mechanisms.
+
+11
+00:01:41,112 --> 00:01:53,904
+Autoregulation helps maintain cerebral flow over a limited range, but
+acute disease can impair it. Do not aggressively lower pressure from a
+generic adult chart during an undifferentiated stroke.
+
+12
+00:01:53,904 --> 00:02:05,592
+Focal interruption can produce regional deficits; global hypoperfusion
+can cause loss of consciousness. The clinical assessment must consider
+both patterns and their overlap.
+
+13
+00:02:05,592 --> 00:02:16,200
+When effective supply falls, aerobic energy production becomes
+inadequate. Anaerobic metabolism cannot fully maintain the energy
+needed for normal neuronal function.
+
+14
+00:02:16,200 --> 00:02:26,280
+Energy-dependent ion pumps become ineffective. Sodium and water shift
+into cells while potassium distribution and membrane potential are
+disturbed.
+
+15
+00:02:26,280 --> 00:02:37,176
+The resulting cellular swelling is cytotoxic edema. It is not the same
+as saying every visible new weakness proves the patient has reached
+one exact microscopic stage.
+
+16
+00:02:37,176 --> 00:02:48,120
+The practical lesson is to preserve effective oxygenation and
+perfusion and minimize avoidable delay to definitive stroke care, not
+to infer a cell count from the examination.
+
+17
+00:02:48,120 --> 00:02:58,272
+Loss of membrane control can promote excessive excitatory signaling.
+Glutamate receptor activation is part of the school ischemic-cascade
+explanation.
+
+18
+00:02:58,272 --> 00:03:10,248
+Abnormal calcium loading activates enzymes and pathways that can
+damage membranes, proteins and genetic material. Oxidative stress adds
+another injury mechanism.
+
+19
+00:03:10,248 --> 00:03:22,920
+These events overlap rather than waiting for a perfect sequential
+timetable. Necrotic and programmed cell-death processes do not appear
+as uniquely identifiable stages on a field scale.
+
+20
+00:03:22,920 --> 00:03:32,544
+Understanding the mechanism explains urgency and secondary-injury
+prevention. It does not create a field neuroprotective-drug or
+reperfusion order.
+
+21
+00:03:32,544 --> 00:03:41,352
+The core concept describes severely injured tissue, while penumbra
+describes threatened tissue that may recover with timely effective
+treatment.
+
+22
+00:03:41,352 --> 00:03:52,560
+Collateral flow and individual conditions influence the rate of
+progression. The school neuron-loss number is a model estimate, not a
+bedside countdown for every patient.
+
+23
+00:03:52,560 --> 00:04:03,816
+A field examination cannot measure core size or prove that all
+recovery opportunities have closed. Current guidance includes benefit
+for some selected larger-core patients.
+
+24
+00:04:03,816 --> 00:04:15,096
+Document, support and mobilize promptly instead of denying urgency
+because the symptoms seem old or stable. The definitive team
+determines treatment eligibility.
+
+25
+00:04:15,096 --> 00:04:26,784
+Regional brain dysfunction can affect movement, sensation, language,
+vision or attention. Different vascular and network involvement
+produces different combinations.
+
+26
+00:04:26,784 --> 00:04:38,016
+Symptoms can fluctuate or resolve, but the risk still needs
+evaluation. Do not require a continuous march from mild weakness to
+coma before taking the event seriously.
+
+27
+00:04:38,016 --> 00:04:49,608
+The textbook ischemic-self-limiting wording is not used as
+reassurance. New deterioration can arise from continuing ischemia,
+swelling or another systemic problem.
+
+28
+00:04:49,608 --> 00:05:00,288
+Repeat focused findings and ABC observations with times. The change in
+function is useful evidence even when the exact anatomical explanation
+remains uncertain.
+
+29
+00:05:00,288 --> 00:05:08,160
+Ischemic and hemorrhagic stroke require different definitive
+treatments, but both can produce urgent neurological dysfunction.
+
+30
+00:05:08,160 --> 00:05:20,256
+Severe headache, vomiting, impaired consciousness or concerning
+pressure/pupil findings raise concern for hemorrhage and
+deterioration; they do not establish subtype by themselves.
+
+31
+00:05:20,256 --> 00:05:31,536
+Do not automatically give aspirin or use a routine blood-pressure-
+lowering plan for an undifferentiated new stroke. Follow the actual
+pathway and preserve cerebral perfusion.
+
+32
+00:05:31,536 --> 00:05:42,168
+A young patient can still have a stroke, and a seizure at the start
+does not exclude it. Keep onset, glucose and focal findings attached
+to the urgent assessment.
+
+33
+00:05:42,168 --> 00:05:51,960
+The school uses CPSS, BE-FAST and FAST-VAN language. Learn which task
+each serves rather than combining them into an invented score.
+
+34
+00:05:51,960 --> 00:06:04,896
+Face, arm and speech screens identify common focal findings. Sudden
+balance or eye symptoms can raise concern for presentations not
+captured by a simple face-arm-speech result.
+
+35
+00:06:04,896 --> 00:06:16,296
+Use the named local FAST-VAN form and document its individual
+findings. The current provincial guidance asks for both FAST and VAN
+regardless of the FAST result.
+
+36
+00:06:16,296 --> 00:06:26,808
+A negative screen is not a rule-out, particularly when other sudden
+neurological findings persist. Seek the indicated consultation and
+destination decision.
+
+37
+00:06:26,808 --> 00:06:38,400
+Obtain and document glucose early while immediate ABC support
+continues. Do not delay ventilation or hemorrhage care to complete a
+ceremonial glucose-first gate.
+
+38
+00:06:38,400 --> 00:06:49,512
+The checked adult E01 defines hypoglycemia below four millimoles per
+liter. Use the permitted correction route with actual airway
+protection and formulation checks.
+
+39
+00:06:49,512 --> 00:06:59,592
+Do not give oral glucose to someone unable to protect the airway or
+safely swallow. Recheck the measured value and the neurological
+examination after treatment.
+
+40
+00:06:59,592 --> 00:07:12,504
+Persistent focal deficits require continuing stroke assessment;
+hypoglycemia and stroke can coexist. The provincial card image uses at
+least four, not an invented higher threshold.
+
+41
+00:07:12,504 --> 00:07:23,784
+Last known well is the last reliable time the person was at their
+neurological baseline. Ask what the witness actually observed rather
+than accepting the word normal without detail.
+
+42
+00:07:23,784 --> 00:07:32,040
+Witnessed onset can be precise, but discovery may occur much later.
+Record them separately when they are not the same event.
+
+43
+00:07:32,040 --> 00:07:40,032
+Include the date and source, and preserve uncertainty rather than
+selecting a convenient time that creates eligibility.
+
+44
+00:07:40,032 --> 00:07:50,712
+Obtain a reliable contact when possible so the receiving team can
+verify the history. Do not postpone necessary transport while
+searching for perfect certainty.
+
+45
+00:07:50,712 --> 00:08:00,264
+Assume a fifty-nine-year-old had a reliable baseline conversation at
+twenty-two ten the previous evening. That is the available last-known-
+well reference.
+
+46
+00:08:00,264 --> 00:08:11,352
+At six twenty in the morning, new weakness and language difficulty are
+discovered on waking. Six twenty is discovery, not proof that the
+stroke began then.
+
+47
+00:08:11,352 --> 00:08:24,216
+The crew assesses at six thirty-seven. Record the dates, witness
+source and unknown actual onset; do not substitute arrival, dispatch
+or discovery for last known well.
+
+48
+00:08:24,216 --> 00:08:36,312
+Wake-up and selected unknown-onset patients can still merit urgent
+stroke treatment evaluation. Use the current local pathway, not an old
+absolute two-hour destination rule.
+
+49
+00:08:36,312 --> 00:08:47,904
+Ask for a smile and observe asymmetry, considering the usual baseline
+and any facial injury. Describe the side and finding rather than just
+writing abnormal.
+
+50
+00:08:47,904 --> 00:09:01,704
+Use the trained arm instruction and observe drift or weakness. If
+neither arm moves, reassess comprehension, global weakness,
+consciousness and other limitations instead of automatically calling
+it normal.
+
+51
+00:09:01,704 --> 00:09:13,320
+Assess speech using an understandable task, distinguishing wrong words
+or inability to name from slurred articulation. Language and hearing
+barriers must be considered.
+
+52
+00:09:13,320 --> 00:09:23,544
+Attach symptom timing and baseline information to the findings. A
+positive recognition screen is not a definitive vessel or stroke-
+subtype diagnosis.
+
+53
+00:09:23,544 --> 00:09:33,096
+The current local card emphasizes a preference to look to one side.
+Describe the actual gaze finding and whether the patient can respond
+to the assessment.
+
+54
+00:09:33,096 --> 00:09:44,640
+The school supplement also discusses visual-field loss and double
+vision. These matter clinically, but do not silently rename every
+visual complaint as the formal card finding.
+
+55
+00:09:44,640 --> 00:09:56,256
+Check usual vision, eye disease, communication and the overall
+neurological pattern. A new sudden visual deficit deserves attention
+even if the face-arm-speech screen is negative.
+
+56
+00:09:56,256 --> 00:10:07,152
+A positive clue raises LVO concern; it does not identify an occluded
+artery or replace imaging. Document the finding and use the actual
+triage pathway.
+
+57
+00:10:07,152 --> 00:10:18,432
+Use familiar objects such as a pen or watch through the actual
+assessment method. A naming problem is different from being unable to
+see or recognize an unfamiliar object.
+
+58
+00:10:18,432 --> 00:10:27,072
+Consider comprehension as well as expression. Someone may understand a
+question yet be unable to produce the intended words.
+
+59
+00:10:27,072 --> 00:10:37,368
+Dysarthria affects articulation and can coexist with aphasia. Record
+the actual behavior rather than placing every speech change in one
+category.
+
+60
+00:10:37,368 --> 00:10:47,616
+Arrange accessible communication and consider baseline hearing or
+language. Aphasia alone does not establish lack of thought or
+decision-making capacity.
+
+61
+00:10:47,616 --> 00:10:56,952
+Explain the task and ask the person to identify left, right or both
+when touched, using the trained method and accessible instructions.
+
+62
+00:10:56,952 --> 00:11:07,296
+Check each side separately before simultaneous stimulation. A primary
+sensory deficit or failure to understand the task can complicate
+interpretation.
+
+63
+00:11:07,296 --> 00:11:18,912
+If a side is detected alone but ignored when both are stimulated,
+describe that extinction or inattention finding. The local card
+illustrates the commonly missed left side.
+
+64
+00:11:18,912 --> 00:11:29,832
+Do not reduce neglect to weak muscles or insist no other side can be
+affected. Record the actual result and limitations within the whole
+neurological pattern.
+
+65
+00:11:29,832 --> 00:11:39,744
+The current provincial guide asks for both FAST and VAN regardless of
+the first result. Do not insert a weakness-only gate from a different
+tool version.
+
+66
+00:11:39,744 --> 00:11:50,376
+Both positive findings raise possible LVO concern and may influence
+the regional destination. One positive screen still needs the
+appropriate stroke-centre pathway.
+
+67
+00:11:50,376 --> 00:12:02,640
+If both are negative but sudden posterior or other stroke concern
+persists, the provincial pathway requires consultation for a stroke-
+centre transport decision. Negative does not mean no disease.
+
+68
+00:12:02,640 --> 00:12:11,784
+Screening does not overrule an unsafe airway or unstable circulation.
+The next destination slide keeps that exception visible.
+
+69
+00:12:11,784 --> 00:12:37,632
+For an original exercise, a patient develops new facial weakness
+involving the eyebrow, eye closure and mouth. That can fit a
+peripheral pattern, but a brainstem lesion can resemble it. Ask about
+onset and last known well, and assess associated speech, limb, vision
+and coordination changes. Do not label the patient cleared of stroke
+from the forehead finding alone.
+
+70
+00:12:37,632 --> 00:13:00,528
+Apply the current local examination and transport pathway. Negative
+FAST-VAN does not exclude stroke, and an uncertain onset after sleep
+is not proof of slow development. Keep the history sources and
+unknowns explicit. Do not test swallowing by giving water or make an
+unsteady patient walk merely to complete an examination.
+
+71
+00:13:00,528 --> 00:13:14,040
+The provincial adult pathway sends unstable airway or hemodynamic
+cases to the nearest emergency department. Do not bypass needed
+stabilization simply to reach a desired label of hospital.
+
+72
+00:13:14,040 --> 00:13:25,560
+For stable patients, use the closest and most appropriate stroke-
+centre decision through the actual regional pathway. Local transport
+times and available capability matter.
+
+73
+00:13:25,560 --> 00:13:35,328
+Possible LVO can favor EVT access where the pathway supports it, but
+not every positive score automatically bypasses every thrombolysis
+site.
+
+74
+00:13:35,328 --> 00:13:50,064
+The cited provincial framework is adult, eighteen and older; suspected
+pediatric stroke requires the indicated consultation. Current hospital
+capability must be confirmed rather than assumed from an old textbook
+list.
+
+75
+00:13:50,064 --> 00:14:02,952
+Support the actual airway, breathing and circulation needs. The
+checked local stroke oxygen wording is saturation at least ninety-four
+percent, not automatic maximum oxygen forever.
+
+76
+00:14:02,952 --> 00:14:12,744
+Check glucose and correct hypoglycemia safely, then recheck function.
+Do not delay mobilization to prove every possible mimic in the home.
+
+77
+00:14:12,744 --> 00:14:26,400
+The saved F03 prefers an eighteen-gauge site above the wrist, while
+F00 says at least twenty gauge without transport delay. Preserve that
+difference and follow the actual pathway.
+
+78
+00:14:26,400 --> 00:14:39,696
+Aim to minimize scene time; the guide twenty-minute goal is not
+permission to use twenty minutes unnecessarily. Obtain a reliable
+witness contact and perform nonurgent tasks en route when appropriate.
+
+79
+00:14:39,696 --> 00:14:50,928
+Notify the receiving facility as early as practical while mobilizing
+through the pathway. Use the approved channel for required identity
+information, not a public teaching example.
+
+80
+00:14:50,928 --> 00:15:02,832
+Give the reliable onset or last-known-well time, discovery and wake-up
+context, including uncertainty. Do not collapse several different
+events into one invented stroke time.
+
+81
+00:15:02,832 --> 00:15:15,264
+Report individual FAST-VAN and other relevant findings, current
+vitals, glucose, correction and response. Include anticoagulant
+information and the source when known.
+
+82
+00:15:15,264 --> 00:15:27,144
+Finish with ETA, current support and the capability needed. A pre-
+alert prepares the team; the fuller handover still preserves the
+detailed record and witness contact.
+
+83
+00:15:27,144 --> 00:15:38,016
+A fifty-seven-year-old at a sewing studio has new weakness and
+difficulty naming familiar objects. Glucose measures three point zero,
+with a reliable method.
+
+84
+00:15:38,016 --> 00:15:49,080
+Provide needed ABC support and correct confirmed hypoglycemia through
+the authorized airway-safe route. Do not assume an oral route is safe
+because the person is awake.
+
+85
+00:15:49,080 --> 00:16:00,768
+On recheck, glucose is five point two, but the new naming problem and
+unilateral arm findings persist. Corrected glucose does not close the
+neurological assessment.
+
+86
+00:16:00,768 --> 00:16:12,888
+Continue the stroke pathway, verify LKW and discovery, and communicate
+both treatment and persistent findings. One mimic can coexist with the
+time-critical condition.
+
+87
+00:16:12,888 --> 00:16:23,928
+Normal networks balance excitatory and inhibitory influences. The
+school uses glutamate and GABA to explain why a disruption can permit
+abnormal activity.
+
+88
+00:16:23,928 --> 00:16:37,032
+Genetic, structural, metabolic, toxic or infectious factors can
+contribute. A known epilepsy diagnosis is only part of the history,
+not an explanation of every event.
+
+89
+00:16:37,032 --> 00:16:47,928
+Seizure manifestations can include sensory change, behavior, altered
+responsiveness or movement. Not every seizure is a generalized
+convulsion.
+
+90
+00:16:47,928 --> 00:16:58,032
+Describe what actually occurred and maintain the current functional
+assessment. Visible shaking does not remove the need to check
+breathing, pulse and injury.
+
+91
+00:16:58,032 --> 00:17:11,424
+The current ILAE framework retains focal, generalized, unknown whether
+focal or generalized, and unclassified categories. Do not force
+incomplete witness information into a precise diagnosis.
+
+92
+00:17:11,424 --> 00:17:24,216
+The book older partial, simple and complex terms may appear in
+examination reading. Recognize the terminology while describing
+consciousness and the actual sequence in the current encounter.
+
+93
+00:17:24,216 --> 00:17:35,736
+A focal symptom can be followed by bilateral convulsions, but not
+every event must begin as one visible focal lesion. Unknown onset
+should remain unknown.
+
+94
+00:17:35,736 --> 00:17:46,632
+Functional or dissociative seizures are not an epileptic generalized
+subtype. Neither witnesses nor psychiatric history proves that
+diagnosis at the scene.
+
+95
+00:17:46,632 --> 00:17:57,360
+Tonic-clonic activity may include stiffening followed by repeated
+jerking, with altered consciousness. Not every event shows every older
+textbook stage.
+
+96
+00:17:57,360 --> 00:18:06,936
+A reported aura may itself be a focal seizure symptom. Ask what the
+person felt rather than assuming all convulsions have an obligatory
+warning.
+
+97
+00:18:06,936 --> 00:18:19,608
+Record the actual sides, movements, start/stop times, responsiveness
+and breathing. A useful description helps more than an overconfident
+classification from a brief glimpse.
+
+98
+00:18:19,608 --> 00:18:29,784
+If the patient is unresponsive with abnormal breathing, consider
+arrest as well as seizure. Some collapse events have brief movements
+from poor cerebral perfusion.
+
+99
+00:18:29,784 --> 00:18:39,600
+For continuing tonic-clonic activity, five minutes is the operational
+early threshold, and repeated seizures without recovery are also
+urgent.
+
+100
+00:18:39,600 --> 00:18:52,056
+The ILAE distinguishes this from a later estimated risk of long-term
+injury. Do not wait until twenty or thirty minutes, and do not claim
+that every neuron crosses an exact injury cliff at five.
+
+101
+00:18:52,056 --> 00:19:02,808
+Ask when the event actually started and whether recovery occurred. If
+the start is unknown or activity continues on arrival, do not reset
+the clock to zero.
+
+102
+00:19:02,808 --> 00:19:14,232
+Provide necessary ABC support and arrange timely advanced help and
+conveyance. The actual seizure-control intervention must match the
+operator and protocol.
+
+103
+00:19:14,232 --> 00:19:26,472
+Sustained neural and muscle activity raises metabolic demand. Early
+autonomic responses can include fast pulse and high pressure, but
+these do not guarantee adequate perfusion.
+
+104
+00:19:26,472 --> 00:19:38,064
+Oxygen and glucose demands, impaired breathing and heat production can
+increase systemic stress. Monitor the actual function rather than a
+fixed compensation-phase timer.
+
+105
+00:19:38,064 --> 00:19:51,192
+Ventilation or circulation can fail, and prolonged muscle injury can
+add potassium and kidney complications. These are risks to anticipate,
+not diagnoses established by dark urine alone.
+
+106
+00:19:51,192 --> 00:20:02,208
+Treat current threats and escalate early. Anticipation is useful when
+it improves support and communication, not when it delays necessary
+care for more testing.
+
+107
+00:20:02,208 --> 00:20:12,000
+Protect the patient from surrounding hazards and cushion appropriately
+without pinning down convulsive movement. Consider injury and maintain
+dignity.
+
+108
+00:20:12,000 --> 00:20:23,136
+Do not force the mouth open or insert objects or fingers blindly. An
+airway adjunct requires its actual indication and a safe opportunity,
+not brute force.
+
+109
+00:20:23,136 --> 00:20:34,080
+Use positioning and suction as safely indicated, with effective airway
+and breathing support. Do not create a second injury by forcing a
+rigid body onto its side.
+
+110
+00:20:34,080 --> 00:20:45,960
+The old textbook thirty-second apnea wait is not used. Credible
+inadequate breathing needs prompt support and skilled escalation, not
+a mandatory period of neglect.
+
+111
+00:20:45,960 --> 00:20:57,720
+Check measured glucose and oxygenation/ventilation while care
+proceeds. Metabolic derangement can cause a seizure and can also
+complicate another neurological event.
+
+112
+00:20:57,720 --> 00:21:07,272
+Consider trauma, stroke, infection and other new neurological disease.
+A previous epilepsy diagnosis does not make a different event routine.
+
+113
+00:21:07,272 --> 00:21:19,224
+Ask about prescribed medicines, access problems, recent changes,
+alcohol/drugs and any rescue dose already given. Use neutral questions
+rather than blame.
+
+114
+00:21:19,224 --> 00:21:31,944
+In pregnancy or a relevant postpartum context, consider eclampsia and
+the obstetric pathway. Magnesium and advanced anticonvulsants require
+the actual role-specific authorization.
+
+115
+00:21:31,944 --> 00:21:47,232
+The school saved body lists IM or IV midazolam under a PCP heading.
+The checked current F02 places seizure-control midazolam at ACP, so
+that shortcut is not reproduced as ordinary PCP permission.
+
+116
+00:21:47,232 --> 00:22:00,744
+PCP care includes effective support, confirmed hypoglycemia treatment
+and the indicated airway/access tasks. Knowing advanced drug
+mechanisms helps coordination without crossing the boundary.
+
+117
+00:22:00,744 --> 00:22:11,352
+Record rescue medicines already given by family or carers, including
+route, dose and time. They affect the next dose and respiratory-risk
+assessment.
+
+118
+00:22:11,352 --> 00:22:23,832
+F02 advises against prophylactic benzodiazepines when the patient is
+not currently seizing. Persistent reduced consciousness still needs
+assessment, not automatic sedation.
+
+119
+00:22:23,832 --> 00:22:34,632
+Recovery can include confusion, fatigue or reduced responsiveness,
+with a variable duration. Continue airway, breathing and circulation
+assessment.
+
+120
+00:22:34,632 --> 00:22:46,704
+Recheck glucose, injury, perfusion and focal findings. Hypoxia, drugs,
+stroke or continuing nonconvulsive activity can resemble a prolonged
+postictal state.
+
+121
+00:22:46,704 --> 00:22:58,488
+Persistent or worsening dysfunction needs escalation, not a promise to
+wait an arbitrary number of hours. EEG-dependent diagnoses cannot be
+proved from a screen alone.
+
+122
+00:22:58,488 --> 00:23:10,752
+Provide quiet respectful explanation and reorientation, without
+assuming behavior is deliberate misconduct. Calm engagement and
+medical reassessment can occur together.
+
+123
+00:23:10,752 --> 00:23:21,696
+A focal deficit after a seizure may be postictal, but a stroke can
+also provoke a seizure. Do not declare Todd-type weakness without
+maintaining the time-critical differential.
+
+124
+00:23:21,696 --> 00:23:30,792
+Corrected glucose does not exclude coexisting stroke. Reassess the
+same functional tasks and record what resolved and what remained.
+
+125
+00:23:30,792 --> 00:23:41,592
+A functional-seizure or psychiatric history does not prove the cause
+today. Respect the person and assess the actual neurological and
+physiological changes.
+
+126
+00:23:41,592 --> 00:23:51,984
+Resolved or fluctuating deficits still require evaluation and the
+applicable pathway. Do not convert normal appearance at arrival into
+no event occurred.
+
+127
+00:23:51,984 --> 00:24:44,352
+The historical table names anti-amyloid treatments aducanumab/Aduhelm
+and lecanemab/Leqembi separately from symptom medicines. An old row is
+not proof of present availability or Canadian eligibility. The
+selected current lecanemab label warns about amyloid-related imaging
+abnormalities: ARIA-E involves edema and ARIA-H hemorrhagic findings.
+Some patients have no symptoms, while serious or fatal events can
+occur; focal deficits can mimic ischemic stroke. In a new deficit,
+support the patient, preserve last-known-well time and urgently report
+the exact anti-amyloid treatment and timing. Do not diagnose ARIA or
+cancel the stroke pathway from a drug name; the receiving team needs
+imaging and treatment-specific decisions.
+
+128
+00:24:44,352 --> 00:25:37,848
+The table also names brexpiprazole/Rexulti for Alzheimer-associated
+agitation and suvorexant/Belsomra for insomnia, not cognition recovery
+or immediate rescue. The checked U.S. brexpiprazole label is not an
+as-needed agitation treatment and retains increased-mortality warnings
+in older adults with dementia-related psychosis; its Alzheimer-
+agitation indication is not permission for every psychosis. Suvorexant
+can cause somnolence, impaired alertness/coordination and complex
+sleep behaviors, with particular respiratory-function concerns. A
+quieter or sleepier patient is not necessarily better. Continue
+respectful de-escalation and assess breathing, glucose, perfusion and
+the new neurological change; do not add or stop these medicines from a
+study slide.
+
+129
+00:25:37,848 --> 00:25:50,280
+Syncope is transient loss of consciousness from global cerebral
+hypoperfusion. Arrhythmia, volume loss and other causes can create
+serious risk even after rapid recovery.
+
+130
+00:25:50,280 --> 00:26:01,464
+Brief jerking or incontinence does not prove an epileptic seizure.
+Conversely, an event in a standing person is not automatically simple
+vasovagal syncope.
+
+131
+00:26:01,464 --> 00:26:13,680
+Assess breathing, pulse, glucose, relevant rhythm, trauma and
+symptoms. Do not stand an unstable or injured person merely to obtain
+orthostatic observations.
+
+132
+00:26:13,680 --> 00:26:25,032
+Describe the witness sequence and recovery and use the actual pathway.
+Age, position or a quick return to conversation cannot independently
+exclude dangerous disease.
+
+133
+00:26:25,032 --> 00:26:36,000
+A forty-two-year-old at a florist workshop is still convulsing when
+the crew arrives. A witness reports several minutes and no clear
+recovery between repeated episodes.
+
+134
+00:26:36,000 --> 00:26:48,072
+Protect from hazards, assess airway/breathing and circulation, check
+glucose when safe and provide needed support. Do not force the mouth
+open or restrain movement.
+
+135
+00:26:48,072 --> 00:26:59,328
+Clarify the actual start and any rescue medicine while arranging the
+appropriate advanced response and conveyance. Do not start a fresh
+five-minute wait from crew contact.
+
+136
+00:26:59,328 --> 00:27:11,688
+Report continuing/recurrent activity, lack of recovery, current
+physiological threats and actual prior doses. The next team needs a
+timeline, not merely the word seizure.
+
+137
+00:27:11,688 --> 00:27:24,720
+For stroke, preserve LKW, witnessed onset and discovery with dates and
+sources. For seizures, preserve activity and recovery intervals and
+whether the clock is uncertain.
+
+138
+00:27:24,720 --> 00:27:36,144
+Give individual findings and their change, including side, language
+task, consciousness, glucose and ABC state. A scale total alone loses
+useful information.
+
+139
+00:27:36,144 --> 00:27:46,152
+Record actual treatment and response, including family-administered
+medicines and adverse effects. Do not record a considered action as
+completed.
+
+140
+00:27:46,152 --> 00:27:58,896
+State uncertainty and what capability is needed next. Appropriate non-
+conveyance requires the real criteria and consultation, not a blanket
+assumption that recovery equals safety.
+
+141
+00:27:58,896 --> 00:28:53,784
+The literal headache page adds a focused question: is this a familiar
+pattern or a new, abruptly severe or changing headache? Its vascular,
+tension and organic categories organize history, not a field
+diagnosis. Perform the general and neurological assessment, ask about
+time, fever, trauma, pregnancy/postpartum state and exposures, and
+seek urgent evaluation for a concerning change. F04 names
+acetaminophen first-line and says not to give ASA for headache. Other
+analgesics, antiemetics, oxygen or fluid support depend on the real
+indication, exclusions and operator level. A migraine history or
+symptom relief does not exclude hemorrhage or another serious cause; a
+general reference to nitrous oxide does not override its
+contraindications.
+
+142
+00:28:53,784 --> 00:29:45,552
+Original cross-check: nine days after birth, a person with a migraine
+history develops a different severe headache and visual disturbance;
+reliable pressure is 168 over 112. The history is not clearance to
+label another migraine. Repeat a valid measurement while primary care
+and urgent assessment proceed, check neurological function and
+glucose, establish the postpartum timeline and report the severe
+pressure and new symptoms. Consider obstetric and neurological threats
+together rather than waiting for rash, proteinuria or a complete
+textbook triad. Seizure prophylaxis and antihypertensive treatment
+require their actual level and consultation; the learner job is timely
+recognition, permitted support and a truthful handover, not
+independent advanced prescribing.
+
+143
+00:29:45,552 --> 00:29:55,368
+You should now explain the school cerebral-perfusion and seizure
+mechanisms without pretending that a visible symptom reveals a
+guaranteed cellular stage.
+
+144
+00:29:55,368 --> 00:30:04,728
+Perform the reasoning behind glucose-first, both FAST and VAN,
+reliable LKW and the stability-dependent destination decision.
+
+145
+00:30:04,728 --> 00:30:14,016
+Recognize continuing/recurrent seizures and support the real ABC
+threats while coordinating the correctly authorized next intervention.
+
+146
+00:30:14,016 --> 00:30:27,552
+Use the bilingual Nancy reading and original cases to teach the
+sequence back. The next school sections develop pregnancy, aortocaval
+compression, toxic patterns, kidney injury and GI threats.

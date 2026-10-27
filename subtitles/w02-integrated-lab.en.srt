@@ -1,0 +1,573 @@
+1
+00:00:00,000 --> 00:00:14,712
+The school outline joins reasoning, respiratory support and medication
+delivery in the same week. The goal is to manage a changing patient,
+not to finish one device demonstration and mentally start over at the
+next table.
+
+2
+00:00:14,712 --> 00:00:28,416
+Use the earlier Week Two lessons as preparation: three A for
+reasoning, one C for consent and capacity, seven B for respiratory
+assessment, and eight A and eight B for pharmacology and delivery.
+
+3
+00:00:28,416 --> 00:00:42,312
+Here, original cases combine those parts and introduce a change after
+your first action. For every intervention, state the expected effect,
+the time for reassessment and the finding that would make you change
+course.
+
+4
+00:00:42,312 --> 00:00:53,400
+The school medication-math gate remains your own assessed task. The
+practice in this lesson does not access it, answer it, submit it or
+certify that you have passed.
+
+5
+00:00:53,400 --> 00:01:05,376
+You find a thirty-one-year-old adult with a definite pulse, three
+shallow breaths per minute and pinpoint pupils. A bystander says the
+person may have used a sedative, but cannot identify it.
+
+6
+00:01:05,376 --> 00:01:20,592
+The immediate deficit is inadequate ventilation. Position, clear and
+support the airway, using two-provider BVM when available. A
+medication history is useful, but cannot be allowed to postpone an
+effective breath.
+
+7
+00:01:20,592 --> 00:01:34,344
+Reduced consciousness, depressed breathing and miosis support
+suspected opioid toxicity, but none excludes a concurrent problem.
+Check glucose and look for injury or other causes while support
+continues.
+
+8
+00:01:34,344 --> 00:01:46,968
+If the pulse becomes absent or cannot be definitely identified
+promptly, move to the arrest pathway. Do not continue a pulse-present
+medication scenario after the patient has changed categories.
+
+9
+00:01:46,968 --> 00:01:59,664
+State clearly who owns ongoing ventilation. A frequent error is that
+everyone turns toward the drug kit, leaving a poorly breathing patient
+unsupported while the correct medication is being prepared.
+
+10
+00:01:59,664 --> 00:02:13,752
+With limited personnel, choose the safest workable division and
+request help early. Prepare equipment within reach, use closed-loop
+requests and avoid repeatedly handing the mask away without a
+replacement seal.
+
+11
+00:02:13,752 --> 00:02:28,344
+Name the patient and medication out loud, read the actual
+concentration and check the intended amount independently. An
+independent check means recalculating from the source information, not
+agreeing with a number already suggested.
+
+12
+00:02:28,344 --> 00:02:41,232
+As soon as delivery is complete, return attention to breathing,
+oxygenation and circulation. Record the exact time and actual dose so
+that repeat decisions are based on a real timeline.
+
+13
+00:02:41,232 --> 00:02:52,008
+The treatment target is adequate breathing, not a demand that the
+patient immediately become fully awake. Continue supportive
+ventilation while naloxone has time to act.
+
+14
+00:02:52,008 --> 00:03:09,552
+The checked adult IM or IV sequence is zero point four, zero point
+four, zero point eight and then two milligrams, with the specified
+three-minute reassessment intervals when the response is inadequate.
+This is not four identical zero-point-four doses.
+
+15
+00:03:09,552 --> 00:03:24,648
+Dose is not volume. A simulated zero-point-four-milligram amount
+requires zero point four millilitres from one milligram per
+millilitre, but one millilitre from zero point four milligrams per
+millilitre. Read the actual label every time.
+
+16
+00:03:24,648 --> 00:03:39,552
+For intranasal use, distinguish the authorized syringe-atomizer
+procedure from a sealed fixed-dose spray. Do not add atomizer dead-
+space calculations to a sealed product, and do not delay breathing
+support while choosing a route.
+
+17
+00:03:39,552 --> 00:03:52,200
+After treatment, the patient opens the eyes briefly but still takes
+only shallow ineffective breaths. That is not the required respiratory
+endpoint. Reassess the airway and maintain support.
+
+18
+00:03:52,200 --> 00:04:05,496
+Compare rate, depth, chest movement, oxygenation and capnography where
+appropriate. A rising respiratory count with almost no tidal movement
+can still be inadequate ventilation.
+
+19
+00:04:05,496 --> 00:04:18,000
+Watch for vomiting, withdrawal, distress and new respiratory
+difficulty, and respond calmly. Do not describe every confused or
+frightened response as deliberate non-cooperation.
+
+20
+00:04:18,000 --> 00:04:33,696
+Persistent impaired consciousness may reflect co-intoxication, head
+injury, glucose disturbance or another illness. Repeat assessment
+instead of escalating medication indefinitely to force a preferred
+level of alertness.
+
+21
+00:04:33,696 --> 00:04:45,096
+The antagonist response and the opioid exposure may have different
+durations. A patient who is breathing adequately now can become
+sedated and hypoventilate again.
+
+22
+00:04:45,096 --> 00:04:55,704
+Continue respiratory and consciousness checks and keep working support
+available. Do not pack away the bag and suction merely because the
+patient has spoken once.
+
+23
+00:04:55,704 --> 00:05:08,640
+Record the timeline of each dose, effect and recurrence, together with
+possible long-acting or mixed exposure. That timeline helps the
+receiving team distinguish improvement from temporary masking.
+
+24
+00:05:08,640 --> 00:05:22,968
+Current J twelve directs use of the actual refusal-of-care pathway
+when transport is declined. Do not replace it with a remembered older
+treat-and-release checklist or an automatic rule that everyone who
+wakes is safe to leave.
+
+25
+00:05:22,968 --> 00:05:39,552
+An unresponsive patient cannot give the same informed decision as an
+alert cooperative patient. Identify and document the applicable
+emergency authority while providing necessary care; the phrase implied
+consent is not a complete legal analysis.
+
+26
+00:05:39,552 --> 00:05:53,064
+When the person improves, reassess the capacity to make the particular
+decision and explain the recommended next steps. Earlier emergency
+authority does not grant indefinite control over a now-capable person.
+
+27
+00:05:53,064 --> 00:06:06,936
+Discuss recurrence, incomplete reversal, co-intoxication and
+recommended assessment in understandable language. Check understanding
+rather than simply asking for a signature or a yes to a leading
+question.
+
+28
+00:06:06,936 --> 00:06:21,072
+Use the current consultation and refusal procedure for the actual
+situation. Substance use does not itself prove incapacity, and
+standing up or knowing the date does not itself prove capacity for the
+relevant risk decision.
+
+29
+00:06:21,072 --> 00:06:35,064
+A seventy-two-year-old adult is awake, breathing thirty-two times per
+minute and speaking only two or three words. There is marked effort,
+bilateral crackles and low oxygen saturation despite oxygen.
+
+30
+00:06:35,064 --> 00:06:48,648
+The pattern may fit cardiogenic pulmonary edema, but crackles alone
+are not a diagnosis. Assess the history, airway, circulation and
+important alternatives while selecting immediate support.
+
+31
+00:06:48,648 --> 00:07:02,736
+Unlike the opioid case, this person is generating frequent spontaneous
+breaths and can follow commands. Determine whether airway integrity,
+cooperation and the current CPAP criteria are actually present.
+
+32
+00:07:02,736 --> 00:07:14,520
+Prepare a rescue plan before applying positive pressure. A treatment
+that initially helps can become unsuitable if consciousness, blood
+pressure or ventilatory effort deteriorates.
+
+33
+00:07:14,520 --> 00:07:24,888
+Use the full current PR zero nine selection and exclusion criteria
+from the respiratory lesson. A low saturation alone is not enough to
+choose CPAP.
+
+34
+00:07:24,888 --> 00:07:36,600
+CPAP maintains positive pressure while the patient generates breaths.
+It does not produce the required ventilation for apnea or replace
+airway protection in an obtunded vomiting patient.
+
+35
+00:07:36,600 --> 00:07:51,000
+Check the actual training requirement, assess circulation and prepare
+the device at its specified oxygen flow and pressure. A flow setting
+copied from another system may produce a different pressure or oxygen
+concentration.
+
+36
+00:07:51,000 --> 00:08:01,200
+Explain the mask and coach the patient. Start monitoring before
+application so that later improvement or hypotension can be compared
+with a real baseline.
+
+37
+00:08:01,200 --> 00:08:12,984
+After application, ask the patient whether breathing feels easier and
+observe whether work and speech improve. Recheck chest movement,
+respiratory rate and air entry.
+
+38
+00:08:12,984 --> 00:08:25,872
+Compare saturation with its target and baseline, while recognizing
+that equipment and inspired oxygen change with the system. A single
+transient number does not replace reassessment of the patient.
+
+39
+00:08:25,872 --> 00:08:39,096
+Repeat blood pressure and perfusion checks because positive pressure
+can reduce venous return. A patient who now looks pale, weak and less
+responsive may be deteriorating even if saturation rises.
+
+40
+00:08:39,096 --> 00:08:52,944
+Document the actual device settings, tolerance and response, and keep
+rescue ventilation available. A trial is an ongoing conditional
+treatment, not a decision that must be defended after new
+contraindications appear.
+
+41
+00:08:52,944 --> 00:09:04,896
+Now the same patient becomes drowsy, stops following commands and has
+weak irregular respirations. Do not continue CPAP simply because it
+was appropriate several minutes earlier.
+
+42
+00:09:04,896 --> 00:09:18,024
+Reassess airway integrity, breathing and circulation immediately.
+Announce the deterioration and transition to the support required now,
+including effective BVM when ventilation is failing.
+
+43
+00:09:18,024 --> 00:09:30,864
+Prepare suction and the appropriate adjunct, establish crew roles and
+request advanced help. Removing one mask without promptly establishing
+the next effective support is not a completed rescue plan.
+
+44
+00:09:30,864 --> 00:09:45,360
+Report the before-and-after findings and time relation to treatment.
+The cause may be progression, exhaustion, pressure-related compromise
+or another process; the first job is to support the failing function
+while investigating.
+
+45
+00:09:45,360 --> 00:09:57,168
+A capnogram has a shape, respiratory rate and end-tidal value. Read
+all three with breathing mechanics and circulation rather than turning
+the number into a diagnosis.
+
+46
+00:09:57,168 --> 00:10:11,016
+A sloped shark-fin pattern suggests obstructed expiration, but needs
+correlation with air movement, wheeze, history and the device. A
+normal-looking shape does not exclude significant illness.
+
+47
+00:10:11,016 --> 00:10:25,824
+A suddenly low or missing trace can represent a disconnected sampler,
+leak, displaced airway, absent ventilation or poor perfusion. Look at
+and support the patient immediately, then trace the sampling path.
+
+48
+00:10:25,824 --> 00:10:41,208
+In practice, ask the instructor to change one variable at a time. Say
+which observation distinguishes an equipment fault from true patient
+deterioration, and demonstrate that you would not withhold care while
+waiting for a perfect trace.
+
+49
+00:10:41,208 --> 00:11:06,816
+The current Week Two Moodle outline lists six procedural rights:
+patient, medication, dose, route, time and documentation. Its four
+clinical reasoning rights are reason, consent, integrity and response.
+Use those exact current outline labels when preparing this weekend.
+This is the school page wording, not a claim that a statute contains
+this numbered list.
+
+50
+00:11:06,816 --> 00:11:32,064
+The saved Eight B assistance lesson instead names the right to refuse
+and expiry with integrity, while some other saved sections use eight
+rights. These are real source differences. The next slide identifies
+that older wording; it does not replace the current outline. Valid
+consent includes a decision-specific assessment and respect for a
+capable refusal, not simply obtaining a signature.
+
+51
+00:11:32,064 --> 00:11:58,848
+Translate the current list into evidence. Confirm two patient
+identifiers, read the actual product and concentration, establish the
+indication and authority, calculate the amount and volume, and check
+the actual route and interval. Inspect expiry and solution integrity.
+Explain the proposed care and confirm the person can make this
+decision or identify the applicable emergency authority.
+
+52
+00:11:58,848 --> 00:12:25,272
+After actual delivery, record what was given and when, then compare
+breathing, circulation, symptoms and adverse effects with the
+baseline. That is the right response, not a promise to reassess later.
+These checks join Saturday airway and capnography work to Sunday IM,
+SC and IV push preparation. The real school medication math gate
+remains your own assessed task.
+
+53
+00:12:25,272 --> 00:12:43,512
+The school assistance section names ten rights: patient, medication,
+dose, route, time, documentation, reason, refusal, expiry and
+integrity, and response. Other saved sections use eight; do not
+pretend all lists are identical.
+
+54
+00:12:43,512 --> 00:12:58,608
+Translate each word into an observable action. For the right dose,
+show the source amount, actual concentration, calculation, syringe
+volume and maximum check; saying right dose aloud is not a
+verification.
+
+55
+00:12:58,608 --> 00:13:12,648
+Confirm previous doses, allergies, contraindications and the actual
+treatment authority even if those checks are not separate numbered
+rights in this particular list. The list is a memory aid, not a
+ceiling on assessment.
+
+56
+00:13:12,648 --> 00:13:26,448
+The right response requires examining whether the intended benefit
+occurred and whether harm appeared. Complete documentation after
+actual delivery, never as a promise that an unadministered dose has
+already been given.
+
+57
+00:13:26,448 --> 00:13:40,488
+Start by writing what is required and what the product contains.
+Convert milligrams and micrograms before dividing, and carry the units
+so that the final answer becomes millilitres rather than an
+unexplained number.
+
+58
+00:13:40,488 --> 00:13:52,608
+For a fictional one-point-five-milligram amount with two milligrams
+per millilitre, divide one point five by two to obtain zero point
+seven five millilitres. The milligrams cancel.
+
+59
+00:13:52,608 --> 00:14:06,864
+Then ask whether the amount meets the ordered or protocol maximum, the
+route volume limit, the required speed and the syringe graduations. An
+arithmetically correct result can still be impossible or unsafe to
+deliver.
+
+60
+00:14:06,864 --> 00:14:20,736
+Use a leading zero for values below one and avoid unnecessary trailing
+zeros. Recalculate independently, estimate the expected size and stop
+if the label, source or result does not agree.
+
+61
+00:14:20,736 --> 00:14:37,176
+If a calculation asks for two hundred fifty micrograms but the vial is
+labelled zero point five milligrams per millilitre, first recognize
+that zero point five milligrams equals five hundred micrograms. The
+volume is zero point five millilitres.
+
+62
+00:14:37,176 --> 00:14:50,232
+For gravity flow, volume times drop factor divided by time in minutes
+gives drops per minute. Hours in a minutes formula can create a
+sixtyfold error even when the multiplication is correct.
+
+63
+00:14:50,232 --> 00:15:01,968
+For weight-based treatment, calculate the required amount, apply any
+maximum and only then convert to volume. Do not apply a milligram
+maximum to the millilitre result.
+
+64
+00:15:01,968 --> 00:15:15,000
+If a result does not fit the route or device, resolve it rather than
+rounding to a convenient mark or assuming the school intended a
+different concentration. The final problem set provides original
+examples for this check.
+
+65
+00:15:15,000 --> 00:15:26,736
+A simulated kit stores similar-looking concentrations together, the
+reference card is outdated and the preparer is interrupted. Those are
+latent conditions that make an error easier.
+
+66
+00:15:26,736 --> 00:15:40,368
+The student then reads one vial but uses another concentration in the
+calculation. That is the active failure. Telling the student to be
+careful addresses neither the misleading storage nor the obsolete
+reference.
+
+67
+00:15:40,368 --> 00:15:53,496
+An independent product-and-unit check catches the mismatch before
+delivery. Stop the uncertain medication, keep needed patient support
+going and resolve the discrepancy using a reliable current source.
+
+68
+00:15:53,496 --> 00:16:09,168
+Afterward, report the near miss and improve the system. If a wrong
+dose was actually administered, immediate patient assessment,
+appropriate help, honest communication and accurate reporting take
+priority over hiding the event.
+
+69
+00:16:09,168 --> 00:16:22,128
+For IM and SC, name the target tissue and demonstrate the actual
+school landmarks and device selection under supervision. A remembered
+angle alone is not a complete injection technique.
+
+70
+00:16:22,128 --> 00:16:37,368
+For IN, verify the actual formulation and device. For inhaled therapy,
+observe the interface and patient technique; an actuation count or
+visible mist alone does not establish the delivered dose.
+
+71
+00:16:37,368 --> 00:16:53,256
+For IV push, trace the line to the correct patient, verify the site
+and patency, prepare the connector and deliver at the specific drug
+rate. Account for residual drug in the line without flushing it as an
+unintended rapid dose.
+
+72
+00:16:53,256 --> 00:17:06,576
+After each route, inspect the patient and the delivery path,
+especially after movement. Record incomplete or failed delivery
+accurately instead of equating the amount prepared with the amount
+administered.
+
+73
+00:17:06,576 --> 00:17:19,488
+At station A, the observer introduces secretions, a seal problem or
+device movement. You must recognize ineffective ventilation and
+recover it, not just finish insertion steps.
+
+74
+00:17:19,488 --> 00:17:33,408
+At station B, begin with an appropriate CPAP candidate and then
+receive a new finding such as hypotension or reduced awareness. State
+whether the original decision still holds and demonstrate the new
+support plan.
+
+75
+00:17:33,408 --> 00:17:48,768
+At station C, distinguish an obstructive pattern from an absent
+sampling trace, using the patient rather than a memorized picture
+alone. At station D, identify a concentration mismatch before a
+supervised route task.
+
+76
+00:17:48,768 --> 00:18:01,800
+Rotate leader, airway, medication and observer roles. These are
+original preparation stations aligned to the saved outline; the real
+school rubric and required sign-offs still control assessment.
+
+77
+00:18:01,800 --> 00:18:11,976
+Begin with the actual baseline and current condition rather than the
+name of the device you used. Explain the reason for treatment and the
+evidence that the problem was urgent.
+
+78
+00:18:11,976 --> 00:18:23,592
+Report actual settings, doses, route and time, including any failed
+delivery or treatment stopped for harm. Do not omit a problem because
+it was corrected before arrival.
+
+79
+00:18:23,592 --> 00:18:37,152
+Compare the response with the effect you expected. For the opioid
+case, explain current spontaneous ventilation and recurrence risk; for
+CPAP, explain work of breathing, circulation and tolerance.
+
+80
+00:18:37,152 --> 00:18:51,024
+End with the unresolved priority and any relevant consent or
+consultation issue. A handover is a transfer of responsibility and
+clinical uncertainty, not merely a recitation of normal numbers.
+
+81
+00:18:51,024 --> 00:19:04,152
+First separate observation from inference. Four shallow breaths per
+minute is an observation; opioid toxicity is a working explanation
+that still needs response-based and differential reassessment.
+
+82
+00:19:04,152 --> 00:19:18,024
+Explain the decisive branch rather than narrating every hand movement.
+For example, reduced awareness with ineffective breathing changed the
+support from a spontaneously triggered mask strategy to assisted
+ventilation.
+
+83
+00:19:18,024 --> 00:19:29,376
+Compare intended and actual effects and identify anything that
+worsened. Invite the observer to identify a missed cue or an
+assumption that was never tested.
+
+84
+00:19:29,376 --> 00:19:43,008
+Choose one reproducible improvement, such as reading the concentration
+before arithmetic or rechecking the mask after every move. Repeat the
+changed step and verify that it actually fixes the observed problem.
+
+85
+00:19:43,008 --> 00:19:55,176
+Finish the original practice without looking at the worked solutions,
+then explain each error in units and clinical meaning. Repeating only
+the questions you remember is not a reliable check.
+
+86
+00:19:55,176 --> 00:20:07,944
+Bring unresolved source differences and device questions to the
+instructor before the corresponding assessed task. Do not resolve
+conflicting versions by quietly choosing the one that is easier to
+memorize.
+
+87
+00:20:07,944 --> 00:20:19,128
+The saved outline requires passing the medication-math gate before
+progressing. This course does not know the actual current cut score or
+retest policy and does not invent either.
+
+88
+00:20:19,128 --> 00:20:30,240
+After preparation, you complete the official assessment yourself. Keep
+the school requirement, your demonstrated skill and this independent
+teaching package as three distinct records.

@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>AET School-Led PCP Course</title>
+  <link rel="stylesheet" href="course.css">
+  <script defer src="course-data.js"></script>
+  <script defer src="course.js?v=20261026-sources4"></script>
+<link rel="stylesheet" href="portal.css">
+</head>
+<body>
+  <header><a class="brand" href="#">AET <span>School-led PCP course</span></a><span class="build-label" id="build-label">INTERNAL PRODUCTION</span><button id="reading-mode" type="button">Bilingual reading / 中英对照</button></header>
+  <div class="shell">
+    <aside><p class="eyebrow" id="week-label">SCHOOL WEEKENDS</p><h1 id="week-title">Foundations</h1><p class="muted">School modules, applied reasoning and original practice</p><nav id="lessons" aria-label="Lectures"></nav><details id="coverage"><summary>Coverage and remaining work</summary><div id="coverage-body"></div></details></aside>
+    <main>
+      <p id="status" role="status"></p>
+      <div id="lecture"></div>
+      <div class="classroom">
+      <section class="slide" id="teaching-slide" aria-live="polite"><div class="slide-top"><span id="slide-label"></span><span id="slide-count"></span></div><h2 id="slide-title"></h2><div id="slide-content"></div><div id="slide-figure"></div></section>
+      <section class="media" aria-label="Narration and subtitles"><div class="media-heading"><span>English AI narration <small>英文 AI 配音</small></span><label>Speed <select id="speed"><option value="0.85">0.85x</option><option value="1" selected>1x</option><option value="1.15">1.15x</option><option value="1.3">1.3x</option></select></label><label><input id="continuous" type="checkbox" checked> Continue through slides</label></div><audio id="audio" controls preload="metadata"></audio><div id="caption" aria-live="polite"><p id="caption-en"></p><p id="caption-zh" lang="zh-Hans"></p></div><p class="clip-note" id="clip-note"></p></section>
+      <div class="controls"><button id="previous" type="button">Previous slide</button><div id="segment-buttons" aria-label="Narration segments"></div><button id="next" type="button">Next slide</button></div>
+      </div>
+      <details class="transcript" id="transcript"><summary>Full slide explanation / 本页完整中英讲解</summary><div id="transcript-body"></div></details>
+      <section id="study-reading" hidden></section>
+      <section class="practice" id="practice"></section>
+      <details class="sources"><summary>School objectives and source notes</summary><div id="sources-body"></div></details>
+      <footer>Original school-aligned teaching, not official AET courseware. This standalone player does not open school tests, submit assignments or write to the school learning record.</footer>
+    </main>
+  </div>
+<script defer src="delivery-notice.js"></script>
+<script type="module" src="portal.js"></script>
+</body>
+</html>

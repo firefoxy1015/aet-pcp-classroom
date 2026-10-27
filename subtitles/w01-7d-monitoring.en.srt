@@ -1,0 +1,651 @@
+1
+00:00:00,000 --> 00:00:12,000
+Monitoring supports assessment by making change visible. It becomes
+unsafe when a displayed number is treated as more real than the
+patient without checking signal quality and clinical context.
+
+2
+00:00:12,000 --> 00:00:27,024
+First identify the measured variable: cuff pressure oscillations,
+light absorption, glucose reaction or exhaled carbon dioxide. The
+device may estimate a useful value without measuring the final
+clinical outcome directly.
+
+3
+00:00:27,024 --> 00:00:38,472
+Then ask what could distort it and whether it fits other findings. A
+normal-looking saturation cannot settle a question about carbon
+monoxide, ventilation or severe anemia.
+
+4
+00:00:38,472 --> 00:00:51,168
+Act on an immediate threat while checking reliability. Treating the
+patient first does not mean discarding inconvenient numbers; it means
+investigating discrepancies without delaying necessary support.
+
+5
+00:00:51,168 --> 00:01:04,344
+NEWS2 assigns points to six physiological observations and adds two
+for supplemental oxygen. It helps recognize and communicate
+deterioration risk; it does not identify the cause.
+
+6
+00:01:04,344 --> 00:01:15,912
+Use a complete, contemporaneous set. An unmeasured temperature or
+uncertain respiratory count must not be silently scored zero to
+produce a reassuring total.
+
+7
+00:01:15,912 --> 00:01:29,376
+The RCP tool is intended for adults aged sixteen and over, not
+children under sixteen or pregnant patients. Use the relevant
+pediatric or obstetric pathway rather than stretching this adult
+score.
+
+8
+00:01:29,376 --> 00:01:42,840
+Low NEWS2 cannot exclude major trauma, stroke, poisoning, evolving
+respiratory failure or another serious condition. Clinical concern
+remains a reason to escalate at any total.
+
+9
+00:01:42,840 --> 00:01:55,992
+For respiratory rate, eight or fewer scores three; nine to eleven
+scores one; twelve to twenty scores zero; twenty-one to twenty-four
+scores two; twenty-five or more scores three.
+
+10
+00:01:55,992 --> 00:02:09,336
+On saturation scale one, ninety-one percent or below scores three,
+ninety-two to ninety-three scores two, ninety-four to ninety-five
+scores one, and ninety-six or above scores zero.
+
+11
+00:02:09,336 --> 00:02:21,240
+If supplemental oxygen is being used, add two points separately. Do
+not omit them because the saturation itself now looks normal, and do
+not count both saturation scales.
+
+12
+00:02:21,240 --> 00:02:32,352
+These are score boundaries, not oxygen-treatment thresholds. Continue
+indicated care and record the device and flow so another clinician can
+interpret the observation.
+
+13
+00:02:32,352 --> 00:02:45,120
+For systolic pressure, ninety or below scores three, ninety-one to one
+hundred scores two, one hundred and one to one hundred and ten scores
+one, and two hundred and twenty or above scores three.
+
+14
+00:02:45,120 --> 00:02:56,832
+The broad one-hundred-and-eleven to two-hundred-and-nineteen band
+scores zero. The school sometimes calls it normal blood pressure; that
+wording is misleading and must not become a clinical conclusion.
+
+15
+00:02:56,832 --> 00:03:07,848
+Pulse scores three at forty or below or one hundred and thirty-one or
+above. The remaining bands are shown here; use the exact boundary
+rather than a rounded rate.
+
+16
+00:03:07,848 --> 00:03:20,904
+For example, a pulse of one hundred and ten scores one, but one
+hundred and eleven scores two. Recheck a questionable measurement; do
+not alter the recorded value to fit a preferred score.
+
+17
+00:03:20,904 --> 00:03:36,264
+Temperature thirty-five or below scores three, thirty-five point one
+to thirty-six scores one, thirty-six point one to thirty-eight scores
+zero, thirty-eight point one to thirty-nine scores one, and thirty-
+nine point one or above scores two.
+
+18
+00:03:36,264 --> 00:03:51,792
+An alert patient scores zero for consciousness. New confusion or a
+response only to voice or pressure, or no response, scores three.
+Establish whether confusion is new rather than guessing from age or
+diagnosis.
+
+19
+00:03:51,792 --> 00:04:03,504
+ACVPU is the score's coarse responsiveness measure. Keep the detailed
+eye, verbal and motor observations in the clinical record when
+assessed; one does not replace the other.
+
+20
+00:04:03,504 --> 00:04:13,920
+An absent fever score does not rule out infection. Hypothermia and a
+mental-status change can be especially concerning in an older person
+with possible sepsis.
+
+21
+00:04:13,920 --> 00:04:35,040
+RCP scale two is for a clinically selected hypercapnic-respiratory-
+failure context with a target of eighty-eight to ninety-two percent.
+Older BCEHS A02 instead states diagnosed COPD. The school body uses
+both formulations; document the applicable service instruction and
+seek clarification if uncertain.
+
+22
+00:04:35,040 --> 00:04:47,928
+For low saturation on this scale, eighty-three or below scores three,
+eighty-four to eighty-five scores two and eighty-six to eighty-seven
+scores one. Eighty-eight to ninety-two scores zero.
+
+23
+00:04:47,928 --> 00:05:05,136
+Above ninety-two, the oxygen context matters: on room air, ninety-
+three or above scores zero. On oxygen, ninety-three to ninety-four
+scores one, ninety-five to ninety-six scores two and ninety-seven or
+above scores three.
+
+24
+00:05:05,136 --> 00:05:18,720
+Add the separate two oxygen points whenever oxygen is used. Do not
+confuse this scoring scheme with A07's chronic-hypoxemia treatment
+band or apply it to make an acute hypoxic patient look low risk.
+
+25
+00:05:18,720 --> 00:05:32,280
+This original example has respiratory rate twenty-three and saturation
+ninety-four percent on supplemental oxygen, using scale one. Those
+contribute two, one and two points respectively.
+
+26
+00:05:32,280 --> 00:05:44,472
+Systolic pressure one hundred and six contributes one, pulse one
+hundred and fourteen contributes two, temperature thirty-eight point
+four contributes one, and alertness contributes zero.
+
+27
+00:05:44,472 --> 00:05:56,832
+The sum is nine, not seven. Omitting supplemental oxygen would
+understate risk. Retain the component values so the total is auditable
+and another clinician can see what drove it.
+
+28
+00:05:56,832 --> 00:06:10,536
+Reassess immediate threats, escalate to the appropriate clinical
+support, increase monitoring and organize urgent conveyance and
+notification. The score supports urgency but does not diagnose the
+illness.
+
+29
+00:06:10,536 --> 00:06:23,232
+A patient with otherwise zero-scoring observations but new confusion
+has a single red parameter of three. Calling the aggregate low without
+recognizing that red flag misses the point of the tool.
+
+30
+00:06:23,232 --> 00:06:37,152
+The original RCP framework treats a single red three as needing urgent
+clinical review, distinct from the aggregate five-to-six and seven-
+plus pathways. Do not describe every red flag as the same response
+tier.
+
+31
+00:06:37,152 --> 00:06:51,840
+Check that the finding is new and assess the cause. Ask about
+baseline, last-known-well and associated symptoms while evaluating
+immediate oxygenation, ventilation, perfusion and glucose threats.
+
+32
+00:06:51,840 --> 00:07:02,832
+A red flag does not require waiting for another parameter to worsen
+before seeking help. Continue treatment and urgency decisions from the
+patient as well as the score.
+
+33
+00:07:02,832 --> 00:07:16,464
+Learn the aggregate bands: zero to four, five to six, and seven or
+more, while checking for an individual three. A rising total also
+deserves attention even before a band changes.
+
+34
+00:07:16,464 --> 00:07:31,608
+The school calls for urgent review and increasing monitoring as risk
+rises, and uses medical-direction consultation in its high-risk
+teaching. The actual service consultation and notification route must
+be verified for the patient and pathway.
+
+35
+00:07:31,608 --> 00:07:43,824
+RCP response charts were designed around organized hospital teams. A
+four-hour low-score observation schedule is not permission to leave an
+ambulance patient unchecked for four hours.
+
+36
+00:07:43,824 --> 00:07:55,488
+Report measured components, oxygen, total, trend, treatment and the
+help requested. An urgent message must say what the patient needs, not
+only announce a score.
+
+37
+00:07:55,488 --> 00:08:12,288
+The new BCEHS documentation section fifteen does not exactly match the
+older A01 and A02 wording. It describes thirty-minute observations
+only for selected untreated patients without altered vital signs or
+listed complaints.
+
+38
+00:08:12,288 --> 00:08:27,504
+It specifies fifteen-minute intervals for symptomatic or abnormal
+patients and more frequent checks when indicated; critical shock may
+need observations every two to three minutes. Before-and-after
+treatment observations remain important.
+
+39
+00:08:27,504 --> 00:08:41,280
+It also says NEWS2 is required by certain ASTaR pathways, whereas
+older A02 says all patients. This is a genuine publication difference,
+not a reason to pretend one page says something else.
+
+40
+00:08:41,280 --> 00:08:57,720
+For school preparation, perform the assigned NEWS2 and five- or
+fifteen-minute practice as requested. For operations, confirm the
+applicable instruction with the service; do not use this conflict to
+reduce monitoring of an unwell patient.
+
+41
+00:08:57,720 --> 00:09:10,872
+Carbon monoxide is not reliably detected by human smell or sight.
+Several occupants with similar symptoms, a generator or heater, or an
+alarm should trigger a shared-exposure concern.
+
+42
+00:09:10,872 --> 00:09:22,560
+Do not enter an unsafe area to attach a monitor. Activate the
+appropriate hazard-control and rescue resources, and have patients
+removed to a safe environment by trained personnel.
+
+43
+00:09:22,560 --> 00:09:35,904
+A building detector measures environmental concentration, often parts
+per million. A patient CO reading estimates a hemoglobin fraction.
+Confusing these units can create a dangerous decision.
+
+44
+00:09:35,904 --> 00:09:47,856
+BCEHS J01 prohibits care in hot or warm zones. The school mentions
+SCBA, but owning or naming that equipment does not authorize a
+paramedic to enter a hazardous zone.
+
+45
+00:09:47,856 --> 00:10:00,120
+Carbon monoxide binds hemoglobin much more avidly than oxygen. It
+reduces available oxygen-carrying capacity, and makes the remaining
+oxygen harder to release to tissues.
+
+46
+00:10:00,120 --> 00:10:12,144
+CO also affects proteins and cellular respiration, contributing to
+tissue dysfunction beyond what a saturation number can reveal. The
+brain and heart are particularly vulnerable.
+
+47
+00:10:12,144 --> 00:10:27,360
+The school calls the left-shifted oxygen-release effect the Haldane
+effect. That label is inaccurate here: the Haldane effect concerns
+oxygenation changing blood carbon-dioxide carriage. Learn the CO
+mechanism without that mistaken name.
+
+48
+00:10:27,360 --> 00:10:41,712
+Headache and nausea may progress to confusion, syncope, chest pain,
+seizures or collapse. Do not require a dramatic skin colour or a
+particular meter percentage before recognizing possible poisoning.
+
+49
+00:10:41,712 --> 00:10:53,520
+A conventional two-wavelength oximeter can misread carbon-monoxide-
+bound hemoglobin and produce a falsely reassuring saturation. It is
+not a CO screening or exclusion test.
+
+50
+00:10:53,520 --> 00:11:07,416
+A multiwavelength pulse CO-oximeter estimates SpCO noninvasively.
+Blood laboratory CO-oximetry measures COHb using a blood sample. The
+two are not interchangeable gold standards.
+
+51
+00:11:07,416 --> 00:11:23,016
+BCEHS J02 warns that point-of-care CO readings can be unreliable and
+that a raised COHb may not reflect poisoning severity or delayed
+neurological risk. A low reading after oxygen does not erase the
+earlier exposure.
+
+52
+00:11:23,016 --> 00:11:34,944
+The school gives smoker and symptom-percentage bands. Learn that
+smoking can elevate baseline, but do not use those bands as a
+deterministic symptom chart or a safe discharge rule.
+
+53
+00:11:34,944 --> 00:11:49,176
+Once safe, provide the indicated high-flow oxygen and supportive care.
+Ordinary SpO2 is not a reason to withhold oxygen in suspected CO
+poisoning. Support ventilation if it is inadequate.
+
+54
+00:11:49,176 --> 00:12:03,552
+Reassess neurological state, symptoms, perfusion and relevant cardiac
+findings. Record exposure circumstances, removal time, oxygen timing
+and measured values with the instrument identified.
+
+55
+00:12:03,552 --> 00:12:15,648
+Current J02 requires CliniCall care-planning consultation for every
+suspected or confirmed CO case, not only a severe case or a value
+above twenty-five percent.
+
+56
+00:12:15,648 --> 00:12:30,384
+A severe clinical presentation, pregnancy or significant cardiac or
+neurological effects informs specialist and hyperbaric discussion. Do
+not make a destination or no-conveyance decision from one noninvasive
+percentage alone.
+
+57
+00:12:30,384 --> 00:12:43,584
+A meter reading is generated by a strip reaction. Sugar on the skin, a
+wet sampling site, insufficient blood, expired strips and temperature
+extremes can make the displayed value misleading.
+
+58
+00:12:43,584 --> 00:12:54,096
+Poor peripheral circulation can make a capillary sample less
+representative. Reassess the patient and improve sampling where
+possible while urgent care continues.
+
+59
+00:12:54,096 --> 00:13:05,568
+If considering a venous or another sample, confirm that the meter and
+local procedure permit it. Do not assume that any available blood can
+be used in every point-of-care device.
+
+60
+00:13:05,568 --> 00:13:18,000
+A result labelled low or high beyond the meter range is not an exact
+number. Document the actual message, pursue an appropriate reliable
+assessment and respond to the clinical threat.
+
+61
+00:13:18,000 --> 00:13:31,320
+Glucose below four millimoles per litre is hypoglycemia in the local
+pathway. Check immediately with altered consciousness or seizure while
+continuing airway, breathing and circulation assessment.
+
+62
+00:13:31,320 --> 00:13:40,872
+A patient who follows commands and swallows safely may receive the
+indicated oral correction. Do not place food or a drink into an
+unprotected airway.
+
+63
+00:13:40,872 --> 00:13:54,120
+If oral treatment is unsafe, use the authorized clinical pathway:
+intravenous dextrose when appropriate, with an alternative such as
+glucagon when access is unattainable according to the relevant
+instruction.
+
+64
+00:13:54,120 --> 00:14:08,712
+The brain is highly vulnerable to low glucose, but the school's claim
+that glucose is its only possible fuel is too absolute. The practical
+priority is rapid recognition and safe correction, followed by cause
+assessment.
+
+65
+00:14:08,712 --> 00:14:22,920
+D10W contains ten grams per hundred millilitres. That is point one
+gram per millilitre, so fifteen grams corresponds to one hundred and
+fifty millilitres. Keep grams and milligrams consistent.
+
+66
+00:14:22,920 --> 00:14:36,672
+The current adult BCEHS monograph lists ten to twenty-five grams
+intravenously, equivalent to one hundred to two hundred and fifty
+millilitres. Use the appropriate authorized plan and reassess the
+clinical effect.
+
+67
+00:14:36,672 --> 00:14:56,352
+The public PCP pediatric line explicitly states over twelve years:
+five millilitres per kilogram of D10W, the stated adult maximum, over
+five to fifteen minutes, and a repeat once. Do not silently extend it
+to younger ages or settle the exact age boundary by guessing.
+
+68
+00:14:56,352 --> 00:15:10,872
+Confirm a patent line before and during administration. Pain, swelling
+or a change at the site can indicate extravasation with tissue injury;
+stop and manage a suspected complication under the appropriate
+procedure.
+
+69
+00:15:10,872 --> 00:15:25,512
+Retest glucose and reassess the patient after correction and as
+clinically indicated. The school suggests five-to-ten-minute checks
+during this process; deterioration requires an immediate check, not
+waiting for a timer.
+
+70
+00:15:25,512 --> 00:15:36,096
+Ask what caused the episode and whether it can recur. Long-acting
+medication, inadequate intake or concurrent infection can make a brief
+improvement misleading.
+
+71
+00:15:36,096 --> 00:15:55,824
+Hypoglycemia can mimic or coexist with stroke. Current E01 calls for
+immediate correction; the dextrose monograph recommends consultation
+about care planning if intracerebral hemorrhage is suspected. That is
+not a blanket command to delay every low-glucose treatment until a
+stroke call finishes.
+
+72
+00:15:55,824 --> 00:16:11,424
+Persistent confusion or focal deficit after correction requires
+continued investigation and appropriate conveyance. Non-conveyance has
+additional criteria, capacity and safety-planning requirements, not
+just a glucose above four.
+
+73
+00:16:11,424 --> 00:16:22,920
+An oscillometric monitor detects pressure oscillations in the cuff
+during its measurement cycle. Algorithms estimate arterial pressure
+from the signal; they do not listen to Korotkoff sounds.
+
+74
+00:16:22,920 --> 00:16:35,712
+MAP relates to the oscillation envelope and systolic and diastolic
+values are algorithm-dependent. This does not make every displayed MAP
+accurate or guarantee it is the best clinical measure in shock.
+
+75
+00:16:35,712 --> 00:16:48,456
+Cuff size and height, movement, shivering, arrhythmia and low
+perfusion can impair results. A monitor that cycles repeatedly may be
+failing to obtain a trustworthy signal.
+
+76
+00:16:48,456 --> 00:16:59,880
+Check the patient and setup, then repeat or confirm with manual
+measurement when appropriate. Record method and relevant limitations
+instead of choosing the most comfortable number.
+
+77
+00:16:59,880 --> 00:17:08,520
+A low pressure obtained during shivering might be distorted. But new
+drowsiness and cool skin make it unsafe to call the whole event
+artifact.
+
+78
+00:17:08,520 --> 00:17:21,624
+Reassess immediate threats, pulse, breathing and relevant causes while
+a partner checks cuff size, position and signal conditions. Do not
+stop urgent support to repeat the same poor technique.
+
+79
+00:17:21,624 --> 00:17:33,696
+Obtain a better measurement as feasible and compare timed
+observations. A confirmed downward trend supports escalation even if a
+later reading has not crossed a familiar threshold.
+
+80
+00:17:33,696 --> 00:17:46,824
+An extremely high pressure likewise needs confirmation and symptom
+assessment. A number alone neither proves a hypertensive emergency nor
+justifies an unsupervised pressure-lowering intervention.
+
+81
+00:17:46,824 --> 00:18:00,024
+If ventilation rises while production and circulation are stable, end-
+tidal carbon dioxide tends to fall. But a low number can also reflect
+reduced blood flow carrying carbon dioxide to the lungs.
+
+82
+00:18:00,024 --> 00:18:13,152
+For the same reason, very poor ventilation does not always produce a
+tall high waveform: a tiny sampled breath or severe low flow can give
+a low or absent signal despite dangerous respiratory depression.
+
+83
+00:18:13,152 --> 00:18:25,848
+A high value may reflect hypoventilation, increased carbon-dioxide
+delivery or rebreathing, depending on context. Interpret number,
+shape, breathing and perfusion together.
+
+84
+00:18:25,848 --> 00:18:35,880
+Do not change a patient's breathing simply to force a number into a
+reference band. First identify the likely physiology and any
+measurement problem.
+
+85
+00:18:35,880 --> 00:18:50,688
+Identify the sequence on an actual waveform: baseline, expiratory
+upstroke, alveolar plateau and inspiratory downstroke. Phase naming
+differs between teaching conventions, but the gas sequence does not.
+
+86
+00:18:50,688 --> 00:19:03,216
+The alpha angle lies between the upstroke and plateau, and the beta
+angle between plateau and downstroke. The school gives roughly one
+hundred to one hundred and ten degrees and ninety degrees
+respectively.
+
+87
+00:19:03,216 --> 00:19:15,864
+Screen scaling and physiology affect the apparent geometry. Use slope,
+baseline, duration and serial change as clues rather than treating a
+measured angle as an independent diagnosis.
+
+88
+00:19:15,864 --> 00:19:27,600
+Confirm that the sample is actually exhaled gas from the patient. A
+plateau without the expected clinical breath, or a line blocked by
+water, should prompt a sampling check.
+
+89
+00:19:27,600 --> 00:19:41,928
+An obstructive shark-fin shape has a sloped rise and plateau. It
+supports impaired expiratory emptying; assess air entry, effort and
+fatigue, and follow the relevant airway or respiratory plan.
+
+90
+00:19:41,928 --> 00:19:54,264
+Tall widely spaced breaths can fit hypoventilation, while low rapid
+breaths can fit increased ventilation. Neither description excludes
+poor perfusion or unreliable sampling.
+
+91
+00:19:54,264 --> 00:20:07,584
+Low carbon dioxide with deep rapid breathing may be compensation for
+metabolic acidosis. Do not label it panic before considering dangerous
+metabolic, respiratory or circulatory causes.
+
+92
+00:20:07,584 --> 00:20:21,960
+If the baseline does not return toward zero, inspect the patient,
+circuit, valves, gas flow and sampling as applicable to the actual
+device. Do not replace a random filter without identifying the system.
+
+93
+00:20:21,960 --> 00:20:36,240
+If the waveform suddenly disappears, look at the patient immediately
+while checking the circuit and sampling connection. A disconnected
+line and a respiratory arrest require different corrections, but both
+need prompt recognition.
+
+94
+00:20:36,240 --> 00:20:48,864
+A sudden sustained rise during resuscitation may indicate return of
+circulation. Confirm through the appropriate clinical rhythm and
+circulation check without creating an unnecessary prolonged pause.
+
+95
+00:20:48,864 --> 00:21:02,304
+A falling value over several readings can reflect deteriorating
+perfusion, but also changes in ventilation or sampling. Compare pulse,
+pressure, mentation and the actual breath.
+
+96
+00:21:02,304 --> 00:21:15,816
+The school references an end-tidal value above ten during CPR. Treat a
+poor reading as a reason to assess quality and physiology, not as a
+stand-alone survival prediction or termination criterion.
+
+97
+00:21:15,816 --> 00:21:29,616
+A cleft in the plateau, historically called a curare cleft, can
+reflect spontaneous effort during controlled ventilation or patient-
+ventilator interaction. It does not by itself prove a need for more
+sedation.
+
+98
+00:21:29,616 --> 00:21:41,856
+Small regular oscillations related to cardiac activity may appear on
+the trace. Correlate their timing with the pulse and the patient
+before interpreting them as separate breaths or a major fault.
+
+99
+00:21:41,856 --> 00:21:52,992
+If there is distress, inadequate breath delivery or suspected
+equipment trouble, assess immediately and involve the clinician
+trained to manage the airway and ventilator.
+
+100
+00:21:52,992 --> 00:22:04,800
+The school includes these patterns as recognition knowledge. Learning
+the name does not authorize a student to alter ventilator settings,
+neuromuscular blockade or sedation independently.
+
+101
+00:22:04,800 --> 00:22:17,592
+Consider a drowsy patient with a normal saturation on oxygen, a weak
+respiratory effort and an abnormal capnogram. Saturation alone must
+not hide inadequate ventilation.
+
+102
+00:22:17,592 --> 00:22:30,048
+In another patient, headache affects the whole household despite high
+ordinary saturation. The exposure pattern changes safety and care
+priorities before a patient CO instrument is available.
+
+103
+00:22:30,048 --> 00:22:42,024
+For every case, state which evidence supports your concern and what is
+still uncertain. Seek the relevant clinical help, not a more
+impressive label unsupported by assessment.
+
+104
+00:22:42,024 --> 00:22:54,888
+Record the findings, instrument and context, action, response and
+reassessment time. The next session applies the same reasoning to
+medication selection and manual infusion calculations.

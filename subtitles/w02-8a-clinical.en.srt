@@ -1,0 +1,801 @@
+1
+00:00:00,000 --> 00:00:15,360
+The next school sections move from mechanisms to patient assessment,
+medication safety, monographs, pediatric preparation, scope and
+integrated trauma. We will follow that whole decision chain rather
+than memorize six disconnected drug cards.
+
+2
+00:00:15,360 --> 00:00:27,456
+First identify immediate threats and a meaningful treatment goal.
+Medication must fit within airway, breathing, circulation and
+transport priorities, not replace them.
+
+3
+00:00:27,456 --> 00:00:40,104
+School narrative sometimes contains old or conflicting numbers. In
+this lecture, school statements are identified as school statements,
+and verified current service rules are identified separately.
+
+4
+00:00:40,104 --> 00:00:55,728
+Do not guess which contradictory number an instructor intends to
+assess. Learn the underlying calculation, record the discrepancy and
+use the confirmed school examination version for that assessment,
+while never treating it as automatic field authority.
+
+5
+00:00:55,728 --> 00:01:08,112
+Before treatment, document the problem you are trying to improve and
+the patient's current physiological state. Include the drug-specific
+safety checks, not just a generic normal-vitals statement.
+
+6
+00:01:08,112 --> 00:01:23,520
+For breathlessness, the school WHIPS questions ask about the worst
+episode, hospital visits, intensive care, puffer requirements and
+steroid use. They supplement present assessment rather than deciding
+stability by history alone.
+
+7
+00:01:23,520 --> 00:01:37,416
+Check the allergy reaction, all recent doses and relevant
+prescription, nonprescription and recreational substances. Duplicate
+ingredients in a cold remedy can matter as much as a named
+prescription.
+
+8
+00:01:37,416 --> 00:01:49,752
+Pain scores standardize a patient's report; they do not turn
+subjective pain into an objective laboratory result. Pair the score
+with function, relevant findings and the person's treatment goal.
+
+9
+00:01:49,752 --> 00:02:02,280
+Reassess the finding that justified treatment. If bronchospasm was the
+goal, compare air entry, effort, speech and symptoms; a new heart rate
+alone cannot tell you the treatment worked.
+
+10
+00:02:02,280 --> 00:02:14,544
+Check immediate safety at the same time. After an opioid or sedating
+drug, observe depth and quality of breathing and airway protection,
+not only a displayed saturation.
+
+11
+00:02:14,544 --> 00:02:25,488
+Use the current drug-specific reassessment interval and assess sooner
+if the patient changes. An interval is not a reason to ignore
+deterioration before the next scheduled reading.
+
+12
+00:02:25,488 --> 00:02:39,336
+Record actual time, dose, route, intended effect and observed
+response. A second dose is a new decision requiring the previous
+response, cumulative amount and contraindications to be reconsidered.
+
+13
+00:02:39,336 --> 00:02:50,472
+Drowsiness after medication may be a known effect, but new inability
+to protect the airway or inadequate ventilation is not acceptable
+simply because sedation was expected.
+
+14
+00:02:50,472 --> 00:03:04,584
+A sudden pressure fall can follow a vasodilator or rapid injection,
+but may also be ongoing bleeding or another deterioration. Support the
+patient and reassess cause, rather than assuming one explanation.
+
+15
+00:03:04,584 --> 00:03:20,088
+The school contrasts a morphine-related itch with anaphylaxis.
+Isolated itch is different from airway, respiratory or circulatory
+compromise, but a suspected non-IgE mechanism cannot rule out a severe
+systemic reaction.
+
+16
+00:03:20,088 --> 00:03:35,016
+Stop a suspected triggering infusion where appropriate, reassess ABCs
+and use the anaphylaxis pathway when indicated. Antihistamine symptom
+relief must not replace epinephrine for life-threatening anaphylaxis.
+
+17
+00:03:35,016 --> 00:03:49,344
+An opioid pattern highlights inadequate ventilation and reduced
+awareness. Cholinergic excess highlights secretions and bronchospasm.
+Identify the immediate physiology before trying to name the exact
+chemical.
+
+18
+00:03:49,344 --> 00:04:02,856
+Sympathomimetic and anticholinergic toxicity can both produce
+tachycardia, heat and altered behaviour. Sweating versus dryness can
+help, but is not a perfect rule and mixed exposures are possible.
+
+19
+00:04:02,856 --> 00:04:16,968
+Do not attribute every altered patient to substance use. Hypoxia,
+hypoglycemia, stroke, infection and injury can overlap these
+presentations. Measure and assess the relevant alternatives.
+
+20
+00:04:16,968 --> 00:04:29,904
+Protect the team from exposure, request appropriate resources and
+provide authorized supportive care. Toxidrome recognition is an
+assessment tool, not unrestricted permission to give an antidote.
+
+21
+00:04:29,904 --> 00:04:42,240
+If the expected effect is absent, first reconsider the assessed
+problem. A bronchodilator cannot fix every cause of dyspnea and an
+antiemetic cannot correct all causes of vomiting.
+
+22
+00:04:42,240 --> 00:04:55,200
+Check what was actually delivered. Examine the label, amount, timing,
+device technique and any vascular site. A calculation on paper does
+not prove the dose entered the patient.
+
+23
+00:04:55,200 --> 00:05:07,896
+Consider delayed absorption, poor perfusion, interacting drugs and the
+expected onset or peak. Stacking additional medication before those
+checks can create a later overshoot.
+
+24
+00:05:07,896 --> 00:05:20,856
+Maintain immediate supportive care, then decide among an authorized
+repeat, a different plan, consultation or escalation. Write the reason
+so the next clinician understands the sequence.
+
+25
+00:05:20,856 --> 00:05:37,560
+Eight A explicitly teaches eight rights: patient, medication, dose,
+route, time, reason, documentation and response. Learn that school
+list accurately rather than silently replacing it with a differently
+numbered mnemonic.
+
+26
+00:05:37,560 --> 00:05:51,768
+BCEHS presents a six-right foundation, and other school material uses
+an expanded framework. The count differs because items are grouped
+differently; none removes consent, allergy or contraindication checks.
+
+27
+00:05:51,768 --> 00:06:04,536
+The right patient includes identity and suitability for the
+indication. The right response is not something you can guarantee
+before giving a drug; it is an obligation to evaluate benefit and harm
+afterwards.
+
+28
+00:06:04,536 --> 00:06:19,224
+A capable patient's refusal still matters even if refusal is not
+numbered in this eight-item list. Clarify concerns and apply the
+consent and refusal process; do not treat the mnemonic as permission
+to override them.
+
+29
+00:06:19,224 --> 00:06:32,592
+Inspect the actual container at selection, preparation and the final
+patient check. Stop for an unclear label, wrong strength, damage,
+expiry or an unexpected appearance.
+
+30
+00:06:32,592 --> 00:06:46,608
+An independent checker uses the original weight, order or monograph
+and product label before comparing results. Asking only whether your
+stated answer looks right creates an anchoring check, not a truly
+independent one.
+
+31
+00:06:46,608 --> 00:07:02,112
+Label a prepared syringe or infusion with the drug and final
+concentration. Keep clean and contaminated handling separate and do
+not use a prefilled saline-flush syringe as the container for
+medication dilution or storage.
+
+32
+00:07:02,112 --> 00:07:15,648
+If a discrepancy is discovered, pause that medication, preserve
+immediate care and resolve the inputs. Urgency calls for a rehearsed
+safe workflow, not abandoning identity and concentration checks.
+
+33
+00:07:15,648 --> 00:07:24,384
+A useful monograph answers why to give the drug, whether this patient
+qualifies, how to prepare it and how to know whether it helped or
+harmed.
+
+34
+00:07:24,384 --> 00:07:35,232
+Read the license-level and clinical-context headings before a dose. A
+nearby pediatric or advanced-care table is not automatically part of
+PCP authorization.
+
+35
+00:07:35,232 --> 00:07:50,952
+The school assigns six adult profiles: morphine, methoxyflurane,
+acetaminophen, ketorolac, dimenhydrinate and tranexamic acid. The next
+slides connect their mechanisms to the most important current safety
+distinctions.
+
+36
+00:07:50,952 --> 00:08:04,080
+The linked sources retain the full current reference. Classroom
+examples and mathematical exercises below never substitute for the
+complete current clinical screening or an individual authorization
+check.
+
+37
+00:08:04,080 --> 00:08:19,416
+Morphine reduces pain through opioid action but can depress breathing
+and circulation. The current BCEHS PCP listing is not general
+permission for acute-trauma IV morphine; it distinguishes palliative
+and interfacility contexts.
+
+38
+00:08:19,416 --> 00:08:36,624
+The palliative plan requires prior CliniCall or palliative-team
+discussion. Its listed adult subcutaneous range is two point five to
+five milligrams every ten to thirty minutes, with pressure and plan
+conditions and a maximum twenty milligrams per hour.
+
+39
+00:08:36,624 --> 00:08:57,720
+Interfacility direct dosing has a different maximum and requires CCP A
+consultation. Do not carry one context's route or maximum into
+another. Read contraindications including respiratory depression,
+hypotension, hypersensitivity and head injury with reduced
+consciousness, plus the MAO-inhibitor restriction.
+
+40
+00:08:57,720 --> 00:09:13,536
+Monitor pain, respiratory depth and rate, airway protection, awareness
+and pressure. Other depressants increase risk. The school dilution
+math can be practised without implying that a student may give the
+resulting syringe.
+
+41
+00:09:13,536 --> 00:09:29,736
+Methoxyflurane is a volatile inhaled analgesic with incompletely
+defined molecular action. The patient must understand, cooperate and
+self-administer under direct supervision; altered awareness or
+instability changes suitability.
+
+42
+00:09:29,736 --> 00:09:43,680
+Current adult dosing is three millilitres, with a possible repeat
+after twenty minutes and a six-millilitre total. Patient limits also
+include six millilitres in twenty-four hours and fifteen in a week.
+
+43
+00:09:43,680 --> 00:10:04,584
+Screen the full exclusions, including under eighteen, pregnancy or
+breastfeeding, impaired cooperation or consciousness, renal
+impairment, relevant anesthetic-related liver history, tetracyclines,
+malignant-hyperthermia history and muscular dystrophy. Monitor
+awareness, breathing, pressure and symptoms.
+
+44
+00:10:04,584 --> 00:10:19,656
+Attach the carbon chamber and use ventilation precautions. Current
+provider exposure is at most three doses totaling nine millilitres per
+twenty-four hours, not the school's eighteen. Excess exposure can
+cause serious renal harm.
+
+45
+00:10:19,656 --> 00:10:39,576
+Acetaminophen provides analgesia and antipyresis. Screen
+hypersensitivity, severe hepatic disease, suspected overdose, last
+dose and all-source cumulative intake. Current adult oral dosing is
+five hundred to one thousand milligrams, repeatable once after four
+hours.
+
+46
+00:10:39,576 --> 00:10:54,816
+The usual all-source daily maximum is four grams; specified liver
+dysfunction or malnutrition reduces it to two grams. Combination
+products count. A mathematical remaining allowance does not override a
+contraindication.
+
+47
+00:10:54,816 --> 00:11:13,704
+PCP intravenous use is not a universal fifteen-milligram-per-kilogram
+order. The adult table permits one gram for fifty kilograms or more;
+the adolescent table has its own age and weight wording. Under-fifty-
+kilogram IV dosing is not authorized for PCP in that table.
+
+48
+00:11:13,704 --> 00:11:31,584
+Eligible one-gram IV doses infuse over fifteen minutes. Monitor for
+hypotension; the current monograph states baseline pressure then every
+fifteen minutes three times, unlike the school's five-minute summary.
+Deterioration demands immediate reassessment.
+
+49
+00:11:31,584 --> 00:11:47,424
+Ketorolac inhibits COX pathways and can reduce pain, but may cause
+renal, gastrointestinal and bleeding harm. Current adult PCP dosing is
+ten milligrams IV or IM, repeatable after six hours if indicated.
+
+50
+00:11:47,424 --> 00:11:59,520
+The IV dose is undiluted over at least fifteen seconds; the IM dose is
+direct injection. The school's thirty-milligram adult summary is not
+the current BCEHS starting dose.
+
+51
+00:11:59,520 --> 00:12:18,216
+Current contraindications include relevant hypersensitivity, known or
+suspected renal dysfunction, concern for severe active bleeding,
+pregnancy and anticoagulant use. Severe depletion and recent NSAID use
+are listed cautions, not silently renamed absolute exclusions.
+
+52
+00:12:18,216 --> 00:12:35,304
+For ages two to eleven, the PCP table gives zero point five milligrams
+per kilogram IM with a ten-milligram maximum, not the school's
+fifteen. The ACP table includes IV; that does not grant the same
+pediatric route to PCP.
+
+53
+00:12:35,304 --> 00:12:51,288
+Dimenhydrinate has H one and anticholinergic effects. Current nausea
+indications, frail-patient dosing and age or license headings must be
+checked; the school's general antiemetic description is not a dose
+order for everyone.
+
+54
+00:12:51,288 --> 00:13:05,304
+For the school preparation example, one millilitre containing fifty
+milligrams plus nine millilitres diluent makes ten millilitres at five
+milligrams per millilitre. It does not mean the whole syringe must be
+administered.
+
+55
+00:13:05,304 --> 00:13:21,432
+At that concentration, a twelve-point-five-milligram amount occupies
+two point five millilitres. The amount must first be indicated and
+authorized. Use the current slow-administration guidance rather than
+equating syringe size with dose.
+
+56
+00:13:21,432 --> 00:13:35,592
+Watch for drowsiness, dry mouth, urinary retention, tachycardia and
+local irritation, as well as nausea response. New decreased awareness
+can interfere with airway protection and safe assessment.
+
+57
+00:13:35,592 --> 00:13:49,488
+Tranexamic acid limits fibrinolysis; it does not replace mechanical
+bleeding control or directly create a new clot. Eligibility depends on
+the actual hemorrhage context, timing and exclusions.
+
+58
+00:13:49,488 --> 00:14:03,048
+The saved school adult monograph says one gram over ten minutes, while
+its integrated case says two grams over one minute. Those are
+conflicting regimens, not two descriptions of the same preparation.
+
+59
+00:14:03,048 --> 00:14:18,576
+The checked current BCEHS adult regimen is two grams IV over one
+minute for eligible patients. Apply the complete current eligibility
+and exclusion screen and the injury-time restriction; maternal
+hemorrhage has a consultation requirement.
+
+60
+00:14:18,576 --> 00:14:34,560
+For a calculation using one hundred milligrams per millilitre, two
+thousand milligrams requires twenty millilitres. That calculation does
+not authorize IM, SC or another route, and does not settle an
+unconfirmed school exam version.
+
+61
+00:14:34,560 --> 00:14:46,752
+Pediatric handling differs with development, body composition, organ
+maturity and illness. A small adult calculation is not enough to
+establish safe pediatric treatment.
+
+62
+00:14:46,752 --> 00:14:58,512
+First verify that this drug and route are authorized at this age and
+in this clinical setting. A perfect weight-based calculation cannot
+overcome a prohibited route or patient age.
+
+63
+00:14:58,512 --> 00:15:08,520
+Calculate the amount from the approved weight basis, apply the dose
+and cumulative limits, then calculate a measurable volume using the
+actual concentration.
+
+64
+00:15:08,520 --> 00:15:22,992
+Include a developmentally appropriate explanation, caregiver
+information and baseline physiological assessment. A frightened child
+needs calm care, but distress must not obscure respiratory or
+circulatory failure.
+
+65
+00:15:22,992 --> 00:15:32,784
+Establish the dosing weight in kilograms and document whether it was
+measured, reported or estimated. Do not make an estimate look like a
+scale measurement.
+
+66
+00:15:32,784 --> 00:15:46,512
+The school emphasizes actual weight or a Broselow-type length tool.
+Use the current approved tool within its size range and instructions;
+a colour band is an estimate, not universally exact actual weight.
+
+67
+00:15:46,512 --> 00:16:00,192
+A reported forty-four pounds is about twenty kilograms, not forty-four
+kilograms. Keep conversion visible and check whether a drug needs a
+particular weight basis rather than assuming one basis fits every
+drug.
+
+68
+00:16:00,192 --> 00:16:10,152
+The checker should verify both the weight input and the computation.
+Two people multiplying the same wrong unlabelled number do not prevent
+a unit error.
+
+69
+00:16:10,152 --> 00:16:21,744
+Use a fictional training order of zero point zero eight milligrams per
+kilogram for an eighteen-kilogram patient. The kilogram units cancel,
+giving one point four four milligrams.
+
+70
+00:16:21,744 --> 00:16:34,128
+With a product of two milligrams per millilitre, divide one point four
+four milligrams by two milligrams per millilitre. Milligrams cancel
+and the result is zero point seven two millilitres.
+
+71
+00:16:34,128 --> 00:16:45,360
+Now check whether the single and cumulative maximum, route,
+concentration and measurement precision all allow that result. The
+arithmetic is only one part of the decision.
+
+72
+00:16:45,360 --> 00:16:59,544
+Reverse-check: zero point seven two millilitres times two milligrams
+per millilitre equals one point four four milligrams. A second
+calculation from original inputs should independently reach the same
+result.
+
+73
+00:16:59,544 --> 00:17:11,616
+A fictional protocol says zero point five milligrams per kilogram,
+maximum ten milligrams. For twenty-eight kilograms the uncapped
+calculation is fourteen milligrams.
+
+74
+00:17:11,616 --> 00:17:24,192
+Apply the cap before calculating volume: the allowed amount is ten
+milligrams if all other criteria are satisfied. At five milligrams per
+millilitre that occupies two millilitres.
+
+75
+00:17:24,192 --> 00:17:35,784
+A maximum is not a target that every smaller patient should receive. A
+repeat dose must also respect the cumulative limit and timing, not
+merely another single-dose cap.
+
+76
+00:17:35,784 --> 00:17:49,440
+Do not automatically carry the school's pediatric six-hundred-fifty-
+milligram acetaminophen cap into current BCEHS care; its current oral
+cumulative and IV eligibility rules differ. Identify the source
+version.
+
+77
+00:17:49,440 --> 00:18:03,168
+The school morphine example starts with ten milligrams in one
+millilitre and adds nine millilitres of compatible diluent. The drug
+amount stays ten milligrams while the final volume becomes ten
+millilitres.
+
+78
+00:18:03,168 --> 00:18:14,280
+Ten milligrams divided by ten millilitres is one milligram per
+millilitre. Adding ten millilitres instead would produce eleven
+millilitres and a different concentration.
+
+79
+00:18:14,280 --> 00:18:27,984
+For the school fictional twenty-five-kilogram dose calculation at zero
+point zero five milligrams per kilogram, the amount is one point two
+five milligrams and the prepared volume is one point two five
+millilitres.
+
+80
+00:18:27,984 --> 00:18:42,384
+This is a calculation demonstration, not a PCP pediatric morphine
+order. Label the final concentration, use appropriate measuring
+equipment and verify the actual authority before any real
+administration.
+
+81
+00:18:42,384 --> 00:18:55,248
+The school says never round up pediatric doses. Preserve that warning
+against casual upward rounding, but recognize that a mathematical
+answer may have more decimals than a syringe can measure.
+
+82
+00:18:55,248 --> 00:19:07,680
+Keep adequate precision during calculations, then use an approved
+final-dose or volume-rounding policy and equipment. Do not pretend a
+tiny unmeasurable volume was delivered exactly.
+
+83
+00:19:07,680 --> 00:19:21,960
+A standardized compatible dilution may allow safer measurement, but
+only if the actual drug, stability, route and preparation procedure
+support it. Dilution does not automatically make a wrong drug safe.
+
+84
+00:19:21,960 --> 00:19:35,496
+Use a leading zero for less than one unit and avoid an unnecessary
+trailing zero: zero point five, not point five or five point zero when
+five is intended. Say the unit every time.
+
+85
+00:19:35,496 --> 00:19:50,688
+The school calculates a twenty-millilitre-per-kilogram bolus. For
+thirty-two kilograms, the arithmetic is six hundred forty millilitres.
+That correct multiplication does not prove the whole volume should be
+given rapidly.
+
+86
+00:19:50,688 --> 00:20:04,368
+The checked D zero three pediatric guidance instead considers
+increments of five to ten millilitres per kilogram and a twenty-
+millilitre-per-kilogram limit. The cause of shock and treatment
+response still determine the plan.
+
+87
+00:20:04,368 --> 00:20:19,344
+BCEHS PCPs may not initiate cannulation under twelve. A fluid
+calculation for a younger child is therefore not permission to
+establish IV or IO access. Use the authorized care and appropriate
+support.
+
+88
+00:20:19,344 --> 00:20:34,752
+After an authorized increment, compare perfusion, pulse, mental state,
+pressure and breathing. New crackles or worsening effort may signal
+harm. Do not give repeated fluid simply to normalize every pressure
+number.
+
+89
+00:20:34,752 --> 00:20:46,608
+The regulation distinguishes category services from services requiring
+an endorsement. A possible Schedule Two service is not proof that
+every PCP currently holds that endorsement.
+
+90
+00:20:46,608 --> 00:21:01,752
+The practitioner must also meet individual restrictions, training and
+competence requirements, and the employer must operationalize the
+intervention. An employer guideline cannot by itself create a legal
+permission that does not otherwise exist.
+
+91
+00:21:01,752 --> 00:21:16,728
+The school says employers may expand scope. Read that as
+implementation within valid legal authority, not permission to exceed
+the law. Medical consultation also does not automatically remove a
+legal restriction.
+
+92
+00:21:16,728 --> 00:21:29,232
+Finally, a permitted intervention still needs an appropriate patient
+indication, valid consent or other authority and an acceptable risk-
+benefit judgment. May do does not mean must do.
+
+93
+00:21:29,232 --> 00:21:44,376
+The school calls tracheal intubation standard for PCPs in one passage.
+The Board's January twenty twenty-five statement says recognized PCP
+programs do not include it and BCEHS does not operationalize it at PCP
+level.
+
+94
+00:21:44,376 --> 00:21:56,760
+A listed possible endorsement and an actual recognized pathway are
+different. Do not infer that passing an entry-level exam grants the
+intervention or the sedation medications needed for it.
+
+95
+00:21:56,760 --> 00:22:11,400
+For ipratropium, the current public monograph names PCP severe
+bronchospasm and pediatric consultation. It does not independently
+verify the school's universal claim about an ePCR-profile endorsement
+display.
+
+96
+00:22:11,400 --> 00:22:23,784
+Verify the actual licence, required education and employer status
+rather than inventing their contents. Keep a school claim marked
+unconfirmed if the complete policy is not accessible.
+
+97
+00:22:23,784 --> 00:22:39,720
+Current PCP intranasal ketamine requires the specified flight-training
+and endorsement pathway plus prior consultation. The monograph
+excludes age under five, rather than merely requiring a consult below
+two as the school matrix says.
+
+98
+00:22:39,720 --> 00:22:52,608
+Current glucagon listings include FR and EMR hypoglycemia contexts
+with age conditions. That clinical listing still does not prove an
+individual has completed required training or endorsements.
+
+99
+00:22:52,608 --> 00:23:05,592
+Hydromorphone PCP use is linked to palliative or end-of-life pain and
+a prior CliniCall or palliative-team dosing plan. Do not convert this
+into general permission for acute-trauma opioid treatment.
+
+100
+00:23:05,592 --> 00:23:22,152
+The school describes a licensing-exam nitroglycerin update. The
+checked current BCEHS EMR and PCP monograph still lists heart rate
+below fifty or above one hundred fifty. Distinguish the versions and
+verify every other contraindication too.
+
+101
+00:23:22,152 --> 00:23:35,880
+The school abbreviates PCP IO to a tibial site, two attempts and
+hypovolemic arrest. Current PR twelve also specifies training and the
+age-twelve-or-older condition for the independent pathway.
+
+102
+00:23:35,880 --> 00:23:48,096
+The reference includes an on-scene ACP-or-higher supervision
+alternative. Do not omit that alternative, but do not use it to erase
+the stated prohibition on PCP cannulation under twelve.
+
+103
+00:23:48,096 --> 00:23:59,688
+The tibia is the approved PCP site, and attempts are two collectively
+per patient, not two per limb or per provider. Do not recannulate a
+failed or dislodged site.
+
+104
+00:23:59,688 --> 00:24:12,408
+IO attempts must not detract from effective CPR, airway management or
+defibrillation. These scope distinctions are preparation for
+supervised skills, not a claim of competence from watching slides.
+
+105
+00:24:12,408 --> 00:24:28,440
+A fifty-six-year-old worker is injured by a moving industrial panel.
+There is major forearm bleeding, pallor and confusion. The equipment
+has not yet been isolated. This is an original teaching case, not the
+school's assessed case.
+
+106
+00:24:28,440 --> 00:24:40,800
+Observe the mechanical hazard and arrange safe access before contact.
+Delegate bleeding control with the indicated trained method while the
+team assesses airway, breathing and perfusion.
+
+107
+00:24:40,800 --> 00:24:53,112
+Prevent heat loss, arrange urgent appropriate transport and request
+additional help. Do not delay these actions while one person reads
+every drug card or attempts an unnecessary line.
+
+108
+00:24:53,112 --> 00:25:07,992
+A medication plan now needs actual vital signs, injury timing,
+contraindications and individual authority. Pain does not
+automatically make morphine appropriate, and giving TXA does not prove
+bleeding is controlled.
+
+109
+00:25:07,992 --> 00:25:22,608
+Assume the instructor confirms adult TXA eligibility and the current
+two-gram IV plan for this practice. The product is one hundred
+milligrams per millilitre. State two grams equals two thousand
+milligrams.
+
+110
+00:25:22,608 --> 00:25:36,720
+Divide two thousand milligrams by one hundred milligrams per
+millilitre to get twenty millilitres. An independent checker verifies
+the patient, regimen, container and calculation before the preparation
+is connected.
+
+111
+00:25:36,720 --> 00:25:51,480
+The school also practises five-hundred-millilitre adult fluid
+increments and a limited-pressure trauma strategy. Do not turn that
+into a universal target: head, spinal and other shock contexts may
+require different plans.
+
+112
+00:25:51,480 --> 00:26:03,984
+State the treatment goal and reassess after each authorized increment.
+A palpable radial pulse is not a measured pressure and does not by
+itself prove adequate organ perfusion.
+
+113
+00:26:03,984 --> 00:26:17,040
+During movement the patient becomes quieter, breaths become shallower
+and pressure falls. Stop treating the first written plan as fixed.
+Return to immediate assessment and support failed functions.
+
+114
+00:26:17,040 --> 00:26:28,608
+Recheck hemorrhage control and the vascular site, look for hidden
+injury and confirm what medications and volumes were actually
+administered. One deterioration can have more than one cause.
+
+115
+00:26:28,608 --> 00:26:43,224
+If a sedating medicine was given, assess its contribution without
+assuming it explains every finding. A new rash with airway or
+circulatory compromise needs the relevant reaction pathway, not just a
+label of side effect.
+
+116
+00:26:43,224 --> 00:26:55,536
+Communicate the change, request appropriate help and revise the
+transport and treatment plan. Record before-and-after data so the
+receiving clinician can follow what changed and when.
+
+117
+00:26:55,536 --> 00:27:07,368
+Transfer the indication and relevant allergy or risk information, then
+every actual dose and its time. Saying that pain medicine was given is
+not enough to prevent duplication.
+
+118
+00:27:07,368 --> 00:27:19,488
+Use both drug amount and relevant concentration or volume when needed
+for verification, with units. Clearly identify an infusion that is
+still running and its rate and remaining contents.
+
+119
+00:27:19,488 --> 00:27:32,136
+State the response with measured times, including any adverse effect
+and action taken. An uncompleted medication or prepared-but-not-given
+syringe must not be reported as administered.
+
+120
+00:27:32,136 --> 00:27:45,864
+The receiving clinician needs cumulative intake, last dose, unresolved
+symptoms and the next restriction, not just a reassuring final
+snapshot. Confirm that responsibility has actually transferred.
+
+121
+00:27:45,864 --> 00:27:58,464
+Without notes, explain why dose accuracy, clinical suitability and
+authorization are three different requirements. Give an example in
+which the arithmetic is right but the treatment is not permitted.
+
+122
+00:27:58,464 --> 00:28:09,336
+Complete the original calculation exercises and reverse-check the
+units. Identify which school dose statements conflict internally or
+with the checked current service source.
+
+123
+00:28:09,336 --> 00:28:24,000
+In a supervised rehearsal, speak the medication check, label the
+preparation and ask the checker to use original inputs. Then say the
+expected effect, adverse warnings and reassessment plan before giving
+anything.
+
+124
+00:28:24,000 --> 00:28:35,880
+The reading view provides the calculation chain, discrepancy ledger
+and an original blank safety worksheet. It is not a school assessment
+answer or the official medication-competency sign-off.

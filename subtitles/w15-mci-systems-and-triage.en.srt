@@ -1,0 +1,497 @@
+1
+00:00:00,000 --> 00:00:19,320
+The saved Week 15 plan asks you to connect incident systems, rapid
+triage, radio communication, changing patient priorities and an
+ethical debrief. The goal is not to memorize colors in isolation; it
+is to keep a shared plan functioning as the patient count and
+available resources change.
+
+2
+00:00:19,320 --> 00:00:42,552
+The opened AET nine A lesson actually teaches Transport Logistics and
+Flight Physiology; that content has its own course lesson. Moodle
+labels the link as MCI, so the label and opened body differ. Here, the
+six-section MCI Response module is a topic-matched support source, not
+a claim that an additional nine A MCI body was recovered.
+
+3
+00:00:42,552 --> 00:00:59,472
+A mass casualty incident is not defined only by a large number. BCEHS
+describes an MCI as a situation in which the initial response becomes
+overwhelmed; the relevant question is whether the resources on hand
+can manage the number and needs of patients.
+
+4
+00:00:59,472 --> 00:01:17,136
+A small rural collision may exceed one crew’s capacity, while a larger
+event in a well-resourced area may initially be manageable. The answer
+can change as more ambulances arrive, patients are found, hazards
+emerge or hospitals report reduced capacity.
+
+5
+00:01:17,136 --> 00:01:34,200
+Think of the incident as several linked flows: information moves to
+command, patients move toward safe extraction and care, and units move
+only after receiving an assignment. A blockage in any one flow can
+create a queue or leave a patient untracked.
+
+6
+00:01:34,200 --> 00:01:46,080
+Your task is to keep those flows visible. Do not improve one local
+measure, such as rapid tagging, by sending people into an unsafe area
+or creating an unreported transport route.
+
+7
+00:01:46,080 --> 00:02:03,456
+The school index retains the A05 assignment. BCEHS now redirects A05
+mass-casualty material to its Major Incident Management section, so
+the current role information and posted START/JumpSTART job aids are
+the operational reference used here.
+
+8
+00:02:03,456 --> 00:02:22,632
+The AET course introduces useful concepts, but some older generic
+triage descriptions differ from the current local card. For practice,
+follow the exact BC tool and its 30-second target. Do not combine
+thresholds or actions from multiple systems because they look
+familiar.
+
+9
+00:02:22,632 --> 00:02:40,392
+The current BCEHS MCI page names an Incident Commander and a Triage
+Leader. The commander maintains the overall link with the
+communication centre; the triage leader uses the approved tool and
+reports the casualty picture while coordinating movement toward the
+ambulance extraction point.
+
+10
+00:02:40,392 --> 00:02:57,072
+A later ambulance checks in before receiving an assignment. Depending
+on the incident, command may assign treatment, transport, scribe or
+another function. These are tasks in a response plan, not roles to
+claim because you arrived first or prefer them.
+
+11
+00:02:57,072 --> 00:03:25,344
+METHANE begins with whether a major incident has been declared: yes or
+no. If not, the BCEHS aid calls for an ETHANE report. The remaining
+fields are exact location, type of incident, hazards, access and
+egress, number and condition of casualties, and emergency services
+present or required. State declaration status truthfully within your
+assigned role, and identify estimates and unknowns.
+
+12
+00:03:25,344 --> 00:03:40,368
+A report is not a polished narrative. State what is known, what is
+unknown and what would change the plan. Update after a hazard shift,
+new patient group, access problem or material change in available
+transport.
+
+13
+00:03:40,368 --> 00:03:53,184
+The purpose of check-in is to prevent a second crew from entering,
+parking or treating independently of the common plan. Confirm where to
+stage, whom to report to and which task you own before starting.
+
+14
+00:03:53,184 --> 00:04:09,888
+When command or a function changes hands, summarize current hazards,
+patient count, work in progress, resource limits and unresolved
+decisions. The incoming person confirms the transfer; the team is then
+told which reporting line applies.
+
+15
+00:04:09,888 --> 00:04:24,696
+The triage leader’s current BCEHS function includes prioritizing
+patients and coordinating movement from the incident area to the
+ambulance extraction point. The triage pass is brief; treatment and
+transport functions follow the incident plan.
+
+16
+00:04:24,696 --> 00:04:40,416
+Do not turn the first pass into a long head-to-toe exam, an unapproved
+intervention or a transport destination decision made alone. A
+category communicates priority; it does not replace a secondary
+assessment by the appropriate role.
+
+17
+00:04:40,416 --> 00:04:57,384
+For an adult who can walk on command and has no major injury
+identified in that brief sort, use the Minor branch and follow the
+plan for that group. Walking is a rapid branch, not a guarantee of
+health or permission to assign the patient an unsupervised task.
+
+18
+00:04:57,384 --> 00:05:21,480
+For a non-walker, check breathing. If absent, position the airway as
+the current card specifies: persistent apnea is tagged Deceased;
+breathing that begins is Immediate. If breathing is present, follow
+the posted sequence: rate, radial pulse, then simple-command response.
+Do not add capillary refill or other thresholds to this card.
+
+19
+00:05:21,480 --> 00:05:38,832
+The test is whether you can name the first decisive branch, not
+whether you can collect every possible observation. Once a patient
+meets an Immediate criterion, mark and move on according to the role
+and plan; do not spend the remaining 30 seconds proving the same
+category again.
+
+20
+00:05:38,832 --> 00:05:54,024
+If the observed information does not fit the card or you cannot safely
+interpret it, say so, follow the local escalation process and obtain
+the next authorized decision. Do not silently substitute an algorithm
+you remember from another course.
+
+21
+00:05:54,024 --> 00:06:19,320
+The school plan explicitly names JumpSTART for the bus-crash scenario.
+Use the current pediatric card. When spontaneous breathing is absent,
+position the airway first. If breathing resumes, assign Immediate. If
+apnea persists, check for a pulse. The five rescue breaths apply only
+to that persistent-apnea branch with a palpable pulse, followed by a
+respiratory recheck.
+
+22
+00:06:19,320 --> 00:06:36,264
+The current chart uses respiratory-rate bounds of 15 to 45 per minute
+and AVPU-only neurologic sorting in the relevant branch. Follow the
+graphic in order; do not use adult rate thresholds, a full GCS or a
+remembered age cut-off as a substitute.
+
+23
+00:06:36,264 --> 00:06:51,792
+The five-breath step is a specific JumpSTART branch, not a general
+permission to delay response for all children. It is not an adult
+START step. The local chart, training, assigned role and available
+equipment govern how the branch is performed.
+
+24
+00:06:51,792 --> 00:07:09,600
+If a child cannot walk because of developmental stage or disability,
+do not mistake inability to walk for a triage category by itself.
+Follow the tool and incident plan, including appropriate secondary
+review for a child who cannot communicate or manage basic needs.
+
+25
+00:07:09,600 --> 00:07:22,800
+A rapid category is not a definitive diagnosis, prognosis or promise
+of transport order. It communicates a priority under a particular
+patient picture, tool and resource situation.
+
+26
+00:07:22,800 --> 00:07:39,168
+Different systems use different words, colors or criteria. The current
+BCEHS charts use the labels shown on those charts. Do not translate a
+local Deceased label into an unverified “expectant” policy or infer
+that a patient should be abandoned.
+
+27
+00:07:39,168 --> 00:07:57,360
+The AET learning body discusses MARCH and lists examples of airway,
+breathing, circulation and warming actions. That is broader than the
+current BCEHS START decision chart. It is not a direction to perform
+every listed action on every patient during a primary triage pass.
+
+28
+00:07:57,360 --> 00:08:18,672
+BCEHS describes immediate lifesaving interventions in the triage role
+as brief, with the current job aid setting a less-than-30-second
+target. Use only the action that the posted tool and your authorized
+training permit. The triage label must not be delayed by routine care
+or by copying a checklist from a different course.
+
+29
+00:08:18,672 --> 00:08:33,864
+A patient marked Delayed who develops faster breathing, absent radial
+pulse or inability to follow commands may enter a different branch.
+The correct response is a fresh assessment using the assigned tool,
+not a defense of the first tag.
+
+30
+00:08:33,864 --> 00:08:47,808
+Reassess after a meaningful patient change, new information or a
+change in access, staffing or transport capacity. Keep the update
+connected to the patient identifier, destination and current
+responsible role.
+
+31
+00:08:47,808 --> 00:09:01,296
+The tag and tracking method may be paper, a numbered triage device or
+an approved digital system. Use what the incident plan supplies; do
+not invent a parallel list that cannot be reconciled with command.
+
+32
+00:09:01,296 --> 00:09:17,712
+At every handoff, keep the patient identifier, current priority,
+movement, transport unit and receiving destination connected. When
+information is uncertain, state who provided it and whether it is
+observed, measured or estimated.
+
+33
+00:09:17,712 --> 00:09:35,568
+The current BCEHS Transport Lead job aid emphasizes ambulance access
+and egress, patients ready for transport, destination capacity,
+departing-unit records and avoiding ambulance stacking. Those tasks
+make patient flow safer and help keep the response capacity visible.
+
+34
+00:09:35,568 --> 00:09:49,512
+Do not send every patient to the closest emergency department or let
+an individual crew self-select a destination. Follow the assigned
+transport plan and communicate a new capacity problem before it
+creates a queue.
+
+35
+00:09:49,512 --> 00:10:10,800
+The A&P reading asks you to connect homeostasis and feedback with
+triage. A negative-feedback loop uses a response to reduce a
+disturbance, while positive feedback can amplify a change. In an
+incident, the analogy is that the system observes new information,
+takes an authorized action and checks whether the picture improved.
+
+36
+00:10:10,800 --> 00:10:25,896
+This is a thinking aid, not a physiologic diagnosis and not a
+replacement for START. A fast-moving crowd, missing ambulance or
+deteriorating patient is a new input; the response is to update the
+shared plan and assess again.
+
+37
+00:10:25,896 --> 00:10:43,464
+MCI triage can create moral distress because available help may not
+match every person’s need. The response is not to improvise a private
+ranking system. Use the incident’s approved tool, report what it
+cannot resolve and request the appropriate clinical or command
+decision.
+
+38
+00:10:43,464 --> 00:11:00,144
+The school’s “greatest good” discussion should not be reduced to a
+slogan. Fairness requires clear criteria, consistent use,
+communication and re-evaluation; an assigned category does not
+describe a person’s value or make uncertainty disappear.
+
+39
+00:11:00,144 --> 00:11:16,272
+Stress, fatigue, family connections and visual chaos can narrow
+attention. A short pause to state the branch, a second-person read-
+back and an announced count can reduce avoidable drift without turning
+triage into a long examination.
+
+40
+00:11:16,272 --> 00:11:32,208
+A difficult emotional reaction is not proof of poor character or
+incompetence. Use the planned debrief and voluntary support pathways;
+do not promise that a single debrief prevents later distress or
+require disclosure of personal details.
+
+41
+00:11:32,208 --> 00:11:46,152
+The AET module discusses limited evidence, human factors and the risk
+of both over-triage and under-triage. Avoid teaching unsupported
+performance statistics or claiming one tool is universally superior.
+
+42
+00:11:46,152 --> 00:12:03,048
+A rapid system is useful only when responders know the exact version,
+training and escalation path. When conditions are dynamic or the tool
+does not fit, use the applicable operational plan and ask for
+direction rather than silently editing the decision rule.
+
+43
+00:12:03,048 --> 00:12:20,760
+The school plan asks for rapid triage tags and an ICS radio report on
+Saturday, followed by a more complex Sunday simulation with multiple
+vehicles, changing priorities and command rotation. Practise the
+published 30-second target while respecting the exact local card.
+
+44
+00:12:20,760 --> 00:12:32,592
+The course can prepare your reasoning and language, but it cannot
+demonstrate your hands-on skill, certify your triage tags or
+substitute for the school instructor’s current station instructions.
+
+45
+00:12:32,592 --> 00:12:44,952
+Teach the adult and pediatric algorithms separately from memory, then
+check yourself against the actual current charts. If a threshold or
+label differs, correct your notes before the weekend station.
+
+46
+00:12:44,952 --> 00:13:00,288
+For every patient, connect the tag to a responsible role and a next
+step. For every system change, say who needs the update. This is the
+difference between memorizing a triage chart and helping an MCI
+response work.
+
+47
+00:13:00,288 --> 00:13:30,000
+Imagine several injured people outside a community venue, with
+restricted ambulance access. You have an assigned role, not unlimited
+permission to take over. Primary triage creates a temporary priority;
+the incident report describes current demand and access. Later, a
+patient becomes confused and the intended movement route becomes
+slippery. Keep those changes separate, then identify who needs each
+update and what action cannot safely wait.
+
+48
+00:13:30,000 --> 00:14:01,224
+The reading workshop supplies the complete connected explanations,
+including research, regulation, transfers, recovery and leadership.
+Use them to justify this case rather than memorize eleven unrelated
+summaries. The physiology reading explains regulation; the clinical
+readings test possible causes; the operational tools organize action;
+the professional readings help the team deliver and evaluate it. None
+replaces the actual adult or pediatric triage chart.
+
+49
+00:14:01,224 --> 00:14:30,264
+Negative feedback opposes a disturbance, but compensation does not
+prove that the injury or illness has resolved. A confused patient with
+a high blood-pressure reading still needs assessment of neurologic
+findings, breathing, perfusion and the time course. Hypertensive
+emergency concerns acute organ injury, not the number alone. Consider
+other threats rather than deciding that every new mental-status change
+is hypertensive encephalopathy.
+
+50
+00:14:30,264 --> 00:14:59,448
+Choose measurements to answer the next clinical question without
+postponing immediate care. Explain the technique and relevant
+position, timing or equipment differences when reporting a repeat
+value. The pain reading adds onset, provocation, quality, region,
+severity, timing, treatment and the patient's understanding. A pain
+scale supports that history; it neither proves a cause nor replaces
+the patient's account or current observations.
+
+51
+00:14:59,448 --> 00:15:30,048
+The literal CPSC pages concern transfers: assess the patient's
+ability, restrictions and tolerance, then choose trained assistance
+and appropriate equipment. A slow route is a resource problem, not
+permission for an improvised lift. Clear the path, agree who leads the
+movement, secure and use equipment as trained, and maintain
+communication. Do not transplant a hospital transfer checklist into
+ambulance equipment without checking the actual procedure.
+
+52
+00:15:30,048 --> 00:16:01,632
+The separately named fall section adds environmental and individual
+risk reduction. Wet ground, fatigue, cables, confusion and changing
+mobility can alter the plan. If a fall occurs, reassess and obtain
+appropriate help before continuing; do not automatically lift the
+patient straight back up. A controlled lowering technique requires
+training and situational judgment. Report a near miss as useful system
+information, not as proof that a team member is careless.
+
+53
+00:16:01,632 --> 00:16:41,400
+The full emergency-care chapter extends beyond triage. In this case,
+ask whether confusion could reflect an injury, oxygenation or
+perfusion problem, toxic exposure or another medical cause before
+assigning a behavioral explanation. In poisoning, support immediate
+threats and seek substance-specific guidance. Do not induce vomiting
+or assume charcoal is suitable for every ingestion. Do not transfer an
+acetaminophen antidote to salicylate poisoning, or use a
+benzodiazepine reversal drug automatically for sedation. The reader
+names and explains these medication distinctions.
+
+54
+00:16:41,400 --> 00:17:15,864
+Reassess deterioration even when an earlier tag looked reassuring.
+Distal pulses do not exclude compartment syndrome, and a remembered
+time window is not a reason to defer escalation. With suspected opioid
+toxicity, breathing and ventilation matter more than a pupil shortcut.
+For a distressed or assaulted patient, use safety, consent, privacy,
+supportive communication and appropriate referral; preserve options
+without imposing a universal forensic deadline or an automatic
+psychiatric diagnosis.
+
+55
+00:17:15,864 --> 00:17:46,920
+A delegation label does not remove accountability or give the
+recipient a new scope. Check the task, circumstance, person, direction
+and supervision. Is the recipient trained, available and equipped now?
+State the patient and task, the concern, the limit and when to report
+back. The receiver repeats the assignment, and the sender confirms or
+corrects it. A message sent is not proof of understanding, completed
+care or an accepted handover.
+
+56
+00:17:46,920 --> 00:18:20,328
+Interprofessional roles contribute different expertise. A transfer
+concern may need equipment expertise; a communication barrier may need
+an interpreter; ongoing distress may need a supported referral. Keep
+the incident reporting structure while welcoming those contributions.
+A structured clinical handover names the situation, relevant
+background, assessment and requested next step. Confirm who now holds
+the task rather than assuming that proximity or an electronic entry
+transfers responsibility.
+
+57
+00:18:20,328 --> 00:18:56,136
+The pharmacology chapter explains United States medication-law history
+and the opening ethical principle of autonomy. Learn that context
+without treating a United States rule as British Columbia permission.
+For an actual task, check legal authority, service direction and
+available resources, and whether you are trained and currently
+competent. Record what was assessed and done, the response and
+unresolved concern. An information system can share data, but it
+cannot make an inaccurate entry true or replace a required live
+escalation.
+
+58
+00:18:56,136 --> 00:19:27,360
+The mental-health reading extends care into rehabilitation, recovery,
+discharge and community support. Ask what matters to the person, what
+help is feasible and who has accepted follow-up. Recovery includes
+health, home, purpose and community, not only symptom removal. An
+online option may improve access but still requires privacy,
+suitability and an escalation plan. Do not promise a service,
+appointment or destination that has not been confirmed.
+
+59
+00:19:27,360 --> 00:20:02,856
+Evidence-based practice combines the best available evidence, clinical
+expertise and the patient's situation and preferences. A hierarchy
+helps assess a design, but a high label or a small p-value does not
+prove that an answer fits this patient. Shared decision-making
+explains options and checks understanding. A care bundle groups
+evidence-based actions. A bundle score can require every element to be
+present. That scoring rule does not authorize ignoring a
+contraindication or importing an outdated hospital intervention into
+field care.
+
+60
+00:20:02,856 --> 00:20:32,928
+After the exercise, define the observed problem precisely. Was a route
+hazard unreported, a task not understood or a reassessment missed? An
+error can occur without harm; an adverse outcome does not by itself
+prove an error. Use a small planned improvement, observe the result
+and adjust. Distinguish having equipment, following a process and
+improving a patient outcome. Those are related measures, not
+interchangeable evidence of success.
+
+61
+00:20:32,928 --> 00:21:06,744
+Leadership is not one personality or a universally best style. An
+urgent threat may require clear direction; planning and improvement
+benefit from informed participation. The leader explains the goal,
+makes safe escalation possible and checks that actual capacity matches
+the assignment. A brief sets roles and risks, a huddle adapts to
+change, and a debrief examines what actually happened. Psychological
+safety supports speaking up. Professional standards and the command
+structure still apply.
+
+62
+00:21:06,744 --> 00:21:36,312
+Finish this case with an observable improvement and a named owner: for
+example, confirm the movement route before dispatching the next team
+and check whether the change worked. Offer support after a demanding
+event while preserving privacy. The leadership chapter also
+distinguishes management functions, planned change, mentoring and
+credentials. Learn those distinctions in the reader; neither a
+leadership certificate nor this course gives a PCP additional clinical
+authority.

@@ -1,0 +1,198 @@
+1
+00:00:00,000 --> 00:00:14,784
+The school plan names a 220-kilogram adult on a third floor with
+symptomatic bradycardia. Treat that as a scenario brief, not as enough
+information to choose a treatment or assume the patient must be moved
+immediately.
+
+2
+00:00:14,784 --> 00:00:33,480
+Your first task is to recognize immediate threats, obtain an accurate
+picture of the patient, request the right level of help and
+communicate uncertainty. Apply the current authorized pathway and
+instructor direction; this rehearsal supplies no medication dose or
+independent treatment order.
+
+3
+00:00:33,480 --> 00:00:48,576
+Say “the patient who weighs 220 kilograms” or use the patient’s
+preferred language, rather than using weight as the person’s identity.
+Explain why a measurement or movement is being considered and ask
+permission where appropriate.
+
+4
+00:00:48,576 --> 00:01:03,936
+Dignity and safety are compatible. Discuss staffing and equipment
+needs privately and matter-of-factly; do not promise a transfer method
+until the actual load limits, patient condition, trained personnel and
+route are confirmed.
+
+5
+00:01:03,936 --> 00:01:18,000
+A slow pulse on a screen is a finding, not a complete diagnosis.
+Confirm the signal and compare it with the patient’s presentation,
+pulse quality, symptoms, mental status and other available
+measurements.
+
+6
+00:01:18,000 --> 00:01:34,608
+Use the current PCP pathway and monitor instructions for the
+assessment and any intervention. If the patient deteriorates or falls
+outside your authorization, escalate promptly and communicate what
+changed rather than improvising a medication plan.
+
+7
+00:01:34,608 --> 00:01:58,632
+The school brief names symptomatic bradycardia but does not provide a
+rhythm strip, blood pressure, drug history or a completed examination.
+Obtain those findings in the actual station rather than inventing
+them. Connect rate with stroke volume and perfusion, and describe the
+evidence that makes the situation urgent instead of assuming that one
+rate value defines stability.
+
+8
+00:01:58,632 --> 00:02:22,584
+Use the CV and A&P routes to explain competing mechanisms, then use
+current authorized assessment and escalation for the actual
+presentation. A conduction finding, a medication effect and an
+ischaemic problem can overlap. Do not manufacture an ECG diagnosis, a
+pacing indication or a drug order from this short educational brief.
+
+9
+00:02:22,584 --> 00:02:47,880
+Ask what the patient actually took and when, including OTC and
+complementary products, rather than copying an old medicine list. A
+nodal-slowing drug, pressure treatment or sedating exposure may
+matter, but the case brief does not establish any of them. Treat these
+as questions and competing explanations until the patient, packaging
+or another reliable source supplies the facts.
+
+10
+00:02:47,880 --> 00:03:12,096
+The PHARM routes connect target, intended effect, accumulation,
+interaction and adverse response. They do not authorize stopping
+chronic therapy or giving a reversal medicine on suspicion alone. Keep
+immediate patient support, current service direction and consultation
+ahead of a speculative interaction story, and communicate the exposure
+timeline with its uncertainty.
+
+11
+00:03:12,096 --> 00:03:25,560
+For blood pressure, use the manufacturer’s cuff range and the actual
+measured arm circumference; do not assume that the largest available
+cuff fits. Poor fit or placement can make a number misleading.
+
+12
+00:03:25,560 --> 00:03:44,592
+For oxygen saturation, assess signal quality and whether the
+measurement makes sense alongside the patient’s presentation. If the
+usual site is unsuitable, use an alternate site only when the specific
+probe instructions and service guidance approve it; record the site
+and any limitation.
+
+13
+00:03:44,592 --> 00:04:08,280
+For an original variation, suppose a repeated pressure looks better
+while the patient becomes less responsive. This variation is not an
+extra fact from the school case. Check whether the measurement methods
+are comparable, but do not let the improved number overrule the
+deteriorating patient. Reassess immediate threats and communicate the
+new concern through the actual pathway.
+
+14
+00:04:08,280 --> 00:04:29,184
+FON helps you update the hypothesis when new cues appear, and MSN asks
+whether the expected outcome actually occurred. State what improved,
+what worsened, what is still unknown and what you will reassess next.
+Do not automatically repeat a previous action or declare success
+because one task was completed.
+
+15
+00:04:29,184 --> 00:04:44,760
+The school specifically expects you to plan equipment capacity,
+staffing and the exit route before movement. Include the entire
+system—device, accessories, attachment points, surface and the
+route—not just a label on one stretcher.
+
+16
+00:04:44,760 --> 00:05:02,304
+A third-floor route adds stairs, turns, door widths, landings and
+limited ability to stop. If capacity, trained staff or a safe route is
+uncertain, pause, protect the patient and request the appropriate
+resources instead of attempting an improvised lift.
+
+17
+00:05:02,304 --> 00:05:27,336
+Before committing to the third-floor move, reconcile the patient’s
+current needs with the route, trained assistance and the complete
+equipment system. The patient weighs two hundred twenty kilograms, but
+safe capacity is not established by adding helpers or checking only
+one device. Explain the plan respectfully, preserve dignity and
+arrange the resources the actual situation requires.
+
+18
+00:05:27,336 --> 00:05:47,904
+Use a receiver check-back so the person assigned a task states what
+they understood, and confirm that understanding before movement. Agree
+who watches the patient, what change stops the move and how the team
+will respond. A perfect equipment plan that loses airway access or
+misses deterioration is not a complete patient plan.
+
+19
+00:05:47,904 --> 00:06:02,280
+The saved plan says the second case should be personalized from an
+individual Appendix G weakness. Because the official form was not in
+the saved materials, this lesson cannot know or invent the learner’s
+actual priority.
+
+20
+00:06:02,280 --> 00:06:17,856
+Once the instructor or learner has the real priority, turn it into one
+observable behavior and practise it in a short original case. Change
+one cue on the next run so the learner must transfer the skill instead
+of memorizing a script.
+
+21
+00:06:17,856 --> 00:06:42,624
+The second school case is based on the learner’s actual gap; no such
+individual record is available here. Select the relevant reading only
+after identifying the observed weakness. If the difficulty involves
+communication, use the PMHN case method: describe the words and
+behaviour, ask one open question, listen and check meaning without
+assigning a stigmatizing label.
+
+22
+00:06:42,624 --> 00:07:05,952
+Psychiatric history does not exclude a simultaneous medical cause of
+altered behaviour or consciousness. Continue indicated assessment and
+report objective changes alongside the patient’s account. Change one
+case cue at a time and observe whether the targeted behaviour
+transfers, rather than calling a generic scenario a personalized
+remediation plan.
+
+23
+00:07:05,952 --> 00:07:22,368
+The school plan asks for one or two system scenarios, extensive
+documentation and a formal handover. Follow the actual station brief;
+do not add hidden scoring rules or assume that a provincial licensing
+standard is the school’s standard.
+
+24
+00:07:22,368 --> 00:07:37,488
+In the debrief, separate the observed action from the interpretation.
+For example: “The repeat value was not stated in the handover” is
+observable; “I am bad at communication” is a broad judgment that does
+not identify a drill.
+
+25
+00:07:37,488 --> 00:07:50,736
+A useful record distinguishes the patient’s report, your direct
+observation, monitor data and information from another source. Include
+the timing and response associated with each important action.
+
+26
+00:07:50,736 --> 00:08:08,688
+Keep the verbal handover concise but complete enough to support
+continuity: who the patient is, why care is needed, what changed, what
+was done, what response followed and what remains unresolved. Use the
+current service format and confirm transfer of responsibility.

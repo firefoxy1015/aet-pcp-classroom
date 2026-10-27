@@ -1,0 +1,828 @@
+1
+00:00:00,000 --> 00:00:17,952
+The Week Five outline explicitly includes a LUCAS practical. This
+lesson uses all seven saved sections of the matching AET supplement,
+including its glossary and readiness material. The supplement entry
+itself has topic-matched, not explicit-directory, placement.
+
+2
+00:00:17,952 --> 00:00:30,960
+The aim is to select and integrate mechanical support without losing
+useful CPR, correct positioning or patient assessment. Simply getting
+the machine onto a manikin is not the whole school objective.
+
+3
+00:00:30,960 --> 00:00:45,192
+Official LUCAS Three version three point one instructions were checked
+for the relevant procedures and figures. Actual school version, setup
+options and hands-on checkoff still require the instructor and
+training unit.
+
+4
+00:00:45,192 --> 00:00:59,568
+School wording, manufacturer instructions and service permission are
+kept distinct. A device lesson does not automatically authorize a PCP
+to deploy a device that the current service procedure headings
+allocate to advanced crews.
+
+5
+00:00:59,568 --> 00:01:11,976
+Manual compression quality can deteriorate with fatigue, awkward
+positioning or movement. A suitable device can reduce some of those
+logistical problems and free attention for other essential tasks.
+
+6
+00:01:11,976 --> 00:01:25,536
+However, a machine can be misplaced, can fail and can consume valuable
+treatment time during application. It is not accurate to describe its
+compressions as flawless or its circulation as guaranteed.
+
+7
+00:01:25,536 --> 00:01:40,368
+Current AHA adult guidance does not recommend routine mechanical CPR
+for every arrest. It allows consideration in selected settings where
+effective manual compressions are difficult or dangerous, with strict
+interruption control.
+
+8
+00:01:40,368 --> 00:01:53,232
+Therefore explain the specific problem this deployment solves. Device
+availability alone is not the indication, and mechanical support is
+not a reason to abandon manual CPR competence or renewal.
+
+9
+00:01:53,232 --> 00:02:05,760
+Coronary perfusion pressure describes the driving pressure for
+myocardial blood flow. During CPR it is commonly considered as the
+difference between aortic and right atrial pressure during relaxation.
+
+10
+00:02:05,760 --> 00:02:17,640
+That explains why recoil, adequate depth and short interruptions
+matter. It does not mean that a routine noninvasive cuff or ETCO2
+display directly measures this gradient.
+
+11
+00:02:17,640 --> 00:02:30,936
+The school uses numerical examples for pressure and rebuilding after a
+pause. Treat them as physiology illustrations, not a universally
+measured minimum that proves this individual will achieve ROSC.
+
+12
+00:02:30,936 --> 00:02:44,808
+The practical consequence is to minimize avoidable no-flow and observe
+actual performance. A piston moving at a regular rate cannot by itself
+establish that the myocardium or brain is receiving sufficient blood.
+
+13
+00:02:44,808 --> 00:02:59,976
+The saved school material teaches broad device knowledge. Current
+public PR31 has an ACP-and-above applicability heading and selected
+nontraumatic medical-arrest situations. Those facts must remain
+visible together.
+
+14
+00:02:59,976 --> 00:03:12,624
+Manufacturer personnel recommendations also require CPR competence and
+specific LUCAS training. Reading this slide is neither the complete
+instructions nor a practical performance evaluation.
+
+15
+00:03:12,624 --> 00:03:24,624
+A school instructor can supervise the required laboratory
+demonstration while explaining the later service boundary. Do not
+relabel a supervised learner exercise as independent field permission.
+
+16
+00:03:24,624 --> 00:03:39,768
+If an existing device accompanies a patient, confirm the actual
+trained personnel, transport plan and local requirements. The
+existence of the device does not automatically make any receiving crew
+competent or authorized to operate it.
+
+17
+00:03:39,768 --> 00:03:53,328
+The manufacturer intended population is an adult in circulatory arrest
+where external compressions are expected to help. Confirm the clinical
+indication and the more specific service selection before applying the
+frame.
+
+18
+00:03:53,328 --> 00:04:09,984
+For a too-small fit, the specified three quick signals and inability
+to enter the required operating state mean manual CPR must resume. The
+school seventeen-centimeter reference concerns chest fit, not the
+patient standing height or sternum length.
+
+19
+00:04:09,984 --> 00:04:23,136
+For a too-large fit, do not press the frame down onto the chest merely
+to engage the locks. Body weight alone is not the manufacturer fit
+test; correct safe placement and closure are what matter.
+
+20
+00:04:23,136 --> 00:04:40,392
+The supplement calls chest trauma a caution, but local PR31 excludes
+traumatic arrest. Pregnancy, unusual anatomy, recent surgery or a
+difficult position also require the appropriate specific pathway and
+safe fit, not improvised universal permission.
+
+21
+00:04:40,392 --> 00:04:54,600
+Identify the back plate, upper unit, support legs, claw locks and
+release rings on the actual training device. Knowing the name is
+useful only if you can identify what must connect and what must stay
+unobstructed.
+
+22
+00:04:54,600 --> 00:05:07,536
+The suction cup contains the pressure pad and is a disposable
+component in the reviewed instructions. Its outer edge and the
+pressure pad are related but not identical anatomical references.
+
+23
+00:05:07,536 --> 00:05:20,568
+The stabilization system helps maintain alignment between patient and
+device. It is not a rigid spinal immobilizer, and the frame does not
+become an approved torso-protection cage after ROSC.
+
+24
+00:05:20,568 --> 00:05:32,400
+The patient wrist straps and stabilization straps are not lifting
+slings. Prepare the actual transport support and team technique rather
+than attempting to carry a patient by these straps.
+
+25
+00:05:32,400 --> 00:05:46,248
+ADJUST allows the compression interface to be positioned. PAUSE after
+adjustment establishes the start state, while PAUSE during
+compressions stops the mechanism at that state. ACTIVE starts the
+chosen compression mode.
+
+26
+00:05:46,248 --> 00:06:01,152
+Those are functional distinctions, not a guarantee of one identical
+physical movement on every unit. Version three point one allows setup
+options that affect automatic adjustment, rates, ventilation alerts
+and pauses.
+
+27
+00:06:01,152 --> 00:06:15,024
+Keep hands and other body parts away from moving compression
+components. A displayed mode must be checked together with the actual
+mechanism and patient position, not trusted as the sole sign of
+effective CPR.
+
+28
+00:06:15,024 --> 00:06:29,904
+The original diagram separates normal state changes from the manual
+fallback. In particular, a planned battery replacement from PAUSE
+returns to PAUSE under the preserved-state conditions, not to ADJUST
+as one school sentence claims.
+
+29
+00:06:29,904 --> 00:06:44,424
+Before deployment, confirm an appropriate charged battery, a ready
+spare, correct accessories and an undamaged device. The required
+battery remains installed even when an approved external power source
+is connected.
+
+30
+00:06:44,424 --> 00:06:57,720
+Verify the cup and straps, unobstructed ventilation openings and the
+availability of the back plate. A charged motor without the plate or
+required disposable is not a ready resuscitation system.
+
+31
+00:06:57,720 --> 00:07:11,568
+Power-up includes a self-test and a ready indication. Know the actual
+training device response before the event. A failed self-test is not a
+prompt to repeatedly experiment while the patient receives no
+compressions.
+
+32
+00:07:11,568 --> 00:07:24,480
+Preparation also means assigned people and manual backup. The safest
+device team is the one that can quickly continue effective manual CPR
+when the machine is unavailable or unsuitable.
+
+33
+00:07:24,480 --> 00:07:37,968
+Recognize arrest and start manual CPR immediately; do not wait for the
+LUCAS case to open. Effective manual care and prompt indicated
+defibrillation remain active while the device is prepared.
+
+34
+00:07:37,968 --> 00:07:51,096
+Plan who supports the head, places the back plate, attaches the frame,
+confirms the cup and restarts effective compressions. Make readiness
+and commands audible before any required pause.
+
+35
+00:07:51,096 --> 00:08:04,752
+The school summary asks for no more than ten seconds of interruption,
+while an earlier passage tolerates under twenty. We retain the tighter
+stated training target and do not teach twenty seconds as a harmless
+allowance.
+
+36
+00:08:04,752 --> 00:08:16,584
+Practice accurate placement and safe checks together with speed. A
+seven-second median from trained teams is not a guarantee for a novice
+or permission to skip the fit and lock check.
+
+37
+00:08:16,584 --> 00:08:29,544
+The reviewed instructions describe a small coordinated upper-body lift
+or side-to-side roll to place the back plate immediately below the
+armpits. Support the head and use the actual trained team technique.
+
+38
+00:08:29,544 --> 00:08:40,464
+Positioning the plate accurately now makes central cup placement
+easier later. A low or off-center plate should not be accepted merely
+because the frame can be clicked onto it.
+
+39
+00:08:40,464 --> 00:08:50,112
+Resume manual compressions as soon as the plate is placed. Do not hold
+the patient without CPR while another rescuer searches the case for
+the upper unit.
+
+40
+00:08:50,112 --> 00:09:04,536
+For unusual anatomy, injury or movement risk, the instructor must
+demonstrate the appropriate method on the training setup. This
+explanation is not a universal lifting authorization for any patient
+or environment.
+
+41
+00:09:04,536 --> 00:09:16,536
+Open the claw locks using the release rings, then let go so the locks
+can engage. Clothing or sheets must not obstruct the connection. Keep
+fingers away from the locking mechanism.
+
+42
+00:09:16,536 --> 00:09:30,360
+The manufacturer describes coordinated near-side attachment while
+manual compressions continue, followed by the brief interruption
+needed to attach the other side. Learn this with the actual frame and
+partner positions.
+
+43
+00:09:30,360 --> 00:09:41,976
+Listen for engagement and check the joined parts as instructed, rather
+than accepting one click as proof that both sides are secure. Never
+force closure by precompressing the chest.
+
+44
+00:09:41,976 --> 00:09:54,384
+If the frame cannot be safely attached, return immediately to manual
+CPR. Troubleshooting a latch must not create an extended pause in the
+only treatment currently moving blood.
+
+45
+00:09:54,384 --> 00:10:06,960
+The pressure pad must act at the appropriate sternal compression
+point. The reviewed manufacturer figure uses the lower outer edge of
+the cup immediately above the end of the sternum as a positioning
+reference.
+
+46
+00:10:06,960 --> 00:10:19,584
+Do not confuse that outer rim with the center of the pressure pad or
+use the nipple as a universal landmark. Patient anatomy and the actual
+device must be identified, not guessed from clothing.
+
+47
+00:10:19,584 --> 00:10:29,784
+Incorrect position can worsen injury and impair circulation. A rapid
+transition with the compression point too low is not a successful
+practical performance.
+
+48
+00:10:29,784 --> 00:10:42,648
+Show the instructor both the landmark and your reason for it, then
+verify after the start and after every meaningful movement. Correct
+initial placement is not proof that the device will remain correct.
+
+49
+00:10:42,648 --> 00:10:54,792
+In the reviewed default workflow, adjust the cup until the pressure
+pad contacts the chest without pressing it down. Then use PAUSE to
+establish the start position before activating the selected mode.
+
+50
+00:10:54,792 --> 00:11:06,192
+Version three point one has optional automatic fitting and height
+behavior. QuickFit is not a promise that an incorrectly centered
+device or an unsafe patient fit will correct itself.
+
+51
+00:11:06,192 --> 00:11:19,080
+Check the actual state and location before starting, keep hands clear
+and observe the initial compressions. If the cup shifts or the start
+position is wrong, use the correct adjustment sequence promptly.
+
+52
+00:11:19,080 --> 00:11:31,680
+If safe correct positioning cannot be achieved, restore manual CPR
+instead of repeatedly pressing ACTIVE. A device refusing a state can
+be a safety signal, not a control to defeat.
+
+53
+00:11:31,680 --> 00:11:46,056
+Apply the stabilization strap once the device is operating correctly,
+avoiding a new unnecessary compression pause. The reviewed arrangement
+places a cushion behind the neck near the shoulders and connects it to
+the support straps.
+
+54
+00:11:46,056 --> 00:11:56,736
+This is not an instruction to wrap or tighten a restraint around the
+airway. Demonstrate the actual cushion, buckle path and appropriate
+securing on the training device.
+
+55
+00:11:56,736 --> 00:12:08,712
+Prevent twisting, hold the device appropriately during securing and
+verify that the cup remains at the intended point. A strap can
+stabilize a wrong position just as effectively as a right one.
+
+56
+00:12:08,712 --> 00:12:21,840
+The manufacturer explicitly allows delaying strap application if it
+prevents or delays needed medical treatment. Keep the priority on
+effective resuscitation rather than completing every accessory first.
+
+57
+00:12:21,840 --> 00:12:35,616
+The default thirty-to-two mode pauses after thirty compressions to
+allow two breaths. The airway operator must anticipate the pause and
+deliver appropriate breaths rather than beginning preparation only
+when the machine stops.
+
+58
+00:12:35,616 --> 00:12:48,648
+Continuous mode supports ongoing compressions with asynchronous
+ventilation under the appropriate advanced-airway pathway. The
+reviewed default alert is ten times per minute, but actual settings
+can differ.
+
+59
+00:12:48,648 --> 00:13:04,152
+A tube or SGA label does not prove effective ventilation. Reassess
+seal, chest rise, airway position and waveform; a significant leak or
+failed breath requires a coordinated change, not simply faster
+bagging.
+
+60
+00:13:04,152 --> 00:13:16,104
+If the airway plan changes, communicate and select the appropriate
+compression mode with the team. The timing light does not assess chest
+rise and cannot protect the patient from excessive volume.
+
+61
+00:13:16,104 --> 00:13:27,840
+Mechanical compressions create ECG artifact. The reviewed LUCAS
+instructions require a brief PAUSE before ECG analysis, with the
+interruption kept as short as possible.
+
+62
+00:13:27,840 --> 00:13:43,368
+The manufacturer permits defibrillation during device operation when
+the defibrillator instructions and local protocol allow it. That does
+not mean the rhythm can be reliably analyzed during compressions, or
+that people may keep touching the patient during discharge.
+
+63
+00:13:43,368 --> 00:13:57,576
+The school drill pauses, analyzes, clears, shocks if indicated and
+immediately restarts. Preserve the locally instructed sequence and
+distinguish its steps from the broader manufacturer capability
+statement.
+
+64
+00:13:57,576 --> 00:14:10,848
+Keep pads and wires outside the compression contact area, check
+position after a shock and explicitly confirm that compressions have
+resumed. Do not leave the machine paused while everybody watches the
+ECG.
+
+65
+00:14:10,848 --> 00:14:26,328
+Mechanical support can operate during selected movement if patient and
+device are safely supported and the correct position and angle remain
+maintained. This is a condition, not a blanket instruction to carry
+every arrest immediately.
+
+66
+00:14:26,328 --> 00:14:41,472
+The school passage suggests a pause for critical transfers; the
+manufacturer allows ongoing compressions when its conditions are met.
+Plan the actual move and any necessary interruption rather than adding
+a routine pause without a reason.
+
+67
+00:14:41,472 --> 00:14:55,968
+Use the trained lifting and transport method, not wrist straps or
+stabilization straps as handles. Protect airway tubing, vascular
+access, the head and the team, and observe for shifting or blocked
+ventilation openings.
+
+68
+00:14:55,968 --> 00:15:07,944
+If safe alignment cannot be maintained, act immediately to restore
+effective appropriate CPR. Patient movement is not evidence that the
+device maintained good compressions throughout the move.
+
+69
+00:15:07,944 --> 00:15:19,896
+The reviewed manufacturer gives a typical initial battery runtime of
+about forty-five minutes for a nominal patient. Do not assume every
+battery in service will provide exactly that duration.
+
+70
+00:15:19,896 --> 00:15:31,728
+Watch the actual battery and alarm indications. Distinguish an
+intermittent low-charge warning from the end-of-service-life
+indication and from a high-priority stopped-device alarm.
+
+71
+00:15:31,728 --> 00:15:43,776
+The device requires its approved battery even with external power. Use
+only the specified compatible source and protect cables; an improvised
+power connection is not a safe backup.
+
+72
+00:15:43,776 --> 00:16:00,360
+The school gives a single two-hour recharge estimate, but the reviewed
+IFU distinguishes charging in the device from the external charger,
+with different maximum times. Read the actual charging instructions
+and verify charge instead of relying on elapsed time.
+
+73
+00:16:00,360 --> 00:16:12,696
+Prepare the charged replacement before the swap. In the reviewed
+planned sequence, press PAUSE, remove the old battery, insert the
+charged battery and wait for the green PAUSE indication.
+
+74
+00:16:12,696 --> 00:16:26,808
+The school sentence claiming the unit returns to ADJUST at its
+previous height is incorrect for this preserved-state sequence. The
+manufacturer table returns PAUSE to PAUSE when the battery is replaced
+within the specified memory interval.
+
+75
+00:16:26,808 --> 00:16:43,800
+That memory interval is less than sixty seconds; it is not an
+acceptable sixty-second CPR pause. If it is exceeded, a self-test and
+resetting the start position are required. Maintain a manual fallback
+rather than watching the clock with no compressions.
+
+76
+00:16:43,800 --> 00:16:58,224
+Verify the actual state and cup position, then restart the appropriate
+ACTIVE mode promptly. A routine planned swap differs from stopping a
+malfunctioning device, where removal and immediate manual CPR take
+priority.
+
+77
+00:16:58,224 --> 00:17:11,424
+A high-priority malfunction can stop compressions. The reviewed
+warning directs stopping the device, removing it and starting manual
+compressions immediately if operation is abnormal or compressions are
+insufficient.
+
+78
+00:17:11,424 --> 00:17:25,080
+Do not allow a prolonged no-flow interval while several rescuers
+troubleshoot. Assign a focused equipment task while effective manual
+care continues, and use qualified service support for a persistent
+fault.
+
+79
+00:17:25,080 --> 00:17:38,184
+A mute control silences a signal for a period; it does not fix the
+fault, recharge a battery or restart circulation. Distinguish an
+audible warning from proof of actual compression performance.
+
+80
+00:17:38,184 --> 00:17:53,760
+Repositioning a shifted cup and responding to a failed motor are
+different problems. If safe, prompt correction cannot restore a
+reliable state, use manual CPR rather than repeatedly trying to make
+the machine appear normal.
+
+81
+00:17:53,760 --> 00:18:08,664
+When spontaneous circulation is appropriately confirmed, stop
+unnecessary mechanical compressions and announce the post-arrest
+transition. An organized rhythm or a compression-generated pulse alone
+is not that confirmation.
+
+82
+00:18:08,664 --> 00:18:21,984
+The school calls leaving the locked device on every post-ROSC patient
+a gold standard. The reviewed IFU does not establish that universal
+claim, so it is not taught as a mandatory rule here.
+
+83
+00:18:21,984 --> 00:18:37,392
+If the device remains temporarily for the authorized plan, ensure it
+does not impair ventilation, chest expansion or comfort, and keep
+checking the patient and actual state. Follow the relevant team
+decision for adjustment or removal.
+
+84
+00:18:37,392 --> 00:18:49,872
+A prior height setting must be reverified after patient or device
+movement before any later restart. Being one button away does not
+remove the need to confirm re-arrest, fit and position.
+
+85
+00:18:49,872 --> 00:19:03,456
+Effective CPR can sometimes support enough cerebral blood flow for
+movement or apparent awareness without sustained spontaneous
+circulation. The school glossary names this CPR-induced consciousness.
+
+86
+00:19:03,456 --> 00:19:15,144
+Treat a new movement as an important patient change requiring
+appropriate assessment, not automatic proof that the arrest has ended.
+Distinguish it from a mechanical twitch during shock delivery.
+
+87
+00:19:15,144 --> 00:19:30,864
+Current N02 places consideration of sedation for CPR-induced
+consciousness in the ACP interventions. It is not an independent PCP
+drug instruction, and paralysis alone would not provide comfort or
+unconsciousness.
+
+88
+00:19:30,864 --> 00:19:42,936
+Coordinate effective care, protect the patient and team and obtain the
+appropriate support. Do not simply switch off all circulation support
+or silence distress to make the device workflow easier.
+
+89
+00:19:42,936 --> 00:19:55,656
+Removal may follow a planned transition, unsafe fit or malfunction.
+State which situation applies because the urgent manual fallback and a
+controlled post-event removal have different priorities.
+
+90
+00:19:55,656 --> 00:20:09,792
+The reviewed removal sequence powers off, disconnects the
+stabilization neck section and releases the upper part from the plate
+using the release rings. Use the actual unit and avoid trapping lines
+or body parts.
+
+91
+00:20:09,792 --> 00:20:20,232
+Remove the back plate only if the patient condition allows it. Do not
+disrupt airway, perfusion support or a safe transport plan simply to
+complete equipment cleanup.
+
+92
+00:20:20,232 --> 00:20:32,208
+When CPR is still indicated and the machine cannot safely provide it,
+manual compressions resume immediately. Equipment handling must be
+coordinated around that clinical priority.
+
+93
+00:20:32,208 --> 00:20:45,984
+The reviewed LUCAS Three instructions and school supplement direct
+replacing the used disposable suction cup. Older PR31 wording
+discusses cleaning and reuse, so that conflict must not be hidden.
+
+94
+00:20:45,984 --> 00:21:02,568
+Use the actual approved device and infection-control instructions. For
+reusable surfaces and straps, use the compatible process and
+disinfectant handling directions; do not infer a mixing recipe or
+contact time from an ambiguous bleach label.
+
+95
+00:21:02,568 --> 00:21:14,616
+Do not immerse the device or allow liquid into the housing. Inspect
+for damage, let appropriate components dry, replace required
+disposables and recharge or replace the battery.
+
+96
+00:21:14,616 --> 00:21:28,464
+A cleaned appearance is not the entire readiness check. Verify
+completeness, correct cup attachment, straps, open locks, power and
+the self-test according to the routine and post-use checks.
+
+97
+00:21:28,464 --> 00:21:42,120
+Document when manual and mechanical compressions began or stopped, why
+the device was selected, the operating modes and significant
+interruptions. Do not count a silent stopped machine as ongoing CPR.
+
+98
+00:21:42,120 --> 00:21:56,256
+Include fit or position problems, movement checks, battery changes,
+alarms, fallback and the patient response. A device record helps but
+cannot establish every clinical finding or human action automatically.
+
+99
+00:21:56,256 --> 00:22:11,616
+The reviewed device can send status/use data when powered off,
+depending on configuration. Transmission can also receive settings, so
+use the authorized process; this course does not upload patient data
+or change a real device.
+
+100
+00:22:11,616 --> 00:22:26,160
+For a fault, follow reporting, quarantine and qualified service
+procedures rather than returning an unreliable unit to the case.
+Record readiness honestly so the next crew does not inherit a hidden
+problem.
+
+101
+00:22:26,160 --> 00:22:42,096
+In this original supervised station, start effective manual CPR on a
+suitable adult manikin. Prepare and apply the device using named
+roles, anatomical checks and measured interruptions, not just a total
+assembly time.
+
+102
+00:22:42,096 --> 00:22:54,456
+Next introduce an unsafe fit. A good performance is recognizing the
+limit and promptly maintaining manual CPR, not forcing a successful-
+looking installation for the assessor.
+
+103
+00:22:54,456 --> 00:23:06,720
+Then rehearse a planned battery replacement and state what indicator
+must return before restart. Finally introduce a stopped-device alarm
+and time how quickly effective manual support returns.
+
+104
+00:23:06,720 --> 00:23:19,776
+Review position, ventilation, analysis, safety and communication
+alongside timing. Improve one specific weakness and repeat; a short
+but unsafe run is not a pass.
+
+105
+00:23:19,776 --> 00:24:17,040
+The recovered April 2026 compilation has a second, literal page track.
+Page 13 ends PR05 decontamination; 85 ends PR31 and 86 is PR32
+vascular compression band; 581-584 continue N02, 585-587 contain N03,
+588 opens N04 traumatic arrest, and 614-615 continue R02 with its
+diagram. These thirteen pages were read separately from the five named
+assignments. PR06 is still taught as a named procedure even though
+that numbered span does not contain its full standalone page. An index
+collision is not evidence that decontamination or a radial band is
+part of the N02 drug algorithm.
+
+106
+00:24:17,040 --> 00:25:06,360
+The decontamination ending explains a chain: move away from the
+hazard, safely remove contaminated clothing, reduce contamination and
+actively dry after wet methods. Emergency removal is immediate; gross
+decontamination uses larger water systems, and technical
+decontamination needs specialist resources. The source describes dry
+absorption as the default and selected wet methods with water no
+hotter than forty Celsius. That is not a command to apply water to
+every unknown chemical. Use incident-specific advice, protected
+specialists and safe access; communicate clearly and preserve warmth,
+dignity and assistance for people who cannot self-decontaminate. Do
+not bring secondary contamination into the ambulance.
+
+107
+00:25:06,360 --> 00:25:50,616
+A vascular compression band controls a radial access site after trans-
+radial angiography; it is not a limb tourniquet for major traumatic
+bleeding. Learn two competing concerns: puncture-site hemostasis and
+adequate hand perfusion. Establish baseline observations and inspect
+pain, tingling, numbness, temperature, colour, refill, thumb oximetry
+and bleeding or hematoma. The recovered procedure specifies fifteen-
+minute checks. A thumb saturation number alone cannot exclude a
+vascular problem. During transfer, preserve the ordered wrist
+restrictions, comfort, access and monitoring and communicate new
+abnormalities promptly.
+
+108
+00:25:50,616 --> 00:26:33,096
+For the specific band procedure, verify application time, the release-
+start instruction and the documented starting air volume before
+attempting release. The source describes a usual fifteen millilitres,
+an eighteen-millilitre maximum and removal of two millilitres every
+fifteen minutes with site reassessment. These are device/procedure-
+specific figures, not an instruction to inflate any wrist band to
+fifteen. If bleeding occurs during deflation, stop and restore the
+amount just removed under the applicable plan. Use the matching
+syringe and current instructions; an unclear product or handover
+requires clarification, not guessed deflation.
+
+109
+00:26:33,096 --> 00:27:27,456
+The August 2026 PR32 card adds explicit complication pathways. For
+bleeding it limits inflation to eighteen millilitres; uncontrolled
+bleeding at that limit leads to band removal and proximal direct
+pressure, with hospital diversion if bleeding persists beyond ten
+minutes. It says not to reapply the band. With a hematoma and band
+still on, mark its extent, leave the band in place, apply directed
+pressure for ten minutes or longer and notify. Neurovascular
+compromise has a distinct one-millilitre release approach while
+hemostasis is preserved; lack of improvement prompts the nearest
+hospital. The card also allows a deflated band to remain during
+transfer for possible re-inflation. Document and notify the receiving
+team; do not improvise one adjustment for every complication.
+
+110
+00:27:27,456 --> 00:28:10,920
+The N04 opening shifts the clinical mechanism: hemorrhage, hypoxemia
+and obstructed circulation can drive traumatic arrest, and a medical
+collapse can also precede the injury. Address the immediately relevant
+reversible cause and airway or bleeding problem in parallel, rather
+than allowing a mechanical-compression project to displace them. The
+source calls for consultation about treatment and conveyance and
+refers to trauma destination criteria. An organized rhythm without a
+pulse does not prove adequate flow, and a poor-prognosis association
+is not a complete discontinuation rule. PR31 excludes mechanical CPR
+in traumatic arrest.
+
+111
+00:28:10,920 --> 00:28:57,792
+Read N04 general-body procedures with the provider-specific sections.
+The current PCP section says consider vascular access and a twenty-
+millilitre-per-kilogram bolus for hypovolemia; chest needle
+decompression appears under ACP, not as independent PCP authority. The
+opening also describes a selected penetrating-chest-trauma, PEA and
+short-to-trauma-centre situation where airway procedures must not
+delay conveyance, with fifteen-minute and Vancouver Coastal-Urban
+twenty-minute wording. These qualifications are not a universal clock
+for every injury. Escalate early, use the actual trauma pathway and
+reassess volume response rather than giving every arrest the same
+fluid or invasive treatment.
+
+112
+00:28:57,792 --> 00:29:40,416
+PR06 describes adult breaths of no more than five hundred to six
+hundred millilitres during CPR and a five-centimetre compression
+reference. They sit alongside rate, recoil, minimal pauses and the
+airway-dependent ventilation pattern. The practical objective is
+effective chest rise without overventilation, not emptying the whole
+bag to hit a memorized volume. Current adult depth teaching elsewhere
+uses five to six centimetres with avoidance of excess depth. PR06
+palpation during ongoing compressions assesses generated flow; only
+the appropriately timed assessment of spontaneous circulation can
+establish ROSC.
+
+113
+00:29:40,416 --> 00:30:26,976
+Complete the N03 transition beyond the displayed oxygen targets.
+Reassess airway protection, glucose, pressure, temperature and the
+precipitating cause; its twenty-millilitre-per-kilogram fluid
+framework is a limit/context, not a routine volume for every patient.
+It describes thirty-degree head elevation where feasible, passive
+rather than large-volume cold-fluid cooling for suitable nontraumatic
+patients, and no passive cooling after traumatic arrest. Its
+destination guidance distinguishes suspected cardiac cause or STEMI
+and feasible PCI access from suspected noncardiac cause. Ongoing
+instability, the actual destination pathway and consultation still
+matter.
+
+114
+00:30:26,976 --> 00:31:09,984
+Original integration: compare three new situations without treating
+them as one algorithm: a contaminated collapsed patient, a post-
+angiography patient with a painful cool hand, and a bleeding trauma
+patient with PEA. State the immediate threat, safe assessment,
+relevant source and authority, then the observation or handover that
+would change the plan. Evidence tables in the compilation group linked
+research as supportive, neutral or against; those headings do not turn
+every listed intervention into a bedside order, and reading them is
+not an appraisal of every linked study. Keep the resuscitation, device
+and source timeline truthful.
+
+115
+00:31:09,984 --> 00:31:23,232
+Before leaving this lesson, explain the patient indication, service
+boundary and actual device fit. State why a motor operating regularly
+is not proof of adequate circulation or better survival.
+
+116
+00:31:23,232 --> 00:31:33,912
+Talk through back plate, frame, cup location, height setting and mode
+while saying when effective compressions continue and when a pause is
+genuinely necessary.
+
+117
+00:31:33,912 --> 00:31:49,824
+Correct the three important source shortcuts: the battery returns to
+PAUSE, not ADJUST; an interrupted twenty-second target is not adopted
+over the stricter school target; and retained post-ROSC standby is not
+a universal gold standard.
+
+118
+00:31:49,824 --> 00:32:02,712
+Complete the actual instructor-led practical and exact device
+instructions before operational use. Competence includes the decision
+not to use the machine and the ability to restore manual care
+immediately.

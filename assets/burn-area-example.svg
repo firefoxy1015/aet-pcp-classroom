@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="570" viewBox="0 0 1100 570" role="img" aria-label="Original adult burn-area worked example: partial-thickness anterior trunk 18 percent plus arm 9 percent equals 27 percent, superficial redness excluded">
+<rect width="1100" height="570" fill="#fffdf8"/>
+<g font-family="Arial, sans-serif" fill="#17384b"><text x="34" y="44" font-size="29">Area and depth are separate questions</text><text x="34" y="82" font-size="21">Original adult example. Apply the correct region denominator and include qualifying depth.</text>
+<rect x="45" y="120" width="650" height="97" rx="12" fill="#f2b293" stroke="#ae5c39" stroke-width="2"/>
+<text x="68" y="158" font-size="25">Entire ANTERIOR trunk</text><text x="68" y="193" font-size="22">Partial thickness: include 18%</text>
+<rect x="45" y="241" width="650" height="97" rx="12" fill="#f5d6a5" stroke="#a9884e" stroke-width="2"/>
+<text x="68" y="279" font-size="25">Entire RIGHT arm, front and back</text><text x="68" y="314" font-size="22">Partial thickness: include 9%</text>
+<rect x="45" y="362" width="650" height="97" rx="12" fill="#eceff0" stroke="#88959d" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="68" y="400" font-size="25">LEFT arm: superficial redness only</text><text x="68" y="435" font-size="22">Do not include in this significant-burn TBSA</text>
+<rect x="735" y="168" width="320" height="250" rx="15" fill="#e6f1f7" stroke="#8babb9" stroke-width="2"/>
+<text x="780" y="217" font-size="24">Included estimate</text><text x="776" y="282" font-size="39">18 + 9 = 27%</text><text x="787" y="329" font-size="25">NOT 36%</text><text x="765" y="379" font-size="18">Area estimate is not a fluid order.</text>
+<text x="35" y="504" font-size="21">A child requires age-adjusted proportions. A whole arm is not just its anterior surface.</text>
+<text x="35" y="542" font-size="18">Original illustration; clinical severity also depends on location, depth, inhalation, age and associated injury.</text>
+</g></svg>

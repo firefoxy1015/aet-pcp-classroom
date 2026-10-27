@@ -1,0 +1,417 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.000
+Monitoring supports assessment by making change visible. It becomes unsafe when a displayed number is treated as more real than the patient without checking signal quality and clinical context.
+监测通过显示变化支持评估。若不核查信号及背景，就把显示数字当得比患者实际情况更真实，便会产生危险。
+
+00:00:12.000 --> 00:00:27.024
+First identify the measured variable: cuff pressure oscillations, light absorption, glucose reaction or exhaled carbon dioxide. The device may estimate a useful value without measuring the final clinical outcome directly.
+先识别测量变量：袖带压力振荡、光吸收、葡萄糖反应或呼出二氧化碳。设备可以估出有用数值，却不直接测最终临床结果。
+
+00:00:27.024 --> 00:00:38.472
+Then ask what could distort it and whether it fits other findings. A normal-looking saturation cannot settle a question about carbon monoxide, ventilation or severe anemia.
+再问什么会干扰它，以及是否符合其他发现。看似正常的血氧，不能回答 CO、通气或严重贫血问题。
+
+00:00:38.472 --> 00:00:51.168
+Act on an immediate threat while checking reliability. Treating the patient first does not mean discarding inconvenient numbers; it means investigating discrepancies without delaying necessary support.
+核查可靠性的同时处理即时威胁。“患者优先”不是丢掉不方便的数字，而是不延误必要支持地调查矛盾。
+
+00:00:51.168 --> 00:01:04.344
+NEWS2 assigns points to six physiological observations and adds two for supplemental oxygen. It helps recognize and communicate deterioration risk; it does not identify the cause.
+NEWS2 对六项生理观察评分，补氧另加两分。它帮助识别和沟通恶化风险，但不确定原因。
+
+00:01:04.344 --> 00:01:15.912
+Use a complete, contemporaneous set. An unmeasured temperature or uncertain respiratory count must not be silently scored zero to produce a reassuring total.
+应使用完整、时间相近的一组值。没有测体温或呼吸计数不可靠，不能悄悄算零分，制造令人安心总分。
+
+00:01:15.912 --> 00:01:29.376
+The RCP tool is intended for adults aged sixteen and over, not children under sixteen or pregnant patients. Use the relevant pediatric or obstetric pathway rather than stretching this adult score.
+RCP 工具用于十六岁及以上成人，不用于十六岁以下儿童或孕妇。应使用相应儿科或产科路径，不能扩大成人评分适用范围。
+
+00:01:29.376 --> 00:01:42.840
+Low NEWS2 cannot exclude major trauma, stroke, poisoning, evolving respiratory failure or another serious condition. Clinical concern remains a reason to escalate at any total.
+较低 NEWS2 不能排除重大创伤、卒中、中毒、演变中的呼吸衰竭或其他严重情况。任何总分下，临床担忧都可构成升级理由。
+
+00:01:42.840 --> 00:01:55.992
+For respiratory rate, eight or fewer scores three; nine to eleven scores one; twelve to twenty scores zero; twenty-one to twenty-four scores two; twenty-five or more scores three.
+呼吸频率八次或以下三分，九至十一次一分，十二至二十次零分，二十一至二十四次两分，二十五次或以上三分。
+
+00:01:55.992 --> 00:02:09.336
+On saturation scale one, ninety-one percent or below scores three, ninety-two to ninety-three scores two, ninety-four to ninety-five scores one, and ninety-six or above scores zero.
+血氧量表一中，百分之九十一或以下三分，九十二至九十三两分，九十四至九十五一分，九十六或以上零分。
+
+00:02:09.336 --> 00:02:21.240
+If supplemental oxygen is being used, add two points separately. Do not omit them because the saturation itself now looks normal, and do not count both saturation scales.
+正在补氧时另加两分。不能因为饱和度现在看起来正常就漏掉，也不能同时计算两种血氧量表。
+
+00:02:21.240 --> 00:02:32.352
+These are score boundaries, not oxygen-treatment thresholds. Continue indicated care and record the device and flow so another clinician can interpret the observation.
+这些是评分界限，不是给氧治疗阈值。应继续必要照护，并记录装置和流量，让其他医护人员能够解释观察结果。
+
+00:02:32.352 --> 00:02:45.120
+For systolic pressure, ninety or below scores three, ninety-one to one hundred scores two, one hundred and one to one hundred and ten scores one, and two hundred and twenty or above scores three.
+收缩压九十或以下三分，九十一至一百两分，一百零一至一百一十为一分，二百二十或以上三分。
+
+00:02:45.120 --> 00:02:56.832
+The broad one-hundred-and-eleven to two-hundred-and-nineteen band scores zero. The school sometimes calls it normal blood pressure; that wording is misleading and must not become a clinical conclusion.
+一百一十一至二百一十九的宽区间是零分。学校有时称其“正常血压”，这一表述会误导，不能成为临床结论。
+
+00:02:56.832 --> 00:03:07.848
+Pulse scores three at forty or below or one hundred and thirty-one or above. The remaining bands are shown here; use the exact boundary rather than a rounded rate.
+脉率四十或以下、一百三十一或以上为三分，其余区间列在本页。应使用准确界限，不能凑整心率。
+
+00:03:07.848 --> 00:03:20.904
+For example, a pulse of one hundred and ten scores one, but one hundred and eleven scores two. Recheck a questionable measurement; do not alter the recorded value to fit a preferred score.
+例如脉率110计一分，111计两分。可疑测量应复核，不能为得到喜欢的分数而改数字。
+
+00:03:20.904 --> 00:03:36.264
+Temperature thirty-five or below scores three, thirty-five point one to thirty-six scores one, thirty-six point one to thirty-eight scores zero, thirty-eight point one to thirty-nine scores one, and thirty-nine point one or above scores two.
+体温三十五或以下三分，三十五点一至三十六一分，三十六点一至三十八零分，三十八点一至三十九一分，三十九点一或以上两分。
+
+00:03:36.264 --> 00:03:51.792
+An alert patient scores zero for consciousness. New confusion or a response only to voice or pressure, or no response, scores three. Establish whether confusion is new rather than guessing from age or diagnosis.
+意识项清醒零分，新发混乱、仅对声音或压力有反应、或无反应均三分。应确定混乱是否新发，不能由年龄或诊断猜测。
+
+00:03:51.792 --> 00:04:03.504
+ACVPU is the score's coarse responsiveness measure. Keep the detailed eye, verbal and motor observations in the clinical record when assessed; one does not replace the other.
+ACVPU 是该评分的粗略反应指标。已经评估的睁眼、言语、运动细节仍应保留在临床记录，两者不能互相取代。
+
+00:04:03.504 --> 00:04:13.920
+An absent fever score does not rule out infection. Hypothermia and a mental-status change can be especially concerning in an older person with possible sepsis.
+没有发热得分，不能排除感染。疑似脓毒症老年人的低体温与意识改变，尤其值得担忧。
+
+00:04:13.920 --> 00:04:35.040
+RCP scale two is for a clinically selected hypercapnic-respiratory-failure context with a target of eighty-eight to ninety-two percent. Older BCEHS A02 instead states diagnosed COPD. The school body uses both formulations; document the applicable service instruction and seek clarification if uncertain.
+RCP 量表二用于经过临床选择、目标百分之八十八至九十二的高碳酸血症性呼吸衰竭背景。较旧 BCEHS A02 则写已诊断 COPD。学校正文两种说法都有；应明确适用机构要求，不确定时澄清。
+
+00:04:35.040 --> 00:04:47.928
+For low saturation on this scale, eighty-three or below scores three, eighty-four to eighty-five scores two and eighty-six to eighty-seven scores one. Eighty-eight to ninety-two scores zero.
+该量表低端，百分之八十三或以下三分，八十四至八十五两分，八十六至八十七一分，八十八至九十二零分。
+
+00:04:47.928 --> 00:05:05.136
+Above ninety-two, the oxygen context matters: on room air, ninety-three or above scores zero. On oxygen, ninety-three to ninety-four scores one, ninety-five to ninety-six scores two and ninety-seven or above scores three.
+高于九十二时，给氧背景重要：室内空气下九十三或以上零分；吸氧时九十三至九十四一分，九十五至九十六两分，九十七或以上三分。
+
+00:05:05.136 --> 00:05:18.720
+Add the separate two oxygen points whenever oxygen is used. Do not confuse this scoring scheme with A07's chronic-hypoxemia treatment band or apply it to make an acute hypoxic patient look low risk.
+使用氧气仍另加两分。不能把该评分方案与 A07 慢性低氧治疗范围混淆，也不能为降低风险分数而给急性低氧者套用。
+
+00:05:18.720 --> 00:05:32.280
+This original example has respiratory rate twenty-three and saturation ninety-four percent on supplemental oxygen, using scale one. Those contribute two, one and two points respectively.
+原创例中，呼吸二十三次，吸氧时饱和度百分之九十四，使用量表一。分别为两分、一分及补氧两分。
+
+00:05:32.280 --> 00:05:44.472
+Systolic pressure one hundred and six contributes one, pulse one hundred and fourteen contributes two, temperature thirty-eight point four contributes one, and alertness contributes zero.
+收缩压一百零六一分，脉率一百一十四两分，体温三十八点四一分，清醒零分。
+
+00:05:44.472 --> 00:05:56.832
+The sum is nine, not seven. Omitting supplemental oxygen would understate risk. Retain the component values so the total is auditable and another clinician can see what drove it.
+合计九分，不是七分。漏补氧会低估风险。保留分项，才能复核总分，并看出主要贡献因素。
+
+00:05:56.832 --> 00:06:10.536
+Reassess immediate threats, escalate to the appropriate clinical support, increase monitoring and organize urgent conveyance and notification. The score supports urgency but does not diagnose the illness.
+复评即时威胁，升级至适当临床支持、加强监测，安排紧急转运及预警。分数支持紧迫判断，但不诊断病因。
+
+00:06:10.536 --> 00:06:23.232
+A patient with otherwise zero-scoring observations but new confusion has a single red parameter of three. Calling the aggregate low without recognizing that red flag misses the point of the tool.
+其他观察均零分，但新发混乱者，存在单项红色三分。只把总分叫低、不识别红旗，就错失工具意义。
+
+00:06:23.232 --> 00:06:37.152
+The original RCP framework treats a single red three as needing urgent clinical review, distinct from the aggregate five-to-six and seven-plus pathways. Do not describe every red flag as the same response tier.
+RCP 原框架要求单项红三分紧急临床复核，并区别于总分五至六、七或以上路径。不能把所有红旗说成完全相同响应级别。
+
+00:06:37.152 --> 00:06:51.840
+Check that the finding is new and assess the cause. Ask about baseline, last-known-well and associated symptoms while evaluating immediate oxygenation, ventilation, perfusion and glucose threats.
+核实是否新发并评估原因。询问基线、最后正常时间及伴随症状，同时评估氧合、通气、灌注及血糖的即时威胁。
+
+00:06:51.840 --> 00:07:02.832
+A red flag does not require waiting for another parameter to worsen before seeking help. Continue treatment and urgency decisions from the patient as well as the score.
+不必等另一个分项变坏才求助。治疗及紧迫决定应同时依据患者状态和分数。
+
+00:07:02.832 --> 00:07:16.464
+Learn the aggregate bands: zero to four, five to six, and seven or more, while checking for an individual three. A rising total also deserves attention even before a band changes.
+学习总分零至四、五至六、七或以上，并检查是否有单项三分。即使尚未跨档，总分上升也值得注意。
+
+00:07:16.464 --> 00:07:31.608
+The school calls for urgent review and increasing monitoring as risk rises, and uses medical-direction consultation in its high-risk teaching. The actual service consultation and notification route must be verified for the patient and pathway.
+学校要求风险上升时紧急复核、加强监测，并在高风险教学中使用医疗指导咨询。实际机构咨询及预警方式仍需按患者和路径核实。
+
+00:07:31.608 --> 00:07:43.824
+RCP response charts were designed around organized hospital teams. A four-hour low-score observation schedule is not permission to leave an ambulance patient unchecked for four hours.
+RCP 响应表围绕医院团队设计。低分四小时观察安排，不代表救护车患者可以四小时不查。
+
+00:07:43.824 --> 00:07:55.488
+Report measured components, oxygen, total, trend, treatment and the help requested. An urgent message must say what the patient needs, not only announce a score.
+报告分项实测值、给氧、总分、趋势、治疗及请求协助。紧急消息要说患者需要什么，不能只报分。
+
+00:07:55.488 --> 00:08:12.288
+The new BCEHS documentation section fifteen does not exactly match the older A01 and A02 wording. It describes thirty-minute observations only for selected untreated patients without altered vital signs or listed complaints.
+新版 BCEHS 记录标准第十五节，与较旧 A01、A02 文字并非完全一致。它只对特定未治疗、没有异常生命体征或所列主诉者描述三十分钟观察。
+
+00:08:12.288 --> 00:08:27.504
+It specifies fifteen-minute intervals for symptomatic or abnormal patients and more frequent checks when indicated; critical shock may need observations every two to three minutes. Before-and-after treatment observations remain important.
+它对有症状或异常者规定十五分钟，需要时更频繁；危重休克可能每两三分钟观察。治疗前后测量仍重要。
+
+00:08:27.504 --> 00:08:41.280
+It also says NEWS2 is required by certain ASTaR pathways, whereas older A02 says all patients. This is a genuine publication difference, not a reason to pretend one page says something else.
+它还写 NEWS2 由某些 ASTaR 路径要求，而较旧 A02 写所有患者。这是真实出版差异，不能假装其中某页说了另一种话。
+
+00:08:41.280 --> 00:08:57.720
+For school preparation, perform the assigned NEWS2 and five- or fifteen-minute practice as requested. For operations, confirm the applicable instruction with the service; do not use this conflict to reduce monitoring of an unwell patient.
+备课时按学校要求完成 NEWS2 及五或十五分钟练习。实际机构工作需确认适用指示；不能借此矛盾减少病情不佳者监测。
+
+00:08:57.720 --> 00:09:10.872
+Carbon monoxide is not reliably detected by human smell or sight. Several occupants with similar symptoms, a generator or heater, or an alarm should trigger a shared-exposure concern.
+一氧化碳不能靠人嗅觉或视觉可靠识别。多人相似症状、发电机或暖炉、报警器，都应触发共同暴露担忧。
+
+00:09:10.872 --> 00:09:22.560
+Do not enter an unsafe area to attach a monitor. Activate the appropriate hazard-control and rescue resources, and have patients removed to a safe environment by trained personnel.
+不要为连接监护仪进入不安全区域。启动适当危险控制及救援资源，由受训人员把患者转至安全环境。
+
+00:09:22.560 --> 00:09:35.904
+A building detector measures environmental concentration, often parts per million. A patient CO reading estimates a hemoglobin fraction. Confusing these units can create a dangerous decision.
+建筑探测器测环境浓度，常为 ppm。患者 CO 读数估计血红蛋白组分比例。混淆单位会造成危险决定。
+
+00:09:35.904 --> 00:09:47.856
+BCEHS J01 prohibits care in hot or warm zones. The school mentions SCBA, but owning or naming that equipment does not authorize a paramedic to enter a hazardous zone.
+BCEHS J01 禁止在热区或暖区提供照护。学校提及 SCBA，但拥有或说出该设备，不等于授权急救员进入危险区域。
+
+00:09:47.856 --> 00:10:00.120
+Carbon monoxide binds hemoglobin much more avidly than oxygen. It reduces available oxygen-carrying capacity, and makes the remaining oxygen harder to release to tissues.
+一氧化碳与血红蛋白结合力远高于氧，会降低可用携氧能力，并使剩余氧更难释放给组织。
+
+00:10:00.120 --> 00:10:12.144
+CO also affects proteins and cellular respiration, contributing to tissue dysfunction beyond what a saturation number can reveal. The brain and heart are particularly vulnerable.
+CO 还影响蛋白和细胞呼吸，造成饱和度数字不能充分反映的组织功能障碍，脑和心尤其脆弱。
+
+00:10:12.144 --> 00:10:27.360
+The school calls the left-shifted oxygen-release effect the Haldane effect. That label is inaccurate here: the Haldane effect concerns oxygenation changing blood carbon-dioxide carriage. Learn the CO mechanism without that mistaken name.
+学校把这种氧释放曲线左移称 Haldane 效应，此处命名不准确；Haldane 效应指氧合改变血液携带二氧化碳能力。应学会 CO 机制，而不沿用错误名称。
+
+00:10:27.360 --> 00:10:41.712
+Headache and nausea may progress to confusion, syncope, chest pain, seizures or collapse. Do not require a dramatic skin colour or a particular meter percentage before recognizing possible poisoning.
+头痛、恶心可发展至混乱、晕厥、胸痛、癫痫或虚脱。识别疑似中毒不需要先出现特殊肤色或某个仪器百分比。
+
+00:10:41.712 --> 00:10:53.520
+A conventional two-wavelength oximeter can misread carbon-monoxide-bound hemoglobin and produce a falsely reassuring saturation. It is not a CO screening or exclusion test.
+常规双波长血氧仪会误读结合 CO 的血红蛋白，给出虚假安心饱和度。它不是 CO 筛查或排除测试。
+
+00:10:53.520 --> 00:11:07.416
+A multiwavelength pulse CO-oximeter estimates SpCO noninvasively. Blood laboratory CO-oximetry measures COHb using a blood sample. The two are not interchangeable gold standards.
+多波长脉搏 CO 血氧仪无创估计 SpCO；实验室血液 CO 氧测以血样测 COHb。两者不能互当同等金标准。
+
+00:11:07.416 --> 00:11:23.016
+BCEHS J02 warns that point-of-care CO readings can be unreliable and that a raised COHb may not reflect poisoning severity or delayed neurological risk. A low reading after oxygen does not erase the earlier exposure.
+BCEHS J02 提醒床旁 CO 读数可能不可靠，升高 COHb 也不完全反映严重度或延迟神经风险。吸氧后低读数不能抹去此前暴露。
+
+00:11:23.016 --> 00:11:34.944
+The school gives smoker and symptom-percentage bands. Learn that smoking can elevate baseline, but do not use those bands as a deterministic symptom chart or a safe discharge rule.
+学校列出吸烟者及症状百分比分档。应知道吸烟会抬高基线，但不能把分档当作必然症状表或安全离院规则。
+
+00:11:34.944 --> 00:11:49.176
+Once safe, provide the indicated high-flow oxygen and supportive care. Ordinary SpO2 is not a reason to withhold oxygen in suspected CO poisoning. Support ventilation if it is inadequate.
+到安全环境后，给予所需高流量氧及支持。疑似 CO 中毒时，普通 SpO2 不能作为不给氧理由；通气不足则支持通气。
+
+00:11:49.176 --> 00:12:03.552
+Reassess neurological state, symptoms, perfusion and relevant cardiac findings. Record exposure circumstances, removal time, oxygen timing and measured values with the instrument identified.
+复评神经状态、症状、灌注及相关心脏发现。记录暴露背景、脱离时间、给氧时间及测量值，并标明仪器。
+
+00:12:03.552 --> 00:12:15.648
+Current J02 requires CliniCall care-planning consultation for every suspected or confirmed CO case, not only a severe case or a value above twenty-five percent.
+现行 J02 要求每位疑似或确诊 CO 患者均进行 CliniCall 照护计划咨询，而非只有重症或超过百分之二十五才咨询。
+
+00:12:15.648 --> 00:12:30.384
+A severe clinical presentation, pregnancy or significant cardiac or neurological effects informs specialist and hyperbaric discussion. Do not make a destination or no-conveyance decision from one noninvasive percentage alone.
+严重表现、妊娠或明显心脏神经影响，会影响专科及高压氧讨论。不能只凭一个无创百分比决定目的地或不转运。
+
+00:12:30.384 --> 00:12:43.584
+A meter reading is generated by a strip reaction. Sugar on the skin, a wet sampling site, insufficient blood, expired strips and temperature extremes can make the displayed value misleading.
+血糖读数由试纸反应产生。皮肤糖污染、部位湿润、血量不足、过期试纸及极端温度，都可使显示误导。
+
+00:12:43.584 --> 00:12:54.096
+Poor peripheral circulation can make a capillary sample less representative. Reassess the patient and improve sampling where possible while urgent care continues.
+外周循环不良可使毛细血样代表性下降。应复评患者，可行时改善采样，同时继续紧急照护。
+
+00:12:54.096 --> 00:13:05.568
+If considering a venous or another sample, confirm that the meter and local procedure permit it. Do not assume that any available blood can be used in every point-of-care device.
+考虑静脉或其他样本时，确认仪器及当地规程允许。不能假定任何可取得血液都可用于所有床旁设备。
+
+00:13:05.568 --> 00:13:18.000
+A result labelled low or high beyond the meter range is not an exact number. Document the actual message, pursue an appropriate reliable assessment and respond to the clinical threat.
+超仪器范围的低或高提示，不是精确数值。记录实际信息，安排适当可靠评估，并处理临床威胁。
+
+00:13:18.000 --> 00:13:31.320
+Glucose below four millimoles per litre is hypoglycemia in the local pathway. Check immediately with altered consciousness or seizure while continuing airway, breathing and circulation assessment.
+当地路径中低于四 mmol/L 为低血糖。意识改变或癫痫时应尽快测量，同时继续气道、呼吸和循环评估。
+
+00:13:31.320 --> 00:13:40.872
+A patient who follows commands and swallows safely may receive the indicated oral correction. Do not place food or a drink into an unprotected airway.
+能够遵嘱、安全吞咽者可接受所需口服纠正。不要向未受保护气道塞食物或饮料。
+
+00:13:40.872 --> 00:13:54.120
+If oral treatment is unsafe, use the authorized clinical pathway: intravenous dextrose when appropriate, with an alternative such as glucagon when access is unattainable according to the relevant instruction.
+口服不安全时，按获准临床路径处理：适当时静脉葡萄糖；无法建立通路时按相应指示考虑胰高血糖素等替代。
+
+00:13:54.120 --> 00:14:08.712
+The brain is highly vulnerable to low glucose, but the school's claim that glucose is its only possible fuel is too absolute. The practical priority is rapid recognition and safe correction, followed by cause assessment.
+脑对低血糖高度脆弱，但学校称葡萄糖是脑唯一可能燃料过于绝对。实际重点是快速识别、安全纠正，再调查原因。
+
+00:14:08.712 --> 00:14:22.920
+D10W contains ten grams per hundred millilitres. That is point one gram per millilitre, so fifteen grams corresponds to one hundred and fifty millilitres. Keep grams and milligrams consistent.
+D10W 每一百毫升含十克，即每毫升零点一克，所以十五克对应一百五十毫升。克与毫克必须一致。
+
+00:14:22.920 --> 00:14:36.672
+The current adult BCEHS monograph lists ten to twenty-five grams intravenously, equivalent to one hundred to two hundred and fifty millilitres. Use the appropriate authorized plan and reassess the clinical effect.
+现行成人 BCEHS 专论列静脉十至二十五克，即一百至二百五十毫升。按适当获准计划实施，并复评临床效果。
+
+00:14:36.672 --> 00:14:56.352
+The public PCP pediatric line explicitly states over twelve years: five millilitres per kilogram of D10W, the stated adult maximum, over five to fifteen minutes, and a repeat once. Do not silently extend it to younger ages or settle the exact age boundary by guessing.
+公开 PCP 儿科条目明确写十二岁以上：D10W 每公斤五毫升、所列成人上限、五至十五分钟给予、可重复一次。不能默默扩大到更小年龄，也不能猜测精确年龄边界。
+
+00:14:56.352 --> 00:15:10.872
+Confirm a patent line before and during administration. Pain, swelling or a change at the site can indicate extravasation with tissue injury; stop and manage a suspected complication under the appropriate procedure.
+给药前及过程中确认通路通畅。疼痛、肿胀或局部改变可能提示外渗及组织损伤，应停止并按相应规程处理疑似并发症。
+
+00:15:10.872 --> 00:15:25.512
+Retest glucose and reassess the patient after correction and as clinically indicated. The school suggests five-to-ten-minute checks during this process; deterioration requires an immediate check, not waiting for a timer.
+纠正后及临床需要时复查血糖和患者。学校在这一过程建议五至十分钟检查；恶化时应立即查，不能等待计时。
+
+00:15:25.512 --> 00:15:36.096
+Ask what caused the episode and whether it can recur. Long-acting medication, inadequate intake or concurrent infection can make a brief improvement misleading.
+询问原因及是否可能复发。长效药、进食不足或并发感染，可能使短暂好转具有误导性。
+
+00:15:36.096 --> 00:15:55.824
+Hypoglycemia can mimic or coexist with stroke. Current E01 calls for immediate correction; the dextrose monograph recommends consultation about care planning if intracerebral hemorrhage is suspected. That is not a blanket command to delay every low-glucose treatment until a stroke call finishes.
+低血糖可模仿或并存卒中。现行 E01 要求立即纠正；葡萄糖专论对疑似脑内出血建议咨询照护计划。这不是要求所有低血糖都等卒中电话打完才治疗。
+
+00:15:55.824 --> 00:16:11.424
+Persistent confusion or focal deficit after correction requires continued investigation and appropriate conveyance. Non-conveyance has additional criteria, capacity and safety-planning requirements, not just a glucose above four.
+纠正后仍混乱或局灶缺损，需要继续调查及适当转运。不转运还有额外条件、决定能力和安全计划要求，不只是血糖高于四。
+
+00:16:11.424 --> 00:16:22.920
+An oscillometric monitor detects pressure oscillations in the cuff during its measurement cycle. Algorithms estimate arterial pressure from the signal; they do not listen to Korotkoff sounds.
+振荡法监护仪在测量周期检测袖带压力振荡，算法由信号估计动脉压力，并不是听 Korotkoff 音。
+
+00:16:22.920 --> 00:16:35.712
+MAP relates to the oscillation envelope and systolic and diastolic values are algorithm-dependent. This does not make every displayed MAP accurate or guarantee it is the best clinical measure in shock.
+MAP 与振荡包络有关，收缩和舒张值依赖算法。这不代表所有显示 MAP 都准确，也不保证它总是休克中最好的临床指标。
+
+00:16:35.712 --> 00:16:48.456
+Cuff size and height, movement, shivering, arrhythmia and low perfusion can impair results. A monitor that cycles repeatedly may be failing to obtain a trustworthy signal.
+袖带尺寸和高度、移动、寒战、心律不齐及灌注低都可能影响结果。反复测量中的机器，可能始终没获得可信信号。
+
+00:16:48.456 --> 00:16:59.880
+Check the patient and setup, then repeat or confirm with manual measurement when appropriate. Record method and relevant limitations instead of choosing the most comfortable number.
+检查患者和设置，再按需要复测或手动确认。记录方法及相关局限，不能挑最舒服的数字。
+
+00:16:59.880 --> 00:17:08.520
+A low pressure obtained during shivering might be distorted. But new drowsiness and cool skin make it unsafe to call the whole event artifact.
+寒战中取得的低血压可能失真，但新发嗜睡和皮肤凉，使整件事不能被安全地归为伪差。
+
+00:17:08.520 --> 00:17:21.624
+Reassess immediate threats, pulse, breathing and relevant causes while a partner checks cuff size, position and signal conditions. Do not stop urgent support to repeat the same poor technique.
+复评即时威胁、脉搏、呼吸及相关原因，同时由同伴检查袖带尺寸、位置和信号条件。不能停止紧急支持，只为重复同样不佳技术。
+
+00:17:21.624 --> 00:17:33.696
+Obtain a better measurement as feasible and compare timed observations. A confirmed downward trend supports escalation even if a later reading has not crossed a familiar threshold.
+可行时取得更可靠测量，并比较有时间的观察。确认下降趋势，即使后续尚未跨熟悉阈值，也支持升级。
+
+00:17:33.696 --> 00:17:46.824
+An extremely high pressure likewise needs confirmation and symptom assessment. A number alone neither proves a hypertensive emergency nor justifies an unsupervised pressure-lowering intervention.
+极高血压同样需要确认和症状评估。数字本身不能证明高血压急症，也不支持无督导自行降压。
+
+00:17:46.824 --> 00:18:00.024
+If ventilation rises while production and circulation are stable, end-tidal carbon dioxide tends to fall. But a low number can also reflect reduced blood flow carrying carbon dioxide to the lungs.
+产生量及循环稳定时，通气增加会使呼气末二氧化碳下降。但低值也可能反映血流减少，运到肺的二氧化碳变少。
+
+00:18:00.024 --> 00:18:13.152
+For the same reason, very poor ventilation does not always produce a tall high waveform: a tiny sampled breath or severe low flow can give a low or absent signal despite dangerous respiratory depression.
+同理，通气很差不一定出现高而大的波：采到的呼吸极小或血流严重不足，也可能在危险呼吸抑制时给出低或消失信号。
+
+00:18:13.152 --> 00:18:25.848
+A high value may reflect hypoventilation, increased carbon-dioxide delivery or rebreathing, depending on context. Interpret number, shape, breathing and perfusion together.
+高值可来自通气不足、二氧化碳输送增加或重复吸入，取决于背景。应同时解释数值、形状、呼吸和灌注。
+
+00:18:25.848 --> 00:18:35.880
+Do not change a patient's breathing simply to force a number into a reference band. First identify the likely physiology and any measurement problem.
+不要只为把数字强塞进参考范围而改变患者呼吸。先识别可能生理及测量问题。
+
+00:18:35.880 --> 00:18:50.688
+Identify the sequence on an actual waveform: baseline, expiratory upstroke, alveolar plateau and inspiratory downstroke. Phase naming differs between teaching conventions, but the gas sequence does not.
+在真实波形上识别：基线、呼气上升、肺泡平台、吸气下降。不同教学传统的分期名称不同，但气体经过顺序不变。
+
+00:18:50.688 --> 00:19:03.216
+The alpha angle lies between the upstroke and plateau, and the beta angle between plateau and downstroke. The school gives roughly one hundred to one hundred and ten degrees and ninety degrees respectively.
+alpha 角在上升支与平台之间，beta 角在平台与下降支之间。学校分别给约一百至一百一十度、九十度。
+
+00:19:03.216 --> 00:19:15.864
+Screen scaling and physiology affect the apparent geometry. Use slope, baseline, duration and serial change as clues rather than treating a measured angle as an independent diagnosis.
+屏幕缩放和生理会影响外观几何。应把斜率、基线、持续时间及连续变化当线索，不能把量出的角独立当诊断。
+
+00:19:15.864 --> 00:19:27.600
+Confirm that the sample is actually exhaled gas from the patient. A plateau without the expected clinical breath, or a line blocked by water, should prompt a sampling check.
+确认采样确实来自患者呼气。平台与临床呼吸不对应，或管路积水堵塞，都应触发采样核查。
+
+00:19:27.600 --> 00:19:41.928
+An obstructive shark-fin shape has a sloped rise and plateau. It supports impaired expiratory emptying; assess air entry, effort and fatigue, and follow the relevant airway or respiratory plan.
+阻塞性鲨鱼鳍呈倾斜上升和平台，支持呼气排空受限。应评估进气、呼吸功和疲劳，并按相应气道或呼吸计划处理。
+
+00:19:41.928 --> 00:19:54.264
+Tall widely spaced breaths can fit hypoventilation, while low rapid breaths can fit increased ventilation. Neither description excludes poor perfusion or unreliable sampling.
+高而间隔宽可符合通气不足，低而频繁可符合通气增加。但两种描述都不能排除灌注不良或采样不可靠。
+
+00:19:54.264 --> 00:20:07.584
+Low carbon dioxide with deep rapid breathing may be compensation for metabolic acidosis. Do not label it panic before considering dangerous metabolic, respiratory or circulatory causes.
+低二氧化碳伴深快呼吸，可能是代谢性酸中毒代偿。在考虑危险代谢、呼吸或循环原因前，不能先贴惊恐标签。
+
+00:20:07.584 --> 00:20:21.960
+If the baseline does not return toward zero, inspect the patient, circuit, valves, gas flow and sampling as applicable to the actual device. Do not replace a random filter without identifying the system.
+基线不能回到近零时，按实际设备检查患者、管路、阀、气流和采样。不能连系统都未识别就随便换滤器。
+
+00:20:21.960 --> 00:20:36.240
+If the waveform suddenly disappears, look at the patient immediately while checking the circuit and sampling connection. A disconnected line and a respiratory arrest require different corrections, but both need prompt recognition.
+波形突然消失时，应立即看患者，同时检查管路和采样连接。采样脱开与呼吸停止需要不同纠正，但都需及时识别。
+
+00:20:36.240 --> 00:20:48.864
+A sudden sustained rise during resuscitation may indicate return of circulation. Confirm through the appropriate clinical rhythm and circulation check without creating an unnecessary prolonged pause.
+复苏中突然持续上升，可能提示循环恢复。应通过适当心律和循环检查确认，避免无必要的长停顿。
+
+00:20:48.864 --> 00:21:02.304
+A falling value over several readings can reflect deteriorating perfusion, but also changes in ventilation or sampling. Compare pulse, pressure, mentation and the actual breath.
+连续下降可反映灌注恶化，也可能来自通气或采样改变。应比较脉搏、血压、意识及实际呼吸。
+
+00:21:02.304 --> 00:21:15.816
+The school references an end-tidal value above ten during CPR. Treat a poor reading as a reason to assess quality and physiology, not as a stand-alone survival prediction or termination criterion.
+学校提及 CPR 时呼气末值高于十。读数不佳应促使检查复苏质量和生理，而不能独自预测生存或决定终止。
+
+00:21:15.816 --> 00:21:29.616
+A cleft in the plateau, historically called a curare cleft, can reflect spontaneous effort during controlled ventilation or patient-ventilator interaction. It does not by itself prove a need for more sedation.
+平台切迹，历史上称 curare cleft，可能反映控制通气时自发努力或人机相互作用。它本身不能证明需要加镇静。
+
+00:21:29.616 --> 00:21:41.856
+Small regular oscillations related to cardiac activity may appear on the trace. Correlate their timing with the pulse and the patient before interpreting them as separate breaths or a major fault.
+波形上可出现与心脏活动相关的小规律振荡。应先对照脉搏时间和患者，不能直接当额外呼吸或严重故障。
+
+00:21:41.856 --> 00:21:52.992
+If there is distress, inadequate breath delivery or suspected equipment trouble, assess immediately and involve the clinician trained to manage the airway and ventilator.
+患者不适、呼吸输送不足或疑似设备故障，应立即评估，并请具备气道呼吸机管理训练的临床人员参与。
+
+00:21:52.992 --> 00:22:04.800
+The school includes these patterns as recognition knowledge. Learning the name does not authorize a student to alter ventilator settings, neuromuscular blockade or sedation independently.
+学校把这些模式纳入识别知识。会说名称，不代表学生获准自行改变呼吸机设置、肌松或镇静。
+
+00:22:04.800 --> 00:22:17.592
+Consider a drowsy patient with a normal saturation on oxygen, a weak respiratory effort and an abnormal capnogram. Saturation alone must not hide inadequate ventilation.
+设想患者吸氧血氧正常，却嗜睡、呼吸用力弱、二氧化碳图异常。不能让饱和度掩盖通气不足。
+
+00:22:17.592 --> 00:22:30.048
+In another patient, headache affects the whole household despite high ordinary saturation. The exposure pattern changes safety and care priorities before a patient CO instrument is available.
+另一患者全家头痛，却普通血氧高。即使患者 CO 仪未到，暴露模式也已经改变安全和照护优先顺序。
+
+00:22:30.048 --> 00:22:42.024
+For every case, state which evidence supports your concern and what is still uncertain. Seek the relevant clinical help, not a more impressive label unsupported by assessment.
+每个案例都应说清哪些证据支持担忧、什么仍不确定。应寻求相关临床帮助，而不是给评估不足以支持的漂亮标签。
+
+00:22:42.024 --> 00:22:54.888
+Record the findings, instrument and context, action, response and reassessment time. The next session applies the same reasoning to medication selection and manual infusion calculations.
+记录发现、仪器及背景、行动、反应和复评时间。下一讲把同样推理用于用药选择和手动滴速计算。

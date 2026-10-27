@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="720" viewBox="0 0 1160 720" role="img" aria-labelledby="title desc">
+  <title id="title">Four simple primary acid-base patterns</title>
+  <desc id="desc">Respiratory acidosis: pH down with primary PCO2 up. Respiratory alkalosis: pH up with primary PCO2 down. Metabolic acidosis: pH down with primary bicarbonate down. Metabolic alkalosis: pH up with primary bicarbonate up. Patterns are initial aids, not tests for compensation, mixed disorders or oxygen delivery.</desc>
+  <rect width="1160" height="720" rx="24" fill="#f0f5fa"/>
+  <g font-family="Arial,sans-serif" fill="#16324b">
+    <text x="44" y="57" font-size="29" font-weight="700">ROME: identify a primary direction, then keep reasoning</text>
+    <text x="44" y="94" font-size="20">Original introductory grid. Confirm sample, clinical context, units and reference first.</text>
+    <text x="276" y="143" font-size="24" font-weight="700">LOW pH (acidemia)</text>
+    <text x="740" y="143" font-size="24" font-weight="700">HIGH pH (alkalemia)</text>
+    <g stroke="#b8cddd" stroke-width="2"><rect x="206" y="166" width="432" height="174" rx="14" fill="#fff"/><rect x="664" y="166" width="452" height="174" rx="14" fill="#fff"/><rect x="206" y="366" width="432" height="174" rx="14" fill="#fff"/><rect x="664" y="366" width="452" height="174" rx="14" fill="#fff"/></g>
+    <text x="44" y="231" font-size="21" font-weight="700">RESPIRATORY</text><text x="44" y="266" font-size="20">Opposite</text>
+    <text x="44" y="432" font-size="23" font-weight="700">METABOLIC</text><text x="44" y="467" font-size="20">Equal</text>
+    <text x="229" y="208" font-size="25" font-weight="700">Respiratory acidosis</text>
+    <text x="229" y="251" font-size="24" fill="#8b3c27">pH DOWN / primary PCO2 UP</text>
+    <text x="229" y="294" font-size="19">CO2 retention; assess effective ventilation.</text>
+    <text x="688" y="208" font-size="25" font-weight="700">Respiratory alkalosis</text>
+    <text x="688" y="251" font-size="24" fill="#006c72">pH UP / primary PCO2 DOWN</text>
+    <text x="688" y="294" font-size="19">CO2 loss; do not assume benign anxiety.</text>
+    <text x="229" y="409" font-size="25" font-weight="700">Metabolic acidosis</text>
+    <text x="229" y="452" font-size="24" fill="#8b3c27">pH DOWN / primary HCO3 DOWN</text>
+    <text x="229" y="495" font-size="19">Added acid, buffer loss or renal problem.</text>
+    <text x="688" y="409" font-size="25" font-weight="700">Metabolic alkalosis</text>
+    <text x="688" y="452" font-size="24" fill="#006c72">pH UP / primary HCO3 UP</text>
+    <text x="688" y="495" font-size="19">Acid loss / relative bicarbonate increase.</text>
+    <rect x="44" y="580" width="1072" height="98" rx="14" fill="#fff1db" stroke="#d5a04a" stroke-width="2"/>
+    <text x="67" y="618" font-size="23" font-weight="700">Normal pH does not exclude a disorder. ROME is not a full analysis.</text>
+    <text x="67" y="653" font-size="19">Check compensation, possible mixed processes, oxygenation and the actual patient needs.</text>
+  </g>
+</svg>

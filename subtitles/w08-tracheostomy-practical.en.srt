@@ -1,0 +1,438 @@
+1
+00:00:00,000 --> 00:00:10,560
+The school assigns suction depth and tube-displacement learning. The
+goal is to reason safely through airway danger, not to memorize a
+universal tube-change recipe.
+
+2
+00:00:10,560 --> 00:00:21,576
+Start with responsiveness, effective breathing and immediate
+ventilation needs. A long device inventory must not delay support for
+apnea or severe distress.
+
+3
+00:00:21,576 --> 00:00:29,520
+Ask the patient or trained caregiver what is normal, where the
+emergency plan is and which equipment is personal to this airway.
+
+4
+00:00:29,520 --> 00:00:38,736
+This lesson prepares for a supervised school station. It does not
+certify suctioning or authorize routine replacement of a tracheostomy
+tube.
+
+5
+00:00:38,736 --> 00:00:48,048
+A tracheostomy is an opening into the trachea. The patient may have
+variable upper-airway patency depending on the indication and anatomy.
+
+6
+00:00:48,048 --> 00:00:57,216
+After total laryngectomy, the airway is separated from the mouth and
+nose. Ventilation through the face may not reach the lungs.
+
+7
+00:00:57,216 --> 00:01:04,752
+A cricothyrotomy is created at a different anatomical site and has
+different equipment and training requirements.
+
+8
+00:01:04,752 --> 00:01:16,536
+Ask about the operation, device and usual breathing route; look for
+reliable records or a patient-specific plan. Never label an airway
+from a quick visual assumption alone.
+
+9
+00:01:16,536 --> 00:01:26,880
+Some tracheostomy patients can breathe around the tube and through the
+upper airway; others cannot. Anatomy may also change with swelling or
+illness.
+
+10
+00:01:26,880 --> 00:01:36,072
+A patient with total laryngectomy depends on the stoma for
+ventilation. Face-mask oxygen alone does not solve a blocked stoma.
+
+11
+00:01:36,072 --> 00:01:43,008
+A speaking valve, cap, cuff, upper-airway obstruction and altered
+anatomy all affect how air moves.
+
+12
+00:01:43,008 --> 00:01:51,576
+Observe chest movement, airflow and response to support; do not assume
+that a visible stoma proves the tube is patent.
+
+13
+00:01:51,576 --> 00:02:01,056
+Not every tracheostomy has an inner cannula, and designs differ.
+Identify the actual model before attempting to remove any component.
+
+14
+00:02:01,056 --> 00:02:10,608
+The cuff is not a one-way valve and does not reliably prevent
+aspiration. Its status affects ventilation, leakage and comfort.
+
+15
+00:02:10,608 --> 00:02:20,952
+A removed inner cannula may also remove the standard ventilation
+connector on some devices. Follow the actual device design and
+emergency plan.
+
+16
+00:02:20,952 --> 00:02:32,760
+Do not inflate, deflate or remove a cuff simply because a textbook
+lists that step. The indication, training, device and current local
+procedure must all match.
+
+17
+00:02:32,760 --> 00:02:41,688
+The obstruction may be at a humidification filter, speaking valve,
+cap, connector or oxygen tubing rather than deep in the airway.
+
+18
+00:02:41,688 --> 00:02:51,024
+Ask the patient or caregiver what is normally attached and what was
+recently changed. A device may be essential to a home ventilator
+setup.
+
+19
+00:02:51,024 --> 00:02:58,896
+Check visible connections, kinks and equipment function without
+disconnecting a ventilator or device beyond your training.
+
+20
+00:02:58,896 --> 00:03:06,480
+Remove an attachment only when its purpose is understood and the
+patient-specific plan or trained procedure supports it.
+
+21
+00:03:06,480 --> 00:03:17,640
+Assess airway and breathing immediately. Look for poor chest rise,
+increased effort, noisy airflow, cyanosis or a falling level of
+responsiveness.
+
+22
+00:03:17,640 --> 00:03:26,784
+Supplemental oxygen does not correct ineffective ventilation. Use the
+appropriate trained support pathway when breaths are inadequate.
+
+23
+00:03:26,784 --> 00:03:36,864
+Use monitoring as an aid, not a substitute for the patient. A normal-
+looking number does not overrule a deteriorating level of effort or
+consciousness.
+
+24
+00:03:36,864 --> 00:03:44,160
+Ask another team member to prepare suction and the patient-specific
+backup equipment while primary support continues.
+
+25
+00:03:44,160 --> 00:03:53,904
+Ask the patient directly where possible. Some people with a
+tracheostomy communicate by voice, writing, gesture or an assistive
+device.
+
+26
+00:03:53,904 --> 00:04:03,816
+A trained caregiver may know the baseline, exact tube model, usual
+suction depth and the home emergency plan. Confirm, do not assume.
+
+27
+00:04:03,816 --> 00:04:11,016
+Locate the personal emergency kit and check that the identified
+equipment is actually available and compatible.
+
+28
+00:04:11,016 --> 00:04:20,472
+Separate the first noticed change from the presumed cause. The family
+may report a plug, but the patient still needs an independent airway
+assessment.
+
+29
+00:04:20,472 --> 00:04:29,184
+Check the suction source and tubing before the procedure. A powered
+unit that is not charged or connected is not a working backup.
+
+30
+00:04:29,184 --> 00:04:39,264
+Select the catheter using the actual tube dimensions and applicable
+training guidance. A smaller catheter is not automatically correct for
+every tube.
+
+31
+00:04:39,264 --> 00:04:50,184
+Use a premeasured tube-limited insertion depth or the patient-specific
+written depth. Never estimate an unseen carina distance from a generic
+nursing diagram.
+
+32
+00:04:50,184 --> 00:05:00,120
+Have oxygenation, monitoring and a plan for deterioration available.
+The patient can desaturate or become bradycardic during an airway
+procedure.
+
+33
+00:05:00,120 --> 00:05:09,360
+Suction may be considered when secretions are visible, audible or
+associated with impaired ventilation and the patient cannot clear them
+effectively.
+
+34
+00:05:09,360 --> 00:05:19,224
+A trained patient may recognize a familiar mucus-plug pattern early.
+Treat that history seriously while independently confirming current
+findings.
+
+35
+00:05:19,224 --> 00:05:31,368
+Routine suction can cause distress, mucosal trauma, bleeding,
+bronchospasm or hypoxia. A schedule alone is not enough reason to
+perform it in an emergency scene.
+
+36
+00:05:31,368 --> 00:05:39,744
+Explain the procedure, prepare the equipment and oxygenation plan, and
+use the least invasive effective action allowed by training.
+
+37
+00:05:39,744 --> 00:05:50,280
+The school specifically names suction depth. The safest transferable
+concept is to measure the actual tube or use a current patient-
+specific depth plan before insertion.
+
+38
+00:05:50,280 --> 00:06:00,048
+Mark the catheter at the measured endpoint so the operator can see the
+stopping limit. Do not push to resistance and then withdraw by a
+guessed amount.
+
+39
+00:06:00,048 --> 00:06:11,376
+Advance gently without applying suction during insertion. If the
+catheter does not pass to the expected tube-limited depth, stop and
+reassess obstruction or displacement.
+
+40
+00:06:11,376 --> 00:06:19,872
+A fixed number from an unrelated adult or nursing source is not a
+universal depth for a child, different tube or altered stoma.
+
+41
+00:06:19,872 --> 00:06:29,184
+Use the exact technique taught for the actual device and school
+station. This is a supervised skill, not a procedure to improvise from
+a slide.
+
+42
+00:06:29,184 --> 00:06:37,728
+Do not apply continuous suction while advancing. Advance only to the
+visible depth mark and do not force through resistance.
+
+43
+00:06:37,728 --> 00:06:46,656
+Apply suction during withdrawal if that is the station procedure. Keep
+the pass short and maintain observation of the patient throughout.
+
+44
+00:06:46,656 --> 00:06:55,536
+Reoxygenate and reassess between passes. Repeated attempts without a
+new assessment can worsen hypoxia and cause injury.
+
+45
+00:06:55,536 --> 00:07:05,856
+After the pass, compare the same signs used before it: work of
+breathing, chest movement, air entry, oxygenation and alertness.
+
+46
+00:07:05,856 --> 00:07:15,096
+If no secretion is recovered or breathing does not improve, do not
+assume the airway is clear. Recheck the device and consider other
+causes.
+
+47
+00:07:15,096 --> 00:07:22,248
+If the patient deteriorates, stop the procedure and move to the
+trained airway-support and escalation plan.
+
+48
+00:07:22,248 --> 00:07:33,264
+Record the reason for suction, measured insertion limit, response and
+any complication. Avoid recording a routine action when the depth or
+response is unknown.
+
+49
+00:07:33,264 --> 00:07:43,896
+Failure to pass can reflect a blocked tube, displaced tube, kink,
+secretions or incorrect equipment. It is not proof of only one cause.
+
+50
+00:07:43,896 --> 00:07:53,808
+Stop rather than force the catheter. Force can injure tissue or create
+a false passage, especially when the tract is new or the tube is
+displaced.
+
+51
+00:07:53,808 --> 00:08:04,104
+Check only those removable parts you are trained and authorized to
+handle. A missing connector or partially displaced outer tube can be
+mistaken for obstruction.
+
+52
+00:08:04,104 --> 00:08:14,352
+Prioritize adequate ventilation, request advanced assistance and
+transport. Do not spend repeated minutes attempting an unapproved tube
+change.
+
+53
+00:08:14,352 --> 00:08:24,312
+A recently created stoma may not have a stable tract. Replacing a tube
+through a fresh or uncertain opening can create a false passage.
+
+54
+00:08:24,312 --> 00:08:34,440
+Watch for a changed flange position, loss of expected airflow, leak,
+subcutaneous air or sudden distress after movement or coughing.
+
+55
+00:08:34,440 --> 00:08:42,432
+Do not blindly push a displaced tube back. Stop and use the patient-
+specific emergency plan with trained assistance.
+
+56
+00:08:42,432 --> 00:08:54,144
+The actual response depends on anatomy, stoma age, device, training,
+service scope and patient response; this lesson cannot substitute for
+that authorized algorithm.
+
+57
+00:08:54,144 --> 00:09:02,952
+A face mask may help a person with a tracheostomy if the upper airway
+remains patent; it may fail when the upper route is obstructed.
+
+58
+00:09:02,952 --> 00:09:10,344
+For total laryngectomy, ventilation must be directed to the stoma
+because the upper airway is disconnected.
+
+59
+00:09:10,344 --> 00:09:19,224
+Cuff inflation, deflation and tube removal change the ventilation
+route and require the actual device plan and qualified operator.
+
+60
+00:09:19,224 --> 00:09:30,096
+Assess visible chest movement and air leak with every attempt. Do not
+interpret a tight mask seal or a numerical reading as proof of
+effective ventilation.
+
+61
+00:09:30,096 --> 00:09:37,656
+DOPE can help structure troubleshooting when a ventilated patient
+suddenly worsens. It is a reminder list, not a diagnosis.
+
+62
+00:09:37,656 --> 00:09:45,816
+Check displacement and obstruction while support continues. Examine
+connections and equipment without losing the airway.
+
+63
+00:09:45,816 --> 00:09:54,696
+Pneumothorax and other clinical causes still require assessment in
+context. A tracheostomy does not make every decline a tube fault.
+
+64
+00:09:54,696 --> 00:10:04,704
+Use the list to prompt the next check, then reassess whether the
+patient improves. A memorable mnemonic is not a substitute for a
+current service pathway.
+
+65
+00:10:04,704 --> 00:10:14,472
+A five-year-old with an established tracheostomy becomes less
+interactive. The caregiver reports that breathing has become noisy
+over several minutes.
+
+66
+00:10:14,472 --> 00:10:24,768
+The crew sees secretions at the opening and checks chest rise, oxygen
+equipment and the patient-specific plan. One member maintains the
+primary assessment.
+
+67
+00:10:24,768 --> 00:10:37,512
+For the classroom branch, the station supervisor supplies the measured
+suction depth and appropriate catheter. The learner demonstrates a
+brief, gentle, marked-depth pass on a manikin.
+
+68
+00:10:37,512 --> 00:10:48,192
+The mannequin improves only after a small secretion is cleared. State
+the reassessment findings, what would trigger escalation and what you
+would report to the receiving team.
+
+69
+00:10:48,192 --> 00:10:55,008
+Report whether the patient normally uses the stoma, mouth or both for
+breathing and how they usually communicate.
+
+70
+00:10:55,008 --> 00:11:03,432
+Give the time of change, witnessed symptoms and relevant device event.
+Distinguish direct observation from caregiver report.
+
+71
+00:11:03,432 --> 00:11:13,728
+Describe the equipment checked, whether a catheter passed, the
+measured depth used and the response. Do not collapse the sequence to
+“suctioned, stable.”
+
+72
+00:11:13,728 --> 00:11:21,912
+Include the patient-specific plan, caregiver expertise, equipment sent
+with the patient and any requested advanced follow-up.
+
+73
+00:11:21,912 --> 00:11:32,472
+The assigned nursing chapters discuss specimen collection, assessment
+and tube care. Those chapters are educational sources, not paramedic
+scope documents.
+
+74
+00:11:32,472 --> 00:11:42,912
+Some emergency tube changes are designed for specifically trained
+family caregivers with a personal plan. That does not authorize an
+untrained responder to imitate them.
+
+75
+00:11:42,912 --> 00:11:53,472
+Use the actual BC service procedure, school skill sheet, device
+directions and instructor when the required depth, pressure or route
+is not stated here.
+
+76
+00:11:53,472 --> 00:12:02,808
+Do not use this slide deck as a bedside operational checklist. The
+patient and local protocol take priority over a generic classroom aid.
+
+77
+00:12:02,808 --> 00:12:09,528
+First state the airway anatomy and normal route, using confirmed
+history rather than guessing from the stoma.
+
+78
+00:12:09,528 --> 00:12:18,576
+Next name the observed problem and immediate support need. Avoid
+diagnosing a mucus plug just because the caregiver used that phrase.
+
+79
+00:12:18,576 --> 00:12:27,264
+If suction is indicated, explain how the actual depth limit is
+obtained and how you will stop if resistance or deterioration occurs.
+
+80
+00:12:27,264 --> 00:12:36,384
+Finally name the trained clinician, local service pathway and
+escalation resource. If one is missing, do not invent the missing
+permission.

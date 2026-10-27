@@ -1,0 +1,917 @@
+1
+00:00:00,000 --> 00:00:13,200
+This session develops the advanced respiratory skills in the school
+reading table. The diagnostic lecture explained gases; now decide what
+the patient actually needs before the next laboratory result arrives.
+
+2
+00:00:13,200 --> 00:00:27,072
+Connect mechanism to a practical action: open and maintain the airway,
+improve effective airflow, support gas exchange and protect
+circulation. A better oxygen display is only one observation.
+
+3
+00:00:27,072 --> 00:00:37,320
+We will rehearse bronchodilator delivery, the full CPAP screen, PEEP
+during assisted ventilation and the decision to stop an ineffective or
+unsafe treatment.
+
+4
+00:00:37,320 --> 00:00:49,368
+Use the named local procedure and the actual equipment instructions
+together. The reading provides source detail; physical assembly and
+competence still require the school device and instructor.
+
+5
+00:00:49,368 --> 00:01:00,576
+Assess patency and the ability to maintain and protect the airway.
+Speech, secretions, vomit and responsiveness can immediately change
+the support options.
+
+6
+00:01:00,576 --> 00:01:12,264
+Look at rate and depth together, listen for useful air entry and
+assess effort. A very rapid shallow pattern may move little effective
+air despite looking busy.
+
+7
+00:01:12,264 --> 00:01:22,224
+Check circulation while respiratory care proceeds. Positive pressure,
+medication and the underlying illness may all affect pressure and
+perfusion.
+
+8
+00:01:22,224 --> 00:01:33,672
+Treat immediate threats, request appropriate help and plan conveyance
+without making the distressed patient walk. Do not finish a long
+history before providing necessary support.
+
+9
+00:01:33,672 --> 00:01:45,840
+Respiratory distress describes increased work and difficulty.
+Respiratory failure means the required oxygenation or ventilation is
+not being maintained; the two can overlap.
+
+10
+00:01:45,840 --> 00:01:56,712
+A tiring patient may become less noisy and less active because effort
+is failing. Falling rate and a quieter chest are not automatically
+signs of recovery.
+
+11
+00:01:56,712 --> 00:02:09,456
+Look for worsening responsiveness, shallow movement, poor air entry
+and deteriorating perfusion. These can demand assisted ventilation
+even if supplemental oxygen has improved saturation.
+
+12
+00:02:09,456 --> 00:02:19,992
+Reassess after every meaningful change. A patient who initially
+qualified for CPAP can leave that branch when ventilation or airway
+protection deteriorates.
+
+13
+00:02:19,992 --> 00:02:32,040
+Obstructed airways increase resistance and make expiration difficult.
+Bronchospasm, edema, mucus and lost elastic support can contribute in
+different proportions.
+
+14
+00:02:32,040 --> 00:02:43,728
+Pulmonary edema adds fluid to the gas-exchange region and increases
+work. Positive pressure can help a selected patient, but the
+circulation still needs careful assessment.
+
+15
+00:02:43,728 --> 00:02:56,904
+Embolism, pneumonia, pneumothorax, anemia and metabolic acidosis can
+also present with breathlessness. Neither wheeze nor crackles
+identifies one disease by itself.
+
+16
+00:02:56,904 --> 00:03:06,528
+State the leading mechanism and a dangerous alternative. This keeps
+treatment patient-specific when cardiac and respiratory disease
+coexist.
+
+17
+00:03:06,528 --> 00:03:18,288
+Asthma combines variable bronchoconstriction with inflammation and
+mucus. A bronchodilator may quickly address one component without
+instantly clearing all obstruction.
+
+18
+00:03:18,288 --> 00:03:29,832
+Expiration becomes prolonged and the next inspiration can begin before
+emptying is complete. Explain this mechanism instead of merely
+memorizing an increased-work label.
+
+19
+00:03:29,832 --> 00:03:39,648
+Wheeze requires moving air. A severe presentation with a silent chest
+or barely audible air entry can be more dangerous than a loud wheeze.
+
+20
+00:03:39,648 --> 00:03:51,912
+Use brief assessment, prompt appropriate treatment and repeated
+functional reassessment. Do not assume every ambulance asthma call has
+the same severity or a proven status diagnosis.
+
+21
+00:03:51,912 --> 00:04:05,184
+Prior intensive care, intubation or repeated severe exacerbations
+raise concern. Ask these questions early without requiring a
+breathless patient to recite a complete medical biography.
+
+22
+00:04:05,184 --> 00:04:15,216
+Find out how much rescue medicine was used and whether it helped.
+Increasing use with shrinking benefit is more useful than the name of
+an inhaler alone.
+
+23
+00:04:15,216 --> 00:04:26,520
+Ask about fever, exposures, empty devices and barriers to treatment.
+Use neutral language rather than assuming missed treatment reflects
+rebellion or indifference.
+
+24
+00:04:26,520 --> 00:04:36,312
+Obtain relevant action-plan and treatment-limit information when
+available. These inform the pathway but do not replace assessment of
+the current threat.
+
+25
+00:04:36,312 --> 00:04:48,720
+Emphysematous destruction reduces elastic recoil and gas-exchange
+surface. Chronic bronchitic disease adds inflammation and mucus; many
+patients have overlapping features.
+
+26
+00:04:48,720 --> 00:04:58,608
+A new stressor acts on limited reserve. Infection is common, but a
+cardiac event, pneumothorax or equipment problem may be contributing.
+
+27
+00:04:58,608 --> 00:05:10,200
+Rapid breathing does not exclude dangerous hypercapnia. Small
+ineffective breaths, dead space, obstruction and fatigue can reduce
+useful alveolar ventilation.
+
+28
+00:05:10,200 --> 00:05:22,584
+Ask about usual exercise tolerance, saturation, oxygen and support.
+The important story is how the current function differs, not whether
+the patient matches a body-shape stereotype.
+
+29
+00:05:22,584 --> 00:05:34,560
+Known COPD does not exclude acute coronary disease or pulmonary edema.
+Chest discomfort may be absent, and breathlessness may be the dominant
+cardiac symptom.
+
+30
+00:05:34,560 --> 00:05:48,000
+Sudden deterioration, unequal air entry, trauma or new pressure
+changes should reopen the differential. Do not keep increasing
+positive pressure without considering pneumothorax and perfusion.
+
+31
+00:05:48,000 --> 00:05:58,368
+Deep rapid breathing can be compensation for metabolic acidosis.
+Suppressing it or assuming anxiety because the rate is high can worsen
+the underlying problem.
+
+32
+00:05:58,368 --> 00:06:08,976
+Check the equipment path as well as disease. A disconnected tube and a
+severe illness can coexist; repairing one does not prove the other has
+resolved.
+
+33
+00:06:08,976 --> 00:06:19,176
+The checked COPD guidance generally targets eighty-eight to ninety-two
+percent. Patient baseline and the actual clinical state provide
+additional context.
+
+34
+00:06:19,176 --> 00:06:29,184
+This is different from the school post-ROSC target of ninety-four to
+ninety-eight. Targets are not interchangeable simply because both
+involve breathlessness.
+
+35
+00:06:29,184 --> 00:06:41,880
+Never deny needed oxygen or assisted ventilation because of a
+simplistic hypoxic-drive explanation. Treat immediate hypoxemia while
+monitoring the whole patient and titrating appropriately.
+
+36
+00:06:41,880 --> 00:06:52,920
+Saturation does not measure carbon-dioxide clearance. A rising oxygen
+number with worsening fatigue needs a new ventilation decision, not
+congratulations.
+
+37
+00:06:52,920 --> 00:07:03,984
+Poor perfusion, movement, a poor probe fit or cold extremities can
+compromise oximetry. Check signal quality and whether the displayed
+pulse plausibly matches the patient.
+
+38
+00:07:03,984 --> 00:07:16,056
+A reliable saturation still does not describe hemoglobin amount or
+effective blood flow. An anemic or shocked patient can have inadequate
+delivery despite an acceptable percentage.
+
+39
+00:07:16,056 --> 00:07:28,896
+Capnography adds information about ventilation, perfusion and the
+sampling path. A sudden change must be linked to the patient and
+circuit rather than read as a stand-alone diagnosis.
+
+40
+00:07:28,896 --> 00:07:37,944
+Do not postpone necessary support while trying to perfect an
+instrument reading. Treat the credible clinical threat while
+troubleshooting safely.
+
+41
+00:07:37,944 --> 00:07:49,104
+With obstruction, exhalation may remain incomplete when the next
+breath begins. Repeated excessive breaths can progressively increase
+trapped volume and pressure.
+
+42
+00:07:49,104 --> 00:07:58,632
+Raised intrathoracic pressure can impair venous return, lower pressure
+and make further ventilation difficult. Barotrauma is another concern.
+
+43
+00:07:58,632 --> 00:08:12,336
+Use effective airway positioning, seal and appropriate assistance,
+allowing exhalation and reassessing response. More force and a faster
+rate are not automatic answers to every poor oxygen number.
+
+44
+00:08:12,336 --> 00:08:24,480
+The rate depends on age, spontaneous effort, arrest state and the
+authorized pathway. Do not copy an isolated old textbook rate as a
+universal rule for severe COPD.
+
+45
+00:08:24,480 --> 00:08:35,256
+When breathing is inadequate, support ventilation promptly through the
+appropriate airway pathway. Do not wait for a steroid, a gas result or
+a better CPAP fit.
+
+46
+00:08:35,256 --> 00:08:45,720
+Position the airway, clear obstruction and use indicated adjuncts. A
+second trained provider can help maintain the seal and airway while
+the other manages the bag.
+
+47
+00:08:45,720 --> 00:08:57,072
+Deliver effective breaths with visible chest movement, without
+excessive volume or rate. Check that the chest can fall and air can
+leave, particularly in obstruction.
+
+48
+00:08:57,072 --> 00:09:09,048
+Reassess oxygen supply, connections, air entry and circulation. An
+added valve cannot repair an obstructed airway, empty cylinder or poor
+basic ventilation.
+
+49
+00:09:09,048 --> 00:09:20,328
+Salbutamol relaxes bronchial smooth muscle through beta-two
+stimulation. Its effect is relevant when bronchospasm contributes, not
+every cause of breathlessness.
+
+50
+00:09:20,328 --> 00:09:32,400
+Ipratropium reduces muscarinic bronchoconstrictor activity and
+complements salbutamol. The local acute regimen uses one dose rather
+than an automatic dose with every repeat.
+
+51
+00:09:32,400 --> 00:09:44,304
+Dexamethasone addresses inflammation over hours. A patient in
+immediate ventilatory failure needs support now, not observation until
+the anti-inflammatory effect peaks.
+
+52
+00:09:44,304 --> 00:09:56,256
+Mechanism guides the reassessment: ask whether air movement, effort,
+symptoms and perfusion improved, and whether an adverse effect or
+alternative diagnosis is emerging.
+
+53
+00:09:56,256 --> 00:10:06,960
+Confirm the medicine and strength, expiry and remaining doses.
+Propellant or a shaking sound alone does not prove useful medicine
+remains.
+
+54
+00:10:06,960 --> 00:10:17,544
+Prepare the actual inhaler and spacer as instructed. Check the
+mouthpiece and connection, and explain the inhalation technique before
+dispensing the dose.
+
+55
+00:10:17,544 --> 00:10:27,744
+Use one actuation at a time with the device-specific inhalation
+method. Do not discharge several puffs together or leave a prepared
+cloud waiting for minutes.
+
+56
+00:10:27,744 --> 00:10:39,720
+Observe whether the patient can actually inhale the dose and reassess
+response. If effort or consciousness fails, change the support plan
+rather than repeating an ineffective ritual.
+
+57
+00:10:39,720 --> 00:10:51,960
+Check the product, dose and units before adding medication. Micrograms
+and milligrams are not interchangeable, and premixed products must be
+identified rather than guessed.
+
+58
+00:10:51,960 --> 00:11:03,288
+Use the actual nebulizer operating flow and a suitable patient
+interface. Mist escaping while the patient turns away does not
+establish the intended lung dose.
+
+59
+00:11:03,288 --> 00:11:15,720
+Apply indicated infection-control precautions. An MDI with spacer is
+preferred in some infectious circumstances, but the choice still
+depends on appropriate delivery and the actual pathway.
+
+60
+00:11:15,720 --> 00:11:26,424
+Monitor oxygenation and ventilation throughout treatment. The
+nebulizer label does not guarantee a universal inspired oxygen
+percentage or adequate breathing.
+
+61
+00:11:26,424 --> 00:11:37,752
+The current adult monograph lists five milligrams nebulized, repeated
+back-to-back as needed, or four one-hundred-microgram actuations with
+spacer, repeated as needed.
+
+62
+00:11:37,752 --> 00:11:48,960
+The route-specific dose must match the actual product and authorized
+indication. Do not substitute the chronic home frequency or an adult
+dose for a pediatric calculation.
+
+63
+00:11:48,960 --> 00:12:01,776
+Look for improved air movement and reduced effort, but also tremor,
+tachycardia, dysrhythmia or paradoxical worsening. Beta-two
+selectivity does not mean zero systemic effect.
+
+64
+00:12:01,776 --> 00:12:13,776
+High-dose nebulized treatment for hyperkalemia is separately listed at
+ACP level. It is not a second PCP bronchospasm dose available just
+because the medication is familiar.
+
+65
+00:12:13,776 --> 00:12:24,600
+The checked adult local dose is five hundred micrograms nebulized, or
+eight twenty-microgram actuations by MDI, totaling one hundred sixty
+micrograms.
+
+66
+00:12:24,600 --> 00:12:34,584
+It is an adjunct single dose. Salbutamol may be repeated as indicated,
+but this does not authorize repeated ipratropium with each cycle.
+
+67
+00:12:34,584 --> 00:12:44,808
+Pediatric dose and consultation requirements are different, and the
+source excludes neonates under thirty days. Do not let the adult card
+erase those gates.
+
+68
+00:12:44,808 --> 00:12:57,000
+Protect the eyes and consider relevant glaucoma and urinary-retention
+cautions. Report actual response or paradoxical worsening rather than
+assuming more medicine is always needed.
+
+69
+00:12:57,000 --> 00:13:10,224
+The checked monograph considers dexamethasone for known asthma or COPD
+with inadequate improvement after salbutamol and ipratropium. Confirm
+the actual indication, not wheeze alone.
+
+70
+00:13:10,224 --> 00:13:24,168
+Adult PCP dosing is eight milligrams intravenously or orally, with
+oral preferred and prior CliniCall required. Verify the vial
+concentration rather than assuming all stock has one strength.
+
+71
+00:13:24,168 --> 00:13:36,648
+Clinical effect is delayed: up to two hours intravenously and two to
+six hours orally in the monograph. Continue necessary respiratory
+support while the drug has not yet acted.
+
+72
+00:13:36,648 --> 00:13:50,592
+Check contraindications, cautions and the patient context. A steroid
+does not make CPAP safe for a failing airway, and a suspected
+infection is not a blanket ban on every COPD steroid plan.
+
+73
+00:13:50,592 --> 00:14:03,792
+Severe obstruction with exhaustion, deteriorating consciousness or
+very poor air entry requires urgent escalation. Do not wait for
+saturation to become extreme before recognizing failing function.
+
+74
+00:14:03,792 --> 00:14:13,944
+Continue effective airway and ventilation support while arranging
+appropriate help and conveyance. Avoid unnecessary exertion or lengthy
+testing.
+
+75
+00:14:13,944 --> 00:14:46,584
+For selected severe asthma or impending respiratory arrest, the
+checked adult PCP epinephrine entry is zero point five milligrams
+intramuscularly every five to twenty minutes, with prior CliniCall
+recommended. Verify the actual indication and product concentration.
+This is not the anaphylaxis repeat schedule or an intravenous arrest
+dose. Pediatric weight-based dosing is separately stated in the
+bilingual reading; the adult repeat interval is not automatically
+imported.
+
+76
+00:14:46,584 --> 00:14:59,208
+IV epinephrine, magnesium and intubation are different advanced
+actions. Understanding why they may be used does not grant a PCP a new
+medication or airway permission.
+
+77
+00:14:59,208 --> 00:15:11,568
+Pulmonary edema impairs gas exchange and increases respiratory work.
+Ask whether a failing pump or another process explains the
+presentation, and check pressure and perfusion.
+
+78
+00:15:11,568 --> 00:15:21,816
+A tolerated upright position can help an appropriate patient, but do
+not impose it on an unconscious or shocked person regardless of airway
+and circulation needs.
+
+79
+00:15:21,816 --> 00:15:48,360
+Selected CPAP can recruit lung and reduce work. C06 places pulmonary-
+edema nitroglycerin under advanced care paramedic interventions. A PCP
+must not create a new pulmonary-edema nitrate order merely by passing
+the separate acute-coronary-syndrome pressure screen. Indication,
+role, exclusions and consultation all matter; crackles alone are not
+enough.
+
+80
+00:15:48,360 --> 00:15:58,896
+Do not copy an older automatic fluid, furosemide or morphine list.
+Mechanism, current physiology, role and response determine the safe
+pathway.
+
+81
+00:15:58,896 --> 00:16:08,544
+First ask whether spontaneous breathing is adequate enough for a
+noninvasive CPAP strategy. An oxygen deficit alone does not answer
+that question.
+
+82
+00:16:08,544 --> 00:16:18,384
+When breathing is inadequate, use effective assisted ventilation
+through the appropriate airway pathway. CPAP does not provide missing
+rescue breaths.
+
+83
+00:16:18,384 --> 00:16:28,512
+If hypoxemia persists despite good bag-mask technique and an
+appropriate airway, consider the separate PEEP procedure only after
+its own exclusions are checked.
+
+84
+00:16:28,512 --> 00:16:38,856
+Every branch includes repeated assessment and a stop plan. A device
+selected ten minutes ago is not guaranteed to be correct after the
+patient changes.
+
+85
+00:16:38,856 --> 00:16:49,032
+CPAP maintains positive airway pressure while the patient breathes
+spontaneously. It can keep more alveoli available and reduce the work
+of a selected patient.
+
+86
+00:16:49,032 --> 00:17:00,720
+It is not the same as bilevel pressure support, and it does not
+deliver mandatory breaths to an apneic person. Names containing
+positive pressure are not interchangeable modes.
+
+87
+00:17:00,720 --> 00:17:10,968
+Positive pressure can reduce venous return and blood pressure. A
+treatment that helps oxygenation may become unsafe if circulation
+deteriorates.
+
+88
+00:17:10,968 --> 00:17:21,864
+Explain the intended benefit and the risk before fitting the mask. A
+successful procedure includes physiological benefit and tolerability,
+not merely a tight seal.
+
+89
+00:17:21,864 --> 00:17:30,432
+The checked entry screen requires a patient at least thirteen years
+old who is awake, follows commands and can maintain an open airway.
+
+90
+00:17:30,432 --> 00:17:43,752
+It also lists all three respiratory findings: rate above twenty-four,
+saturation below ninety-four percent on oxygen and accessory-muscle
+use. Any one finding alone is not the full screen.
+
+91
+00:17:43,752 --> 00:17:56,904
+Check the actual indication and operator training requirement. Prior
+CliniCall is recommended in PR09; that recommendation is distinct from
+a mandatory medication consultation gate.
+
+92
+00:17:56,904 --> 00:18:07,656
+Eligibility is only the beginning. The contraindication screen,
+patient consent, equipment and reassessment plan must also be
+satisfactory before starting.
+
+93
+00:18:07,656 --> 00:18:19,584
+Exclude apnea, hypoventilation and impending failure with slowing
+shallow effort or falling consciousness. CPAP is not a substitute for
+effective assisted ventilation.
+
+94
+00:18:19,584 --> 00:18:31,584
+Vomiting or aspiration risk and inability to protect the airway can
+make a strapped mask unsafe. Prepare the alternative rather than
+hoping a better oxygen reading will cancel the risk.
+
+95
+00:18:31,584 --> 00:18:42,792
+The listed exclusions include systolic pressure below ninety,
+suspected pneumothorax, traumatic respiratory distress, tracheostomy
+and inability to obtain a proper fit.
+
+96
+00:18:42,792 --> 00:18:54,360
+Age and ability to follow commands remain relevant. Repeat the screen
+as the patient changes; absence of a contraindication at the start
+does not guarantee continued safety.
+
+97
+00:18:54,360 --> 00:19:05,256
+Explain what the mask will feel like, obtain appropriate consent and
+choose a tolerated position. Record baseline respiratory function,
+pressure and perfusion.
+
+98
+00:19:05,256 --> 00:19:17,328
+Identify the actual kit and check its assembly instructions,
+connections, valve, mask and pressure-flow chart. Do not transfer a
+remembered flow setting from another device.
+
+99
+00:19:17,328 --> 00:19:27,912
+Estimate oxygen availability for treatment and transport, including
+anticipated flow changes. A plan that exhausts the cylinder before
+arrival is incomplete.
+
+100
+00:19:27,912 --> 00:19:38,784
+Have suction, effective bag-mask support, monitoring and a clear
+escalation plan ready. Assign who will manage the airway if CPAP must
+be removed immediately.
+
+101
+00:19:38,784 --> 00:19:51,288
+Start with the procedure-specified low setup for the actual device.
+PR09 describes five liters per minute if possible, otherwise six; the
+generated pressure depends on the equipment.
+
+102
+00:19:51,288 --> 00:20:03,984
+Let the awake patient hold the mask initially when feasible, then
+progress to the indicated securing method. Coaching and consent can
+improve tolerance more safely than immediate force.
+
+103
+00:20:03,984 --> 00:20:14,928
+Check fit and leaks without over-tightening. Follow the actual bonnet
+or strap design rather than improvising a way that creates pressure
+injury or blocks access.
+
+104
+00:20:14,928 --> 00:20:26,400
+Immediately reassess breathing, responsiveness, saturation, pressure
+and perfusion. If the patient cannot tolerate or safely use the
+interface, change the plan.
+
+105
+00:20:26,400 --> 00:20:38,712
+The saved examination sequence begins at five centimeters of water
+pressure. Use the actual manufacturer relationship between flow and
+pressure rather than equating liters with centimeters.
+
+106
+00:20:38,712 --> 00:20:51,720
+The current PR09 escalation wording uses saturation remaining below
+ninety-two percent. That differs from the entry criterion below
+ninety-four on oxygen; keep the two decisions distinct.
+
+107
+00:20:51,720 --> 00:21:03,432
+When indicated, titrate through the device chart in the stated
+pressure steps, reassessing after changes. Flow adjustments may change
+both pressure and delivered oxygen.
+
+108
+00:21:03,432 --> 00:21:12,600
+The treatment maximum is ten centimeters of water. Higher settings
+printed on an equipment table do not authorize exceeding the clinical
+ceiling.
+
+109
+00:21:12,600 --> 00:21:23,256
+Assess air movement and work, not just saturation. The intended
+outcome is improved effective function without new fatigue or loss of
+airway protection.
+
+110
+00:21:23,256 --> 00:21:33,912
+Continue to check responsiveness and ability to follow commands. New
+drowsiness can move the patient out of the CPAP branch even if the
+mask remains well sealed.
+
+111
+00:21:33,912 --> 00:21:45,048
+Repeat pressure and perfusion assessment because positive pressure can
+reduce preload. Do not accept a rising oxygen number as permission to
+ignore falling circulation.
+
+112
+00:21:45,048 --> 00:21:56,328
+Trace the device and oxygen path, preserving access to the patient.
+Document actual observations and settings so the next team can
+understand both benefit and risk.
+
+113
+00:21:56,328 --> 00:22:06,960
+Deteriorating breathing, consciousness, pressure or airway protection
+requires immediate reassessment. Do not tighten the mask and wait for
+the number to recover.
+
+114
+00:22:06,960 --> 00:22:17,688
+Remove an unsafe CPAP interface and provide appropriate airway and
+assisted-ventilation support. Keep suction and a trained second
+provider available where possible.
+
+115
+00:22:17,688 --> 00:22:27,480
+PEEP is a separate choice with separate exclusions. A patient failing
+CPAP does not automatically qualify for every form of additional
+positive pressure.
+
+116
+00:22:27,480 --> 00:22:39,576
+Escalate and communicate the actual change, previous settings, stop
+time and current support. Preserve the sequence so a harmful treatment
+is not inadvertently restarted.
+
+117
+00:22:39,576 --> 00:22:52,008
+PR10 considers PEEP when saturation remains below ninety despite good
+bag-mask technique and an appropriate airway. Fix basic ventilation
+problems before assuming more pressure is needed.
+
+118
+00:22:52,008 --> 00:23:07,992
+Screen the full exclusions, including cardiac arrest, suspected
+pneumothorax, traumatic respiratory arrest and the specified pressure
+limits. The exact-age-twelve wording gap requires clarification, not
+an invented pediatric rule.
+
+119
+00:23:07,992 --> 00:23:20,616
+Use the proper exhaust valve, start at five and increase by two point
+five if indicated, to no more than ten. Maintain effective seal,
+appropriate ventilation and time for exhalation.
+
+120
+00:23:20,616 --> 00:23:34,344
+Monitor pressure and oxygenation; remove for the specified
+hypotension, a new contraindication or equipment issue. CliniCall is
+required when hypoxemia persists despite maximal oxygen.
+
+121
+00:23:34,344 --> 00:23:44,304
+The entry and escalation thresholds serve different questions. Do not
+replace both with a new halfway number or select whichever permits the
+intervention you want.
+
+122
+00:23:44,304 --> 00:23:57,744
+PR10 excludes older-than-twelve patients at systolic pressure at or
+below ninety, while its removal sentence says below ninety. Record the
+wording difference and do not invent a permissive loophole.
+
+123
+00:23:57,744 --> 00:24:07,608
+The school oxygen target, COPD target and resuscitation targets also
+have different contexts. State the named pathway whenever using a
+number.
+
+124
+00:24:07,608 --> 00:24:20,664
+If school device instructions or an assessed rubric are missing,
+preserve that gap. A precise theory rehearsal is useful, but it is not
+evidence that an unseen assembly step was taught correctly.
+
+125
+00:24:20,664 --> 00:25:04,536
+Use WHIPS to focus the severe-bronchospasm history: worst episode,
+hospital visits, ICU stays, puffer requirements and steroid
+requirements. Ask questions answerable with a word or head movement
+while support continues. That history helps anticipate deterioration
+rather than merely assigning a severity label. Salbutamol may briefly
+provoke cough or louder sounds; distinguish this from falling air
+entry, exhaustion or reduced awareness. A rapidly worsening patient
+needs immediate reassessment and support, not a rule to wait until
+every nebulizer finishes. Follow the indicated refusal process if
+conveyance is declined.
+
+126
+00:25:04,536 --> 00:25:46,296
+The additional PR09 notes matter: never use a CPAP mask as a bag-mask
+ventilation interface, and do not delay indicated medication just to
+apply CPAP. An initial transient saturation fall does not justify
+ignoring clinical deterioration. The source names an extra 7-8 L/min
+when its connected nebulizer arrangement is used; this is accessory-
+specific guidance, not a universal pressure conversion or permission
+to exceed the pressure ceiling. Verify the actual kit and gas supply.
+A DNR or MOST does not by itself rule out CPAP for symptom relief;
+reconcile goals, consent and eligibility.
+
+127
+00:25:46,296 --> 00:26:00,456
+At a cycling rest area, a fifty-six-year-old with known obstructive
+disease is breathless with wheeze and marked accessory effort. Start
+the primary assessment and appropriate treatment while obtaining a
+brief history.
+
+128
+00:26:00,456 --> 00:26:12,792
+After oxygen, saturation rises, but the patient becomes drowsier,
+takes shallower breaths and has less audible air entry. Those changes
+do not demonstrate recovery.
+
+129
+00:26:12,792 --> 00:26:24,360
+Name the threat as failing effective ventilation and possible
+exhaustion, while considering competing causes. Recheck airway,
+circulation and actual treatment delivery.
+
+130
+00:26:24,360 --> 00:26:35,184
+Provide appropriate assisted support and escalation rather than
+applying CPAP to someone who no longer meets the functional screen. Do
+not wait for a confirmatory blood gas.
+
+131
+00:26:35,184 --> 00:26:49,392
+A seventy-four-year-old at a community workshop is awake with severe
+work, wet lung sounds and high initial pressure. Pulmonary edema is a
+leading concern, but the full assessment and differential still
+matter.
+
+132
+00:26:49,392 --> 00:27:00,696
+Assume the complete CPAP screen is met and the actual trained device
+is used. Record the initial state, settings and treatment times while
+primary care continues.
+
+133
+00:27:00,696 --> 00:27:09,816
+Later the saturation is better, but pressure and responsiveness fall.
+A benefit in one variable does not make the overall treatment safe.
+
+134
+00:27:09,816 --> 00:27:24,312
+Reassess the patient, device, pressure effect and alternative causes,
+stop unsafe support and use the appropriate rescue pathway. Report
+what changed rather than describing CPAP as successful from saturation
+alone.
+
+135
+00:27:24,312 --> 00:27:36,528
+If support appears to fail, look at the patient first and provide
+necessary rescue ventilation or oxygen. A prolonged equipment
+investigation must not leave the patient unsupported.
+
+136
+00:27:36,528 --> 00:27:46,944
+Trace the oxygen source, regulator, set flow and available reserve. A
+sound of gas or a previously full cylinder is not a current supply
+check.
+
+137
+00:27:46,944 --> 00:27:58,968
+Follow the circuit to the patient, checking connections, valves, leaks
+and obstruction using the actual instructions. Do not improvise an
+unverified valve arrangement under pressure.
+
+138
+00:27:58,968 --> 00:28:10,680
+After a correction, verify both equipment function and clinical
+response. Document the fault and action, and arrange appropriate
+equipment follow-up without losing patient care.
+
+139
+00:28:10,680 --> 00:28:22,512
+Begin a rehearsal by naming the current threat, leading mechanism and
+dangerous alternative. State the indication and every relevant
+exclusion before touching the pressure device.
+
+140
+00:28:22,512 --> 00:28:37,248
+Identify actual equipment, oxygen supply and monitoring, then
+verbalize the starting setting, maximum and rescue plan. For medicine,
+state product, route, dose, unit and consultation gate.
+
+141
+00:28:37,248 --> 00:28:48,264
+After the intervention, say what improved, what could worsen and what
+else the presentation could be. Use observed function instead of a
+declaration that the procedure is done.
+
+142
+00:28:48,264 --> 00:28:59,712
+Rehearse a deterioration and stop the unsafe branch promptly. This
+prepares the reasoning for the school station; it does not substitute
+for observed hands-on device performance.
+
+143
+00:28:59,712 --> 00:29:09,672
+Start with who the patient is and why the respiratory problem is
+urgent. Give the baseline and current function, not just an asthma or
+COPD label.
+
+144
+00:29:09,672 --> 00:29:19,656
+Report actual drug doses, routes and times, and the device, settings
+and pressure changes. Distinguish what was administered from what was
+only considered.
+
+145
+00:29:19,656 --> 00:29:32,592
+Describe air movement, work, responsiveness, oxygenation and perfusion
+before and after treatment. Include any deterioration and why support
+was stopped or changed.
+
+146
+00:29:32,592 --> 00:29:44,832
+End with current support, the next capability needed and a confirmed
+receiving plan. Preserve uncertainty honestly so the next team does
+not inherit a false final diagnosis.
+
+147
+00:29:44,832 --> 00:29:54,192
+You should now explain why obstruction can cause air trapping and why
+saturation, rate and sound alone cannot establish adequate
+ventilation.
+
+148
+00:29:54,192 --> 00:30:05,160
+Demonstrate the reasoning behind effective inhaled delivery and the
+checked local adult regimens. Keep pediatric, consultation and
+advanced-role differences visible.
+
+149
+00:30:05,160 --> 00:30:14,232
+Reconstruct the complete CPAP screen, device-linked titration and stop
+plan, then explain the separate PEEP indication and exclusions.
+
+150
+00:30:14,232 --> 00:30:26,280
+Use the bilingual reading and original cases to practise decisions,
+not recite fragments. The next workshop applies the same quality-first
+reasoning to complex twelve-lead findings.

@@ -1,0 +1,729 @@
+1
+00:00:00,000 --> 00:00:13,080
+The school weekend combines advanced respiratory reading with complex
+cardiac and multisystem practice. This rehearsal brings those
+requirements together rather than replacing them with another
+unrelated chapter list.
+
+2
+00:00:13,080 --> 00:00:25,008
+Use the earlier diagnostic, respiratory and twelve-lead sessions as
+working tools. Practise what you assess, say, do and reassess when new
+information appears.
+
+3
+00:00:25,008 --> 00:00:37,320
+The original cases here follow the school objectives without
+reproducing a school quiz or submitted response. Use a tabletop,
+training equipment or an observed classroom exercise as appropriate.
+
+4
+00:00:37,320 --> 00:00:48,960
+Treat immediate threats while explaining uncertainty. The purpose is
+executable clinical reasoning, not reciting a string of diagnosis
+names after the patient deteriorates.
+
+5
+00:00:48,960 --> 00:01:02,424
+AP, FON and MSN explain gas transport and acid-base processes. Use
+them to describe a pattern and its limits, not to turn every low pH
+into one metabolic diagnosis.
+
+6
+00:01:02,424 --> 00:01:15,096
+BCEHS and BCPEG supply separately identified procedure and examination
+wording. Keep different revisions, targets and eligibility decisions
+visible rather than averaging them.
+
+7
+00:01:15,096 --> 00:01:27,984
+CV and PHARM connect conduction, ischemia and medication risk; CNS
+links fluid/electrolyte assessment, respiratory support and infusion
+safety to the same patient.
+
+8
+00:01:27,984 --> 00:01:42,000
+CPSC and VSM teach equipment and trustworthy observations; PMHN
+prevents diagnostic overshadowing. Nancy remains the main textbook
+bridge, not a substitute for those eleven assigned rows.
+
+9
+00:01:42,000 --> 00:01:51,792
+Before class, explain the advanced ECG patterns without claiming new
+LBBB alone proves MI or every high-lateral event is an equivalent.
+
+10
+00:01:51,792 --> 00:02:03,144
+Reconstruct the complete CPAP and PEEP screens and stop plans. If the
+patient no longer meets the functional requirements, change support
+rather than defend the first choice.
+
+11
+00:02:03,144 --> 00:02:13,464
+Explain why saturation, carbon dioxide and pressure describe different
+parts of the system. A good value in one part cannot guarantee the
+others are safe.
+
+12
+00:02:13,464 --> 00:02:23,712
+Practise a complete alert with a timer, and practise a deterioration
+interrupting your plan. Do not rehearse only the version in which
+every treatment works.
+
+13
+00:02:23,712 --> 00:03:08,088
+Apply the assigned counting technique to a suitable observation, not
+as a delay in an emergency. One breath is the entire inspiration-
+expiration cycle. In a regular resting pattern the source counts
+thirty seconds and doubles it; with an irregular rhythm it counts a
+full minute, and it uses a full minute for infants. Observe chest and
+abdominal movement, symmetry, depth, sounds and effort. Explain and
+document relevant crying, movement, pain or activity rather than
+calling that an unqualified resting value. In the weekly deteriorating
+patient, recognize ineffective breathing and support it immediately
+instead of finishing a routine count while the patient fails.
+
+14
+00:03:08,088 --> 00:03:19,200
+The team lead states the main threat and immediate priorities. Shared
+understanding is more useful than several providers independently
+pursuing their favorite diagnosis.
+
+15
+00:03:19,200 --> 00:03:27,528
+Assign airway and breathing support explicitly so it does not
+disappear while an ECG is printed or an alert is delivered.
+
+16
+00:03:27,528 --> 00:03:38,760
+Assign circulation, hemorrhage and the usable ECG with clear feedback.
+Ask for the actual finding and time, not merely whether the task is
+done.
+
+17
+00:03:38,760 --> 00:03:48,624
+Use closed-loop communication for changes and requests. When a
+provider notices a discrepant trend, the team must hear and reassess
+it promptly.
+
+18
+00:03:48,624 --> 00:04:00,696
+The primary threat is the problem most immediately endangering airway,
+breathing or circulation. It is not automatically the oldest diagnosis
+or the most dramatic ECG label.
+
+19
+00:04:00,696 --> 00:04:11,016
+A complicating condition changes reserve or the safety of treatment.
+Chronic cardiac disease may complicate hemorrhage without making blood
+loss unimportant.
+
+20
+00:04:11,016 --> 00:04:21,336
+The cause of an incident is another question. A medical event might
+precede a collision, yet uncontrolled traumatic bleeding may be the
+immediate priority afterward.
+
+21
+00:04:21,336 --> 00:04:29,520
+State each separately and update the priority when observations
+change. More than one problem can need parallel care.
+
+22
+00:04:29,520 --> 00:04:39,768
+Before a planned intervention, state the working explanation and a
+dangerous alternative. The school wants this reasoning verbalized, not
+kept invisible.
+
+23
+00:04:39,768 --> 00:04:49,104
+Choose an alternative that could change care, such as hemorrhage
+versus pump failure, pneumothorax versus edema or hypoventilation
+versus anxiety.
+
+24
+00:04:49,104 --> 00:04:59,016
+Name a useful discriminator and the associated next action. A long
+unranked list that cannot change the plan is not a good differential
+check.
+
+25
+00:04:59,016 --> 00:05:10,032
+Do not let the spoken check postpone immediate hemorrhage control,
+ventilation or arrest care. Parallel reasoning and rescue are safer
+than a ceremonial pause.
+
+26
+00:05:10,032 --> 00:05:20,328
+First state what actually changed in breathing, mentation, perfusion
+or symptoms. A device setting change is not itself a patient response.
+
+27
+00:05:20,328 --> 00:05:30,528
+Next compare that observation with what the treatment should have
+changed and over what time. A slow anti-inflammatory effect should not
+be expected in seconds.
+
+28
+00:05:30,528 --> 00:05:41,736
+Ask what worsened, including pressure after positive pressure or
+altered mentation despite improved saturation. An improved comfort
+goal can coexist with physiological harm.
+
+29
+00:05:41,736 --> 00:05:52,464
+Then make the next decision explicit: continue, adjust, stop or
+escalate. Reassessment only counts when the finding can influence
+care.
+
+30
+00:05:52,464 --> 00:06:03,768
+A sixty-six-year-old at a community repair workshop has been
+resuscitated by a trained team. Assume ROSC is confirmed and
+appropriate ongoing support is in place.
+
+31
+00:06:03,768 --> 00:06:17,520
+At the first reference point, ETCO2 is thirty-six, saturation ninety-
+seven percent and pressure one hundred four over sixty-eight. Record
+the actual airway and ventilation state with those values.
+
+32
+00:06:17,520 --> 00:06:28,320
+A single acceptable snapshot does not guarantee the next minute.
+Continue serial assessment and prepare the appropriate post-arrest ECG
+and conveyance pathway.
+
+33
+00:06:28,320 --> 00:06:38,880
+Assign who watches the trend and who announces a change. The most
+important information may be the difference from this baseline, not a
+new isolated threshold.
+
+34
+00:06:38,880 --> 00:06:51,216
+Several minutes later ETCO2 falls to eighteen, saturation remains
+ninety-six and pressure is seventy-eight over forty-four.
+Responsiveness and perfusion also worsen.
+
+35
+00:06:51,216 --> 00:07:02,736
+The acceptable oxygen percentage must not hide the circulatory threat.
+Reassess airway, effective breathing, pulse and the possibility of re-
+arrest promptly.
+
+36
+00:07:02,736 --> 00:07:13,224
+Check current support and the sampling circuit while necessary care
+continues. Treat the credible physiological deterioration rather than
+only troubleshooting a number.
+
+37
+00:07:13,224 --> 00:07:25,272
+Do not reflexively ventilate faster because CO2 is low. If pulmonary
+blood flow has fallen, more ventilation can further impair the balance
+and miss the real problem.
+
+38
+00:07:25,272 --> 00:07:37,296
+ETCO2 depends on carbon-dioxide production, delivery to the lungs,
+effective ventilation and measurement. A sudden fall does not identify
+one mechanism by itself.
+
+39
+00:07:37,296 --> 00:07:48,048
+Poor perfusion can reduce carbon dioxide reaching the lungs. In this
+case, falling pressure and responsiveness make that branch
+particularly urgent.
+
+40
+00:07:48,048 --> 00:08:01,680
+Changes in ventilation or the airway/circuit can also lower the
+result. Inspect the waveform, chest movement, air entry, support
+settings and connections rather than assuming unchanged function.
+
+41
+00:08:01,680 --> 00:08:14,448
+If arrest recurs, use the actual arrest pathway immediately. If a
+pulse remains, support the actual shock/respiratory problem and
+escalate without waiting for another gas.
+
+42
+00:08:14,448 --> 00:08:25,728
+For the school Wednesday exercise, state its ninety-four-to-ninety-
+eight-percent target. Do not describe a saturation of one hundred as
+the goal simply because ROSC occurred.
+
+43
+00:08:25,728 --> 00:08:38,040
+The checked N03 has different wording within its essentials and
+detailed interventions. Those differences are retained in the Week
+Five reading, not averaged into a new invented range.
+
+44
+00:08:38,040 --> 00:08:49,272
+Correct immediate hypoxemia and use reliable monitoring to titrate
+through the actual pathway. Avoid unnecessary excessive oxygen without
+withholding needed treatment.
+
+45
+00:08:49,272 --> 00:09:00,696
+A target saturation cannot establish adequate ventilation, hemoglobin
+carriage or circulation. In Case A, a good percentage does not solve
+the falling pressure.
+
+46
+00:09:00,696 --> 00:09:12,840
+Use appropriate effective ventilation and avoid excess rate or volume.
+An ETCO2 target assumes a valid measurement and enough pulmonary
+perfusion to interpret it.
+
+47
+00:09:12,840 --> 00:09:26,136
+ETCO2 and arterial carbon dioxide are not always interchangeable,
+especially when perfusion or gas exchange changes. A field end-tidal
+number is not an arterial blood gas.
+
+48
+00:09:26,136 --> 00:09:39,624
+Assess pressure and the broader perfusion picture. The checked N03
+uses different pressure and carbon-dioxide wording in general versus
+advanced sections; keep the actual role-specific pathway explicit.
+
+49
+00:09:39,624 --> 00:09:50,760
+Do not invent an automatic fluid or vasopressor order from a classroom
+target. Treat the likely mechanism, check response and coordinate the
+appropriate next capability.
+
+50
+00:09:50,760 --> 00:10:01,560
+Coordinate the post-ROSC ECG while continuing physiological support.
+Do not stop watching pressure and breathing because the team has
+reached an electrical task.
+
+51
+00:10:01,560 --> 00:10:16,632
+Record acquisition timing relative to ROSC and important
+interventions. The saved school and current N03 timing language is not
+identical; use the named pathway rather than inventing a new combined
+clock.
+
+52
+00:10:16,632 --> 00:10:28,392
+Review the whole trace for ischemia and rhythm, including posterior
+clues, high lateral and conduction-related limitations. New LBBB alone
+is still not diagnostic.
+
+53
+00:10:28,392 --> 00:10:39,288
+Communicate concerning findings and instability promptly. Do not wait
+for troponin or a perfectly certain culprit vessel before requesting
+the appropriate receiving capability.
+
+54
+00:10:39,288 --> 00:10:51,024
+Choose movement and conveyance through the actual pathway while
+continuing support. A transport plan must preserve access to the
+airway and the ability to respond to re-arrest.
+
+55
+00:10:51,024 --> 00:11:02,496
+Check oxygen reserve, power, connections and monitoring before moving,
+then recheck afterward. Motion can disturb both treatment delivery and
+the apparent measurements.
+
+56
+00:11:02,496 --> 00:11:14,328
+Secure lines without traction, keep required drainage orientation and
+have the appropriate backup ready. A neatly strapped patient can still
+have a disconnected respiratory circuit.
+
+57
+00:11:14,328 --> 00:11:23,184
+Update the receiving team if support requirements or stability change.
+Give the current problem, not only the condition when the first alert
+was sent.
+
+58
+00:11:23,184 --> 00:11:34,848
+A sixty-one-year-old driver is injured in a high-energy collision. A
+witness is unsure whether the driver became unwell before impact, and
+a cardiac history is reported.
+
+59
+00:11:34,848 --> 00:11:45,552
+There is major external bleeding and poor perfusion now. Control the
+immediate traumatic threat while arranging appropriate airway,
+breathing and circulation care.
+
+60
+00:11:45,552 --> 00:11:57,264
+A cardiac event could have triggered the incident or coexist, but it
+does not explain away the blood loss. The cause of the crash and the
+present priority are distinct questions.
+
+61
+00:11:57,264 --> 00:12:06,288
+Use parallel team tasks to obtain relevant history and a useful ECG
+without delaying hemorrhage control or necessary conveyance.
+
+62
+00:12:06,288 --> 00:12:16,872
+Use the established trauma approach, scene safety and appropriate
+resources. Do not narrow the encounter to an ECG because the patient
+has a cardiac history.
+
+63
+00:12:16,872 --> 00:12:27,408
+Control catastrophic bleeding and support airway, breathing and
+circulation. A spoken differential should happen alongside rescue, not
+postpone it.
+
+64
+00:12:27,408 --> 00:12:39,096
+Consider hidden hemorrhage, chest injury and other traumatic causes of
+shock through the actual indications and role. Positive pressure and
+medications can change risk in an injured patient.
+
+65
+00:12:39,096 --> 00:12:50,664
+Reassess the response and coordinate the receiving capability for the
+combined problem. Do not perform an unnecessary prolonged
+investigation to prove which event occurred first.
+
+66
+00:12:50,664 --> 00:13:01,368
+Suppose a useful trace raises ischemic concern. Preserve and
+communicate it while continuing trauma care; neither evidence stream
+should erase the other.
+
+67
+00:13:01,368 --> 00:13:13,584
+Before a cardiac medicine, check actual indications and exclusions,
+including active bleeding, pressure, volume status and the relevant
+interaction or consultation requirements.
+
+68
+00:13:13,584 --> 00:13:22,536
+Do not reflexively give a nitrate to a poorly perfused bleeding
+patient or suppress compensatory tachycardia because the monitor rate
+is high.
+
+69
+00:13:22,536 --> 00:13:33,648
+State what is immediately primary, what is complicating and what
+remains uncertain. Coordinate the actual combined destination and
+escalation pathway.
+
+70
+00:13:33,648 --> 00:13:42,792
+Ask brief questions that can change care, including symptom timing,
+collapse before impact, medications and relevant baseline function.
+
+71
+00:13:42,792 --> 00:13:54,408
+Use witnesses, records or device information when available, but
+identify the source. A family report and a measured observation are
+not the same kind of evidence.
+
+72
+00:13:54,408 --> 00:14:04,920
+State uncertainty accurately: unknown anticoagulant use is not no
+anticoagulant, and no prior ECG is not a definitely new bundle block.
+
+73
+00:14:04,920 --> 00:14:15,720
+Do not search belongings or pursue a complete history while immediate
+threats remain unsupported. Hand over what is missing so the next team
+can continue the investigation.
+
+74
+00:14:15,720 --> 00:14:25,776
+A patient may be anxious because breathing or circulation is failing.
+Respectful engagement is useful, but it is not proof that the cause is
+psychological.
+
+75
+00:14:25,776 --> 00:14:37,368
+New altered mentation requires the current medical assessment,
+including relevant oxygenation, ventilation, glucose, perfusion and
+medicine/substance context.
+
+76
+00:14:37,368 --> 00:14:48,624
+Use the assigned PMHN framework to separate observation from diagnosis
+and avoid overshadowing. DSM classification does not replace urgent
+physical care.
+
+77
+00:14:48,624 --> 00:15:01,176
+Calmer, cooperative or refusing are descriptions, not automatic
+statements about stability or decision-making capacity. Assess those
+questions through the actual clinical and legal process.
+
+78
+00:15:01,176 --> 00:15:50,352
+Keep the named U.S. organizations attached to their textbook
+functions. ANA develops general professional nursing standards; APNA
+and ISPN address psychiatric-mental-health nursing standards. NCSBN
+brings nursing regulators together, while the actual jurisdictional
+board enforces its Nurse Practice Act and makes licensure or
+disciplinary decisions. NLN emphasizes nursing education; AACN
+develops education competencies, and CCNE, ACEN and CNEA are named
+accreditation bodies. A professional association, school accreditor,
+employer and statutory regulator are not interchangeable. These names
+help you understand the assigned reading, not identify the authority
+governing a BC paramedic.
+
+79
+00:15:50,352 --> 00:16:36,960
+Match the six nursing-process terms to the six CJMM steps: assessment
+to recognizing cues; diagnosis to analyzing cues; outcomes
+identification to prioritizing hypotheses; planning to generating
+solutions; implementation to taking action; evaluation to evaluating
+outcomes. This is the source table's comparison, not a rule that every
+real decision fits one box. Coordination of care and health teaching
+sit within implementation. In an original breathlessness rehearsal,
+collect the changing effort and pressure, compare explanations,
+prioritize the immediate threat, plan support, act and check the
+response; restart the cycle when observations disagree.
+
+80
+00:16:36,960 --> 00:17:30,432
+Recall the six QSEN areas with their practical meaning: person-
+centered care hears the person's goals; teamwork shares a discrepant
+finding; evidence-based practice checks a claim; quality improvement
+examines a repeatable failure; safety prevents avoidable harm;
+informatics preserves reliable information. The reading also names HHS
+for broad U.S. health programs, CMS for Medicare/Medicaid
+administration, Healthy People 2030 for population goals, OSHA for
+worker safety and the Joint Commission for organizational quality
+accreditation. Its patient-safety examples include two identifiers,
+handover, medication checks, infection prevention, falls and alarm
+safety. They are source-context examples, not a current BC rulebook or
+a claim that a historical annual goal list is still unchanged.
+
+81
+00:17:30,432 --> 00:18:17,856
+Read the DSM structure as a reference framework: introductory purpose
+and limits, diagnostic criteria grouped by related disorders,
+assessment measures and models, cultural context, and supporting
+appendices or codes. A criterion set is more than a category name: the
+actual required symptoms, duration, impairment and exclusions must be
+checked by an appropriately trained clinician. This assigned chapter
+explains the framework and gives selected categories; it does not
+print every disorder's complete diagnostic criteria. Recognizing
+panic-like symptoms in a scenario therefore does not justify inventing
+a criterion checklist or dismissing hypoxemia, ischemia, intoxication
+or another concurrent cause.
+
+82
+00:18:17,856 --> 00:19:03,288
+At the literal page ending, older adults may present differently and
+need an individualized baseline. Bereavement, mobility loss,
+isolation, cognitive change, mood, sleep, appetite and substance or
+medication history can matter; age alone proves none of them. New
+inattention or confusion during breathlessness needs assessment for
+acute medical causes rather than automatic attribution to dementia or
+depression. Preserve the patient's own report, observed changes,
+communication needs and collateral history, then hand over what is
+known and uncertain. The assigned page ends while this life-stage
+discussion continues; no unseen continuation is claimed read here.
+
+83
+00:19:03,288 --> 00:19:59,760
+The wound-care literal ending teaches skin-edge support, patient
+education, hand hygiene and documentation after removal. Explain
+gentle cleaning and drying, protection from strain and recognition of
+separation, redness, swelling, discharge or other concerning changes.
+The source expects adhesive strips to loosen naturally and gives one-
+to-three weeks as an example, not a universal product-removal
+deadline. Advice about fluid intake, activity and bathing must fit the
+actual wound instructions and cardiac/renal restrictions. The next
+checklist begins continuous/blanket stitch removal with identity,
+consent, healing-risk/PPE checks and a valid order; this assigned page
+does not contain the remaining removal sequence. Do not promise a
+painless procedure or imply independent PCP suture-removal authority.
+
+84
+00:19:59,760 --> 00:20:49,752
+An implanted venous port has a reservoir beneath the skin joined to a
+catheter; it is not simply a visible peripheral cannula. Access uses
+the correct non-coring needle and specifically trained staff. Confirm
+the actual device, intended route, access status, reason and insertion
+history; the source also mentions devices terminating outside the
+vascular system, so a port-shaped object alone does not establish an
+IV route. Check dressing, securement, pain/redness/swelling, connected
+cap and tubing, each infusate, fever and respiratory/circulatory
+signs. This supports safe observation and handover, not puncturing an
+unfamiliar port or starting central-line therapy after reading a
+paragraph.
+
+85
+00:20:49,752 --> 00:21:34,776
+A multilumen catheter contains separate internal paths with different
+exit locations. Trace each labelled external line to its actual lumen
+and prescribed infusate; assess each lumen separately. Separation
+inside the catheter is not proof that every drug pair, connector or
+shared segment is compatible. The source explanation of dilution in
+blood does not replace a real compatibility check. During the weekly
+transfer, a secure-looking triple-lumen line may still have one
+disconnected, clamped or wrongly connected branch. Protect the
+existing system, avoid traction and report the affected path rather
+than assuming the whole catheter is working because another channel
+flows.
+
+86
+00:21:34,776 --> 00:22:23,760
+The source contrasts an open distal tip with a pressure-activated
+valved design: in the illustrated valve, neutral pressure closes it,
+aspiration opens it inward and infusion pressure opens it outward. It
+associates open-ended devices with clamp and lock requirements and a
+low-dose heparin example, while its valved example needs no clamp.
+These are design examples, not universal instructions for every
+catheter, connector or implanted port. Confirm the manufacturer and
+agency-specific clamp/flush/lock sequence and solution before touching
+the system; do not add heparin, omit a required clamp or force a
+resistant flush from this comparison table alone. An untrained
+operator should protect and escalate a compromised line.
+
+87
+00:22:23,760 --> 00:22:34,656
+Before moving, trace each relevant line and identify what it delivers
+or drains. Plan oxygen supply and airway access for the actual move.
+
+88
+00:22:34,656 --> 00:22:45,744
+Assign responsibility for devices and avoid traction, kinks or
+unnecessary disconnection. The patient is not safely moved merely
+because the stretcher is locked.
+
+89
+00:22:45,744 --> 00:22:56,952
+Afterward repeat the primary observations and validate monitor
+signals. A new poor number may be artifact, but it may also be the
+first evidence of a real change.
+
+90
+00:22:56,952 --> 00:23:07,008
+Treat credible threats while troubleshooting and record the fault,
+correction and clinical response. Do not hide the event by deleting an
+inconvenient reading.
+
+91
+00:23:07,008 --> 00:23:16,584
+Use the school sixty-second target for a complete message, not a
+rushed inventory. Lead with the patient and immediate combined threat.
+
+92
+00:23:16,584 --> 00:23:26,664
+Give the important mechanism, symptom timing, current physiology and
+interpretable ECG concern. Distinguish a witness report from a
+confirmed cause.
+
+93
+00:23:26,664 --> 00:23:36,216
+Report treatment actually provided and the response, including
+continuing deterioration. Do not imply a drug was given because it was
+considered.
+
+94
+00:23:36,216 --> 00:23:45,912
+State ETA and the capability needed, then confirm the receiving plan.
+Keep the detailed chronology available for the fuller handover.
+
+95
+00:23:45,912 --> 00:23:58,512
+Receiving team, training unit Alpha with a sixty-one-year-old driver
+after a high-energy collision. We have controlled major external
+bleeding, but the patient remains poorly perfused.
+
+96
+00:23:58,512 --> 00:24:13,296
+Current pressure is eighty-six over fifty, pulse one hundred twenty
+and saturation ninety-five on supplemental oxygen. A useful twelve-
+lead raises lateral ischemic concern; the pre-impact history remains
+uncertain.
+
+97
+00:24:13,296 --> 00:24:25,992
+Airway and ventilation are being supported as indicated, with repeated
+primary assessment. We are continuing hemorrhage and perfusion care
+without assuming that the ECG explains all shock.
+
+98
+00:24:25,992 --> 00:24:38,952
+Estimated arrival is six minutes. We request the appropriate trauma
+capability with urgent cardiac review. Please confirm the receiving
+plan; we will update you immediately if support needs change.
+
+99
+00:24:38,952 --> 00:24:48,648
+Record actual times for symptoms, ROSC, observations and treatment
+rather than reconstructing a neat but fictional sequence later.
+
+100
+00:24:48,648 --> 00:25:01,824
+Preserve ECGs, sampling context and monitoring limitations. A venous
+oxygen number or poor waveform must not become an unquestioned
+arterial or reliable result in handover.
+
+101
+00:25:01,824 --> 00:25:11,112
+Document the working explanation, dangerous alternative, important
+consultation and why a treatment was withheld, stopped or changed.
+
+102
+00:25:11,112 --> 00:25:22,056
+Finish with the patient response, current support and transfer of
+responsibility. Do not mark an unseen device checkoff or unperformed
+school skill as completed.
+
+103
+00:25:22,056 --> 00:25:33,072
+Reconstruct the actual timeline using observations and records.
+Separate a technical setup success from a clinical response and from
+observed hands-on competence.
+
+104
+00:25:33,072 --> 00:25:44,256
+Identify where the team anchored, lost a monitoring task or failed to
+hear a change. Include system and communication contributors rather
+than blaming the patient.
+
+105
+00:25:44,256 --> 00:25:55,896
+Select one measurable improvement, such as an earlier trend callout or
+a more complete sixty-second alert. A faster message is not an
+improvement if it omits the main threat.
+
+106
+00:25:55,896 --> 00:26:06,144
+Retest the changed process with a new variation. Actual compression,
+device fit and procedural competence still need the school observer
+and real training equipment.
+
+107
+00:26:06,144 --> 00:26:16,080
+You should now connect reliable diagnostics, acid-base patterns,
+respiratory support and advanced ECG concern to one changing patient.
+
+108
+00:26:16,080 --> 00:26:25,944
+Explain the primary versus complicating problem, verbalize a useful
+What Else and evaluate what changed, what should change and what got
+worse.
+
+109
+00:26:25,944 --> 00:26:37,008
+Practise the original CO2-fall and medical-trauma sequences with the
+bilingual reading, then deliver an accurate timed alert without
+abandoning primary care.
+
+110
+00:26:37,008 --> 00:26:50,928
+The remaining source gaps are explicitly recorded, including original
+school slides and device rubrics. The next week follows the school
+medical-neurological, endocrine, sepsis and gastrointestinal
+requirements.

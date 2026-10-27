@@ -1,0 +1,72 @@
+1
+00:00:00,000 --> 00:00:24,216
+The school reading index names eleven Week 15 rows: homeostasis, BCEHS
+A05, BCPEG abbreviations/load/transport, hypertension/encephalopathy,
+scope/resource coordination, fall prevention,
+leadership/collaboration, triage pacing, legal considerations and
+emergency measurement order.
+
+2
+00:00:24,216 --> 00:00:40,128
+Nancy Caroline Canadian eighth edition is an additional learner-
+confirmed exam text. Its selected Chapter 50 MCI/incident-command
+material supports the week, but it is not a twelfth school row and
+cannot replace the listed books.
+
+3
+00:00:40,128 --> 00:00:59,064
+The school PDFs now support the eleven connected readers below. Their
+coverage follows the actual assigned ranges and named topics, not just
+the short labels in the index. Fundamentals covers both complete
+spans: evidence-based research and collaboration, then leadership and
+management.
+
+4
+00:00:59,064 --> 00:01:24,768
+Two page locators still cannot be verified: cardiovascular page two
+hundred thirty-nine and BCPEG page one hundred forty-nine. Study the
+actual hypertension chapter and the verified abbreviations and
+transport pages, but do not treat those as proof that the missing
+pages were found. The CPSC reader separately explains literal transfer
+pages and the named fall-prevention section.
+
+5
+00:01:24,768 --> 00:01:41,544
+For a physiology row, write the feedback mechanism and one observable
+system change. For an operations row, write the role, report and
+patient-flow purpose. For a legal row, record the jurisdiction and
+current authority before applying it.
+
+6
+00:01:41,544 --> 00:01:54,720
+This matters especially for MCI: an old generic algorithm or a nursing
+role description is not the same as the current BCEHS job aid or PCP
+licence. Keep the source named beside the note.
+
+7
+00:01:54,720 --> 00:02:11,424
+MCI studies may describe tourniquets, airway actions, transport
+systems, nursing assessment and hospital distribution. A reading
+assignment alone does not authorize an individual action, broaden a
+licence or override the current incident plan.
+
+8
+00:02:11,424 --> 00:02:25,152
+Use the current Emergency Medical Assistants Regulation, BCEHS
+guidance and service procedures for operational boundaries. The
+school’s timed skill is a learning target, not permission for
+unsupervised practice.
+
+9
+00:02:25,152 --> 00:02:48,360
+The learner-confirmed Nancy Canadian eighth edition indexes Chapter
+50, Medical Incident Command, with sections on disasters, MCI, ICS,
+paramedic response, medical incident command and triage. The supplied
+PDF corpus supports Chapter 50 at physical PDF pages 4155-4194.
+
+10
+00:02:48,360 --> 00:03:03,936
+Use that chapter for the broader logic of coordination, roles, tagging
+and dynamic reassessment. Older textbook language may use different
+triage labels or thresholds; the current BCEHS adult and pediatric
+charts govern the skill practice.

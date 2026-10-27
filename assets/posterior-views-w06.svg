@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Supplemental left posterior views</title>
+  <desc id="desc">Schematic posterior view with V7 at the left posterior axillary line, V8 at the left midscapular line and V9 at the left paraspinal border, aligned horizontally as specified in the trained reference.</desc>
+  <rect width="1200" height="680" rx="24" fill="#101c2d"/>
+  <text x="48" y="57" font-family="Arial,sans-serif" font-size="30" font-weight="bold" fill="#f3f7ff">Add a posterior view; preserve the standard ECG</text>
+  <text x="48" y="94" font-family="Arial,sans-serif" font-size="21" fill="#b7c9e2">Schematic back view. Confirm actual landmarks and the specified horizontal level.</text>
+  <path d="M395 145L395 190Q345 205 285 230L232 286L220 465L260 478L280 336L300 550Q500 600 700 550L720 336L740 478L780 465L768 286L715 230Q655 205 605 190L605 145" fill="#21374f" stroke="#90a8c4" stroke-width="3"/>
+  <path d="M500 200L500 562" stroke="#9bafc8" stroke-width="3" stroke-dasharray="8 9"/>
+  <path d="M357 268Q323 300 365 369L416 313ZM643 268Q677 300 635 369L584 313Z" fill="none" stroke="#68839f" stroke-width="3"/>
+  <path d="M260 390L704 390" stroke="#74dbc3" stroke-width="3" stroke-dasharray="8 7"/>
+  <g fill="#74dbc3" stroke="#101c2d" stroke-width="4"><circle cx="288" cy="390" r="13"/><circle cx="375" cy="390" r="13"/><circle cx="470" cy="390" r="13"/></g>
+  <g font-family="Arial,sans-serif" font-size="25" font-weight="bold" fill="#e4fff8"><text x="269" y="434">V7</text><text x="355" y="434">V8</text><text x="450" y="434">V9</text></g>
+  <text x="308" y="514" font-family="Arial,sans-serif" font-size="20" fill="#b7c9e2">Patient left</text>
+  <text x="563" y="514" font-family="Arial,sans-serif" font-size="20" fill="#b7c9e2">Patient right</text>
+  <rect x="820" y="170" width="332" height="340" rx="18" fill="#233a56"/>
+  <g font-family="Arial,sans-serif" fill="#f3f7ff"><text x="845" y="215" font-size="25" font-weight="bold">Left posterior landmarks</text><text x="845" y="266" font-size="22">V7: posterior axillary line</text><text x="845" y="315" font-size="22">V8: midscapular line</text><text x="845" y="364" font-size="22">V9: paraspinal border</text><text x="845" y="422" font-size="21" fill="#c4d6ef">Label repositioned cables.</text><text x="845" y="460" font-size="21" fill="#c4d6ef">Keep both recording times.</text></g>
+  <text x="600" y="636" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#a9bad0">Original landmark aid. Not a photograph, interspace-counting guide or device-specific checkoff.</text>
+</svg>

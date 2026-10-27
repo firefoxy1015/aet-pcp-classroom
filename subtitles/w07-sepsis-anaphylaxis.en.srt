@@ -1,0 +1,998 @@
+1
+00:00:00,000 --> 00:00:13,920
+The school Saturday covers sepsis recognition and anaphylaxis, while
+Wednesday emphasizes early maternal sepsis and useful differential
+checks. This workshop joins those tasks through clinical decisions.
+
+2
+00:00:13,920 --> 00:00:24,216
+Both conditions can impair vascular tone, filling and tissue
+perfusion. Similar-looking shock does not mean that the first cause-
+specific treatment is the same.
+
+3
+00:00:24,216 --> 00:00:35,160
+We will distinguish screening from diagnosis, recognize danger before
+a late pressure collapse, and practise prompt IM epinephrine when
+anaphylaxis is indicated.
+
+4
+00:00:35,160 --> 00:00:47,880
+The original cases are rehearsal, not school assessment answers. Use
+the paired main-text and assigned examination reading without blending
+old and current instructions into one invented protocol.
+
+5
+00:00:47,880 --> 00:00:59,016
+An infection can be localized, but a dysregulated host response can
+injure organs beyond the source. You do not need proof that organisms
+are circulating everywhere.
+
+6
+00:00:59,016 --> 00:01:11,664
+Sepsis concerns life-threatening organ dysfunction related to that
+response. New confusion, worsening breathing or poor perfusion may be
+more important than the temperature alone.
+
+7
+00:01:11,664 --> 00:01:23,712
+Fever is not required, and the cause is not restricted to gram-
+negative bacteria. A culture result is usually unavailable in the
+field and is not a prerequisite for clinical concern.
+
+8
+00:01:23,712 --> 00:01:35,568
+A suspected source plus otherwise unexplained dysfunction needs timely
+evaluation. Continue to consider a noninfectious cause rather than
+using the sepsis label to close reasoning.
+
+9
+00:01:35,568 --> 00:01:46,680
+Vasodilation increases vascular capacity and can reduce effective
+pressure and return. Capillary leakage moves plasma fluid out of the
+circulation into tissues.
+
+10
+00:01:46,680 --> 00:01:58,080
+Microvascular distribution and oxygen use may be impaired even when a
+cuff pressure is not yet critically low. Myocardial dysfunction can
+further complicate the circulation.
+
+11
+00:01:58,080 --> 00:02:09,456
+Edema does not prove the vascular space is well filled. At the same
+time, a poorly perfused edematous patient is not automatically a
+candidate for unlimited fluid.
+
+12
+00:02:09,456 --> 00:02:20,424
+This is a mechanism for reassessment, not a rigid warm-then-cold shock
+timetable. Use the actual function, flow clues and response to guide
+the next decision.
+
+13
+00:02:20,424 --> 00:02:30,552
+Ask what the patient could do yesterday and what changed today. New
+confusion or inability to manage usual tasks can be a meaningful early
+change.
+
+14
+00:02:30,552 --> 00:02:44,472
+Assess breathing rate, depth, effort, air movement and oxygenation,
+not only saturation. Organ dysfunction can present as a respiratory
+problem before hypotension is obvious.
+
+15
+00:02:44,472 --> 00:02:56,160
+Compare peripheral perfusion, pulses and pressure trends. A warm
+appearance does not establish safety, and cool or mottled skin is not
+a required late-stage sequence.
+
+16
+00:02:56,160 --> 00:03:09,336
+Reduced urine output can add concern, but not every AKI is oliguric
+and a field estimate is imperfect. Preserve the history and
+uncertainty rather than claiming a laboratory diagnosis.
+
+17
+00:03:09,336 --> 00:03:19,080
+The school specifically asks you to recognize early SIRS findings.
+Learn the criteria accurately and say which observations are actually
+available.
+
+18
+00:03:19,080 --> 00:03:30,816
+SIRS can occur with infection, but also with trauma, burns or
+pancreatitis. Two inflammatory findings do not by themselves prove the
+infectious cause or severity.
+
+19
+00:03:30,816 --> 00:03:40,872
+The Nancy SIRS-plus-infection formula is historical diagnostic
+wording. It should not replace current recognition of infection-
+associated organ dysfunction.
+
+20
+00:03:40,872 --> 00:03:51,432
+Use the exercise to notice change earlier, not to wait until two
+perfect boxes or a laboratory result are available before addressing a
+deteriorating patient.
+
+21
+00:03:51,432 --> 00:03:59,544
+The directly read Nancy criteria include temperature above thirty-
+eight or below thirty-six, and heart rate above ninety per minute.
+
+22
+00:03:59,544 --> 00:04:11,184
+The respiratory criterion is a rate above twenty or arterial carbon
+dioxide below thirty-two. An end-tidal reading is not automatically
+the same as that arterial criterion.
+
+23
+00:04:11,184 --> 00:04:23,064
+The book white-cell line is above twelve or below four times ten to
+the ninth per liter. Other standard versions may add immature cells;
+never invent an unavailable field count.
+
+24
+00:04:23,064 --> 00:04:34,368
+State the observed components and whether the historical two-or-more
+screen is met. Missing data remain unknown, and the result still needs
+cause and organ-function assessment.
+
+25
+00:04:34,368 --> 00:04:46,008
+A low score cannot safely overrule new dysfunction or a worrying
+trend. A high score may be caused by another disease and is not an
+automatic sepsis diagnosis.
+
+26
+00:04:46,008 --> 00:04:58,440
+The selected twenty-twenty-six SSC guidance supports standardized
+prehospital screening and cautions against sole qSOFA use for hospital
+screening. It does not turn qSOFA into a rule-out.
+
+27
+00:04:58,440 --> 00:05:09,648
+Likewise, one normal lactate or biomarker does not prove absence of
+disease. A raised value can reflect more than one mechanism and
+requires interpretation.
+
+28
+00:05:09,648 --> 00:05:18,336
+If the patient worries you, repeat the assessment, seek support and
+communicate the concern even when the formal score seems reassuring.
+
+29
+00:05:18,336 --> 00:05:31,320
+In the intended adult population, use the approved chart and measure
+each physiological component. Include oxygen use and the correct
+saturation scale rather than calculating from an incomplete row.
+
+30
+00:05:31,320 --> 00:05:41,952
+New confusion is a major finding even if the patient opens eyes and
+talks. Do not call the consciousness score normal merely because
+conversation is possible.
+
+31
+00:05:41,952 --> 00:05:55,152
+A single component scoring three can matter even when the total is not
+extreme. The scoring and response principles from Week One remain,
+with local service actions distinguished from hospital staffing
+intervals.
+
+32
+00:05:55,152 --> 00:06:06,072
+Record the component values with the total so the receiving team can
+interpret the change. A score without measurements, time or treatment
+context is weak communication.
+
+33
+00:06:06,072 --> 00:06:19,968
+The original RCP recommendations exclude children under sixteen and
+pregnant patients, while a FAQ discusses a twenty-week boundary. That
+wording difference is not proof of universal obstetric validation.
+
+34
+00:06:19,968 --> 00:06:30,456
+K zero two uses broader all-patient wording. Do not resolve the
+difference by inventing a low-score clearance for a pregnant or
+recently postpartum patient.
+
+35
+00:06:30,456 --> 00:06:42,792
+The source tool reserves saturation scale two for the appropriate
+clinician-selected hypercapnic respiratory-failure context. It is not
+automatically selected from every COPD label.
+
+36
+00:06:42,792 --> 00:06:54,576
+Use the actual local maternity assessment and consultation process.
+Physiology, source symptoms, organ function and clinical concern
+remain essential regardless of the score.
+
+37
+00:06:54,576 --> 00:07:06,216
+Check glucose in suspected sepsis and altered function. Treat
+confirmed hypoglycemia through the actual airway-safe pathway, then
+repeat glucose and the clinical assessment.
+
+38
+00:07:06,216 --> 00:07:15,720
+A high glucose without known diabetes may be a stress clue, but it
+does not identify infection or eliminate DKA and other alternatives.
+
+39
+00:07:15,720 --> 00:07:27,696
+Lactate can reflect several processes, including altered production
+and clearance. It is not a direct meter of one patient universal
+oxygen debt or a sepsis-only result.
+
+40
+00:07:27,696 --> 00:07:38,928
+Use only actually available authorized tests. A normal result does not
+cancel worsening function, and collecting a test must not delay
+necessary support or conveyance.
+
+41
+00:07:38,928 --> 00:07:51,240
+Ask focused questions about respiratory, urinary, abdominal and skin
+symptoms, recent procedures, devices and treatment. A suspected source
+should fit the time course.
+
+42
+00:07:51,240 --> 00:08:02,712
+Malodorous urine alone does not establish a urinary infection.
+Similarly, a visible wound is not proof that it explains every
+neurological or circulatory finding.
+
+43
+00:08:02,712 --> 00:08:15,096
+Examine for mottling, non-blanching rash or rapidly progressive
+painful tissue changes where indicated, with appropriate consent and
+PPE. Do not require a rash for recognition.
+
+44
+00:08:15,096 --> 00:08:26,208
+Ask about antipyretics and antimicrobials, prior results and access
+barriers without blame. Current treatment does not guarantee that a
+new serious infection is controlled.
+
+45
+00:08:26,208 --> 00:08:37,056
+A fifty-one-year-old with a worsening hand wound after a repair
+workshop is now confused and cannot follow familiar tasks. The
+temperature is thirty-six point three.
+
+46
+00:08:37,056 --> 00:08:48,672
+Pulse is one hundred eighteen, respiratory rate twenty-six, pressure
+one hundred four over sixty-six, saturation ninety-six on room air and
+glucose six point eight.
+
+47
+00:08:48,672 --> 00:08:59,040
+The absence of fever does not explain away the new dysfunction. A
+possible infectious source, rapid breathing and altered function
+require urgent assessment.
+
+48
+00:08:59,040 --> 00:09:11,136
+Keep other causes open, including neurological, toxic or metabolic
+illness. This is suspected infection-related dysfunction, not a field-
+confirmed culture diagnosis.
+
+49
+00:09:11,136 --> 00:09:22,968
+In the historical SIRS exercise, the observed pulse and breathing rate
+are positive; the temperature is not and the white-cell count is
+unknown. Do not invent the missing count.
+
+50
+00:09:22,968 --> 00:09:37,416
+For this nonpregnant adult using scale one, NEWS two is nine: three
+for breathing, one for pressure, two for pulse and three for new
+confusion. The remaining measured components and room air add zero.
+
+51
+00:09:37,416 --> 00:09:50,016
+The score supports deterioration concern, but the clinical change was
+already enough to act. Do not wait until systolic pressure falls below
+ninety before organizing support and conveyance.
+
+52
+00:09:50,016 --> 00:10:00,936
+Report the possible source, new functional change, actual measurements
+and response. Reassess the patient rather than simply repeating the
+number nine to every team member.
+
+53
+00:10:00,936 --> 00:10:12,624
+Support the actual airway and ventilation problems immediately. Oxygen
+should meet the applicable patient/pathway target, not a generic all-
+patient high-flow ritual.
+
+54
+00:10:12,624 --> 00:10:23,904
+Do not walk a poorly perfused patient. Use a position suited to
+circulation and breathing, protect against heat loss where appropriate
+and avoid unnecessary exertion.
+
+55
+00:10:23,904 --> 00:10:35,832
+If pressure support is considered, its own eligibility and
+contraindications still apply. The word sepsis does not make every
+hypoxic or hypotensive patient suitable for CPAP.
+
+56
+00:10:35,832 --> 00:10:46,896
+Assign someone to repeat observations and call out change while egress
+and receiving arrangements proceed. Do not finish a perfect checklist
+while the main threat worsens.
+
+57
+00:10:46,896 --> 00:10:58,248
+Obtain indicated access and use the actual service fluid plan. The
+patient may be depleted even with chronic edema, but that does not
+remove the risk of overload.
+
+58
+00:10:58,248 --> 00:11:09,720
+Assess the response frequently: mentation, pulse, pressure, skin and
+breathing. New respiratory worsening or edema needs immediate review
+of the plan.
+
+59
+00:11:09,720 --> 00:11:21,960
+International adult or maternal volume examples are not automatic
+ordinary PCP orders. Do not force one fixed amount on every renal,
+cardiac or pregnant patient.
+
+60
+00:11:21,960 --> 00:11:34,392
+Persistent shock needs early qualified assistance, not endless
+repeated fluid without a response assessment. Continue timely
+conveyance and notification rather than waiting for a bag to finish.
+
+61
+00:11:34,392 --> 00:11:46,632
+Antimicrobial treatment and source control address the infection
+itself. Early communication can help the receiving team prepare those
+resources without waiting for a formal field confirmation.
+
+62
+00:11:46,632 --> 00:11:58,560
+The selected twenty-twenty-six SSC statements distinguish levels of
+infection likelihood and shock, rather than giving every possible
+infection the same automatic antibiotic clock.
+
+63
+00:11:58,560 --> 00:12:13,584
+Its prehospital antibiotic suggestion requires a structured program,
+appropriate shock context and prolonged time to medical evaluation. It
+does not authorize an ordinary BC PCP to select independent
+antibiotics.
+
+64
+00:12:13,584 --> 00:12:27,384
+State suspected infection, the organ/perfusion problem, relevant
+history, actual treatment and response, ETA and any capability
+request. That useful alert is within the current task now.
+
+65
+00:12:27,384 --> 00:12:39,816
+A thirty-nine-year-old ten days after delivery had been recovering,
+but now has new confusion, increasing pelvic pain and abnormal
+discharge. Temperature is thirty-eight point four.
+
+66
+00:12:39,816 --> 00:12:51,648
+Pulse is one hundred twenty-six, breathing twenty-six and pressure one
+hundred ten over seventy. Do not dismiss the pattern as normal
+postpartum physiology or wait for shock.
+
+67
+00:12:51,648 --> 00:13:05,760
+Support current threats, check glucose and evaluate bleeding,
+neurological/hypertensive findings and possible source. Use the actual
+maternity pathway rather than a generic score as clearance.
+
+68
+00:13:05,760 --> 00:13:17,112
+A working maternal-sepsis concern needs early notification, while
+hemorrhage and other causes remain active alternatives. Preserve the
+delivery date and symptom-change timeline.
+
+69
+00:13:17,112 --> 00:13:28,248
+Rank an alternative that could harm this patient if missed, not a list
+of unrelated diagnoses. Use the actual pregnancy, exposure and symptom
+chronology.
+
+70
+00:13:28,248 --> 00:13:39,960
+A glucose measurement, bleeding check, pressure/neurological
+reassessment or focused exposure question can be a useful
+discriminator, provided it does not postpone rescue.
+
+71
+00:13:39,960 --> 00:13:49,392
+State why the alternative matters and what finding would alter the
+plan. A spoken What Else with no connection to an action is only a
+slogan.
+
+72
+00:13:49,392 --> 00:14:01,728
+Revisit the explanation after every meaningful change. Infection and
+another problem may coexist, just as anaphylaxis may produce a GI or
+neurological-looking complaint.
+
+73
+00:14:01,728 --> 00:14:11,352
+Anaphylaxis is an acute potentially life-threatening hypersensitivity
+presentation. Mediator release can affect several systems at the same
+time.
+
+74
+00:14:11,352 --> 00:14:22,200
+Upper-airway swelling can change voice or produce stridor, while
+lower-airway bronchospasm and mucus impair airflow. These are related
+but distinct threats.
+
+75
+00:14:22,200 --> 00:14:34,128
+Vasodilation and plasma leakage reduce effective circulating volume
+and return, with possible cardiac effects. Severe compromise does not
+require external blood loss.
+
+76
+00:14:34,128 --> 00:14:45,000
+This explains why indicated IM epinephrine and ABC support run in
+parallel. One bronchodilator or antihistamine cannot replace the full
+rescue plan.
+
+77
+00:14:45,000 --> 00:14:55,344
+In common IgE-mediated reactions, previous sensitization prepares mast
+cells and basophils to release mediators when the allergen is
+encountered again.
+
+78
+00:14:55,344 --> 00:15:05,136
+The patient may not know that sensitization occurred. A first
+recognized reaction or a report of no known allergy does not exclude
+the syndrome.
+
+79
+00:15:05,136 --> 00:15:15,408
+Non-IgE mechanisms can produce anaphylaxis as well. Do not require a
+specific antibody explanation before treating an indicated clinical
+emergency.
+
+80
+00:15:15,408 --> 00:15:28,320
+Repeated exposures do not follow a guaranteed worsening staircase.
+Base urgency on today actual airway, breathing, circulation and
+progression rather than a prediction from last time.
+
+81
+00:15:28,320 --> 00:15:39,672
+Ask about voice change, a throat lump or difficulty speaking and
+inspect relevant swelling. Stridor suggests an upper-airway threat
+different from a lower-airway wheeze.
+
+82
+00:15:39,672 --> 00:15:50,880
+Assess respiratory rate, depth, work and air entry. A noisy chest may
+become quiet because less air moves, not because the condition has
+improved.
+
+83
+00:15:50,880 --> 00:16:03,576
+Fatigue, ineffective effort or declining consciousness requires
+immediate support and skilled assistance. A normal saturation at one
+instant must not cancel these observations.
+
+84
+00:16:03,576 --> 00:16:14,496
+Do not wait for a completely obstructed airway to request resources or
+give indicated IM treatment. Recognizing the mechanism should shorten,
+not lengthen, the delay.
+
+85
+00:16:14,496 --> 00:16:26,664
+Rapid vasodilation and leakage can reduce return and output.
+Faintness, collapse or altered function after a plausible exposure may
+be a circulatory emergency.
+
+86
+00:16:26,664 --> 00:16:39,168
+Skin findings may be subtle, absent, earlier than arrival or partly
+masked. Do not wait for a photogenic rash or a pressure below ninety
+before recognizing dangerous compromise.
+
+87
+00:16:39,168 --> 00:16:50,280
+The patient may also have cramping, vomiting or diarrhea. A GI chief
+complaint does not guarantee a GI-only cause if airway or perfusion
+features are developing.
+
+88
+00:16:50,280 --> 00:17:00,720
+Treat the indicated syndrome while assessing other possibilities. The
+aim is useful early action with reassessment, not a definitive
+allergen diagnosis at the scene.
+
+89
+00:17:00,720 --> 00:17:11,712
+Contemporary criteria include acute skin or mucosal involvement with
+respiratory, circulatory or severe gastrointestinal features as one
+diagnostic route.
+
+90
+00:17:11,712 --> 00:17:23,232
+Another route is acute hypotension, bronchospasm or laryngeal
+involvement after a known or highly probable allergen for that
+patient, even when the skin looks normal.
+
+91
+00:17:23,232 --> 00:17:35,568
+The public RASH mnemonic helps remember affected systems, but one
+isolated mild skin symptom is not automatically proof of anaphylaxis.
+Assess the consequence and progression.
+
+92
+00:17:35,568 --> 00:17:46,128
+Criteria support early clinical recognition; they are not permission
+to delay care until every historical detail, rash or pressure
+threshold is complete.
+
+93
+00:17:46,128 --> 00:17:54,432
+Do not require a known previous allergy. The trigger or earlier
+sensitization may be unknown even in a serious reaction.
+
+94
+00:17:54,432 --> 00:18:04,104
+Do not require visible hives. Ask about earlier skin changes, but give
+the current airway, breathing and perfusion pattern its proper weight.
+
+95
+00:18:04,104 --> 00:18:13,272
+Do not require hypotension below ninety. Progressive airway or
+respiratory compromise can make treatment urgent before that number is
+reached.
+
+96
+00:18:13,272 --> 00:18:22,656
+Keep a useful alternative in mind without delaying the indicated
+action. Improvement or lack of improvement after treatment must
+trigger another assessment.
+
+97
+00:18:22,656 --> 00:18:34,800
+For recognized anaphylaxis, IM epinephrine is the first-line
+medication. Give it promptly through the verified local route and
+authorization while ABC support continues.
+
+98
+00:18:34,800 --> 00:18:43,944
+Assign work in parallel so drawing up an IV line or attaching the
+monitor does not postpone the first indicated IM dose.
+
+99
+00:18:43,944 --> 00:18:55,008
+Antihistamines and bronchodilators do not provide the same rescue.
+Choosing a less alarming-looking drug first can leave the vascular or
+upper-airway threat untreated.
+
+100
+00:18:55,008 --> 00:19:04,584
+A cardiovascular history deserves monitoring and care, not automatic
+withholding of indicated IM epinephrine in a life-threatening
+situation.
+
+101
+00:19:04,584 --> 00:19:14,352
+Alpha-adrenergic effects support vascular tone and reduce mucosal
+swelling. These effects matter when return and airway caliber are
+threatened.
+
+102
+00:19:14,352 --> 00:19:23,448
+Beta-one effects support the heart, while beta-two effects relax
+bronchial smooth muscle. This is more than treatment of an itchy rash.
+
+103
+00:19:23,448 --> 00:19:33,288
+Epinephrine also limits mediator effects and release. An H-one
+antihistamine cannot reproduce this combined airway and circulatory
+action.
+
+104
+00:19:33,288 --> 00:19:44,160
+Use the mechanism to predict useful endpoints: better voice/airflow,
+effective breathing and improved perfusion, while monitoring adverse
+effects and recurrence.
+
+105
+00:19:44,160 --> 00:19:58,776
+The checked local adult anaphylaxis schedule is zero point five
+milligrams IM every five minutes, with its stated repeat instructions.
+Reassess and follow the actual current protocol rather than invent a
+dose ceiling.
+
+106
+00:19:58,776 --> 00:20:09,768
+Pediatric anaphylaxis is weight based at zero point zero one
+milligrams per kilogram, maximum zero point five milligrams, through
+the actual pediatric pathway.
+
+107
+00:20:09,768 --> 00:20:21,864
+The preferred site is the anterolateral middle thigh. The textbook
+five-to-fifteen-minute interval and pediatric zero point three maximum
+are not silently merged into the current local schedule.
+
+108
+00:20:21,864 --> 00:20:35,040
+IM anaphylaxis, severe-bronchospasm treatment and advanced cardiac-
+arrest IV or IO epinephrine are different indications and routes. A
+shared drug name does not make them interchangeable.
+
+109
+00:20:35,040 --> 00:20:45,288
+For this preparation exercise, the correct adult IM pathway calls for
+zero point five milligrams and the actual label says one milligram per
+milliliter.
+
+110
+00:20:45,288 --> 00:20:57,360
+Divide the mass by the concentration: zero point five milligrams
+divided by one milligram per milliliter equals zero point five
+milliliters. State both mass and volume.
+
+111
+00:20:57,360 --> 00:21:09,720
+Use the label in milligrams per milliliter, not only old ratio
+notation. A zero point one milligram-per-milliliter arrest syringe is
+ten times more dilute and is not the same product.
+
+112
+00:21:09,720 --> 00:21:22,440
+Complete the independent check required by the actual process. Do not
+import the inconsistent advanced-IV dilution paragraph from the book
+or give the IM preparation as an IV bolus.
+
+113
+00:21:22,440 --> 00:21:31,296
+Ask whether the patient or a helper used an autoinjector, and
+establish the actual product, dose if known, time and response.
+
+114
+00:21:31,296 --> 00:21:40,680
+That dose is part of the same treatment course. Do not reset the
+medication clock at crew arrival or omit it from the record and
+receiving report.
+
+115
+00:21:40,680 --> 00:21:52,200
+Follow the actual device instructions rather than assuming every model
+has the same fixed dose or hold time. Identify what supply remains
+without postponing indicated care.
+
+116
+00:21:52,200 --> 00:22:05,688
+A previous reaction, exposure without symptoms or a personalized
+rescue plan needs context. Do not turn the textbook example into a
+universal instruction to inject every asymptomatic exposure.
+
+117
+00:22:05,688 --> 00:22:17,424
+Avoid standing or walking during anaphylaxis. Sudden upright movement
+can further reduce venous return when vascular tone and circulating
+volume are already compromised.
+
+118
+00:22:17,424 --> 00:22:27,768
+Use a circulation-supporting supine position when tolerated, with a
+suitable supported modification if severe breathing difficulty or
+vomiting makes that unsafe.
+
+119
+00:22:27,768 --> 00:22:38,208
+Pregnancy may require a suitable left-sided position or compression-
+relief plan. Do not force one posture at the expense of effective
+breathing or airway protection.
+
+120
+00:22:38,208 --> 00:22:49,752
+Plan a coordinated stretcher movement, keep treatment available and
+reassess immediately afterward. The fact that the patient feels better
+is not permission to walk to the ambulance.
+
+121
+00:22:49,752 --> 00:23:01,008
+Give oxygen and support ventilation according to the actual clinical
+problem. A mask with oxygen flow does not prove adequate tidal
+movement or carbon-dioxide clearance.
+
+122
+00:23:01,008 --> 00:23:13,128
+If assisted ventilation is needed, use appropriate airway position,
+seal, adjuncts and help. Monitor actual chest movement and response
+rather than squeeze rate alone.
+
+123
+00:23:13,128 --> 00:23:24,840
+Obstructed lungs need adequate exhalation. Forceful rapid bagging can
+worsen air trapping, gastric distension, vomiting, pressure injury and
+hypotension.
+
+124
+00:23:24,840 --> 00:23:39,192
+Seek skilled airway resources early when swelling or fatigue makes
+support ineffective. Advanced or surgical airway discussion does not
+create independent PCP authority or replace IM epinephrine.
+
+125
+00:23:39,192 --> 00:23:47,904
+Salbutamol can help persistent bronchospasm after epinephrine, but it
+does not provide the same vascular or upper-airway effects.
+
+126
+00:23:47,904 --> 00:24:02,160
+Diphenhydramine may improve urticaria, not life-threatening airway or
+circulatory failure. Current E zero nine and the monograph place it at
+ACP, unlike the saved examination page PCP heading.
+
+127
+00:24:02,160 --> 00:24:14,232
+Steroids act slowly and routine prevention of biphasic reactions is
+unproven. Neither an antihistamine nor a steroid justifies delaying
+epinephrine or declaring the patient safe.
+
+128
+00:24:14,232 --> 00:24:25,776
+Treat residual symptoms through the actual authorized plan and keep
+reassessing the main threats. Persistent skin itch alone is not
+equivalent to persistent circulatory collapse.
+
+129
+00:24:25,776 --> 00:24:37,392
+An inadequate response requires another complete assessment. Confirm
+what medicine actually reached the patient, the dose, route and time,
+including earlier autoinjector treatment.
+
+130
+00:24:37,392 --> 00:24:51,048
+Repeat the ABC and perfusion examination and consider ongoing exposure
+or a competing diagnosis. Do not assume that silence, sedation or a
+slightly better saturation means recovery.
+
+131
+00:24:51,048 --> 00:25:02,712
+Follow the permitted repeat IM pathway with indicated fluids and
+respiratory support. Call for advanced help early rather than
+improvising an IV epinephrine bolus.
+
+132
+00:25:02,712 --> 00:25:18,288
+The textbook advanced glucagon and IV dilution passages contain unsafe
+unit or concentration problems. They are not rescue recipes, and beta-
+blocker history does not create a new ordinary PCP glucagon
+indication.
+
+133
+00:25:18,288 --> 00:25:27,672
+Sepsis and anaphylaxis can both produce distributive circulatory
+failure, but their history and immediate cause-specific decisions
+differ.
+
+134
+00:25:27,672 --> 00:25:38,616
+Do not give an IM anaphylaxis regimen to every septic patient because
+the pressure is low, or postpone epinephrine in anaphylaxis while
+searching for an infection source.
+
+135
+00:25:38,616 --> 00:25:50,544
+Bleeding, cardiac or obstructive shock, glucose problems and toxins
+may overlap the presentation. Select a useful alternative and a
+discriminator that can alter care.
+
+136
+00:25:50,544 --> 00:26:02,976
+The shared discipline is immediate support, accurate data, action-
+response reassessment and early appropriate destination planning, not
+forcing one diagnosis to fit every finding.
+
+137
+00:26:02,976 --> 00:26:58,368
+Read the naloxone rows by route. The recovered March copy has a
+separate three-milligram intranasal entry; the June 2026 copy says
+four milligrams intranasally. Three milligrams is not a cumulative
+maximum or an intravenous dose. Its separate IM/IV sequence is 0.4,
+0.4, 0.8 and 2.0 milligrams at the stated reassessment intervals.
+Original arithmetic: all four amounts sum to 3.6 milligrams, not four
+equal 0.4-milligram doses. The current adult PCP monograph uses those
+four escalating amounts every three minutes as needed and requires
+CliniCall before further doses. Route, actual product and response
+still matter; keep breathing support in parallel and never infer
+pediatric permission from this adult schedule.
+
+138
+00:26:58,368 --> 00:27:57,408
+For nitrate, the March copy ties a dose to the patient prescription
+strength, requires oversight without a prescription, uses a strict
+pressure greater than 110 for repeats and describes three doses in
+thirty minutes. The later exam copy states 0.4 milligrams
+sublingually; current BCEHS adult ACS instructions use 0.4 every three
+to five minutes, pressure at least 110 and heart rate 50 to 150, with
+CliniCall before use without a prior prescription or beyond three
+doses. Original comparison: a reliable systolic value of exactly 110
+does not meet an old greater-than-110 rule, even though it meets the
+current numerical minimum. It still does not establish the indication,
+other exclusions or authority. The source restart-after-pain-relief
+note is not permission to reset a generic dose clock.
+
+139
+00:27:57,408 --> 00:28:05,808
+At an outdoor pottery fair, a twenty-one-year-old develops throat
+tightness, a hoarse voice and wheeze shortly after an insect sting.
+
+140
+00:28:05,808 --> 00:28:17,880
+Pulse is one hundred twenty-two, pressure one hundred eight over
+seventy and breathing work is increasing. No obvious hives are seen
+and there is no previous diagnosed allergy.
+
+141
+00:28:17,880 --> 00:28:28,320
+The acute exposure-associated airway and breathing pattern is
+concerning even without rash or systolic pressure below ninety. Do not
+wait for those missing findings.
+
+142
+00:28:28,320 --> 00:28:39,528
+Recognize the indicated anaphylaxis pathway while assessing the
+immediate airway and circulation. A statement of no known allergies
+does not close that pathway.
+
+143
+00:28:39,528 --> 00:28:52,680
+Organize prompt verified IM epinephrine and ABC support in parallel,
+request appropriate help and prepare safe egress. Do not make IV
+access a condition for the first IM dose.
+
+144
+00:28:52,680 --> 00:29:02,976
+Use a suitable supported position and prevent standing or walking. If
+removing the ongoing trigger is feasible, do it promptly without
+delaying rescue.
+
+145
+00:29:02,976 --> 00:29:16,728
+After treatment, compare voice, airway swelling, air entry, work,
+mentation and perfusion with timed observations. A smaller rash is not
+the main endpoint in this case.
+
+146
+00:29:16,728 --> 00:29:29,952
+Repeat or escalate through the actual pathway if compromise persists.
+Convey and prenotify despite improvement, including every dose and
+response rather than only saying allergic reaction treated.
+
+147
+00:29:29,952 --> 00:29:39,936
+Ask what actually changed after the intervention, with real
+observations and timing. A treatment completed is not automatically a
+treatment that worked.
+
+148
+00:29:39,936 --> 00:29:49,776
+Predict the desired change from the mechanism: better airflow or
+perfusion after indicated epinephrine, for example, not merely a
+different pulse number.
+
+149
+00:29:49,776 --> 00:30:01,296
+Look deliberately for worsening breathing, pressure, consciousness,
+vomiting, recurrence or a delivery error. A quieter patient can be
+improving or failing.
+
+150
+00:30:01,296 --> 00:30:12,240
+Then choose whether to continue, modify, stop or escalate. State the
+evidence for that next decision so the crew and receiving team can
+follow the reasoning.
+
+151
+00:30:12,240 --> 00:30:33,912
+The assigned article links emergency readiness to reliable medication
+supplies. Verify the actual product, expiry, storage, delivery device
+and trained role before use. An older US syringe-kit program is not
+permission to improvise a replacement, change concentrations or reduce
+a dose by half without authority.
+
+152
+00:30:33,912 --> 00:30:54,408
+If a patient does not improve, reassess airway, breathing, perfusion,
+actual delivery and the continuing reaction. Do not infer a single
+cause from expiry alone or delay the current repeat and escalation
+pathway while debating the device. Record what was actually given and
+how the patient responded.
+
+153
+00:30:54,408 --> 00:31:07,032
+Lead with suspected cause and the actual threat: infection with new
+dysfunction, or exposure-associated airway and circulatory compromise,
+rather than a long background narrative.
+
+154
+00:31:07,032 --> 00:31:19,536
+Give the relevant timeline and current measured findings. For maternal
+illness include the actual delivery or loss date; for anaphylaxis
+include self-treatment and every epinephrine dose.
+
+155
+00:31:19,536 --> 00:31:30,984
+State what was actually delivered and the response, including
+persistent concerns. Do not turn a working syndrome into a confirmed
+culture result or confirmed allergen diagnosis.
+
+156
+00:31:30,984 --> 00:31:42,672
+Include ETA, needed capability and a clear request, then verify
+understanding using the current transfer or consultation structure.
+Match the same facts in the PCR.
+
+157
+00:31:42,672 --> 00:31:53,904
+Use an observer to reveal only the information actually obtained. The
+crew must request missing history or perform the relevant assessment
+rather than assume normal findings.
+
+158
+00:31:53,904 --> 00:32:06,864
+Introduce one changing variable, such as new hypotension, persistent
+aphasia after glucose correction or wheeze after an exposure history.
+Say what it changes and what remains uncertain.
+
+159
+00:32:06,864 --> 00:32:17,064
+Practise clear medication mass, concentration, volume and route checks
+with trainer supplies, plus non-walking movement and repeated
+observations.
+
+160
+00:32:17,064 --> 00:32:28,608
+Debrief a specific decision or communication gap and repeat the
+changed process. Actual injection, airway or movement competence still
+requires the school practical observer.
+
+161
+00:32:28,608 --> 00:32:38,904
+You should now explain why sepsis may be concerning before fever or a
+critical pressure appears, and use the school SIRS exercise without
+calling it the modern definition.
+
+162
+00:32:38,904 --> 00:32:51,624
+You should recognize anaphylaxis with the appropriate clinical pattern
+even when skin findings or previous allergy history are absent, and
+avoid labelling isolated mild hives as the same emergency.
+
+163
+00:32:51,624 --> 00:33:04,968
+Deliver the indicated treatment through the actual safe route and
+authority, support ABCs, move safely and evaluate the response. Setup
+tasks and adjuncts must not steal the priority.
+
+164
+00:33:04,968 --> 00:33:17,808
+Continue with the school toxicology, renal, gastrointestinal and
+endocrine requirements. The paired reading supports this workshop but
+does not certify every missing school slide or practical activity.

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">Parallel care after birth</title>
+  <desc id="desc">A shared birth timeline branches to separate maternal and newborn assessment, then a coordinated transfer plan. Neither patient is left unobserved.</desc>
+  <defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9Z" fill="#61748b"/></marker></defs>
+  <rect width="1200" height="350" rx="18" fill="#f1f5f9"/>
+  <g fill="none" stroke="#61748b" stroke-width="3" marker-end="url(#arrow)"><path d="M272 175H319V95H370"/><path d="M319 175V255H370"/><path d="M806 95H852V175H896"/><path d="M806 255H852V175"/></g>
+  <rect x="24" y="111" width="248" height="128" rx="14" fill="#123a54"/>
+  <text x="148" y="145" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="23" font-weight="bold">BIRTH</text>
+  <text x="148" y="177" text-anchor="middle" fill="#d9eaf5" font-family="Arial,sans-serif" font-size="18">Shared times and scene</text>
+  <text x="148" y="205" text-anchor="middle" fill="#d9eaf5" font-family="Arial,sans-serif" font-size="18">Named roles before action</text>
+  <rect x="370" y="25" width="436" height="140" rx="14" fill="#dcefe9" stroke="#347c67"/>
+  <text x="392" y="59" fill="#164b3d" font-family="Arial,sans-serif" font-size="23" font-weight="bold">MATERNAL CARE</text>
+  <text x="392" y="91" fill="#164b3d" font-family="Arial,sans-serif" font-size="18">Bleeding + tone + perfusion + symptoms</text>
+  <text x="392" y="121" fill="#164b3d" font-family="Arial,sans-serif" font-size="18">Treat threats; check the actual response</text>
+  <text x="392" y="147" fill="#164b3d" font-family="Arial,sans-serif" font-size="17">Placenta status does not replace reassessment</text>
+  <rect x="370" y="185" width="436" height="140" rx="14" fill="#e0eafa" stroke="#466aa3"/>
+  <text x="392" y="219" fill="#24456f" font-family="Arial,sans-serif" font-size="23" font-weight="bold">NEWBORN CARE</text>
+  <text x="392" y="251" fill="#24456f" font-family="Arial,sans-serif" font-size="18">Breathing + heart rate + tone + warmth</text>
+  <text x="392" y="281" fill="#24456f" font-family="Arial,sans-serif" font-size="18">Support transition; check the actual response</text>
+  <text x="392" y="307" fill="#24456f" font-family="Arial,sans-serif" font-size="17">Do not delay support for an Apgar total</text>
+  <rect x="896" y="101" width="280" height="148" rx="14" fill="#fff2d7" stroke="#a77525"/>
+  <text x="1036" y="137" text-anchor="middle" fill="#654717" font-family="Arial,sans-serif" font-size="19" font-weight="bold">COORDINATED TRANSFER</text>
+  <text x="1036" y="171" text-anchor="middle" fill="#654717" font-family="Arial,sans-serif" font-size="18">Two patient assessments</text>
+  <text x="1036" y="201" text-anchor="middle" fill="#654717" font-family="Arial,sans-serif" font-size="18">Two clear handovers</text>
+  <text x="1036" y="229" text-anchor="middle" fill="#654717" font-family="Arial,sans-serif" font-size="17">One safe resource plan</text>
+</svg>

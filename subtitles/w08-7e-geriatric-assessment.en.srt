@@ -1,0 +1,771 @@
+1
+00:00:00,000 --> 00:00:10,176
+This session follows Seven E sections five and six. The central
+question is what changed for this person and what that change means
+now.
+
+2
+00:00:10,176 --> 00:00:20,808
+Older age can alter reserve and presentation, but it does not make
+every patient frail, confused, dependent or incapable of deciding
+about care.
+
+3
+00:00:20,808 --> 00:00:31,728
+We will connect physiology and medicines to observations, then make
+communication and movement safer. A category name should improve care
+rather than replace assessment.
+
+4
+00:00:31,728 --> 00:00:40,032
+An original evolving case will test the reasoning. It is not a school
+assessment answer or a claim that reading certifies a handling skill.
+
+5
+00:00:40,032 --> 00:00:51,984
+Ask the patient what they normally do and what feels different today.
+Useful function includes walking to the kitchen, preparing food,
+managing medicines or following a conversation.
+
+6
+00:00:51,984 --> 00:01:03,216
+Ask a reliable witness when the last usual interaction occurred. A
+vague statement that the patient is often confused does not explain a
+new loss of attention or mobility.
+
+7
+00:01:03,216 --> 00:01:14,208
+Distinguish chronic limitations from acute changes without dismissing
+either. A person with dementia can develop delirium, stroke, injury or
+infection.
+
+8
+00:01:14,208 --> 00:01:24,888
+Record who supplied the baseline and what remains uncertain. A later
+handover is safer when the next team can judge the reliability of the
+comparison.
+
+9
+00:01:24,888 --> 00:01:36,120
+Physiological reserve is the ability to respond to additional demand.
+Someone can meet daily needs and then deteriorate when illness,
+dehydration or injury adds stress.
+
+10
+00:01:36,120 --> 00:01:44,496
+Age-related changes and chronic disease may reduce that margin, but
+the amount varies substantially between people and organ systems.
+
+11
+00:01:44,496 --> 00:01:54,168
+Do not learn a universal linear rate of aging or assume every organ
+fails to the same degree. Establish the actual function and current
+signs.
+
+12
+00:01:54,168 --> 00:02:05,616
+The practical implication is a low threshold to investigate meaningful
+new change, not permission to call all abnormalities normal aging or
+to treat every older person identically.
+
+13
+00:02:05,616 --> 00:02:16,872
+Vascular stiffness and changes in cardiac filling or conduction can
+influence the response to illness. Chronic disease and medicines may
+contribute as much as age itself.
+
+14
+00:02:16,872 --> 00:02:25,944
+A normal-range pulse does not exclude blood loss or infection,
+especially with a rate-limiting medicine. Assess the whole perfusion
+picture.
+
+15
+00:02:25,944 --> 00:02:39,696
+Compare pressure with a reliable baseline and current symptoms. A
+relative fall may be concerning, but one systolic value below one
+hundred twenty does not automatically prove hypovolemia or require
+fluid.
+
+16
+00:02:39,696 --> 00:02:51,960
+Likewise, hypertension is not harmless because it is common in older
+adults. New neurological, chest or breathing findings still require
+assessment through the appropriate pathway.
+
+17
+00:02:51,960 --> 00:03:01,296
+Chest-wall changes, muscle weakness and chronic lung disease may
+reduce breathing reserve. Cough and clearance can also be impaired.
+
+18
+00:03:01,296 --> 00:03:12,432
+New tachypnea may be important even without fever or a dramatic
+complaint. Assess depth, effort, air movement and mental response as
+well as saturation.
+
+19
+00:03:12,432 --> 00:03:24,552
+Do not apply a textbook age formula as proof that a low oxygen value
+is acceptable. Use the actual clinical oxygen pathway and identify any
+established chronic target.
+
+20
+00:03:24,552 --> 00:03:36,384
+A first crackle or chronic edema does not alone establish heart
+failure, but neither should new findings be dismissed. Use history,
+distribution, trend and the full assessment.
+
+21
+00:03:36,384 --> 00:03:46,776
+Some people need longer to hear, process or answer a question. Provide
+support and time before deciding that the response represents
+cognitive failure.
+
+22
+00:03:46,776 --> 00:03:58,752
+Acute confusion, new focal weakness or a major functional decline is
+not explained by getting older. Check breathing, glucose, perfusion
+and relevant neurological findings.
+
+23
+00:03:58,752 --> 00:04:12,072
+After a fall, head injury may be subtle or have delayed symptoms,
+especially with anticoagulant use. Absence of severe headache or a
+remembered head strike cannot independently clear it.
+
+24
+00:04:12,072 --> 00:04:22,800
+Age-associated anatomy may help explain risk but does not guarantee a
+particular bleed or outcome. Preserve alternatives while prioritizing
+urgent assessment.
+
+25
+00:04:22,800 --> 00:04:35,640
+Kidney and liver function influence drug handling, and acute illness
+may change clearance. Do not assume every older adult has identical
+impairment or that an old normal result proves current safety.
+
+26
+00:04:35,640 --> 00:04:47,952
+Reduced intake, vomiting, diarrhea or diuretic effects can reduce
+circulating volume. Heart and kidney disease may simultaneously
+increase the risk of fluid overload.
+
+27
+00:04:47,952 --> 00:04:59,784
+Use perfusion, breathing, urine history and response to guide the real
+care plan. Dry mouth or skin tenting alone is insufficient to diagnose
+dehydration in older skin.
+
+28
+00:04:59,784 --> 00:05:09,744
+This is not an automatic fluid, potassium or dose-adjustment
+instruction. Use the permitted pathway and clinical consultation for
+the actual patient.
+
+29
+00:05:09,744 --> 00:05:22,416
+Skin may be more vulnerable to shear or adhesive injury, and some
+people have fragile bones or painful joints. Ask about previous
+handling difficulties and look at the actual tissue.
+
+30
+00:05:22,416 --> 00:05:32,496
+Use appropriate padding and aids, and remove necessary adhesive
+gently. Do not drag a patient across a surface or use their arms as
+lifting handles.
+
+31
+00:05:32,496 --> 00:05:42,336
+Expose only what is needed for an adequate assessment and cover again.
+Warmth and privacy are active parts of care, not optional finishing
+touches.
+
+32
+00:05:42,336 --> 00:05:52,344
+Reassess after the move for pain, skin injury, breathing and device
+position. A technically completed transfer is not proof that it was
+harmless.
+
+33
+00:05:52,344 --> 00:06:02,928
+An acute coronary event may occur without classic chest pain. New
+unexplained weakness, dyspnea, syncope or nausea can be part of the
+presentation.
+
+34
+00:06:02,928 --> 00:06:14,136
+Ask what happened today that prompted help and how activity differs
+from usual. Do not assume the patient would necessarily describe a
+dangerous symptom using textbook words.
+
+35
+00:06:14,136 --> 00:06:25,392
+Perform appropriate assessment, including an ECG when indicated,
+without delaying primary care. The absence of pain does not remove the
+need for the cardiac differential.
+
+36
+00:06:25,392 --> 00:06:36,024
+Other causes of weakness remain possible. Atypical presentation should
+widen useful assessment rather than force every older person into an
+infarction diagnosis.
+
+37
+00:06:36,024 --> 00:06:49,200
+Infection can present with a muted temperature response or new
+functional loss. Consider it when an older person becomes acutely
+unwell, but do not let it hide stroke, injury or medicine effects.
+
+38
+00:06:49,200 --> 00:07:02,064
+Assess new respiratory symptoms, wounds, urinary-localizing symptoms
+and other relevant sources. A source search should be focused and
+respectful rather than indiscriminate exposure.
+
+39
+00:07:02,064 --> 00:07:13,008
+Bacteriuria or odor alone does not prove a symptomatic urinary
+infection. Delirium without local urinary or systemic signs needs a
+broader cause assessment.
+
+40
+00:07:13,008 --> 00:07:25,560
+Do not wait for hypotension, high fever or a positive laboratory test
+to recognize credible deterioration. Use the actual local sepsis
+pathway and ongoing clinical picture.
+
+41
+00:07:25,560 --> 00:07:37,248
+Polypharmacy means multiple concurrent medicines. The count alone does
+not prove inappropriate treatment, but it increases the need for
+accurate history and interaction awareness.
+
+42
+00:07:37,248 --> 00:07:48,048
+Medicines can cause symptoms, worsen another illness or hide a usual
+response. Consider all three rather than naming an adverse effect and
+stopping assessment.
+
+43
+00:07:48,048 --> 00:07:59,232
+Ask about new prescriptions, dose changes, missed or repeated doses
+and nonprescription products. A blister pack does not prove which dose
+was actually taken.
+
+44
+00:07:59,232 --> 00:08:10,776
+Report the evidence and seek the appropriate plan. This lecture does
+not authorize stopping chronic treatment, reversing an anticoagulant
+or changing another clinician's regimen.
+
+45
+00:08:10,776 --> 00:08:20,616
+Beta blockers and some other medicines can limit heart-rate responses.
+A pulse of seventy is not automatically reassuring in an unwell
+patient taking one.
+
+46
+00:08:20,616 --> 00:08:30,864
+Look at responsiveness, skin, pulse quality, breathing and pressure
+relative to baseline. Ask about the actual last dose, not only the
+medicine name.
+
+47
+00:08:30,864 --> 00:08:40,176
+A medicine can contribute to a slow pulse or low pressure, but a
+concurrent bleed, infection or cardiac problem may also be present.
+
+48
+00:08:40,176 --> 00:08:49,176
+Avoid the shortcut that one mechanism explains everything. Use the
+relevant clinical pathway and reassess after permitted care.
+
+49
+00:08:49,176 --> 00:09:00,384
+Ask specifically about anticoagulants and antiplatelet medicines
+rather than relying only on the phrase blood thinner. Different agents
+have different effects and reversal plans.
+
+50
+00:09:00,384 --> 00:09:11,280
+After a fall, seek direct observations of head contact, loss of
+consciousness and subsequent change. A patient may not recall the
+mechanism accurately.
+
+51
+00:09:11,280 --> 00:09:22,368
+A small visible bruise does not measure the extent of internal injury.
+Delayed confusion or reduced function requires assessment even when
+the initial injury seemed minor.
+
+52
+00:09:22,368 --> 00:09:33,600
+Do not give an unverified reversal treatment or force the patient to
+walk to prove stability. Communicate the exact agent history and
+uncertainty to the receiving team.
+
+53
+00:09:33,600 --> 00:09:45,144
+Opioids, benzodiazepines and some antipsychotic or other medicines can
+affect alertness and balance. Combinations and acute changes in
+clearance may increase risk.
+
+54
+00:09:45,144 --> 00:09:53,928
+Assess breathing effectiveness as well as saturation and rate. A
+sleepy patient on oxygen may still be ventilating inadequately.
+
+55
+00:09:53,928 --> 00:10:06,048
+Clarify what was actually taken and when. Preserve possible trauma,
+infection, glucose or neurological causes rather than concluding from
+the medicine list alone.
+
+56
+00:10:06,048 --> 00:10:16,248
+Support the observed threat through the correct pathway. Medication
+awareness is not permission for an empirical reversal drug or
+independent chronic dose change.
+
+57
+00:10:16,248 --> 00:10:29,496
+Diuretics can change volume and electrolytes, but not every class
+lowers potassium. Combine the medicine history with actual losses,
+breathing, perfusion and available measurements.
+
+58
+00:10:29,496 --> 00:10:40,296
+Some diabetes medicines create recurrent low-glucose risk. A single
+corrected value or meal is not sufficient to dismiss the underlying
+medication problem.
+
+59
+00:10:40,296 --> 00:10:54,264
+Anticholinergic effects may contribute retention, constipation, dry
+mouth or confusion. Do not automatically label urinary symptoms
+infection or use dry mouth alone as a fluid-bolus indication.
+
+60
+00:10:54,264 --> 00:11:04,608
+Seek a coherent timeline of changes rather than collecting a list
+without interpretation. Several mechanisms can coexist and require a
+supported plan.
+
+61
+00:11:04,608 --> 00:11:14,592
+Ask about prescriptions, over-the-counter medicines, supplements and
+products from another person. Explain why the information matters
+without blaming the patient.
+
+62
+00:11:14,592 --> 00:11:24,168
+Verify the exact product and actual last intake when possible. A
+dispensing label describes the intended plan, not proof of adherence.
+
+63
+00:11:24,168 --> 00:11:35,760
+Ask about cost, side effects, access, swallowing and assistance when
+relevant. Missed treatment can reflect a practical barrier rather than
+deliberate refusal.
+
+64
+00:11:35,760 --> 00:11:47,712
+Obtain permission before collecting relevant packaging or contacting
+collateral. Do not search unrelated personal storage simply because a
+textbook suggests gathering all medicines.
+
+65
+00:11:47,712 --> 00:12:00,096
+Nancy uses the GEMS framework to organize geriatric, environmental,
+medical and social considerations. It complements rather than replaces
+immediate assessment of life threats.
+
+66
+00:12:00,096 --> 00:12:11,064
+Environmental observations can reveal cold exposure, access barriers
+or a fall mechanism. Describe what you see without assuming that a
+cluttered home proves neglect.
+
+67
+00:12:11,064 --> 00:12:22,968
+Medical context includes the current complaint, baseline and
+medicines. Social context includes support for meals, mobility or
+treatment and what the patient wishes to preserve.
+
+68
+00:12:22,968 --> 00:12:31,896
+Use the information for a safe plan and appropriate referral. Do not
+delay urgent conveyance to complete a detailed social inventory.
+
+69
+00:12:31,896 --> 00:12:41,472
+Address the patient respectfully by the name they prefer. Avoid
+infantilizing terms or speaking only to family while the patient is
+present.
+
+70
+00:12:41,472 --> 00:12:51,264
+Check that hearing aids and glasses are available and working when
+needed, and reduce competing noise. Shouting may distort the message
+instead of helping.
+
+71
+00:12:51,264 --> 00:13:02,424
+Use short clear questions, allow time and obtain an interpreter or
+other support when appropriate. A slow answer is not itself evidence
+of incapacity.
+
+72
+00:13:02,424 --> 00:13:11,712
+Check understanding by asking for an explanation in the patient's own
+words. Do not confuse repeating a phrase with understanding the
+particular decision.
+
+73
+00:13:11,712 --> 00:13:22,488
+Older age, dementia, hearing loss or a care-home address does not
+independently determine capacity. Assess the actual decision using
+supported communication.
+
+74
+00:13:22,488 --> 00:13:33,096
+An acute change may interfere with understanding or communication, but
+it still requires evidence and the actual consent framework rather
+than an age-based shortcut.
+
+75
+00:13:33,096 --> 00:13:43,752
+A family member is not automatically entitled to override a capable
+adult. Identify the appropriate decision-maker and authority when a
+substitute is needed.
+
+76
+00:13:43,752 --> 00:13:56,232
+Use clinical consultation and the established urgent-care process when
+uncertainty affects safety. Record the explanation, responses and
+reasoning rather than merely writing confused.
+
+77
+00:13:56,232 --> 00:14:06,744
+Delirium commonly involves an acute or fluctuating change in attention
+and awareness. The onset and course matter more than whether the
+patient is agitated.
+
+78
+00:14:06,744 --> 00:14:15,480
+A chronic dementia history gives a baseline to compare, not a reason
+to dismiss new change. Both processes can occur together.
+
+79
+00:14:15,480 --> 00:14:28,896
+Consider breathing, glucose, perfusion, infection, neurological
+disease, pain, retention and medicine effects according to the
+presentation. Do not stop after one plausible explanation.
+
+80
+00:14:28,896 --> 00:14:41,616
+Treat urgent threats and investigate through the appropriate pathway.
+Reversibility and recovery are variable; recognizing delirium does not
+promise an immediate complete return to baseline.
+
+81
+00:14:41,616 --> 00:14:52,344
+A patient may become unusually quiet rather than restless. New
+withdrawal, poor attention or reduced movement can still signal
+serious illness.
+
+82
+00:14:52,344 --> 00:15:03,288
+Ask for the usual routine and directly observe current responses. A
+caregiver's description of a quiet personality is not a substitute for
+the patient's actual attention today.
+
+83
+00:15:03,288 --> 00:15:13,224
+Repeat breathing, glucose, perfusion and relevant neurological
+findings. Sedation, exhaustion and other medical causes remain
+possible.
+
+84
+00:15:13,224 --> 00:15:23,184
+Use calm orientation and support, but do not mistake reduced activity
+after an intervention for improvement without checking function and
+physiology.
+
+85
+00:15:23,184 --> 00:15:33,048
+Ask what preceded the fall, whether it was witnessed and how long the
+patient remained down. Separate a reported trip from an unexplained
+collapse.
+
+86
+00:15:33,048 --> 00:15:44,280
+Assess both the cause and the resulting injury. Infection, bleeding,
+glucose disturbance or a rhythm problem can coexist with a fracture or
+head injury.
+
+87
+00:15:44,280 --> 00:15:54,336
+A new loss of mobility is important even with mild pain. Do not use
+absence of deformity or a patient's wish to avoid inconvenience to
+exclude injury.
+
+88
+00:15:54,336 --> 00:16:04,656
+Choose a safe movement plan and appropriate spinal or limb protection.
+Do not force standing or orthostatic testing in an unstable or injured
+patient.
+
+89
+00:16:04,656 --> 00:16:13,176
+A patient saying they can walk is useful but not sufficient. Current
+clinical risk and observed ability must support the plan.
+
+90
+00:16:13,176 --> 00:16:24,624
+Use the actual movement assessment before staged mobility. A serious
+cardiac, respiratory or limb threat may require a nonambulatory method
+rather than a trial walk.
+
+91
+00:16:24,624 --> 00:16:35,808
+If more than minimal assistance would be needed or symptoms worsen,
+stop and change the plan. Additional manual lifters are not
+automatically safer than a suitable aid.
+
+92
+00:16:35,808 --> 00:16:47,856
+Communicate the plan, protect attachments and reassess after each
+meaningful stage. Do not turn a school practice sequence into a
+mandatory mobility challenge for every patient.
+
+93
+00:16:47,856 --> 00:16:58,200
+Some patients cannot safely or comfortably lie flat because of spinal
+curvature, pain or breathing difficulty. Forcing them flat may worsen
+the problem.
+
+94
+00:16:58,200 --> 00:17:06,216
+Support the natural position and fill relevant gaps with suitable
+padding, while maintaining the actual injury and airway plan.
+
+95
+00:17:06,216 --> 00:17:15,456
+Padding is not a reason to ignore new neurological symptoms or to
+build an unstable stack. Check secure support and equipment fit.
+
+96
+00:17:15,456 --> 00:17:25,104
+Reassess breathing, pain, perfusion and neurological findings after
+positioning or movement. Ask the patient whether the new position
+helps.
+
+97
+00:17:25,104 --> 00:17:37,944
+Unexplained injuries, fear around a caregiver or unmet basic needs may
+raise concern. Poverty, illness, difficult housing or a pressure
+injury alone does not prove abuse.
+
+98
+00:17:37,944 --> 00:17:47,712
+Give the patient a safe chance to speak privately when feasible. Avoid
+an accusatory confrontation that could increase danger or prevent
+urgent care.
+
+99
+00:17:47,712 --> 00:18:00,528
+Document location, appearance, observed behavior and the words/source
+of relevant accounts. Do not date a bruise precisely from color or
+label a person a perpetrator without evidence.
+
+100
+00:18:00,528 --> 00:18:13,536
+Respond to immediate danger and use the actual service and British
+Columbia safeguarding process, with capacity and consent considered.
+Adult and child reporting rules are not interchangeable.
+
+101
+00:18:13,536 --> 00:18:22,368
+A clear baseline statement can be more useful than simply writing
+elderly with dementia. Explain the specific new difference.
+
+102
+00:18:22,368 --> 00:18:32,760
+Attribute collateral and preserve uncertainty about an unwitnessed
+fall, last medicine dose or onset. Do not fill the record with
+invented negatives.
+
+103
+00:18:32,760 --> 00:18:41,904
+Record why a position or movement plan was modified and what happened
+afterward. Include any incomplete measurement and why it was limited.
+
+104
+00:18:41,904 --> 00:18:51,744
+Hand the next team a usable trajectory. A single final normal number
+does not communicate the patient's actual risk or the preceding
+deterioration.
+
+105
+00:18:51,744 --> 00:19:00,960
+This original patient usually manages ordinary daily tasks and
+conversation. Today there is a new loss of attention and alertness.
+
+106
+00:19:00,960 --> 00:19:11,088
+A fall occurred two days earlier, but no reliable witness can confirm
+head contact. Keep that uncertainty rather than recording no head
+injury.
+
+107
+00:19:11,088 --> 00:19:23,280
+The reported medicines change risk: anticoagulation raises bleeding
+concern and a beta blocker may blunt tachycardia. The exact last doses
+remain unconfirmed.
+
+108
+00:19:23,280 --> 00:19:34,056
+Do not choose between old age, a medicine effect and an injury before
+assessment. Assess the current threats and obtain a useful timeline in
+parallel.
+
+109
+00:19:34,056 --> 00:19:44,016
+These values are assumed training observations, not real patient data.
+The normal-range pulse and glucose do not explain away the acute
+functional change.
+
+110
+00:19:44,016 --> 00:19:56,496
+Assess airway protection and breathing effectiveness, then perfusion
+and focused neurological findings. The rate of twenty-four and altered
+response deserve context and reassessment.
+
+111
+00:19:56,496 --> 00:20:07,944
+The absence of fever does not exclude infection, and the medicine
+history prevents relying on pulse alone. The unwitnessed head-contact
+history also remains relevant.
+
+112
+00:20:07,944 --> 00:20:19,056
+Do not administer fluid solely because pressure is lower than a
+reported usual value. Assess the full mechanism and current pathway
+while arranging appropriate urgent care.
+
+113
+00:20:19,056 --> 00:20:29,424
+Ask for the last confirmed usual conversation and whether function
+changed immediately after the fall or later. Distinguish observed time
+from an estimate.
+
+114
+00:20:29,424 --> 00:20:42,600
+Ask about new pain, vomiting, headache, weakness or speech changes
+without assuming they must be present. Seek a focused examination
+rather than forcing painful movement.
+
+115
+00:20:42,600 --> 00:20:53,208
+Clarify last doses and recent changes with permission, using reliable
+packaging or collateral. Do not infer adherence or overdose from a
+medicine list.
+
+116
+00:20:53,208 --> 00:21:03,120
+Keep infection, metabolic and cardiac alternatives visible. A
+suspected head injury should not prevent recognition of a second
+concurrent emergency.
+
+117
+00:21:03,120 --> 00:21:12,720
+Assume a new left-arm weakness is now observed. State precisely what
+changed rather than inserting a final diagnosis into the case.
+
+118
+00:21:12,720 --> 00:21:25,152
+Repeat focused findings and primary threats, and use the applicable
+stroke or trauma pathway with the full history. The field examination
+cannot reliably exclude intracranial bleeding.
+
+119
+00:21:25,152 --> 00:21:34,680
+Preserve the distinct times and uncertainties. The time a deficit is
+first noticed is not automatically the onset or the last-known-well
+time.
+
+120
+00:21:34,680 --> 00:21:46,416
+Pre-alert with the neurological change, anticoagulant history, recent
+fall and current physiology. Do not delay for an unnecessary walk test
+or a perfect medication inventory.
+
+121
+00:21:46,416 --> 00:21:56,808
+Select a position that supports airway and breathing while respecting
+the actual injury plan. Avoid forcing kyphotic anatomy into an unsafe
+flat posture.
+
+122
+00:21:56,808 --> 00:22:05,640
+Use the safe movement method justified by current risk and ability. Do
+not ask the patient to walk simply to save equipment or time.
+
+123
+00:22:05,640 --> 00:22:15,456
+Protect skin and attachments, cover appropriately and keep
+communication direct. An urgent plan can still preserve privacy and
+explanation.
+
+124
+00:22:15,456 --> 00:22:26,112
+Continue checking response during transfer and conveyance. Escalation
+is not the end of care and a first normal monitor result does not
+close reassessment.
+
+125
+00:22:26,112 --> 00:22:34,896
+Begin with the meaningful change from baseline and the current
+concern. Give relevant times and the reliability of each source.
+
+126
+00:22:34,896 --> 00:22:44,424
+Report medicines and injury facts without overstating certainty. Use
+unknown rather than a fabricated no when information is absent.
+
+127
+00:22:44,424 --> 00:22:54,648
+Describe the actual neurological and physiological trend and the
+response to care. A label such as elderly fall or possible UTI is not
+enough.
+
+128
+00:22:54,648 --> 00:23:05,904
+Explain movement modifications and remaining threats. The receiving
+team needs a reliable clinical story, not a collection of reassuring
+isolated numbers.
+
+129
+00:23:05,904 --> 00:23:16,560
+You should be able to recognize new illness even when pain, fever or
+tachycardia is absent. That requires a real baseline and a complete
+primary assessment.
+
+130
+00:23:16,560 --> 00:23:25,032
+Explain how medicines and reserve alter the presentation without
+making the drug list or the patient's age the final diagnosis.
+
+131
+00:23:25,032 --> 00:23:34,584
+Demonstrate supported communication and safe movement using the actual
+tools and authorization. Preserve dignity as part of clinical quality.
+
+132
+00:23:34,584 --> 00:23:43,848
+Then reassess and report the trajectory. The same baseline-change-
+modification framework will guide the next session on larger-bodied
+patients.

@@ -1,0 +1,544 @@
+1
+00:00:00,000 --> 00:00:13,368
+The school compares enteral, parenteral and intraosseous routes. Use
+those categories to understand delivery, not as a ladder in which
+every sick patient automatically moves to IV or IO.
+
+2
+00:00:13,368 --> 00:00:26,064
+The route must fit the indication, formulation, patient and actual
+authority. IV access has risks and may not be needed when an effective
+less-invasive treatment is available.
+
+3
+00:00:26,064 --> 00:00:41,832
+The school table lists IV or IO as preferred in anaphylaxis. That is
+not the initial-care rule: current E zero nine prioritizes
+intramuscular epinephrine. Do not delay indicated IM treatment while
+seeking a line.
+
+4
+00:00:41,832 --> 00:00:51,864
+Generic poor-perfusion concerns do not cancel that indication-specific
+rule. State the treatment and route together, then check its current
+clinical pathway.
+
+5
+00:00:51,864 --> 00:01:03,600
+The intima is the inner endothelial lining; valves are folds of that
+inner layer. Mechanical or chemical irritation can contribute to
+inflammation and thrombosis.
+
+6
+00:01:03,600 --> 00:01:15,456
+The media includes smooth muscle and elastic tissue and is thinner
+than the comparable arterial layer. Sympathetic tone can alter venous
+calibre, particularly in cold or shock.
+
+7
+00:01:15,456 --> 00:01:24,384
+The externa provides connective support. These are tissue layers, not
+three separate lumens into which a needle may be placed
+interchangeably.
+
+8
+00:01:24,384 --> 00:01:38,496
+Veins generally return blood toward the heart at lower pressure and
+hold substantial blood volume. Direction defines a vein; oxygen
+content is not the universal definition, because pulmonary veins are
+an important exception.
+
+9
+00:01:38,496 --> 00:01:49,728
+Flow depends on catheter and tubing properties as well as the driving
+pressure. A narrower or longer catheter generally offers more
+resistance under comparable conditions.
+
+10
+00:01:49,728 --> 00:02:00,768
+For gravity delivery, bag height relative to the site contributes
+pressure. A kink, closed clamp, retained constricting band or bent
+joint can restrict flow.
+
+11
+00:02:00,768 --> 00:02:11,280
+A running drip chamber is not proof that the fluid is entering the
+vein. Check the site and delivered volume, especially after movement
+or a sudden rate change.
+
+12
+00:02:11,280 --> 00:02:24,528
+Choose access and equipment for the actual need rather than
+automatically choosing the largest catheter or a universal proximal
+site. Avoid unnecessary attempts and do not delay appropriate
+transport.
+
+13
+00:02:24,528 --> 00:02:36,504
+Shock or cold can reduce tissue perfusion and delay IM or SC
+absorption. The finding should change reassessment and the clinical
+plan, not justify an improvised second route.
+
+14
+00:02:36,504 --> 00:02:51,144
+IV dosing bypasses absorption, but reaching the target and producing
+effect still depend on circulation and pharmacodynamics. Direct access
+does not make onset literally instantaneous for every medicine.
+
+15
+00:02:51,144 --> 00:03:04,584
+IO is not a blanket solution for every collapsed vein, child or
+conscious shocked patient. The current PCP conditions and age
+restrictions apply even if a general physiology diagram looks
+favourable.
+
+16
+00:03:04,584 --> 00:03:17,256
+If a route is failing, support immediate breathing or circulatory
+threats, identify why and request appropriate help. The correct
+alternative must be clinically suitable and authorized.
+
+17
+00:03:17,256 --> 00:03:29,112
+A swallowed medicine passes through the gastrointestinal system. A
+suitable sublingual medicine is absorbed through mucosa; it does not
+need to travel through the gut to produce that intended effect.
+
+18
+00:03:29,112 --> 00:03:38,688
+The school groups PO and SL as enteral for teaching, but do not infer
+identical absorption, first-pass handling or clinical suitability.
+
+19
+00:03:38,688 --> 00:03:52,560
+Assess whether the patient can cooperate, manage secretions and
+protect the airway, and whether active vomiting or distress prevents
+safe use. Do not provoke gagging as a shortcut to certifying
+swallowing safety.
+
+20
+00:03:52,560 --> 00:04:06,312
+If the prescribed route is unsafe, hold and use the appropriate
+authorized pathway. Crushing an unsuitable tablet, changing its route
+or giving a liquid to an unprotected airway is not a safe workaround.
+
+21
+00:04:06,312 --> 00:04:20,304
+A subcutaneous dose is deposited in tissue beneath the dermis and
+above muscle. An intramuscular dose is deposited within the selected
+muscle. The intended layer affects absorption and technique.
+
+22
+00:04:20,304 --> 00:04:33,960
+Needle length, gauge, site, tissue thickness, medication and volume
+must be selected together. A needle too short may miss muscle; a
+poorly placed deep needle can injure underlying structures.
+
+23
+00:04:33,960 --> 00:04:46,056
+The diagram is a layer concept, not a body landmark map. Learn the
+actual landmarks on a model with the instructor and verify the
+specific device or medication procedure.
+
+24
+00:04:46,056 --> 00:04:56,328
+Do not use the textbook's largest listed IM volume as the permitted
+volume for every site or child. Site capacity and formulation
+requirements differ.
+
+25
+00:04:56,328 --> 00:05:09,120
+Confirm the specific indication and IM formulation before preparation.
+IM is a preferred emergency route in some conditions, not merely a
+backup whenever an IV was inconvenient.
+
+26
+00:05:09,120 --> 00:05:23,616
+Verify the dose, volume and appropriate equipment, and label the
+prepared medication. Choose the site specified by the indication and
+current procedure; anaphylaxis epinephrine uses the anterolateral mid-
+thigh.
+
+27
+00:05:23,616 --> 00:05:35,760
+Inspect skin and identify the actual landmarks rather than choosing an
+arbitrary distance from the shoulder. Position the patient so the
+intended muscle is accessible and relaxed.
+
+28
+00:05:35,760 --> 00:05:49,584
+Use hand hygiene, the indicated PPE, aseptic handling and an
+accessible sharps container. The first live injection must be within
+the school's supervised authorization process, not self-practice from
+this slide.
+
+29
+00:05:49,584 --> 00:05:59,856
+After the complete medication check, clean the intended site with the
+approved preparation and let it dry. Avoid touching and contaminating
+the prepared area.
+
+30
+00:05:59,856 --> 00:06:13,536
+Using the instructed landmark and patient-specific equipment,
+stabilize the tissue and enter the muscle with the taught technique,
+generally at ninety degrees. Needle depth cannot be determined from
+the angle alone.
+
+31
+00:06:13,536 --> 00:06:28,992
+Follow the current medication and device procedure for aspiration and
+delivery rate. The older textbook's routine aspiration rule is not
+universal for all injections, and a vaccine rule is not automatically
+a rule for every therapeutic drug.
+
+32
+00:06:28,992 --> 00:06:43,176
+Withdraw safely, activate the safety device and immediately dispose
+without recapping. Provide the indicated site care and document dose,
+site, time and response, including any unexpected reaction.
+
+33
+00:06:43,176 --> 00:06:55,824
+Verify that the medicine, volume and SC route are appropriate. Choose
+an intact taught site and the device and needle that reach the
+subcutaneous layer without unintentionally reaching muscle.
+
+34
+00:06:55,824 --> 00:07:09,624
+SC angle depends on tissue and device, commonly forty-five to ninety
+degrees in general teaching. The older Nancy passage uses forty-five
+degrees throughout; that is not every current product's instruction.
+
+35
+00:07:09,624 --> 00:07:22,968
+Do not universally aspirate or massage after a SC dose. The candidate
+Canadian procedure says not to massage; actual aspiration and site
+care must follow the medicine and current procedure.
+
+36
+00:07:22,968 --> 00:07:34,488
+Dispose safely and monitor the site and patient. Poor perfusion may
+delay absorption, and repeated doses need the actual route-specific
+interval and cumulative check.
+
+37
+00:07:34,488 --> 00:07:46,176
+Intranasal delivery requires an appropriate medication and device. A
+syringe with a mucosal atomizer and a sealed unit-dose spray have
+different preparation and delivery instructions.
+
+38
+00:07:46,176 --> 00:07:59,112
+For the syringe procedure, verify concentration and calculated volume
+before attaching the atomizer. Remove the fill tip safely and inspect
+for nasal blood or mucus that could obstruct delivery.
+
+39
+00:07:59,112 --> 00:08:12,864
+Current PR eleven accounts for the atomizer's zero-point-one-
+millilitre dead space and prepares half-dose delivery to each nostril.
+Follow that exact device procedure, not a remembered instruction from
+a different spray.
+
+40
+00:08:12,864 --> 00:08:25,896
+Coordinate access to the nose without unnecessarily interrupting life-
+sustaining ventilation. Naloxone delivery is part of an airway-first
+plan, not a reason to leave the patient unventilated.
+
+41
+00:08:25,896 --> 00:08:37,680
+The current syringe-atomizer procedure limits volume to one millilitre
+per nostril. A correct drug amount may be unsuitable intranasally if
+its concentration requires too much volume.
+
+42
+00:08:37,680 --> 00:08:50,160
+For a fictional one-point-six-milligram dose at one milligram per
+millilitre, the intended drug volume is one point six millilitres, or
+zero point eight per nostril before device preparation.
+
+43
+00:08:50,160 --> 00:09:03,816
+At half a milligram per millilitre, the same amount would need three
+point two millilitres, or one point six per nostril, beyond that
+limit. Do not solve it by flooding the nose or inventing repeat
+intervals.
+
+44
+00:09:03,816 --> 00:09:17,304
+Resolve the concentration or an authorized alternative with the
+current pathway. Reassess actual delivery and clinical response; an
+atomized dose is not proof that an exact systemic amount has been
+absorbed.
+
+45
+00:09:17,304 --> 00:09:30,912
+Verify the inhaler name, strength, remaining doses, expiry and prior
+use. Prepare and shake or prime only as required by that product, and
+inspect the spacer and valves.
+
+46
+00:09:30,912 --> 00:09:44,544
+Use an effective mouthpiece or mask seal. Deliver one actuation at a
+time into the spacer and coach the appropriate slow inhalation or
+approved tidal-breathing technique for that patient and device.
+
+47
+00:09:44,544 --> 00:09:56,208
+An able patient may hold the breath as comfortably instructed, but do
+not require a distressed patient to perform an impossible ten-second
+hold or stop needed oxygen unnecessarily.
+
+48
+00:09:56,208 --> 00:10:07,200
+Repeat only within the indicated regimen and reassess. A correctly
+counted number of sprays does not establish delivery if the seal
+failed or the patient could not inhale.
+
+49
+00:10:07,200 --> 00:10:20,832
+Verify the intended drug and concentration and use the required
+diluent and device. Flow requirements and fill volume depend on the
+nebulizer; the textbook's single six-litre setting is not universal.
+
+50
+00:10:20,832 --> 00:10:33,312
+Keep the chamber and interface in the intended orientation and coach
+breathing that the patient can manage. A visible mist outside the mask
+is not proof that the intended amount reaches the airways.
+
+51
+00:10:33,312 --> 00:10:49,128
+Use the current infection-control and device precautions. For
+ineffective breathing, ventilation support takes priority; a trained
+compatible in-line system may be part of the plan, but must not
+compromise BVM effectiveness.
+
+52
+00:10:49,128 --> 00:11:04,320
+Reassess airflow, work, speech and the adverse response. Increasing
+fatigue, decreased awareness or poor air movement requires urgent
+escalation, not more time waiting beside a running nebulizer.
+
+53
+00:11:04,320 --> 00:11:18,216
+A line should have an actual indicated use. A vague expectation that
+the hospital may want an IV later is not enough by itself, and an
+effective less-invasive route may make a line unnecessary.
+
+54
+00:11:18,216 --> 00:11:28,944
+Verify access authority as well as drug authority. Current BCEHS PCP
+under-twelve cannulation restrictions apply even when a school model
+demonstrates the procedure.
+
+55
+00:11:28,944 --> 00:11:41,688
+Trace the established line to the patient and inspect the site,
+solution, connectors and any other running treatment. Do not assume
+patency from a label or a historic successful insertion.
+
+56
+00:11:41,688 --> 00:11:54,048
+This week prepares IV-push medication checks; the following school
+weekend develops access skills. Passing a preparation lesson does not
+demonstrate actual cannulation competence.
+
+57
+00:11:54,048 --> 00:12:04,488
+IV push means a syringe dose through appropriate vascular access. Some
+drugs require slow delivery, so the word push does not establish
+speed.
+
+58
+00:12:04,488 --> 00:12:18,000
+Complete the medication and patient checks, including current
+dilution, compatibility and administration time. Clean the connector
+using the actual device and antiseptic procedure and let it dry as
+required.
+
+59
+00:12:18,000 --> 00:12:31,584
+Confirm line identity and patency using the approved method. Pain,
+swelling, leakage or resistance requires reassessment; do not force
+the dose to make a difficult line work.
+
+60
+00:12:31,584 --> 00:12:46,176
+Deliver at the drug-specific rate while observing the patient and
+site. Device-specific clamping or connection technique must prevent
+backflow and unintended delivery, not blindly reproduce an older
+needle-port diagram.
+
+61
+00:12:46,176 --> 00:12:57,744
+After syringe delivery, part of a dose may remain in the connector or
+extension. The actual line dead space and compatible flush procedure
+matter to what reaches the patient.
+
+62
+00:12:57,744 --> 00:13:10,200
+Use the appropriate compatible flush volume and method for the device,
+patient and medicine. The older textbook's twenty-millilitre flush is
+not a universal rule for every age and access.
+
+63
+00:13:10,200 --> 00:13:21,456
+A rapid flush can rapidly deliver a slow-push drug still in dead
+space. The medication-specific rate must be preserved where relevant,
+including the residual dose.
+
+64
+00:13:21,456 --> 00:13:33,312
+Do not automatically run the line wide open to clear it. Restore the
+intended ongoing rate and document actual drug and relevant fluid
+delivery, then reassess effect and harm.
+
+65
+00:13:33,312 --> 00:13:46,632
+Fluid or medication outside the intended vessel may cause local
+injury. Hyperosmolar products such as dextrose can be particularly
+damaging; an IV label does not prevent tissue exposure.
+
+66
+00:13:46,632 --> 00:13:59,928
+Watch for new pain, swelling, coolness, leakage, resistance or altered
+flow, and compare the site with the patient's report. Not every
+complication presents with every sign.
+
+67
+00:13:59,928 --> 00:14:12,456
+Stop the implicated administration and follow the specific
+extravasation procedure, preserving the device if the protocol needs
+it for aspiration or treatment. Seek appropriate clinical guidance.
+
+68
+00:14:12,456 --> 00:14:25,968
+Do not force a flush through the suspect site or improvise heat, cold,
+massage or an antidote. Subsequent access and treatment depend on the
+actual drug, tissue and authorized plan.
+
+69
+00:14:25,968 --> 00:14:37,200
+The vascular marrow network connects with systemic venous circulation,
+allowing indicated IO delivery when peripheral access cannot be
+established in the permitted clinical setting.
+
+70
+00:14:37,200 --> 00:14:48,960
+The bony space resists collapse, but that does not guarantee correct
+placement, flow or immediate peak drug effect. Placement and ongoing
+tissue checks are still essential.
+
+71
+00:14:48,960 --> 00:15:02,280
+Complications include painful infusion, extravasation, compartment
+injury, infection and device movement. A conscious patient's pain plan
+requires the appropriately authorized practitioner.
+
+72
+00:15:02,280 --> 00:15:14,232
+For PCP, review the exact current PR twelve pathway from the
+pharmacology lecture. Do not choose IO solely because a generic school
+case describes severe dehydration.
+
+73
+00:15:14,232 --> 00:15:26,016
+One school subsection lists proximal humerus as a recommended PCP IO
+site. The checked current BCEHS procedure explicitly restricts PCP
+placement to a tibial site.
+
+74
+00:15:26,016 --> 00:15:39,456
+The same source supplies generic needle lengths and a ten-to-twenty-
+millilitre saline-plus-lidocaine instruction. Do not treat those as a
+patient-specific device selection or an unrestricted local-anesthetic
+order.
+
+75
+00:15:39,456 --> 00:15:53,856
+Use current patient, site, authority and manufacturer criteria.
+Confirm placement and protect the site using the actual taught
+procedure; a single reassuring sign is not a guarantee against
+extravasation.
+
+76
+00:15:53,856 --> 00:16:09,072
+The saved subsection also contains unrelated template prose. It is not
+a clinical instruction or a learning objective. The course uses
+substantive clinical content and identifies corrections instead of
+filling slides with that text.
+
+77
+00:16:09,072 --> 00:16:18,624
+After moving the patient, immediately check the person before the
+equipment. An airway or perfusion problem is more urgent than a neat-
+looking dressing.
+
+78
+00:16:18,624 --> 00:16:31,368
+Then trace the treatment: interface seal, connectors, tubing, clamp,
+line site and securement. A device can move while the pump display or
+drip chamber still appears unchanged.
+
+79
+00:16:31,368 --> 00:16:40,920
+Reconfirm actual rate and delivered amount, especially with gravity
+systems. Inspect for a pulled catheter or hidden swelling under a
+blanket.
+
+80
+00:16:40,920 --> 00:16:51,288
+Document a changed route, stopped treatment or failed delivery
+truthfully. Do not assume that the prepared amount equals the
+administered amount after a disconnection.
+
+81
+00:16:51,288 --> 00:17:04,944
+An adult is vomiting and cannot reliably respond. A family member
+hands you an oral prescription and asks for the usual dose. There is
+no demonstrated patient request and oral safety is not established.
+
+82
+00:17:04,944 --> 00:17:14,328
+Begin immediate assessment and support the airway and breathing as
+needed. Do not administer the oral product merely because its label
+and dose are familiar.
+
+83
+00:17:14,328 --> 00:17:26,952
+Determine the underlying emergency and applicable authority. A
+separate indicated emergency treatment may exist, but you may not
+invent an injectable conversion of the family's oral medicine.
+
+84
+00:17:26,952 --> 00:17:40,176
+Explain why the route is unsafe, seek the appropriate support and
+document the findings and plan. The safe decision integrates
+physiology, consent, route and scope rather than using any one alone.
+
+85
+00:17:40,176 --> 00:17:51,288
+At the school station, verbalize the specific route decision before
+handling equipment. Identify the indication, authority and a reason
+that this route could fail.
+
+86
+00:17:51,288 --> 00:18:02,160
+Demonstrate preparation on the assigned training equipment, then have
+the instructor check landmarks, needle choice, interface or connection
+and medication-specific details.
+
+87
+00:18:02,160 --> 00:18:15,528
+Perform the current taught delivery sequence and immediately reassess
+the intended effect and relevant harms. If a problem is introduced,
+stop the implicated action and explain your recovery plan.
+
+88
+00:18:15,528 --> 00:18:27,384
+Use the bilingual reading checklist to rehearse, but obtain the actual
+school skill sign-off. A completed video or worksheet does not
+demonstrate safe psychomotor performance by itself.

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 400" role="img" aria-labelledby="t d">
+  <title id="t">The CO2 measurement chain during resuscitation</title>
+  <desc id="d">Tissue production, blood transport, lung ventilation and sensor sampling all influence end-tidal carbon dioxide.</desc>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 10 5 0 10Z" fill="#44718a"/></marker></defs>
+  <rect width="1100" height="400" rx="20" fill="#f2f7fa"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <text x="550" y="42" fill="#173047" font-weight="700" font-size="25">ETCO2 IS THE END OF A CHAIN</text>
+    <g fill="#fff" stroke="#b8ccd7" stroke-width="2"><rect x="30" y="90" width="220" height="160" rx="14"/><rect x="310" y="90" width="220" height="160" rx="14"/><rect x="590" y="90" width="220" height="160" rx="14"/><rect x="870" y="90" width="200" height="160" rx="14"/></g>
+    <g fill="#173047" font-size="23" font-weight="700"><text x="140" y="135">TISSUE</text><text x="420" y="135">BLOOD FLOW</text><text x="700" y="135">LUNGS</text><text x="970" y="135">SENSOR</text></g>
+    <g fill="#37566d" font-size="21"><text x="140" y="181">CO2 production</text><text x="140" y="216">Metabolic context</text><text x="420" y="181">CO2 transport</text><text x="420" y="216">CPR / circulation</text><text x="700" y="181">Exhaled CO2</text><text x="700" y="216">Ventilation / V-Q</text><text x="970" y="181">Sample / seal</text><text x="970" y="216">Waveform</text></g>
+    <text x="550" y="310" font-size="23" fill="#173047">A change at any link can change the displayed value.</text>
+    <text x="550" y="355" font-size="20" fill="#8a4033">Interpret the trend with the patient, airway and intervention history.</text>
+  </g>
+  <g stroke="#44718a" fill="none" stroke-width="3" marker-end="url(#a)"><path d="M255 172H300"/><path d="M535 172H580"/><path d="M815 172H860"/></g>
+</svg>

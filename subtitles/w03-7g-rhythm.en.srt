@@ -1,0 +1,640 @@
+1
+00:00:00,000 --> 00:00:14,472
+Week Three joins vascular access with an introduction to ECGs. The
+school allocated module Seven G here, including conduction, systematic
+rhythm checks, twelve-lead views and concerning ischemic patterns.
+
+2
+00:00:14,472 --> 00:00:28,680
+This first lecture builds a repeatable rhythm method. The next lecture
+teaches twelve-lead placement, the school three-minute exercise and
+how recognition leads to communication rather than unsupported
+independent treatment.
+
+3
+00:00:28,680 --> 00:00:40,872
+We use new synthetic teaching tracings with explicit scales. They
+demonstrate features and measurements; they are not patient records, a
+diagnostic simulator or the school assessment strips.
+
+4
+00:00:40,872 --> 00:00:53,376
+Keep saying the school questions: what else could this be, what
+changed after care, what should have changed and what got worse. Do
+not let an interesting tracing displace immediate patient support.
+
+5
+00:00:53,376 --> 00:01:05,832
+An ECG records electrical potential differences between skin
+electrodes. It does not directly show blood pressure, stroke volume,
+coronary anatomy or whether a palpable pulse exists.
+
+6
+00:01:05,832 --> 00:01:18,816
+Assess responsiveness, breathing and circulation using the trained
+primary assessment. Organized electrical complexes with no detectable
+pulse can represent pulseless electrical activity.
+
+7
+00:01:18,816 --> 00:01:32,256
+Conversely, a talking person with an apparent chaotic monitor trace
+may have artifact. Assess the patient and equipment promptly without
+assuming every unusual waveform is ventricular fibrillation.
+
+8
+00:01:32,256 --> 00:01:42,888
+Use the monitor to add evidence to care. Never delay indicated
+resuscitation to complete a six-step description or obtain the perfect
+twelve-lead printout.
+
+9
+00:01:42,888 --> 00:01:54,432
+In usual sinus activation, the sinoatrial node in the right atrium
+initiates an impulse. Activation spreads through atrial tissue toward
+the atrioventricular junction.
+
+10
+00:01:54,432 --> 00:02:06,960
+The AV junction introduces a delay before activation passes into the
+His bundle, bundle branches and Purkinje network. That sequence helps
+coordinate filling and ventricular activation.
+
+11
+00:02:06,960 --> 00:02:19,992
+A delay or an alternative route can change timing and QRS appearance.
+The strip is a surface consequence of electrical activity, not a
+photograph of exactly where an abnormal impulse began.
+
+12
+00:02:19,992 --> 00:02:28,824
+Trace the pathway aloud while looking at the figure, then identify
+which measured event would change if atrioventricular conduction
+slowed.
+
+13
+00:02:28,824 --> 00:02:39,576
+Automaticity means some specialized cells can depolarize
+spontaneously. A slower backup focus may emerge when faster impulses
+no longer drive the system.
+
+14
+00:02:39,576 --> 00:02:50,400
+The school gives typical adult teaching ranges of sixty to one hundred
+for sinus activity, forty to sixty for junctional escape and twenty to
+forty for ventricular escape.
+
+15
+00:02:50,400 --> 00:03:04,128
+These ranges overlap with disease, medicines and physiological
+variation. A rate alone does not identify a focus, and a backup
+electrical rhythm may still fail to provide effective circulation.
+
+16
+00:03:04,128 --> 00:03:15,192
+Assess the relation between rate and symptoms: new confusion, syncope,
+chest discomfort or poor perfusion matters more than simply labelling
+a number slow.
+
+17
+00:03:15,192 --> 00:03:29,304
+Depolarization changes the electrical state of myocardial cells;
+repolarization is their electrical recovery. These processes are
+related to contraction and relaxation but are not identical to them.
+
+18
+00:03:29,304 --> 00:03:42,456
+When a net electrical vector moves toward a positive viewing
+electrode, the deflection often points upward; movement away can
+produce a negative deflection. The same event can look different in
+another lead.
+
+19
+00:03:42,456 --> 00:03:53,928
+Do not interpret an upward waveform as good blood flow or a downward
+waveform as a failed beat. Direction describes a view, not the
+clinical success of the contraction.
+
+20
+00:03:53,928 --> 00:04:04,344
+A lead is a calculated view, while an electrode is a physical sensor.
+That distinction explains how ten electrodes can provide twelve views
+in the next lecture.
+
+21
+00:04:04,344 --> 00:04:15,576
+The P wave represents atrial depolarization. The QRS complex
+represents ventricular depolarization, and the T wave represents
+ventricular repolarization.
+
+22
+00:04:15,576 --> 00:04:28,920
+A Q wave is an initial negative deflection before an R wave, R is a
+positive deflection and S is a negative deflection after R. Not every
+normal complex contains all three named components.
+
+23
+00:04:28,920 --> 00:04:41,424
+Identify the actual onset of the QRS, not simply the tall R peak, when
+measuring PR, QRS or QT. An absent visible Q does not prevent
+measuring those intervals.
+
+24
+00:04:41,424 --> 00:04:52,944
+Use a clear baseline and a lead with visible boundaries. If motion or
+overlapping waves obscure a boundary, state uncertainty rather than
+inventing precision.
+
+25
+00:04:52,944 --> 00:05:04,128
+At twenty-five millimetres per second, one millimetre horizontally
+represents zero point zero four seconds, and five small boxes
+represent zero point two seconds.
+
+26
+00:05:04,128 --> 00:05:14,544
+At the usual gain of ten millimetres per millivolt, vertical height
+represents voltage. Horizontal time and vertical voltage answer
+different questions.
+
+27
+00:05:14,544 --> 00:05:24,816
+A changed paper speed or gain changes the meaning of a box. Always
+inspect the actual printout settings rather than applying a memorized
+value to every display.
+
+28
+00:05:24,816 --> 00:05:36,552
+Our six-second figures explicitly use the standard represented scale.
+Browser zoom changes physical screen size, not the labelled time
+relationships in the authored diagram.
+
+29
+00:05:36,552 --> 00:05:50,304
+PR starts at the beginning of P and ends at the beginning of QRS. The
+usual adult reference is zero point one two to zero point two zero
+seconds, or three to five small boxes at standard speed.
+
+30
+00:05:50,304 --> 00:06:03,840
+QRS width includes the whole ventricular depolarization complex, not
+only the R wave. A width of zero point one two seconds or more is
+classified as wide in this introductory rhythm method.
+
+31
+00:06:03,840 --> 00:06:15,960
+The ST segment begins at the J point, where QRS ends. QT continues
+from QRS onset through the end of T, including depolarization and
+repolarization.
+
+32
+00:06:15,960 --> 00:06:29,304
+The saved school table contains inconsistent decimal values such as a
+zero point eight second P wave. Do not memorize those typographical
+values; use the verified landmarks and measurements taught here.
+
+33
+00:06:29,304 --> 00:06:41,064
+QT is not one fixed normal number for every heart rate and person.
+Rate correction and the method used matter, as do difficult T-wave
+boundaries and a wide QRS.
+
+34
+00:06:41,064 --> 00:06:54,240
+A prolonged repolarization concern may relate to medications,
+electrolyte disturbances or inherited conditions. A machine flag is a
+reason for review, not a complete causal diagnosis.
+
+35
+00:06:54,240 --> 00:07:05,856
+Do not calculate a correction from a poor tracing and treat its
+apparent precision as certainty. Record the measured findings,
+settings and symptoms and seek the appropriate support.
+
+36
+00:07:05,856 --> 00:07:18,216
+The practical goal today is accurate acquisition and recognition of a
+concern. Specialist risk calculation does not replace assessing
+syncope, instability or a dangerous rhythm now.
+
+37
+00:07:18,216 --> 00:07:28,464
+Explain the procedure, obtain appropriate consent and expose only what
+is needed. Support the patient and limbs in a clinically tolerable
+position.
+
+38
+00:07:28,464 --> 00:07:39,096
+Prepare skin and electrode contact using the trained method. Sweat,
+hair, poor adhesion, cold or a damaged cable can impair the signal.
+
+39
+00:07:39,096 --> 00:07:49,848
+Verify the physical labels instead of assuming every manufacturer uses
+the same colour code. Keep cable tension and unnecessary movement out
+of the recording.
+
+40
+00:07:49,848 --> 00:07:59,976
+Ask for a brief quiet recording with normal breathing when possible.
+Check the result rather than assuming that a successful print means a
+diagnostically useful signal.
+
+41
+00:07:59,976 --> 00:08:11,400
+Movement, tremor, muscle activity, loose contact and electrical
+interference can imitate disease. First compare the tracing with the
+person's actual clinical state.
+
+42
+00:08:11,400 --> 00:08:23,328
+Look across available leads and for regular complexes continuing
+through the noise. Check the cable and contact, reduce a reversible
+noise source and reassess the signal.
+
+43
+00:08:23,328 --> 00:08:35,688
+A comfortable talking patient and apparent VF strongly demand a signal
+check. An unresponsive pulseless patient demands the arrest pathway
+while appropriate equipment checks occur.
+
+44
+00:08:35,688 --> 00:08:47,712
+Do not label every unexpected finding artifact. If it persists with a
+good signal, describe it and obtain review; if the clinical condition
+worsens, respond to that immediately.
+
+45
+00:08:47,712 --> 00:08:58,752
+After confirming patient priority and signal quality, calculate rate
+and assess regularity. Then inspect P waves and their relationship to
+QRS complexes.
+
+46
+00:08:58,752 --> 00:09:08,664
+Measure PR where it is measurable and measure the full QRS width.
+Finish with a scan for concerning ST-T findings that may require a
+twelve-lead view.
+
+47
+00:09:08,664 --> 00:09:19,080
+Synthesize the observations rather than jumping to a label after the
+first feature. A rate of one hundred and fifty does not alone
+establish the rhythm origin.
+
+48
+00:09:19,080 --> 00:09:29,760
+State what you see, what you cannot assess and the clinical
+consequence. This method supports recognition and escalation within
+actual training and authorization.
+
+49
+00:09:29,760 --> 00:09:40,344
+At standard speed, a regular rhythm with four large boxes between R
+peaks has an estimated rate of three hundred divided by four, or
+seventy-five per minute.
+
+50
+00:09:40,344 --> 00:09:52,392
+For an irregular rhythm, count QRS complexes in a known six-second
+interval and multiply by ten for an approximate average. Boundary and
+short-sample effects limit precision.
+
+51
+00:09:52,392 --> 00:10:03,888
+A monitor can double-count tall T waves or miss low complexes. Compare
+its rate with your tracing calculation and clinical pulse rather than
+copying the display uncritically.
+
+52
+00:10:03,888 --> 00:10:13,992
+In atrial-ventricular dissociation, atrial and ventricular rates can
+differ. For perfusion-related reasoning, make clear which rate you are
+reporting.
+
+53
+00:10:13,992 --> 00:10:23,064
+Compare successive R-to-R intervals across enough of the strip.
+Calipers or a paper edge can make a subtle pattern easier to see.
+
+54
+00:10:23,064 --> 00:10:32,856
+A repeating irregular pattern differs from a rhythm with no repeating
+interval sequence. That description helps the receiving clinician
+understand the evidence.
+
+55
+00:10:32,856 --> 00:10:43,320
+Check whether apparent variation comes from motion, missed complexes
+or a very short sample. A longer strip or another lead may clarify the
+pattern.
+
+56
+00:10:43,320 --> 00:10:54,840
+Regularity alone does not determine safety. A regular rhythm can be
+dangerously fast or slow, while an irregular rhythm can still have a
+pulse and require non-arrest assessment.
+
+57
+00:10:54,840 --> 00:11:21,432
+The assigned nursing video offers a useful six-step rhythm method, but
+a shortcut is only valid under its assumptions. In this original ten-
+second example, twelve identifiable ventricular complexes give an
+estimated rate of seventy-two per minute. Do not multiply by ten
+unless the measured strip really spans six seconds. Check speed,
+signal and actual duration before defending a number.
+
+58
+00:11:21,432 --> 00:11:47,328
+Then explain the patient, not only the strip. Assess perfusion and
+symptoms, describe P waves and their relationship to the ventricular
+complexes, and measure the relevant intervals. A normal-looking rate
+does not prove useful circulation. This rhythm sequence must not
+exclude ST or QT assessment when the clinical problem requires them,
+and it does not replace the separate twelve-lead acquisition lesson.
+
+59
+00:11:47,328 --> 00:11:58,992
+In a usual sinus pattern, similar P waves precede each QRS and have an
+appropriate relationship to ventricular activation. Lead orientation
+changes their appearance.
+
+60
+00:11:58,992 --> 00:12:11,112
+Look for extra atrial activity, P waves not followed by QRS or QRS
+complexes without a clearly preceding P. Count relationships rather
+than assuming one bump means normal.
+
+61
+00:12:11,112 --> 00:12:24,264
+At fast rates or with low amplitude, a P may be buried in another
+wave. The school's simple missing-P rule cannot prove that sinus
+origin is excluded in every noisy or fast tracing.
+
+62
+00:12:24,264 --> 00:12:34,728
+If a P cannot be identified reliably, report that it is not clearly
+visible. Seek a better lead or review rather than inventing a PR
+interval.
+
+63
+00:12:34,728 --> 00:12:46,776
+Measure from the first P deflection to the first QRS deflection. A
+prolonged PR indicates delayed atrioventricular conduction but does
+not by itself precisely locate the delay.
+
+64
+00:12:46,776 --> 00:12:57,192
+Examine more than one beat. A changing interval, extra P waves or
+dropped QRS complexes provides different evidence from a consistently
+long interval.
+
+65
+00:12:57,192 --> 00:13:09,576
+A short PR can have several explanations. Do not diagnose a specific
+accessory pathway solely from one short interval without the other
+features and appropriate expertise.
+
+66
+00:13:09,576 --> 00:13:22,032
+For today, describe the measured relationship and patient condition.
+Symptomatic poor perfusion or a concerning block pattern needs prompt
+escalation rather than a long naming exercise.
+
+67
+00:13:22,032 --> 00:13:33,024
+Measure the complete QRS from onset to end in a lead with clear
+boundaries. At standard speed, three small boxes represent zero point
+one two seconds.
+
+68
+00:13:33,024 --> 00:13:43,056
+A narrow complex commonly reflects activation through a relatively
+rapid ventricular conduction route. It does not prove that every
+upstream process is normal.
+
+69
+00:13:43,056 --> 00:13:55,560
+A wide complex can arise from ventricular origin, bundle-branch
+conduction delay, pacing or other effects. Do not use wide equals
+ventricular as a universal diagnostic equation.
+
+70
+00:13:55,560 --> 00:14:08,496
+A rapid wide-complex pattern is potentially dangerous. Assess pulse
+and instability, obtain appropriate support and use the actual
+authorized pathway rather than guessing a drug from width.
+
+71
+00:14:08,496 --> 00:14:21,024
+Identify the baseline and J point before describing ST displacement.
+Noise, QRS conduction abnormalities and the selected lead can make a
+quick single-strip judgment unreliable.
+
+72
+00:14:21,024 --> 00:14:33,696
+Notice clear elevation, depression or concerning T-wave changes and
+obtain the appropriate twelve-lead view and review. The next lecture
+teaches lead groupings and the qualified criteria.
+
+73
+00:14:33,696 --> 00:14:46,032
+Do not apply the school shortcut of two millimetres in every chest
+lead. Criteria depend on the actual lead and, particularly for V two
+and V three, patient category.
+
+74
+00:14:46,032 --> 00:14:57,576
+A clean normal strip does not rule out coronary ischemia or another
+dangerous cause of symptoms. Continue assessment, repeat when
+indicated and communicate the full clinical picture.
+
+75
+00:14:57,576 --> 00:15:08,184
+Figure A has six QRS complexes over six seconds and a one-second
+R-to-R interval. Both methods give sixty per minute in this teaching
+strip.
+
+76
+00:15:08,184 --> 00:15:18,168
+Similar visible P waves precede each narrow QRS with a consistent
+relationship. That supports a usual sinus description in this
+schematic.
+
+77
+00:15:18,168 --> 00:15:30,264
+The same person could still have coronary ischemia, bleeding, sepsis
+or another problem. A baseline rhythm is not proof of stable
+physiology or absence of a treatment indication.
+
+78
+00:15:30,264 --> 00:15:37,896
+Say the rhythm findings, then say how the patient is doing. Those are
+related but separate parts of a meaningful report.
+
+79
+00:15:37,896 --> 00:15:48,048
+The slow teaching strip has a one-and-a-half-second R-to-R interval,
+corresponding to forty per minute. Now add the patient information
+before judging urgency.
+
+80
+00:15:48,048 --> 00:15:58,968
+A well person with a known low baseline differs from someone with new
+faintness, chest pressure and poor perfusion. Do not treat the number
+without the clinical consequence.
+
+81
+00:15:58,968 --> 00:16:12,480
+Review oxygenation, ventilation, circulation, medication effects and
+other plausible causes while providing necessary support. A sinus
+label does not make symptomatic bradycardia harmless.
+
+82
+00:16:12,480 --> 00:16:26,280
+Report the onset, symptoms, pulse, blood pressure trend and ECG
+relationship. This lesson does not authorize independent pacing or an
+advanced drug merely because the rate is low.
+
+83
+00:16:26,280 --> 00:16:37,752
+A rapid rate may compensate for another problem or arise from a
+primary rhythm disturbance. Treating every fast number as an isolated
+rhythm problem risks missing the cause.
+
+84
+00:16:37,752 --> 00:16:48,720
+Describe whether it is regular, whether P waves can be assessed and
+whether QRS is narrow or wide. Then integrate onset, symptoms and
+perfusion.
+
+85
+00:16:48,720 --> 00:17:00,936
+Consider plausible causes such as pain, fever, volume loss, medication
+or substance effects, and do not dismiss a sick patient as anxious
+without appropriate assessment.
+
+86
+00:17:00,936 --> 00:17:12,000
+Provide indicated supportive care and obtain the appropriate clinical
+review. A memorized label is not authorization for an antiarrhythmic
+or a shock in a patient with a pulse.
+
+87
+00:17:12,000 --> 00:17:22,224
+This new schematic has unequal intervals and no clearly consistent P
+waves. Those are the observed features, not a complete patient
+diagnosis.
+
+88
+00:17:22,224 --> 00:17:32,208
+An irregularly irregular ventricular response without consistent P
+waves can suggest atrial fibrillation, but a short or noisy sample can
+mislead.
+
+89
+00:17:32,208 --> 00:17:41,592
+Seek a useful longer strip or other lead when appropriate, check
+whether the pulse and monitor agree and assess symptoms, rate and
+perfusion.
+
+90
+00:17:41,592 --> 00:17:53,640
+Do not infer the duration of the rhythm, anticoagulation need or a
+safe discharge decision from this introductory pattern. Communicate
+findings and obtain the actual authorized review.
+
+91
+00:17:53,640 --> 00:18:05,928
+A ventricular tachycardia pattern commonly appears as rapid wide
+complexes. It can occur with a pulse or without one; that distinction
+cannot be made by the tracing alone.
+
+92
+00:18:05,928 --> 00:18:18,360
+Pulseless VT and ventricular fibrillation are shockable arrest
+rhythms. Follow the trained arrest and AED or authorized defibrillator
+sequence while maintaining high-quality resuscitation.
+
+93
+00:18:18,360 --> 00:18:28,512
+VF lacks organized, identifiable QRS complexes. Check the clinical
+state, because movement artifact can resemble it in a perfusing
+patient.
+
+94
+00:18:28,512 --> 00:18:39,864
+Do not give an unsynchronized arrest shock to a conscious perfusing
+patient merely because the screen is wide and fast. Obtain immediate
+appropriate support for instability.
+
+95
+00:18:39,864 --> 00:18:54,336
+An apparent flatline may be asystole, but disconnected leads, the
+selected view or equipment settings can create a misleading display.
+Verify appropriately without prolonging interruptions in necessary
+resuscitation.
+
+96
+00:18:54,336 --> 00:19:06,360
+Ventricular asystole means absent detectable ventricular activity and
+can occasionally coexist with atrial activity. It is not made
+shockable by increasing monitor gain.
+
+97
+00:19:06,360 --> 00:19:18,552
+PEA is a clinical combination of organized electrical activity and no
+detectable pulse. It can look like an ordinary rhythm on paper;
+assessment of circulation is essential.
+
+98
+00:19:18,552 --> 00:19:31,272
+Both require the actual non-shockable arrest pathway and attention to
+reversible causes. Complete resuscitation team procedures are
+developed further in the school cardiac-resuscitation weekend.
+
+99
+00:19:31,272 --> 00:19:41,472
+In this original example, four large boxes between R peaks gives
+seventy-five per minute. Consistent spacing means the sampled rhythm
+is regular.
+
+100
+00:19:41,472 --> 00:19:51,936
+Four small boxes for PR gives zero point one six seconds. Two small
+boxes for QRS gives zero point zero eight seconds, a narrow complex.
+
+101
+00:19:51,936 --> 00:20:05,640
+Similar P waves preceding each QRS with that relationship supports a
+sinus description. It does not answer whether the patient's chest
+pressure is coronary, vascular, pulmonary or another problem.
+
+102
+00:20:05,640 --> 00:20:17,160
+Continue the primary assessment, obtain the appropriate twelve-lead
+and consider alternatives while care proceeds. A regular rhythm at
+seventy-five is not a clearance test.
+
+103
+00:20:17,160 --> 00:20:28,320
+Without reading the slide, trace the conduction pathway and name the
+electrical meaning of P, QRS and T. Explain why none independently
+proves a pulse.
+
+104
+00:20:28,320 --> 00:20:39,912
+Calculate the rate for three, four and five large boxes between
+regular R peaks, then convert four small boxes to seconds. State which
+settings must be verified first.
+
+105
+00:20:39,912 --> 00:20:53,424
+Compare rapid wide-complex activity with and without a pulse, then
+organized activity with and without a pulse. Explain the change in
+urgency and pathway without inventing new permissions.
+
+106
+00:20:53,424 --> 00:21:05,784
+Take the same disciplined observation into the next lesson: ten
+correctly placed electrodes, a readable twelve-lead, rapid
+communication and reassessment after every intervention.

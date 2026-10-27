@@ -1,0 +1,401 @@
+1
+00:00:00,000 --> 00:00:10,704
+The school week joins obstetrics, neonates, pediatrics and
+tracheostomy care. Each domain still begins with the same question:
+what threatens this patient now?
+
+2
+00:00:10,704 --> 00:00:21,768
+The lessons already covered the seven-E special-populations module,
+birth complications, neonatal transition, APGAR concepts and the
+assigned tracheostomy topic.
+
+3
+00:00:21,768 --> 00:00:32,448
+This rehearsal uses different ages and facts from the saved school
+cases. The values below are invented training data, not patient
+records or assessment answers.
+
+4
+00:00:32,448 --> 00:00:44,568
+A narrated class cannot certify birth maneuvers, newborn ventilation,
+Broselow use or suctioning. Demonstrate each skill on appropriate
+training equipment under school supervision.
+
+5
+00:00:44,568 --> 00:00:53,520
+At a birth, maternal and newborn needs can overlap. Assign separate
+attention without allowing either patient’s assessment to disappear.
+
+6
+00:00:53,520 --> 00:01:03,432
+Name who leads each patient, who tracks time and who calls for
+additional resources. Confirm that each request was heard and
+completed.
+
+7
+00:01:03,432 --> 00:01:12,024
+Coordinate with a registered midwife when present. Their legal
+professional scope does not automatically transfer to EMS personnel.
+
+8
+00:01:12,024 --> 00:01:23,232
+A partner should interrupt immediately for an airway, breathing,
+hemorrhage or newborn-ventilation concern. Shared situational
+awareness outranks a completed checklist.
+
+9
+00:01:23,232 --> 00:01:35,184
+A twenty-nine-year-old at home reports a strong urge to push. The
+presenting part is visible and contractions are close together; there
+is no time for a long transport-first debate.
+
+10
+00:01:35,184 --> 00:01:44,232
+The crew confirms scene safety, introduces its roles and asks the
+registered midwife what has happened and what the current plan is.
+
+11
+00:01:44,232 --> 00:01:54,816
+One clinician continues maternal ABC assessment while a second
+prepares a warm newborn area, timer, ventilation equipment and
+appropriate sizes.
+
+12
+00:01:54,816 --> 00:02:03,048
+The training objective is controlled coordination and reassessment,
+not a memorized pull or an internal cervical examination.
+
+13
+00:02:03,048 --> 00:02:10,416
+Ask about the patient’s history and the pattern of contractions while
+observing the presenting part and urge to push.
+
+14
+00:02:10,416 --> 00:02:16,968
+The appearance of crowning or an unavoidable urge to push changes the
+transport and preparation decision.
+
+15
+00:02:16,968 --> 00:02:24,432
+Explain what you are doing, protect dignity and use the appropriate
+external support taught in the supervised birth station.
+
+16
+00:02:24,432 --> 00:02:33,144
+Do not perform an internal examination or use forceful traction to
+hurry the birth. The regional procedure and clinician roles govern.
+
+17
+00:02:33,144 --> 00:02:40,512
+Shoulder dystocia is suspected when the head delivers but the
+shoulders do not follow with the usual gentle sequence.
+
+18
+00:02:40,512 --> 00:02:49,224
+Call for help promptly and follow the current L08 pathway. One person
+should track time and support the newborn plan.
+
+19
+00:02:49,224 --> 00:02:59,448
+McRoberts positioning and suprapubic pressure are distinct external
+maneuvers. Demonstrate them only on a training manikin under
+instructor supervision.
+
+20
+00:02:59,448 --> 00:03:09,840
+Do not apply fundal pressure, forcefully pull the head or perform
+internal rotation, episiotomy or posterior-arm maneuvers outside the
+authorized role.
+
+21
+00:03:09,840 --> 00:03:17,664
+After delivery, continue to assess the patient. Visible blood loss may
+understate the degree of physiological compromise.
+
+22
+00:03:17,664 --> 00:03:29,088
+Describe the patient’s perfusion, symptoms, bleeding and change over
+time. A soft or poorly contracted uterus can be one clue, not the
+whole diagnosis.
+
+23
+00:03:29,088 --> 00:03:38,472
+The FourTs framework groups tone, trauma, tissue and thrombin. Use it
+to organize questions while maintaining ABC priorities.
+
+24
+00:03:38,472 --> 00:03:50,496
+Follow current BCEHS L09 authority and consultation requirements. Do
+not invent a medication dose, delay support for a volume estimate or
+force placental delivery.
+
+25
+00:03:50,496 --> 00:03:56,856
+Record the time of complete birth and quickly assess tone and whether
+breathing or crying is effective.
+
+26
+00:03:56,856 --> 00:04:04,992
+Maintain warmth and use the correct local newborn sequence. A well-
+appearing baby still needs ongoing observation.
+
+27
+00:04:04,992 --> 00:04:14,496
+If breathing is absent, gasping or ineffective after the appropriate
+initial steps, the central intervention is effective assisted
+ventilation.
+
+28
+00:04:14,496 --> 00:04:25,008
+Watch the response, especially heart-rate trend and chest movement. A
+minute on the clock is an urgency target, never permission to wait
+before indicated breaths.
+
+29
+00:04:25,008 --> 00:04:36,624
+The saved school outline and station notes say forty to sixty newborn
+ventilations per minute. That is the stated school objective and must
+remain visible for exam preparation.
+
+30
+00:04:36,624 --> 00:04:48,336
+The current public BCEHS M09 algorithm specifies a different range.
+The current service teaching is thirty to sixty breaths per minute,
+with rate selected within the local pathway.
+
+31
+00:04:48,336 --> 00:04:58,728
+Do not average the ranges, call them identical or teach an invented
+hybrid. Effective ventilation, chest movement and heart-rate response
+remain central.
+
+32
+00:04:58,728 --> 00:05:10,152
+Keep the dated conflict visible and confirm with the instructor what
+wording the assessment expects. For operational learning use the
+current service guideline, not an obsolete number.
+
+33
+00:05:10,152 --> 00:05:19,920
+Do not compress because the infant is apneic before effective
+ventilation has been attempted. Birth resuscitation prioritizes the
+ventilation problem.
+
+34
+00:05:19,920 --> 00:05:28,752
+Use current M09 and the selected current neonatal guidance for the
+persistent severe-bradycardia threshold after effective breaths.
+
+35
+00:05:28,752 --> 00:05:39,744
+The saved BCPEG sheet contains an older threshold loop. It is not
+silently merged with the current service sequence; the course notes
+the discrepancy for the instructor.
+
+36
+00:05:39,744 --> 00:05:53,568
+When indicated, use the synchronized neonatal ratio and technique in
+the current local algorithm. Do not substitute the infant/child BLS
+sequence or copy advanced drug boxes into PCP actions.
+
+37
+00:05:53,568 --> 00:06:05,088
+A seven-year-old had a witnessed convulsion that stopped before the
+crew arrived. The caregiver says the child has epilepsy but is unsure
+how long recovery usually takes.
+
+38
+00:06:05,088 --> 00:06:17,400
+The child is drowsy and breathing spontaneously. The crew assesses
+airway protection, ventilation, injury, temperature and the recovery
+trend before a detailed history.
+
+39
+00:06:17,400 --> 00:06:30,312
+For this fictional practice case, bedside glucose is 2.8 mmol/L.
+Record the time, units, method and age; do not make the number itself
+a complete diagnosis.
+
+40
+00:06:30,312 --> 00:06:42,120
+Ask about baseline behavior, seizure duration, rescue plan and recent
+food or medicines. Continue primary assessment and seek the current
+pediatric pathway.
+
+41
+00:06:42,120 --> 00:06:52,536
+Appearance asks whether the child interacts in a way that fits age and
+baseline. A drowsy post-seizure child still needs airway and glucose
+attention.
+
+42
+00:06:52,536 --> 00:07:01,560
+Work of breathing includes posture, effort, sounds and chest movement.
+Rate alone does not show whether breaths are effective.
+
+43
+00:07:01,560 --> 00:07:12,576
+Circulation to skin looks at colour, pallor and mottling as rapid
+perfusion clues. They do not replace pulse, blood pressure,
+temperature or a trend.
+
+44
+00:07:12,576 --> 00:07:21,144
+PAT helps identify a child who needs immediate support. It does not
+name the cause or replace the structured primary survey.
+
+45
+00:07:21,144 --> 00:07:29,664
+The saved school outline specifies a glucose threshold at or below two
+point six millimoles per litre for children older than one month.
+
+46
+00:07:29,664 --> 00:07:39,480
+The saved 7E narrative uses a broader under-four point zero statement.
+These are not the same threshold or necessarily the same clinical
+question.
+
+47
+00:07:39,480 --> 00:07:50,736
+Current BCEHS neonatal glucose guidance is age-specific and must not
+be transferred to every child. Use the appropriate current pathway for
+the patient’s age and condition.
+
+48
+00:07:50,736 --> 00:08:03,480
+For an exam, preserve the school value and ask which revision is
+assessed. For care, use the current service pathway. Do not erase the
+conflict by selecting one unlabeled number.
+
+49
+00:08:03,480 --> 00:08:12,024
+Lay the child in the position and direction shown by the actual
+Broselow instructions; use the device’s correct head-to-heel
+landmarks.
+
+50
+00:08:12,024 --> 00:08:22,488
+The colour zone estimates a weight category and guides equipment
+selection. It is not a measured scale weight or guarantee that every
+child in the zone is average.
+
+51
+00:08:22,488 --> 00:08:33,552
+Before any medication calculation, verify the actual medication,
+concentration, weight basis, units and maximum dose against the
+permitted reference.
+
+52
+00:08:33,552 --> 00:08:42,720
+The school skill is a supervised tape-estimation station. A colour
+band alone does not authorize a medicine or replace training and
+scope.
+
+53
+00:08:42,720 --> 00:08:53,616
+A ten-year-old with an established tracheostomy becomes distressed
+after a stretcher transfer. The caregiver hands over a written airway
+plan and a labelled emergency kit.
+
+54
+00:08:53,616 --> 00:09:06,216
+The team checks responsiveness, breathing, chest rise, oxygen supply
+and whether an attachment has kinked or disconnected. It maintains
+support while one member speaks with the caregiver.
+
+55
+00:09:06,216 --> 00:09:15,912
+A trained station operator uses the marked catheter, but it will not
+pass to the patient-specific depth limit. The learner stops instead of
+forcing it.
+
+56
+00:09:15,912 --> 00:09:26,304
+The team reassesses ventilation, considers obstruction or
+displacement, summons advanced airway help and prepares transport
+using the current authorized route.
+
+57
+00:09:26,304 --> 00:09:33,816
+Stop if a catheter will not pass to its measured limit, unexpected
+bleeding appears or the patient deteriorates.
+
+58
+00:09:33,816 --> 00:09:40,800
+Do not force-reinsert a displaced tube or disconnect home ventilation
+outside the trained local procedure.
+
+59
+00:09:40,800 --> 00:09:47,760
+Continue the highest-priority respiratory support, ask for trained
+help and follow the current service pathway.
+
+60
+00:09:47,760 --> 00:09:56,808
+Report what was directly seen and done. State which airway facts
+remain unknown instead of documenting a presumed diagnosis.
+
+61
+00:09:56,808 --> 00:10:05,976
+Give the maternal and newborn teams separate clinical summaries. Do
+not let a single family handover obscure which findings belong to
+which patient.
+
+62
+00:10:05,976 --> 00:10:13,584
+For the mother, include delivery events, bleeding and perfusion
+findings, response and remaining concern.
+
+63
+00:10:13,584 --> 00:10:23,568
+For the newborn, include complete-birth time, initial breathing,
+effective ventilation, heart-rate trend, temperature support and
+escalation.
+
+64
+00:10:23,568 --> 00:10:33,600
+Identify the receiving clinician for each patient and confirm that
+responsibility was accepted. Continue reassessment until transfer is
+complete.
+
+65
+00:10:33,600 --> 00:10:40,728
+Begin with what the patient’s condition did over time, rather than
+whether the learner remembered a preferred mnemonic.
+
+66
+00:10:40,728 --> 00:10:48,888
+Separate an unobserved skill from a knowledge statement. Saying “I
+know suctioning” is not evidence of safe catheter depth.
+
+67
+00:10:48,888 --> 00:10:55,920
+Ask whether concerns, requests and responses were closed-loop and
+whether each patient had a named lead.
+
+68
+00:10:55,920 --> 00:11:03,840
+Identify equipment or source conflicts without blaming a student for
+an inaccessible attachment or undocumented revision.
+
+69
+00:11:03,840 --> 00:11:08,952
+Explain the reason for the next assessment and how the finding would
+change your plan.
+
+70
+00:11:08,952 --> 00:11:16,200
+Demonstrate only the skills assigned at the station using the
+instructor’s equipment, current checklist and supervision.
+
+71
+00:11:16,200 --> 00:11:25,128
+Give a concise but complete maternal, newborn, pediatric or airway
+report that distinguishes direct findings from caregiver history.
+
+72
+00:11:25,128 --> 00:11:36,912
+Name the source revision and role boundary. When a school page
+conflicts with current service guidance, document the conflict and
+request clarification instead of blending instructions.

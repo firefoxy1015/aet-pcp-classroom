@@ -1,0 +1,430 @@
+1
+00:00:00,000 --> 00:00:15,696
+This lesson represents all six narrative sections in school 5A. The
+emphasis is on actions that fit a paramedic encounter: notice a
+barrier, ask what matters, explain choices and connect the person to
+an appropriate next step.
+
+2
+00:00:15,696 --> 00:00:29,040
+Advocacy does not mean choosing for someone or promising access to a
+service. It means helping a person understand options, supporting
+their stated goal and making a useful handover or referral when
+possible.
+
+3
+00:00:29,040 --> 00:00:44,328
+Social determinants of health are conditions in which people are born,
+grow, live, work and age, along with the wider forces shaping those
+conditions. They can affect exposure to risk and access to protection
+or care.
+
+4
+00:00:44,328 --> 00:00:55,488
+A barrier is not a personal failure. Ask what made the current plan
+hard to follow and what support would make the next step realistic,
+safe and acceptable to the patient.
+
+5
+00:00:55,488 --> 00:01:10,464
+The school names five domains. Use them to identify a relevant
+question, not to interview every patient about every social detail. A
+single observation does not establish the whole household’s
+circumstances.
+
+6
+00:01:10,464 --> 00:01:24,168
+Economic stability and health-care access can interact: an appointment
+may exist but the trip, medication cost or communication arrangement
+may be unusable. Ask what prevents this specific next step.
+
+7
+00:01:24,168 --> 00:01:38,688
+Education, the built environment and social context add different
+questions about usable information, the physical route and wanted
+support. Do not infer literacy, reliability or available family help
+from appearance.
+
+8
+00:01:38,688 --> 00:01:56,496
+Structural racism and colonial policies can create barriers beyond an
+individual encounter. Recognize the reported barrier, avoid
+discriminatory assumptions and use an appropriate patient-chosen
+advocacy route; respectful words alone do not remove a system barrier.
+
+9
+00:01:56,496 --> 00:02:09,240
+A missed appointment, medication gap or repeated 911 call may signal a
+mismatch between the care plan and real life. It does not by itself
+show a lack of interest or responsibility.
+
+10
+00:02:09,240 --> 00:02:22,584
+Use intersectionality as a prompt to ask how systems, identity,
+geography and resources overlap in this encounter. Do not impose a
+theory on the patient or assume that a group shares one experience.
+
+11
+00:02:22,584 --> 00:02:37,872
+Use one idea at a time, familiar words, short sentences and concrete
+next steps. Avoid unexplained abbreviations and jargon, especially
+when a person is in pain, frightened, tired or using a second
+language.
+
+12
+00:02:37,872 --> 00:02:51,600
+A clear explanation includes the concern, what you recommend, the
+reasonable alternatives, what could happen if care is declined and how
+the person can seek help later. Confirm that the person had a chance
+to ask questions.
+
+13
+00:02:51,600 --> 00:03:05,112
+An instruction can fail before anyone reads it. The patient may not
+have the link, device, language support or vision needed to obtain it.
+A leaflet handed over is not proof that usable information was
+delivered.
+
+14
+00:03:05,112 --> 00:03:19,296
+Explain one important action in ordinary words, then ask for the
+person’s own explanation or demonstration. A correct technical word
+repeated back can coexist with misunderstanding of the actual next
+step.
+
+15
+00:03:19,296 --> 00:03:32,808
+If information conflicts, identify the source of the confusion and
+clarify the current plan within your role. Do not dismiss the person’s
+question as low literacy or substitute an unapproved medication
+change.
+
+16
+00:03:32,808 --> 00:03:44,040
+Finish by checking whether the plan can be used with the resources
+available. Understanding an appointment instruction and having a safe
+way to reach the appointment are separate achievements.
+
+17
+00:03:44,040 --> 00:03:54,960
+Teach-back is a check on the clarity of your communication. Use a
+supportive tone and ask the person to describe the plan in their own
+words; do not frame it as a test they can fail.
+
+18
+00:03:54,960 --> 00:04:08,520
+If the answer is unclear, revise your explanation. Ask about the
+preferred language, hearing, vision, memory, pain or distraction, and
+offer appropriate communication support before making assumptions.
+
+19
+00:04:08,520 --> 00:04:21,576
+Prevention can include a clear symptom action plan, a safer
+environment, connection to a support service or follow-up with the
+patient’s existing team. It should fit the person’s goals and the
+paramedic’s role.
+
+20
+00:04:21,576 --> 00:04:31,296
+Avoid blame and fear-based teaching. A small plan the person accepts
+is more useful than a long plan that requires resources they do not
+have.
+
+21
+00:04:31,296 --> 00:04:44,280
+Primary prevention acts before the first event. A role-appropriate
+discussion of safe storage or an environmental injury risk can help
+reduce the chance of harm, without claiming you can eliminate the
+risk.
+
+22
+00:04:44,280 --> 00:04:59,664
+Secondary prevention aims at early recognition and follow-up. An
+approved screening programme is useful only when a concerning result
+leads to the right next assessment. A screening result is not
+automatically a diagnosis.
+
+23
+00:04:59,664 --> 00:05:13,824
+Tertiary prevention concerns established illness and its complications
+or functional effects. Support for an existing care plan,
+rehabilitation access or avoiding a repeated complication can fit this
+goal.
+
+24
+00:05:13,824 --> 00:05:26,184
+The same type of activity can serve different goals. Explain the
+intended outcome and stage of the problem rather than memorizing one
+service as permanently primary, secondary or tertiary.
+
+25
+00:05:26,184 --> 00:05:40,416
+In an original teaching example, an adult using a mobility aid reports
+that a broken building lift makes the planned route unusable. First
+ask what is true today; do not assume the patient has been unwilling
+to attend care.
+
+26
+00:05:40,416 --> 00:05:53,184
+Before any new injury, identifying a safer feasible route or
+appropriate building support can serve primary prevention. Do not
+prescribe untrained stair carrying as a solution to the access
+problem.
+
+27
+00:05:53,184 --> 00:06:05,784
+If the encounter reveals a new clinical concern, early appropriate
+assessment serves a secondary-prevention goal. It does not become a
+social-navigation-only call because an access barrier was found.
+
+28
+00:06:05,784 --> 00:06:20,568
+For an established condition, helping the patient reconnect with the
+existing care plan may reduce complications. Confirm an actual next
+step and a fallback; do not promise a service or transport arrangement
+that has not been accepted.
+
+29
+00:06:20,568 --> 00:06:37,944
+BC 211 can help people find community resources such as housing, food,
+mental-health or social supports. HealthLink BC 8-1-1 offers non-
+emergency health information and navigation. These services do not
+replace emergency response.
+
+30
+00:06:37,944 --> 00:06:50,856
+Offer the option, explain its purpose and ask permission before
+sharing information or placing a call. A referral is useful only if
+the service is open, accessible and acceptable to the person.
+
+31
+00:06:50,856 --> 00:07:08,712
+The school narrative says nurses and pharmacists at HealthLink are
+both available around the clock. The current official page
+distinguishes them: navigation and nursing are available continuously,
+while pharmacist availability is five in the evening to nine in the
+morning, seven days a week.
+
+32
+00:07:08,712 --> 00:07:23,064
+The BC Two-One-One page currently lists navigator contact from nine in
+the morning to nine in the evening on weekdays, excluding holidays. A
+searchable directory and a live navigator are not the same access
+channel.
+
+33
+00:07:23,064 --> 00:07:36,408
+These are date-checked resource details, not a promise for every
+future call. Confirm current hours, language or communication access
+and the service the person actually needs before relying on the
+option.
+
+34
+00:07:36,408 --> 00:07:55,968
+The school also names Indigenous supports, harm-reduction services,
+crisis support and community paramedicine. Check local eligibility and
+referral routes; do not assume each programme is available everywhere.
+None replaces the immediate emergency response or assessment that the
+situation requires.
+
+35
+00:07:55,968 --> 00:08:10,032
+An original offer could be: You said the route is the obstacle. Would
+you like us to explore an approved service that may help with access?
+A no should lead to clarification of the patient’s wishes, not
+pressure or a punitive label.
+
+36
+00:08:10,032 --> 00:08:21,528
+Explain what information would be shared and why. Obtain the
+appropriate permission and use the approved channel. Do not place a
+referral merely because you have learned a private detail.
+
+37
+00:08:21,528 --> 00:08:37,272
+A warm handoff actively links the person and receiving service when
+feasible. Confirm whether the receiving team accepted the request or
+whether the established process has been followed. Leaving a message
+is not the same as a confirmed appointment.
+
+38
+00:08:37,272 --> 00:08:52,536
+Tell the patient what is confirmed, what remains pending and what to
+do if the connection fails. Document the actual outcome, including a
+declined or unavailable option, without calling it successful just
+because a number was provided.
+
+39
+00:08:52,536 --> 00:09:11,568
+If a patient declines transport, follow the current BCEHS A09 process
+and the applicable law. Assess the situation, support communication,
+explore concerns, explain risks and alternatives, consult as required
+and document the patient’s decision and plan.
+
+40
+00:09:11,568 --> 00:09:27,960
+A signature alone does not make a refusal safe or informed. A
+clinician’s disagreement, an unusual choice or a diagnosis alone does
+not prove incapacity. Do not leave a person with a plan they cannot
+access without exploring an alternative.
+
+41
+00:09:27,960 --> 00:09:41,136
+A directory result answers where a service might exist; it does not
+decide whether today’s patient can safely use it instead of transport.
+Clinical assessment and the person’s informed decision remain central.
+
+42
+00:09:41,136 --> 00:09:58,584
+Current A09 distinguishes a refusal from an appropriate alternative
+pathway. It requires the alternative to be suitable, available and
+understood. Clinical uncertainty, red flags or concern about follow-
+through call for transport encouragement and consultation.
+
+43
+00:09:58,584 --> 00:10:14,592
+A09 requires CliniCall before non-conveyance for children and people
+in police custody, regardless of condition. Do not let a reassuring
+appearance or a signed form erase a required consultation or a limited
+ability to choose freely.
+
+44
+00:10:14,592 --> 00:10:30,984
+The close must include a specific contingency the person can use.
+Confirm understanding and access, not simply that advice was spoken.
+If a serious problem remains unresolved, escalate rather than
+substituting a community number for care.
+
+45
+00:10:30,984 --> 00:10:43,128
+Palliative care focuses on quality of life, symptom relief and the
+person’s goals. It does not mean “nothing more can be done,” and it
+does not automatically mean the patient should stay home.
+
+46
+00:10:43,128 --> 00:10:58,320
+Ask the patient what matters now, identify any acute change, verify
+applicable care-goal documents through the current pathway and
+coordinate with the patient’s team when appropriate. Use only
+interventions within your authority and training.
+
+47
+00:10:58,320 --> 00:11:12,000
+A useful record distinguishes what you observed from what the patient,
+family or bystander reported. Use quotations selectively and attribute
+them. Do not use a stigmatizing label as a substitute for behavior.
+
+48
+00:11:12,000 --> 00:11:26,688
+Record the communication support offered, teach-back or other check of
+understanding, practical barrier identified, options discussed,
+consultation and contingency plan. Record only what is relevant under
+the service policy.
+
+49
+00:11:26,688 --> 00:11:39,792
+Subjective means information reported by an identified source. It is
+not a synonym for unreliable. Keep relevant patient words and
+distinguish their account from a relative’s or bystander’s statement.
+
+50
+00:11:39,792 --> 00:11:52,728
+Objective means observations and measurements you actually obtained.
+Do not move a patient-reported service barrier into this column as
+though you inspected it, and do not invent normal findings to complete
+the format.
+
+51
+00:11:52,728 --> 00:12:06,720
+Assessment states the interpretation and its uncertainty. Social risk
+can contribute to a problem without proving its medical cause. Avoid
+turning an access barrier into a diagnosis or a blame statement.
+
+52
+00:12:06,720 --> 00:12:25,800
+Plan records the action and outcome: teaching and response, options
+and decision, actual referral status, consultation, safety net and
+responsibility. SOAP is an organizer, not a replacement for required
+ePCR fields or an excuse to omit the clinical assessment.
+
+53
+00:12:25,800 --> 00:12:41,352
+This original excerpt concerns the mobility-access example. In
+Subjective: The patient reports missing a follow-up visit because the
+building lift is not working. Attribute the statement instead of
+assuming you verified the entire account.
+
+54
+00:12:41,352 --> 00:12:58,896
+For Objective, record what was actually observed or measured in the
+encounter. If the crew has not inspected the lift, do not chart
+confirmed lift failure. The complete clinical findings belong in the
+actual assessment record, not invented numbers in this exercise.
+
+55
+00:12:58,896 --> 00:13:13,368
+For Assessment: Reported access barrier may affect follow-up; further
+clinical and practical assessment determines the safe plan. Do not
+write that all symptoms are caused by missed care solely because a
+social obstacle is present.
+
+56
+00:13:13,368 --> 00:13:32,472
+For Plan, distinguish the actual statuses: permission given for a
+particular contact, request sent through the approved route,
+acceptance pending, and a discussed fallback. This is a documentation
+excerpt, not a complete non-conveyance record or authority to leave
+the patient.
+
+57
+00:13:32,472 --> 00:13:44,400
+An older adult receiving palliative care asks for help with worsening
+breathlessness and says, “I do not want to go back to hospital.” A
+family member says, “There is nothing you can do.”
+
+58
+00:13:44,400 --> 00:14:02,184
+Assess the new symptom and immediate risk, ask the patient’s
+priorities, explain available options and limits, verify current care-
+goal documents and consult the appropriate service pathway. Respect
+the patient’s role; do not substitute the family member’s preference.
+
+59
+00:14:02,184 --> 00:14:12,336
+A good plan is not just medically reasonable. It should also be
+understandable, feasible, culturally safer and connected to the
+person’s stated priorities.
+
+60
+00:14:12,336 --> 00:14:25,128
+Use this four-question check before closing a consultation or
+transfer. If a serious risk remains, escalate through the current
+service pathway rather than relying on a community referral alone.
+
+61
+00:14:25,128 --> 00:14:39,408
+Before closing, ask the person to explain the next step in their own
+words. Listen for a practical obstacle as well as a misunderstanding.
+A correctly repeated phone number does not prove the person can place
+a call.
+
+62
+00:14:39,408 --> 00:14:53,568
+Name who is doing what and which parts have actually been agreed. If
+another team has not accepted the request, say pending. If the patient
+declines the option, record that choice and the rest of the clinically
+appropriate plan.
+
+63
+00:14:53,568 --> 00:15:06,744
+Discuss what would make the person seek help sooner and where
+appropriate help can be reached. Match the contingency to the assessed
+problem; do not use a generic list to hide unresolved clinical
+uncertainty.
+
+64
+00:15:06,744 --> 00:15:21,144
+Check the plan once more against the patient’s stated goal,
+understanding, access and current risk. Advocacy is demonstrated by a
+usable connection and honest limits, not by the number of resource
+names supplied.

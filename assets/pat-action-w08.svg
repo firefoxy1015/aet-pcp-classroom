@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">PAT observation leads to assessment, action and reassessment</title>
+  <desc id="desc">Three separate observations, appearance, work of breathing and circulation to skin, inform the primary assessment. They do not establish a diagnosis or permission for CPR. Reassessment follows the intervention.</desc>
+  <rect width="1200" height="350" rx="22" fill="#f0f6fa"/>
+  <g font-family="Arial,sans-serif" fill="#163247">
+    <text x="35" y="39" font-size="25" font-weight="bold">PAT: three observations, not three diagnoses</text>
+    <g font-size="22" font-weight="bold">
+      <rect x="35" y="70" width="325" height="62" rx="12" fill="#d5e8f7"/>
+      <text x="56" y="109">Appearance / TICLS</text>
+      <rect x="35" y="145" width="325" height="62" rx="12" fill="#d7efeb"/>
+      <text x="56" y="184">Work of breathing</text>
+      <rect x="35" y="220" width="325" height="62" rx="12" fill="#f8e7d6"/>
+      <text x="56" y="259">Circulation to skin</text>
+    </g>
+    <g stroke="#426c84" stroke-width="4" fill="none">
+      <path d="M375 101 H421 V176 H466"/>
+      <path d="M375 176 H466"/>
+      <path d="M375 251 H421 V176"/>
+      <path d="M759 176 H808"/>
+    </g>
+    <path d="M466 168 l14 8 -14 8 Z M808 168 l14 8 -14 8 Z" fill="#426c84"/>
+    <rect x="480" y="105" width="277" height="142" rx="14" fill="#fff" stroke="#426c84" stroke-width="2"/>
+    <text x="503" y="143" font-size="24" font-weight="bold">Primary assessment</text>
+    <text x="503" y="180" font-size="21">Airway / breathing</text>
+    <text x="503" y="212" font-size="21">Perfusion / glucose</text>
+    <rect x="823" y="105" width="342" height="142" rx="14" fill="#163247"/>
+    <g fill="#fff">
+      <text x="847" y="144" font-size="24" font-weight="bold">Act on the actual threat</text>
+      <text x="847" y="182" font-size="21">Support / help / conveyance</text>
+      <text x="847" y="214" font-size="21">Repeat the same findings</text>
+    </g>
+    <text x="35" y="321" font-size="20">No normal single number, strong cry or familiar label closes the assessment.</text>
+  </g>
+</svg>

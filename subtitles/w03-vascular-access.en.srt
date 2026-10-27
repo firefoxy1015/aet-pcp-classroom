@@ -1,0 +1,1001 @@
+1
+00:00:00,000 --> 00:00:13,032
+The school Week Three stations require peripheral IV and tibial IO
+practice. Learn them as clinical decisions followed by technical
+steps, not a race to place a catheter in every patient.
+
+2
+00:00:13,032 --> 00:00:26,880
+This lecture teaches the whole sequence and the reasons behind it. The
+exact school catheter, drill, checkoff form and original PCP One
+Ten/One Twenty slide bodies remain source gaps.
+
+3
+00:00:26,880 --> 00:00:37,248
+Device examples are clearly identified as manufacturer examples. They
+do not prove which product the school uses or replace supervised
+hands-on feedback.
+
+4
+00:00:37,248 --> 00:00:48,024
+Keep necessary airway, breathing and circulation support continuous.
+An invasive access attempt must not delay more important treatment or
+conveyance.
+
+5
+00:00:48,024 --> 00:01:00,792
+Start by stating what the route will deliver or enable in the current
+plan. A technically easy vein is not an indication, and a person being
+conveyed to hospital does not automatically need a field IV.
+
+6
+00:01:00,792 --> 00:01:13,968
+Consider whether an appropriate less invasive route can meet the
+treatment need. The choice depends on the actual patient, medicine and
+authorized pathway, not a general belief that IV is always better.
+
+7
+00:01:13,968 --> 00:01:26,064
+A specific pathway or an anticipated treatment by an intercepting
+advanced clinician may justify access. State the real reason instead
+of using keep-vein-open as a default explanation.
+
+8
+00:01:26,064 --> 00:01:36,384
+Balance benefit with pain, contamination, bleeding, infiltration and
+delay. The access decision is revisited if the treatment plan changes.
+
+9
+00:01:36,384 --> 00:01:45,168
+The assigned PR twenty-six uses JAY to examine the access decision.
+Justifiable asks whether the intended care actually needs it.
+
+10
+00:01:45,168 --> 00:01:56,856
+Accountable asks whether the decision is defensible and whether you
+accept responsibility for consequences. You asks you to consider the
+patient's experience of benefit, burden and dignity.
+
+11
+00:01:56,856 --> 00:02:08,736
+Consent to an unnecessary stick does not by itself make it appropriate
+clinical care. Skill maintenance belongs on simulation equipment and
+through the proper educational process.
+
+12
+00:02:08,736 --> 00:02:19,176
+In a station, say the indication and a reason you would stop. That
+makes your decision observable rather than hiding it behind a
+successful needle placement.
+
+13
+00:02:19,176 --> 00:02:30,864
+The school teaches procedures that may have additional licence,
+endorsement, service or supervision conditions. Completing this
+lecture alone does not satisfy those conditions.
+
+14
+00:02:30,864 --> 00:02:42,000
+Current D three prohibits PCP cannulation under age twelve by any
+method. IO has further restrictions that we will separate from the
+broader manufacturer instructions.
+
+15
+00:02:42,000 --> 00:02:53,880
+Use the school model for practice until the actual required education
+and authorization apply. Do not generalize a hospital nursing
+description or a vendor age range into local permission.
+
+16
+00:02:53,880 --> 00:03:05,712
+Confirm competence with the actual device and the relevant patient
+group. If uncertain, maintain support, seek the required guidance and
+choose an authorized alternative.
+
+17
+00:03:05,712 --> 00:03:16,344
+An IV puts the selected solution into the vascular system without
+tissue absorption. What happens afterward depends on its composition
+and the patient's physiology.
+
+18
+00:03:16,344 --> 00:03:27,096
+Water and dissolved particles distribute across compartments
+differently. A volume entering the vein is not necessarily the same
+amount remaining in plasma over time.
+
+19
+00:03:27,096 --> 00:03:38,328
+Blood pressure is one part of perfusion assessment, not a complete
+measure of tissue flow. A small pressure rise with worsening breathing
+can represent harm rather than success.
+
+20
+00:03:38,328 --> 00:03:51,216
+State an expected physiological endpoint and watch for both benefit
+and overload. Later reading develops hydrostatic and osmotic
+mechanisms rather than using a simple fill-the-tank slogan.
+
+21
+00:03:51,216 --> 00:04:03,168
+Before the attempt, assess the reason for access and the current
+primary priorities. Identify relevant losses, actual intake, medicines
+and previous response where available.
+
+22
+00:04:03,168 --> 00:04:13,512
+Record useful baseline observations and symptoms, including
+respiratory status and perfusion. They give meaning to the response
+after fluid or medicine.
+
+23
+00:04:13,512 --> 00:04:25,272
+Ask about relevant allergy, difficult access, dialysis access, local
+injury and prior problems. Explain the proposed route and obtain the
+appropriate consent.
+
+24
+00:04:25,272 --> 00:04:35,784
+Decide who maintains patient support while another person prepares.
+Record a reassessment trigger and an escalation plan before repeated
+attempts consume attention.
+
+25
+00:04:35,784 --> 00:04:47,784
+Inspect and palpate before committing to a site. A useful vein is not
+just blue or visible; its course, depth and condition must suit the
+intended catheter and therapy.
+
+26
+00:04:47,784 --> 00:04:58,992
+Assess a soft, compressible, nonpulsatile segment using the trained
+method. An artery, tendon or scar can be misidentified if you depend
+only on appearance.
+
+27
+00:04:58,992 --> 00:05:09,792
+Look for a segment with enough usable course and avoid injured,
+infected or obviously compromised tissue. Patient comfort and limb
+function also matter.
+
+28
+00:05:09,792 --> 00:05:20,832
+When volume depletion makes veins difficult, do not repeatedly probe
+the same area. Reassess the need, equipment, help and actual
+escalation options.
+
+29
+00:05:20,832 --> 00:05:31,872
+Starting distally can preserve future options when the vein and
+therapy are suitable. It is not an absolute command to use a poor hand
+vein for every urgent treatment.
+
+30
+00:05:31,872 --> 00:05:44,064
+Catheter length, vein size, expected movement and the required therapy
+affect selection. A site at a flexion point may obstruct or become
+uncomfortable during transport.
+
+31
+00:05:44,064 --> 00:05:57,096
+Protect an arteriovenous fistula or graft and assess local infection,
+trauma, edema and relevant prior procedures. Resolve uncertainty
+through the actual policy and clinical plan.
+
+32
+00:05:57,096 --> 00:06:08,064
+Specific pathways can add considerations, such as preserving access
+for an anticipated coronary procedure. Do not let an ideal-site search
+create a conveyance delay.
+
+33
+00:06:08,064 --> 00:06:18,648
+Choose a suitable catheter for the vein, patient and therapy. A larger
+bore can support greater flow but may increase local trauma if poorly
+matched.
+
+34
+00:06:18,648 --> 00:06:29,664
+Flow depends on more than gauge: length, connectors, tubing, pressure
+and resistance all matter. Do not assume a colour alone proves
+capacity or suitability.
+
+35
+00:06:29,664 --> 00:06:39,360
+A steel collection needle and a flexible over-the-needle catheter
+leave different things in the patient. Identify exactly what you are
+handling before beginning.
+
+36
+00:06:39,360 --> 00:06:50,880
+Blood-control and needle-safety mechanisms are product-specific.
+Practise the actual model; do not blend a previous device's hand
+motions into an unfamiliar catheter.
+
+37
+00:06:50,880 --> 00:07:00,840
+Gather the full setup and inspect packaging, expiry and integrity. Put
+the sharps container within the appropriate safe working position
+before beginning.
+
+38
+00:07:00,840 --> 00:07:12,864
+Prepare the selected catheter, site-cleansing material and venous
+tourniquet. Prepare a primed compatible connector and the prescribed
+solution or flush using the actual equipment.
+
+39
+00:07:12,864 --> 00:07:22,704
+Have the dressing and securement ready so a successful catheter is not
+left unsupported while someone searches for tape. Keep critical parts
+protected.
+
+40
+00:07:22,704 --> 00:07:34,104
+Make a plan for a failed attempt and for patient deterioration.
+Preparation is a safety step that reduces interruption, contamination
+and uncontrolled sharps handling.
+
+41
+00:07:34,104 --> 00:07:45,792
+Aseptic continuity is not one alcohol wipe at the beginning. The skin,
+catheter, extension and access surfaces must remain appropriately
+protected throughout the sequence.
+
+42
+00:07:45,792 --> 00:07:56,280
+Apply the approved antiseptic with the specified contact and drying
+time. Re-palpating prepared skin with a contaminated finger breaks the
+intended barrier.
+
+43
+00:07:56,280 --> 00:08:08,208
+Protect critical parts when opening, connecting and securing. Gloves
+do not make a touched sterile surface clean, and a connector called
+needleless still needs correct aseptic access.
+
+44
+00:08:08,208 --> 00:08:19,872
+If contamination occurs, identify it and restore the barrier using the
+actual trained method. Do not hide a break because the time target or
+a partner's expectation feels urgent.
+
+45
+00:08:19,872 --> 00:08:32,568
+In supervised model practice, stabilize the limb and site and follow
+the device's insertion method. The exact angle and advancement are not
+universal across products and tissue depths.
+
+46
+00:08:32,568 --> 00:08:43,920
+Blood return can show needle entry without proving that the flexible
+catheter tip is fully within the vein. Some devices have separate
+needle and catheter flashback cues.
+
+47
+00:08:43,920 --> 00:08:55,776
+The manufacturer example in the source notes illustrates that
+distinction; it is not evidence the school uses that catheter. Ask the
+instructor to demonstrate the actual product's transitions.
+
+48
+00:08:55,776 --> 00:09:08,208
+Maintain control and do not fish blindly. If the expected cue is
+absent or the patient has concerning pain, stop and reassess rather
+than forcing a successful-looking result.
+
+49
+00:09:08,208 --> 00:09:21,624
+Once appropriate entry is confirmed, advance the flexible catheter
+using the actual trained device method. Do not assume every catheter
+uses the same flashback chamber or withdrawal sequence.
+
+50
+00:09:21,624 --> 00:09:30,120
+Never reinsert a withdrawn needle into the catheter. It can damage or
+shear the catheter and create an embolic complication.
+
+51
+00:09:30,120 --> 00:09:42,192
+Release the venous tourniquet as required, stabilize the catheter and
+remove the needle using its intended safety mechanism. Avoid
+uncontrolled bending or a loose exposed sharp.
+
+52
+00:09:42,192 --> 00:09:52,992
+Connect promptly with protected compatible parts and secure the route.
+Product-specific blood control does not excuse leaving a hub open or
+touching critical surfaces.
+
+53
+00:09:52,992 --> 00:10:05,448
+If cannulation fails, use the actual safe removal sequence and manage
+the site. Inspect the device and control bleeding, especially when the
+patient has an increased bleeding risk.
+
+54
+00:10:05,448 --> 00:10:14,376
+Do not reuse a catheter or needle, repeatedly probe damaged tissue or
+reinsert a steel needle into a partly withdrawn plastic catheter.
+
+55
+00:10:14,376 --> 00:10:25,416
+Record attempts according to the actual policy and include colleagues'
+attempts in collective limits when specified. An unsuccessful stick is
+not erased by later success.
+
+56
+00:10:25,416 --> 00:10:37,176
+Reassess the current need and conveyance priorities. Two missed IVs do
+not independently authorize IO in a conscious dehydrated patient; its
+separate conditions must be met.
+
+57
+00:10:37,176 --> 00:10:46,776
+Before using the route, inspect the site and ask about discomfort if
+possible. Trace the connection all the way from the intended solution
+to the patient.
+
+58
+00:10:46,776 --> 00:10:58,920
+Assess according to the actual catheter/therapy method. Neither a
+previous flashback nor a momentary easy flush proves that future
+delivery will remain intravascular.
+
+59
+00:10:58,920 --> 00:11:09,384
+Resistance, new pain, swelling or leakage is not a reason to use
+greater force. Stop and evaluate the cause and the patient before
+proceeding.
+
+60
+00:11:09,384 --> 00:11:18,576
+Recheck after repositioning and during delivery. A route that was
+satisfactory before lifting the patient can be displaced or kinked
+afterward.
+
+61
+00:11:18,576 --> 00:11:29,160
+Use the intended securement to reduce motion and catheter migration.
+Stabilize the extension so a cable tug does not pull directly on the
+insertion site.
+
+62
+00:11:29,160 --> 00:11:39,048
+Keep the site assessable with the approved dressing. A thick wrap that
+hides tissue swelling can delay recognition of infiltration or
+extravasation.
+
+63
+00:11:39,048 --> 00:11:48,624
+Do not constrict the limb or obscure distal circulation. Check comfort
+and function, and label the required device and insertion details.
+
+64
+00:11:48,624 --> 00:12:00,384
+After every transfer, reassess the patient, site and complete route
+rather than only looking at the fluid bag. Securement success is
+demonstrated by continued safe function.
+
+65
+00:12:00,384 --> 00:12:11,520
+This original arithmetic example uses a simulation order of one
+hundred millilitres over twenty minutes. That equals five millilitres
+per minute or three hundred per hour.
+
+66
+00:12:11,520 --> 00:12:23,136
+With a training set explicitly labelled fifteen drops per millilitre,
+multiply five by fifteen to obtain seventy-five drops per minute. A
+different set changes that answer.
+
+67
+00:12:23,136 --> 00:12:35,400
+Read the actual drop factor and verify the device programming or
+gravity delivery. No universal drop volume exists, and setting a rate
+does not prove that the intended amount reached the vein.
+
+68
+00:12:35,400 --> 00:12:45,744
+This is not a clinical fluid prescription. In care, actual indication,
+limits, delivered amount, response and local instructions govern the
+plan.
+
+69
+00:12:45,744 --> 00:13:16,008
+The school also assigns a BD single-port closed-catheter
+demonstration. Its actual product name is Nexiva. The bilingual guide
+now follows the complete available narrative, separating needle entry,
+catheter advancement, safe needle withdrawal and the later clamp-and-
+connection sequence. Initial blood flash does not by itself prove a
+correctly positioned, patent catheter. Do not apply one model’s grip,
+push-tab or vent-plug instructions to a different device.
+
+70
+00:13:16,008 --> 00:13:46,008
+Use the video with the existing supervised vascular-access sequence:
+consent, the actual indication, aseptic preparation, safe handling,
+securement and verification of delivery and response. The linked
+historical six-rights article adds concentration and documentation
+checks, but it does not replace the school’s expanded medication
+framework. A named device and a completed checklist are not proof that
+the patient received the intended treatment safely.
+
+71
+00:13:46,008 --> 00:13:56,688
+Verify the solution and actual indication rather than using fluids as
+an automatic response to every low pressure. Different causes of shock
+require different priorities.
+
+72
+00:13:56,688 --> 00:14:07,608
+Current D three includes fluid reassessment and a consultation
+requirement when more than two litres is anticipated. That is not a
+target to give two litres to everyone.
+
+73
+00:14:07,608 --> 00:14:18,792
+Use the actual age, pathway and clinical condition for bolus
+decisions. Do not turn an adult or hospital example into an
+unrestricted pediatric PCP instruction.
+
+74
+00:14:18,792 --> 00:14:31,008
+Watch breathing as well as pressure and perfusion. If new respiratory
+distress appears, stop automatic escalation, reassess the patient and
+obtain the appropriate plan.
+
+75
+00:14:31,008 --> 00:14:40,920
+Reassess after each delivered intervention, not only after a bag is
+empty. Compare the patient with the baseline and the endpoint you
+stated.
+
+76
+00:14:40,920 --> 00:14:52,656
+Ask what changed: awareness, symptoms, pulse/pressure, breathing and
+local access findings. Then ask whether the expected benefit actually
+occurred.
+
+77
+00:14:52,656 --> 00:15:02,568
+Ask what got worse. A pressure rise accompanied by new crackles or an
+increasing oxygen requirement is not an uncomplicated success.
+
+78
+00:15:02,568 --> 00:15:11,712
+Use the answer to update the plan with the appropriate authority. Do
+not keep the original infusion running by habit while deterioration
+accumulates.
+
+79
+00:15:11,712 --> 00:15:23,544
+Local pain, swelling, blanching, leakage or altered distal function
+requires prompt assessment. An infusion can continue into tissue even
+without a pump alarm.
+
+80
+00:15:23,544 --> 00:15:36,072
+For suspected extravasation, do not flush. Preserve or remove the
+device according to the actual product-specific management plan rather
+than automatically applying a generic removal rule.
+
+81
+00:15:36,072 --> 00:15:49,368
+Systemic breathlessness, collapse or new instability needs immediate
+patient assessment and support. Do not assume every problem near an IV
+has the same cause or the same positioning solution.
+
+82
+00:15:49,368 --> 00:16:01,488
+Communicate exact product, concentration, amount, rate, timing and
+site findings. Document both the clinical care and the required
+incident process truthfully.
+
+83
+00:16:01,488 --> 00:16:11,616
+An intraosseous device provides access to the medullary vascular
+space. It can enable indicated therapy when the actual conditions for
+IO are met.
+
+84
+00:16:11,616 --> 00:16:22,416
+A device brochure may list multiple sites and ages. Local PCP
+permission is narrower and must be checked separately from what the
+product is technically designed to do.
+
+85
+00:16:22,416 --> 00:16:34,152
+Insertion and infusion can cause different pain, and malposition can
+cause serious tissue injury. A catheter standing in bone is not proof
+that its tip or flow is correct.
+
+86
+00:16:34,152 --> 00:16:46,032
+Do not let access placement impair airway support, high-quality
+compressions or defibrillation during arrest. Route creation supports
+the care plan rather than becoming its main event.
+
+87
+00:16:46,032 --> 00:17:03,432
+Current PR twelve requires the relevant PCP scope-expansion education.
+Its restricted arrest branch concerns patients twelve or older with
+clear hypovolemia and fluids critical to the resuscitation plan, after
+the specified peripheral-access failure or unavailability.
+
+88
+00:17:03,432 --> 00:17:15,576
+The page also permits placement under direct supervision of an on-
+scene ACP or higher. A telephone conversation is not automatically the
+same thing as that specified supervision.
+
+89
+00:17:15,576 --> 00:17:28,104
+PCP use is tibial only and limited to two collective attempts per
+patient. A failed or dislodged site must not be re-cannulated, and the
+stated under-twelve restriction remains.
+
+90
+00:17:28,104 --> 00:17:43,272
+Therefore, an awake vomiting patient with difficult IV access is not
+an independent PCP IO indication merely because two attempts failed.
+The school case needs an authorized escalation/supervision decision.
+
+91
+00:17:43,272 --> 00:17:55,080
+Check the intended limb for trauma, local tissue damage, infection,
+relevant surgery and joint replacement. Do not choose a convenient-
+looking point without a full site check.
+
+92
+00:17:55,080 --> 00:18:05,136
+Current PR twelve includes recent same-site placement within forty-
+eight hours as a contraindication. Document known prior attempts and
+their locations.
+
+93
+00:18:05,136 --> 00:18:16,200
+If landmarks cannot be identified reliably, the site is not made safe
+by estimating a fixed distance on the skin. Obtain the appropriate
+alternative plan and help.
+
+94
+00:18:16,200 --> 00:18:26,448
+Count all collective attempts and preserve circulation and function.
+Site screening is part of the clinical safety decision, not a
+formality after drilling.
+
+95
+00:18:26,448 --> 00:18:35,760
+For the adult proximal-tibial manufacturer example, support and extend
+the leg and palpate the actual patella and tibial tuberosity.
+
+96
+00:18:35,760 --> 00:18:49,680
+The cited adult guide locates a point about two centimetres medial to
+the tuberosity on the flat tibial surface. This is a relational
+landmark, not permission to drill any two-centimetre skin estimate.
+
+97
+00:18:49,680 --> 00:19:02,448
+Confirm the anatomy, absence of contraindications and the actual local
+taught site with an instructor on the model. Do not import the
+brochure's pediatric or humeral sites into PCP permission.
+
+98
+00:19:02,448 --> 00:19:11,568
+Landmarking must be checked before insertion. A figure or verbal
+description cannot demonstrate that your fingers have located the
+correct structure.
+
+99
+00:19:11,568 --> 00:19:23,232
+Prepare the actual device and suitable needle set, primed extension,
+stabilization equipment and therapy plan. Check packaging and the
+driver before contacting the patient.
+
+100
+00:19:23,232 --> 00:19:37,248
+Needle length must account for tissue depth. The cited EZ-IO guide
+requires the specified length marking to remain visible at bone
+contact before powered insertion; colour or body weight alone is not
+enough.
+
+101
+00:19:37,248 --> 00:19:47,712
+Use the actual trained angle and controlled gentle technique, not
+excessive force. Do not invent a depth or keep drilling after the
+expected insertion endpoint.
+
+102
+00:19:47,712 --> 00:19:59,640
+Stabilize the device while removing the driver and stylet as trained,
+immediately contain the sharp and use a protected primed connection. A
+generic lecture is not a device checkoff.
+
+103
+00:19:59,640 --> 00:20:12,672
+Use the actual placement and patency checks, including aspiration
+where specified, site observation and response to the approved test.
+No single cue proves every later infusion safe.
+
+104
+00:20:12,672 --> 00:20:24,840
+Observe for soft-tissue swelling, leakage, unexpected pain and distal
+neurovascular change. Suspected malposition or extravasation is a
+stop-and-reassess problem.
+
+105
+00:20:24,840 --> 00:20:34,728
+Flow may require the appropriate trained pressure setup, but greater
+pressure must not be used to overcome a route that may be misplaced or
+causing tissue injury.
+
+106
+00:20:34,728 --> 00:20:43,680
+Reconfirm before further administration and after moving the person. A
+stable-looking hub is not sufficient evidence of safe delivery.
+
+107
+00:20:43,680 --> 00:20:54,864
+An IO insertion and an IO infusion can hurt differently. A patient who
+responds to pain needs an appropriate plan even if they cannot carry
+on a normal conversation.
+
+108
+00:20:54,864 --> 00:21:09,168
+Current PR twelve places conscious-patient lidocaine administration
+with ACP or a PCP under direction of an on-scene ACP. Do not infer an
+independent PCP anesthetic permission from a classroom case.
+
+109
+00:21:09,168 --> 00:21:22,680
+Verify the actual medicine formulation and order, relevant
+contraindications, extension volume and delivery timing. A dose
+sitting in the extension has not necessarily reached the medullary
+space.
+
+110
+00:21:22,680 --> 00:21:34,152
+Continue monitoring and communicate inadequate pain relief or
+complications. Do not improvise an extra dose or copy a manufacturer's
+optional regimen into a local order.
+
+111
+00:21:34,152 --> 00:21:47,640
+The saved school Wednesday case says zero point five milligrams per
+kilogram over sixty seconds. That wording is retained as a source
+discrepancy, not silently rewritten as if the school said something
+else.
+
+112
+00:21:47,640 --> 00:22:01,344
+Current PR twelve states forty milligrams for the conscious adult,
+slowly over one hundred and twenty seconds, then a sixty-second dwell
+before the subsequent specified flush, under its stated clinical
+authority.
+
+113
+00:22:01,344 --> 00:22:12,624
+Its child weight-based statement does not erase the PCP under-twelve
+cannulation prohibition. Adult versus child wording and on-scene
+supervision remain separate requirements.
+
+114
+00:22:12,624 --> 00:22:25,248
+For a station, explicitly identify the discrepancy and ask the
+instructor for the current approved sequence. Do not invent a hybrid
+dose, sixty-second rate or extra-dose schedule.
+
+115
+00:22:25,248 --> 00:22:36,456
+Protect the catheter during movement and keep the site/limb accessible
+to reassessment. A displacement can change delivery from medullary
+circulation to soft tissue.
+
+116
+00:22:36,456 --> 00:22:49,224
+Assess pain, swelling, leakage and distal function. Increasing tissue
+tension or neurovascular concern requires urgent appropriate action,
+not a tighter wrap and more pressure.
+
+117
+00:22:49,224 --> 00:23:00,576
+Record the device/site, collective attempts, time, exact
+medicines/fluids and response. Report partial delivery or a failed
+route truthfully.
+
+118
+00:23:00,576 --> 00:23:11,880
+Use the actual clinical plan for ongoing access and removal. A
+manufacturer's maximum dwell time is not a reason to retain an
+unnecessary or compromised route.
+
+119
+00:23:11,880 --> 00:23:23,544
+This original scenario follows the school learning objective without
+copying its patient. A forty-three-year-old has prolonged vomiting,
+poor intake, weakness and low blood pressure.
+
+120
+00:23:23,544 --> 00:23:35,688
+Assess immediate threats and ask what else could this be. Volume loss
+may be important, but other causes, ongoing losses, medicines and the
+actual response must be considered.
+
+121
+00:23:35,688 --> 00:23:48,672
+If indicated access is difficult, improve site/device planning, seek
+help and reassess priorities. Two failures alone do not meet the
+restricted awake-patient PCP IO pathway.
+
+122
+00:23:48,672 --> 00:24:00,288
+Under an authorized plan, evaluate every intervention against the
+expected benefit and new harm. Report the patient and access status,
+not just that you eventually got a line.
+
+123
+00:24:00,288 --> 00:24:11,160
+Explain the clinical indication and the ongoing patient concern. A
+receiving clinician needs to know why the route was established and
+whether that reason still applies.
+
+124
+00:24:11,160 --> 00:24:24,504
+State the actual site/device, insertion time, attempts and any
+difficulty or modification. For IO, communicate the actual supervision
+and pain-management plan as relevant.
+
+125
+00:24:24,504 --> 00:24:36,384
+Report exact products, concentrations, amounts and rates, including
+partial administration and relevant tubing residual. A prepared amount
+is not always the delivered amount.
+
+126
+00:24:36,384 --> 00:24:47,928
+Close with response, complications, current patency and the next care
+plan. Complete the clinical record and required incident reporting
+without disguising uncertainty.
+
+127
+00:24:47,928 --> 00:25:41,616
+Compare the actual reference entries rather than silently harmonizing
+them. This PHARM copy lists serum potassium 3.6-5.4 mEq/L, sodium
+135-145 mEq/L, total calcium 8.8-10.4 mg/dL, magnesium 1.46-2.68 mEq/L
+and chloride 98-106 mEq/L. The separately assigned FON table uses some
+different intervals. The PHARM phosphate numbers labelled mEq/L remain
+a unit problem, not a validated equivalent table. For a patient,
+retain the actual laboratory analyte, specimen, unit and interval;
+neither textbook defines every clinical action threshold.
+
+128
+00:25:41,616 --> 00:26:26,016
+The sodium-potassium pump maintains unequal compartments by using ATP
+to move three sodium ions out and two potassium ions in per cycle. It
+is not a measurement of the serum potassium or a guarantee of a normal
+ECG. In medication history, potassium supplements and potassium-
+containing salt substitutes can interact importantly with impaired
+renal excretion, ACE inhibitors, ARBs or potassium-sparing diuretics.
+Distinguish a prescribed replacement plan from unrestricted
+supplementation. The source peripheral potassium concentration/rate
+example is not a universal safe limit and does not override the
+prohibition on rapid IV potassium push.
+
+129
+00:26:26,016 --> 00:27:10,392
+Absorption interactions are part of the assigned mineral teaching.
+Oral calcium can reduce absorption of levothyroxine and certain
+tetracycline/quinolone antibiotics; calcium/dairy and oral iron also
+need product-specific scheduling. The source separately flags
+magnesium with iron, folic-acid or fibre supplements. Identify the
+actual formulations and prescribed spacing rather than combining all
+products together or imposing one interval on every medicine. Ask
+about nonprescription supplements and antacids. Education about diet
+or drinking water must remain individualized, especially with renal or
+heart disease and a fluid restriction.
+
+130
+00:27:10,392 --> 00:27:53,592
+Connect the PN adverse-effect list to surveillance: catheter infection
+or thrombosis, fluid overload, glucose disturbances, liver
+complications and refeeding-related electrolyte shifts are different
+problems. A concentrated PN product is not an ordinary bag to restart
+or replace at a guessed rate; a PICC may enter peripherally but have a
+central tip. Urine sugar alone does not monitor glucose safety, and a
+printed twelve-hour intake/output example is not the reassessment
+interval for an acutely deteriorating patient. Report the actual
+product, access, amount/rate, interruption and new findings to the
+responsible team.
+
+131
+00:27:53,592 --> 00:28:33,000
+The first assigned cardiac page carries over preload, afterload and
+contractility before 16.3. Correct its venous-direction shortcut:
+venoconstriction can mobilize venous blood toward the heart, whereas
+venodilation can promote pooling; less venoconstriction does not
+automatically increase preload. Filling pressure and filling volume
+depend on compliance, and more filling does not always increase useful
+output in a failing ventricle. Inotropy can be positive or negative.
+Use these distinctions to explain why pressure improvement alone does
+not prove a successful fluid intervention.
+
+132
+00:28:33,000 --> 00:29:14,688
+Read each ECG lead as its own potential-difference view, not a
+numerical sum of twelve lead traces. Depolarization moving toward a
+lead positive pole generally produces an upward deflection; vector
+direction and repolarization conventions matter. P, QRS and T relate
+to atrial depolarization, ventricular depolarization and ventricular
+repolarization, not measured flow. The assigned final page includes
+the Chapter 16 summary and key terms, whose artery/vein wording still
+needs the direction-versus-oxygen correction. A named normal rhythm
+does not prove normal perfusion or exclude ischemia.
+
+133
+00:29:14,688 --> 00:30:01,800
+The literal last page, printed 140, already starts 5.4: its objectives
+introduce vitamins/minerals, chelation, complementary therapies,
+interactions and patient education; the visible body distinguishes
+water-soluble from fat-soluble vitamins. Water-soluble vitamins
+generally need ongoing intake and renal handling matters, whereas fat-
+soluble vitamins can accumulate and cause toxicity. Do not turn this
+into a rule that every water-soluble vitamin has no storage: vitamin
+B12 has substantial body stores. Malabsorption, losses and increased
+requirements can matter. The following detailed vitamin table and
+chelator sections are not inside this assigned page span.
+
+134
+00:30:01,800 --> 00:30:45,576
+The literal first page also completes the preceding respiratory-
+specimen topic. Collection technique, specimen quality, contamination,
+timing, prior medicines and transport/storage can change sputum or
+nasal/throat results. Older adults may have a weaker cough, thicker
+secretions or difficulty understanding instructions; adapt
+communication and assistance without forcing an unsafe collection. A
+swab must match the intended test. A poorly collected or late specimen
+can mislead even when the laboratory method works correctly. This
+carryover is reading context, not an additional assessed Week 3 sputum
+station.
+
+135
+00:30:45,576 --> 00:31:28,080
+A vacuum collection tube draws blood because its internal pressure is
+lower; the holder supports the compatible collection system. The
+source photograph uses lavender for a CBC and red for serum testing,
+but the actual additive, test, fill and mixing instructions control
+selection, not colour alone. Preserve patient identification at the
+bedside and do not transfer blood between tubes to repair a wrong
+collection. Its statement about whole blood being a fixed fraction of
+extracellular fluid also needs caution: plasma is extracellular, while
+red-cell water is intracellular; whole blood and plasma are not the
+same compartment.
+
+136
+00:31:28,080 --> 00:32:13,680
+Read the CVAD diagrams as separate channels, not as a guarantee of
+compatible medicines. Its illustrated triple-lumen table uses
+proximal/middle 18-gauge and distal 16-gauge channels, with differing
+assigned uses; another catheter can have a different layout. The
+sampling table includes examples of 10-mL syringes, 10-20 mL saline
+flushes and 2-25 mL discarded blood. These depend on the device, dead
+space, test, patient and approved method, not a universal sequence to
+apply to a child or unfamiliar line. Protect critical infusions, use
+approved aseptic access and avoid unnecessary blood loss.
+
+137
+00:32:13,680 --> 00:32:56,496
+For the capillary-site drawing, distinguish an adult fingertip example
+from infant heel sampling. The source infant example uses the medial
+or lateral plantar heel surface and avoids the centre and posterior
+curve. Use the actual age-appropriate, depth-limited device and
+authorized procedure; an illustrated site is not approval for every
+glucose meter. Excessive squeezing can dilute the sample with tissue
+fluid or cause hemolysis. Follow actual cleaning/drying and first-drop
+instructions for the test, record the site/time/result and respond to
+a critically ill patient without waiting through an unnecessary
+sampling ritual.
+
+138
+00:32:56,496 --> 00:33:44,496
+The assigned IV-drug examples span antibiotics, analgesics, emergency
+medicines, chemotherapy and immunoglobulin. Examples include
+vancomycin, ketorolac, fentanyl, naloxone and seizure medicines; they
+illustrate different indications and monitoring, not a new PCP drug
+list. Alteplase is a tissue plasminogen activator, not a second
+unrelated drug beside tPA. IVIG is an antibody product, not an
+antibiotic. Bioavailability is the fraction reaching systemic
+circulation, not the speed of effect, and IV delivery does not make
+every medicine safe as a rapid push. Identify an existing infusion by
+actual name, concentration, route and order.
+
+139
+00:33:44,496 --> 00:34:33,000
+Read the hardware labels, not a memorized appearance. Lower gauge
+numbers mean larger internal diameter for otherwise comparable
+catheters; the source wording later reverses larger and smaller gauge
+descriptions. Its macrodrip examples are 10, 15 or 20 gtt/mL and
+microdrip 60 gtt/mL; use the package value. In the source
+primary/secondary arrangement, bag height and a suitable backcheck
+valve help select flow, but compatibility, residual tubing volume and
+the actual flush plan determine delivery. A smart or syringe pump
+still needs the correct product, syringe, settings and patient/site
+checks; it is not a universal interaction detector.
+
+140
+00:34:33,000 --> 00:35:16,968
+Secure the catheter without hiding the assessment site or creating
+constriction. The source injury story illustrates why obscured
+swelling and delayed recognition can cause lasting harm. Keep the
+skin, insertion site and distal function inspectable according to the
+actual dressing/device plan, and respond to pain or new swelling
+rather than trusting that fluid is still running. The distal-first
+principle preserves options; its phrase about leaking into the
+intravascular space is misleading when describing infiltration into
+surrounding tissue. A vein map or near-infrared locator aids location,
+not proof of successful intravascular placement or freedom from
+nerve/artery injury.
+
+141
+00:35:16,968 --> 00:35:59,400
+Original linked encounter: an adult receiving a home infusion reports
+new arm pain and swelling, and a critical laboratory result was drawn
+from the infusing side. Assess and support the patient, stop the
+implicated delivery appropriately, protect the site and obtain the
+product/device-specific care plan. The sample may be contaminated or
+hemolyzed, but that possibility does not prove the dangerous result
+false or justify ignoring deterioration. Communicate the source of the
+sample, actual infusion and new findings; arrange appropriate
+confirmation while immediate care continues. Do not force-flush the
+line to make it look patent.
+
+142
+00:35:59,400 --> 00:36:44,832
+The literal printed 1022 page is a hearing/balance page, not section
+18.3. Interpret its tuning-fork drawing carefully: Rinne compares air
+with bone conduction; air greater than bone can be normal or
+sensorineural loss, whereas bone greater than air supports a
+conductive component. Weber at the midline normally remains central,
+or may remain central with equal bilateral loss; in a unilateral
+pattern it tends toward the conductive-loss ear or away from the
+sensorineural-loss ear. The picture label normal on one side is not a
+rule that normal hearing lateralizes. Formal audiology may be needed;
+this is not a new Week 3 assessed tuning-fork station.
+
+143
+00:36:44,832 --> 00:37:27,288
+The same page describes balance observation, a Romberg comparison,
+facial-nerve findings and the start of validating/documenting
+findings. A positive Romberg classically means relative stability with
+eyes open but marked loss of stability after closing them; it does not
+by itself diagnose an inner-ear disease. Instability with eyes open is
+already abnormal, not reassurance because the book calls the
+comparison negative. Guard against falling and do not provoke the test
+in someone unsafe to stand. Record actual gait/balance and facial
+asymmetry with the rest of the neurological assessment rather than
+labeling every dizzy patient a benign ear problem.
+
+144
+00:37:27,288 --> 00:37:38,232
+Without reading, explain the access indication, the patient risk and
+the alternative route you considered. State why hospital convenience
+or practice alone is not enough.
+
+145
+00:37:38,232 --> 00:37:48,768
+On the model, lay out the full equipment and describe the protected
+parts and actual device transitions. A partner should be able to
+identify a contamination break.
+
+146
+00:37:48,768 --> 00:37:59,448
+Describe the response to a failed attempt, swelling during a flush and
+a new breathing problem during fluid. None is solved by blindly
+increasing force or rate.
+
+147
+00:37:59,448 --> 00:38:11,400
+Finish by distinguishing the school IO scenario from current PR twelve
+and by using the three post-intervention questions. These are
+preparation, not a signed practical qualification.

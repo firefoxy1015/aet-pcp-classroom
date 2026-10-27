@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="650" viewBox="0 0 1160 650" role="img" aria-labelledby="title desc">
+  <title id="title">Mechanical CPR: preparation states and the manual fallback</title>
+  <desc id="desc">ADJUST sets position; PAUSE locks and verifies; ACTIVE runs the selected compression mode. A failed or unsafe device requires immediate effective manual CPR. A planned battery change from PAUSE returns to PAUSE if completed within the specified memory interval.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#53799b"/></marker></defs>
+  <rect width="1160" height="650" rx="24" fill="#f0f5fa"/>
+  <g font-family="Arial, sans-serif" fill="#16324b">
+    <text x="48" y="58" font-size="28" font-weight="700">A machine state is not a patient assessment</text>
+    <text x="48" y="91" font-size="19">Original learning map: verify the actual LUCAS version, configuration and local authorization.</text>
+    <g stroke="#b8cddd" stroke-width="2" fill="white">
+      <rect x="48" y="135" width="290" height="165" rx="16"/>
+      <rect x="435" y="135" width="290" height="165" rx="16"/>
+      <rect x="822" y="135" width="290" height="165" rx="16"/>
+    </g>
+    <text x="72" y="177" font-size="25" font-weight="700">ADJUST</text>
+    <text x="72" y="213" font-size="20">Correct location and height</text>
+    <text x="72" y="245" font-size="18">Do not force an unsafe fit.</text>
+    <text x="72" y="274" font-size="18">Keep hands out of active parts.</text>
+    <text x="459" y="177" font-size="25" font-weight="700">PAUSE</text>
+    <text x="459" y="213" font-size="20">Lock and verify the start</text>
+    <text x="459" y="245" font-size="18">Compressions are stopped.</text>
+    <text x="459" y="274" font-size="18">A pause needs a reason and plan.</text>
+    <text x="846" y="177" font-size="25" font-weight="700">ACTIVE</text>
+    <text x="846" y="213" font-size="20">30:2 or continuous</text>
+    <text x="846" y="245" font-size="18">Match ventilation and protocol.</text>
+    <text x="846" y="274" font-size="18">Observe position and output.</text>
+    <g stroke="#53799b" fill="none" stroke-width="3" marker-end="url(#arrow)">
+      <path d="M345 213H424"/><path d="M732 213H811"/>
+      <path d="M969 308V351H583V310"/>
+    </g>
+    <text x="644" y="340" font-size="17">brief rhythm analysis when indicated</text>
+    <rect x="48" y="393" width="677" height="94" rx="14" fill="#e1edf7"/>
+    <text x="72" y="428" font-size="21" font-weight="700">Planned battery change: PAUSE, replace, verify PAUSE</text>
+    <text x="72" y="462" font-size="18">A short change preserves height. Verify the state before restart.</text>
+    <rect x="48" y="517" width="1064" height="91" rx="14" fill="#fff1db" stroke="#d5a04a" stroke-width="2"/>
+    <text x="72" y="551" font-size="22" font-weight="700">Unsafe fit, malfunction or ineffective compressions?</text>
+    <text x="72" y="584" font-size="20">Restore effective MANUAL CPR immediately. Troubleshooting must not create prolonged no-flow.</text>
+    <path d="M969 307V505" stroke="#c18a37" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  </g>
+</svg>

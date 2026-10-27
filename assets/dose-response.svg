@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="t d">
+  <title id="t">Schematic concentration response curves</title>
+  <desc id="d">Two full agonists can reach the same maximum at different concentrations. A partial agonist reaches a lower maximum in the illustrated system.</desc>
+  <rect width="960" height="360" rx="20" fill="#0d2032"/>
+  <g stroke="#c9dce9" fill="none" stroke-width="2"><path d="M88 65V277H886"/></g>
+  <g fill="none" stroke-width="5"><path d="M90 268C188 268 207 265 241 220S279 89 343 82H867" stroke="#57d4cc"/><path d="M90 269H344C419 269 440 247 476 190S508 89 579 82H867" stroke="#8eacff"/><path d="M90 270H245C333 270 367 252 402 219S449 169 501 169H867" stroke="#ffcb78"/></g>
+  <g font-family="Arial,sans-serif" fill="#eef6ff"><text x="95" y="37" font-size="22">Potency is horizontal; maximal response is vertical</text><text x="115" y="104" font-size="16">Greater response</text><text x="480" y="320" font-size="18" text-anchor="middle">Increasing concentration (schematic log axis; no clinical dose scale)</text><text x="140" y="346" font-size="13">Original teaching curves, one assumed experimental system; not patient dose equivalence</text></g>
+  <g font-family="Arial,sans-serif" font-size="17"><text x="610" y="65" fill="#57d4cc">A: lower EC50</text><text x="610" y="112" fill="#8eacff">B: same maximum, higher EC50</text><text x="610" y="196" fill="#ffcb78">C: lower maximum</text></g>
+</svg>

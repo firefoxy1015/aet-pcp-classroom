@@ -1,0 +1,353 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.312
+A Patient Care Record, or PCR, should let another clinician reconstruct the encounter. It is a clinical, legal and operational record, not merely a task to finish after transport.
+Patient Care Record，即 PCR，应让另一位临床人员能够重建整次照护过程。它是临床、法律和运营记录，不只是转运后需要完成的任务。
+
+00:00:12.312 --> 00:00:23.232
+Record the patient's concern, assessment, reasoning, care, response and outcome. Include the times and communications that explain how the plan developed.
+记录患者担忧、评估、推理、照护、反应及结果，并包括能解释计划如何形成的时间和沟通。
+
+00:00:23.232 --> 00:00:37.536
+The phrase if it was not documented, it did not happen is a warning about missing evidence, not a literal rule that undocumented care never occurred. Accurate entries are needed precisely because memory alone is unreliable.
+“没记录就没发生”是对证据缺失的提醒，不是说未记录照护在事实上从未发生。正因为记忆并不可靠，才需要准确记录。
+
+00:00:37.536 --> 00:00:49.200
+Timely, clear records support the patient and the next team. Writing mainly to defend yourself can distort priorities; record the clinical story honestly, including uncertainty.
+及时、清楚的记录支持患者和下一团队。如果主要为了自我辩护而书写，可能扭曲重点；应如实记录临床过程，包括不确定性。
+
+00:00:49.200 --> 00:00:59.640
+Begin with correct patient identification and the reason for contact. Verify information when possible and identify its source when it comes from someone else.
+从正确患者身份和接触原因开始。尽可能核实信息；信息来自他人时，应注明来源。
+
+00:00:59.640 --> 00:01:11.304
+Record relevant history and examination findings, including measured values, units and times. A finding is not negative merely because no one asked about it.
+记录相关病史和检查结果，包括测量值、单位及时间。没有询问某项内容，并不等于该项为阴性。
+
+00:01:11.304 --> 00:01:23.112
+Link care to reasoning and reassessment. Include consent discussions, clinical advice and the final disposition. The actual ePCR may contain additional required fields.
+把照护连接到推理和再评估，包含医疗同意讨论、临床建议及最终去向。实际 ePCR 可能还有其他必填字段。
+
+00:01:23.112 --> 00:01:34.200
+Review the whole record before finalizing it. A completed checkbox can still be wrong or contradicted by the narrative; correct the inconsistency using the approved process.
+完成前复核整份记录。即使勾选框已填写，也可能错误或与叙述冲突；应使用获准流程纠正不一致。
+
+00:01:34.200 --> 00:01:45.720
+Objective information is observed or measured. Subjective information includes symptoms and history reported by the patient or a witness. Both belong in a useful record.
+客观信息来自观察或测量；主观信息包括患者或目击者报告的症状及病史。两者都应进入有用的记录。
+
+00:01:45.720 --> 00:01:57.720
+Objectivity means representing each source accurately, not deleting symptoms because you cannot measure them. Patient reports severe pain is appropriate when that is what the patient reports.
+客观记录是准确呈现各类信息来源，不是因为无法测量就删除症状。患者确实这样自述时，“患者报告严重疼痛”是适当记录。
+
+00:01:57.720 --> 00:02:08.376
+Label a clinical impression as an impression and support it with findings. Do not turn an uncertain loss of consciousness or a suspected injury into a confirmed event.
+临床初步判断应明确标注，并有结果支持。不能把不确定的意识丧失或怀疑损伤写成确定事件。
+
+00:02:08.376 --> 00:02:17.592
+Replace character judgements with specific behaviour and context. Describe what the person declined, what was explained and what happened next.
+用具体行为和背景代替性格评价。描述对方拒绝了什么、解释过什么，以及后来发生了什么。
+
+00:02:17.592 --> 00:02:29.448
+Keep symptom onset, call time, assessment time, intervention time and entry time distinct. They may differ, and that difference can change clinical interpretation.
+区分症状起始、呼叫、评估、干预和填写记录的时间。它们可能不同，而这种差异会改变临床判断。
+
+00:02:29.448 --> 00:02:40.512
+Use time-linked findings to show a trend. A later reading must not be placed beside an earlier intervention in a way that falsely suggests it was the pretreatment baseline.
+使用带时间的结果显示趋势。不能把较晚读数放在较早干预旁边，让人误以为它是治疗前基线。
+
+00:02:40.512 --> 00:02:50.760
+If an onset or time is approximate, say so and identify the source. Do not invent minute-level precision because the form has a time field.
+起病或时间只是估计时，应说明并注明来源。不能因为表格有时间栏，就虚构精确到分钟的时间。
+
+00:02:50.760 --> 00:03:03.336
+Brief contemporaneous notes can help, provided they are handled securely and transferred according to policy. Urgent care takes priority, but a later entry must remain transparent.
+即时简短笔记可帮助记忆，但应安全处理，并依政策转入正式记录。紧急照护优先，但事后补录必须透明。
+
+00:03:03.336 --> 00:03:12.984
+An intervention without a baseline is difficult to interpret. Record the relevant assessment before care, then the action and subsequent findings.
+缺乏基线的干预很难解释。应先记录相关治疗前评估，再记录行动及之后结果。
+
+00:03:12.984 --> 00:03:25.656
+For a medication, include the full drug, dose and units, route and administration time. Record the relevant effect and reassessment rather than assuming the expected response occurred.
+给药应包括完整药名、剂量和单位、途径及实际给药时间。记录相关效果及再评估，不能假定预期反应已经发生。
+
+00:03:25.656 --> 00:03:36.816
+If the intervention did not help, that is important information. Document the lack of improvement, continued concern and any change in management or request for assistance.
+如果干预没有帮助，这同样重要。应记录未改善、持续担忧，以及管理变化或求助情况。
+
+00:03:36.816 --> 00:03:48.528
+A clinical consultation needs the person or service, time, relevant advice and action taken. Verify instructions and ensure any action remains within your authorization.
+临床咨询需要记录人员或服务、时间、相关建议及采取行动。应核实指示，并确保行动仍在本人权限内。
+
+00:03:48.528 --> 00:04:00.024
+If a value or time is wrong, correct it through the approved record process. Do not silently rewrite history or copy a number into several fields to make the record appear complete.
+数值或时间出错时，应通过获准记录流程纠正。不能默默改写历史，也不能把同一数值复制到多个字段以制造完整假象。
+
+00:04:00.024 --> 00:04:11.976
+A late entry should be identifiable as late and tied to the actual event as accurately as possible. Follow local requirements rather than inventing a universal correction format.
+补录应明确为补录，并尽可能准确对应实际事件。遵循本地要求，不要虚构通用修改格式。
+
+00:04:11.976 --> 00:04:20.664
+If care is still ongoing and the error could change a decision, communicate the correction directly to the relevant clinician as well as correcting the record.
+如果照护仍在继续，而错误可能影响决定，除了更正记录，还应直接通知相关临床人员。
+
+00:04:20.664 --> 00:04:33.744
+Not obtained, declined, not indicated and unknown describe different situations. Use the appropriate description and explain missing required information rather than substituting a normal value.
+“未取得”“被拒绝”“无指征”和“未知”是不同情况。应使用恰当描述，并解释必需信息为何缺失，不能填入正常值代替。
+
+00:04:33.744 --> 00:04:46.560
+The BC privacy framework distinguishes public bodies under FIPPA, also commonly called FOIPPA, from private organizations under PIPA. Do not assume both laws apply identically to every employer.
+卑诗省隐私框架区分 FIPPA（也常称 FOIPPA）下的公共机构，与 PIPA 下的私营组织。不能假定两部法律以相同方式适用于所有雇主。
+
+00:04:46.560 --> 00:05:07.176
+Protected information is not limited to a written name. Conversations, images and device screens can identify a person. The school calls identification through combined details mosaic identification: age, location, time and event can identify someone even when a name is removed.
+受保护信息不限于书面姓名。谈话、影像和设备屏幕都可能识别个人。学校把通过细节组合识别身份称为 mosaic identification，即拼图式身份识别：即使去掉姓名，年龄、地点、时间和事件仍可能组合识别某人。
+
+00:05:07.176 --> 00:05:20.064
+Before sharing, verify the recipient and the applicable authority and purpose. Share the necessary information through an approved channel, not simply with anyone who appears interested or helpful.
+分享前，核实接收者、适用权限和目的。通过获准渠道分享必要信息，不能只因某人看起来关心或愿意帮忙就透露。
+
+00:05:20.064 --> 00:05:32.976
+Clinical care is an important authorized purpose, but other lawful disclosures can exist. If the legal basis is unclear, seek the appropriate privacy or supervisory advice rather than guessing.
+临床照护是重要的获授权目的，但也可能存在其他合法披露依据。法律基础不清时，应取得适当隐私或主管意见，不能猜测。
+
+00:05:32.976 --> 00:05:43.872
+A crowded home or public scene does not remove the duty to protect privacy. Lower your voice, reposition when feasible and avoid displaying the record to bystanders.
+拥挤住家或公共现场不会取消隐私保护义务。应降低音量、在可行时调整位置，避免让旁观者看到记录。
+
+00:05:43.872 --> 00:05:54.960
+Family can provide valuable history, but being a relative does not automatically authorize every disclosure or decision. Ask the capable patient what they agree to share.
+家属能提供有价值病史，但亲属身份不会自动授权所有披露或决定。应询问有相关决定能力的患者同意分享什么。
+
+00:05:54.960 --> 00:06:05.448
+Use only approved devices, storage and transmission methods. Keep paperwork secure and follow the service's process for temporary notes and printed records.
+只使用获准设备、存储及传输方式。妥善保管纸张，并按机构流程处理临时笔记和打印记录。
+
+00:06:05.448 --> 00:06:16.008
+During handover, give necessary information to the appropriate team while limiting avoidable exposure. Privacy and an effective clinical report should support each other.
+交接时向适当团队提供必要信息，同时限制可避免的暴露。隐私保护与有效临床报告应相互支持。
+
+00:06:16.008 --> 00:06:27.408
+A scene photo can reveal a home, vehicle or location even when no patient is visible. Do not use personal photography or social media to store or share case material.
+现场照片即使没有患者，也可能暴露住家、车辆或地点。不要用私人拍照或社交媒体存储、分享个案资料。
+
+00:06:27.408 --> 00:06:38.904
+The same boundary principle applies offline: avoid private financial favours, excessive personal disclosure and personal contact that shifts care into a private relationship.
+同一专业界限原则也适用于线下：避免私人财务帮助、过度自我披露，以及把照护转成私人关系的个人联系。
+
+00:06:38.904 --> 00:06:50.592
+If you already know the patient, protect necessary care and manage the conflict with appropriate support. Maintain privacy, role clarity and the same assessment standards.
+如果原本认识患者，应保障必要照护，并借助适当支持管理角色冲突。保持隐私、角色清晰及相同评估标准。
+
+00:06:50.592 --> 00:07:03.960
+After a difficult encounter, seek appropriate confidential support and remove identifying details from personal reflection. Stress is a reason to obtain help, not permission to expose a patient.
+困难接触后，应寻求适当保密支持，并从个人反思中移除身份细节。压力是获得帮助的理由，不是暴露患者的许可。
+
+00:07:03.960 --> 00:07:15.504
+Suppose patient details are sent to the wrong approved-system recipient. First prevent further exposure where possible, then promptly use the organization's privacy-incident process.
+假设在获准系统中把患者资料发给了错误接收者，应先尽可能防止进一步暴露，然后立即使用机构隐私事件流程。
+
+00:07:15.504 --> 00:07:27.000
+Do not hide the incident or assume it is harmless because the recipient seems trustworthy. The privacy team needs facts to assess the information, recipients and possible consequences.
+不能隐瞒，也不能因为接收者看起来可信就假定无害。隐私团队需要事实，以评估信息、接收者及可能后果。
+
+00:07:27.000 --> 00:07:38.664
+Record the time, information involved, recipient and containment actions through the appropriate channel. Follow instructions about preserving records and contacting the recipient.
+通过适当渠道记录时间、涉及信息、接收者及控制措施，并遵循有关保留记录和联系接收者的指示。
+
+00:07:38.664 --> 00:07:50.784
+Patient notification and external reporting depend on the applicable process and legal duties. Do not invent a universal notification deadline or promise an outcome you cannot guarantee.
+通知患者及对外报告取决于适用流程和法律责任。不能虚构通用通知期限，也不能承诺无法保证的结果。
+
+00:07:50.784 --> 00:08:02.064
+Consent is a process, not merely a signature. Explain the proposed care and why you recommend it, along with important benefits, risks and reasonable alternatives.
+医疗同意是一个过程，不只是一份签名。应解释建议的照护、推荐原因、重要益处和风险，以及合理替代方案。
+
+00:08:02.064 --> 00:08:11.400
+Give the person an opportunity to ask questions. Use appropriate language support and check what they understood, rather than simply asking whether they agree.
+给对方提问机会，使用适当语言支持，并核实具体理解了什么，而不只是问是否同意。
+
+00:08:11.400 --> 00:08:24.384
+Consent can be expressed verbally, in writing or through relevant conduct, but it applies to the particular care agreed to. Permission for one examination does not authorize every later intervention.
+同意可以通过口头、书面或相关行为表达，但只适用于已同意的具体照护。允许一次检查，不等于授权所有后续干预。
+
+00:08:24.384 --> 00:08:34.152
+Document the discussion and decision. If consent is withdrawn or the plan changes, reassess the situation and record the new decision and actions.
+记录讨论和决定。如果同意被撤回，或计划发生变化，应重新评估，并记录新决定及行动。
+
+00:08:34.152 --> 00:08:45.984
+Consent inferred from conduct can be a capable patient extending an arm after an explained examination. It still depends on the situation and the particular care being proposed.
+通过行为推知同意，可以是有决定能力的患者在听完检查说明后伸出手臂。它仍取决于具体情境及所建议的特定照护。
+
+00:08:45.984 --> 00:08:58.296
+An unconscious patient presents a different issue: there may be a lawful basis for necessary urgent care without express consent. The word implied alone does not establish that basis.
+无意识患者涉及另一问题：必要紧急照护可能存在不经明确同意实施的合法依据。仅说“默示同意”，并不能证明该依据成立。
+
+00:08:58.296 --> 00:09:11.040
+Known valid refusals, applicable advance instructions and the available decision-making process must be considered. An emergency is not automatic permission to ignore every prior decision.
+需要考虑已知有效拒绝、适用预先指示及可用决策流程。紧急情况不会自动授权忽视所有先前决定。
+
+00:09:11.040 --> 00:09:23.496
+Record urgency, the capability concern, what information was available and the basis for the action. Seek clinical support where needed and obtain the patient's decision when they can participate.
+记录紧迫性、决定能力问题、当时可用信息及行动依据。按需取得临床支持；患者能够参与时，应取得其决定。
+
+00:09:23.496 --> 00:09:35.880
+Adult capability is presumed unless there is evidence otherwise. Assess the actual decision at the actual time, using understandable information and appropriate communication support.
+除非有相反证据，否则推定成年人具有决定能力。应在当时，针对具体决定，使用可理解信息和适当沟通支持进行评估。
+
+00:09:35.880 --> 00:09:48.096
+Document how the person understands the relevant information and its application to their own circumstances. Use their meaningful responses, not just a statement that capacity was assessed.
+记录对方如何理解相关信息，以及信息如何适用于本人处境。使用有意义的实际回答，而不只写“已评估能力”。
+
+00:09:48.096 --> 00:10:02.832
+Orientation and a neurological score provide clinical context but do not alone prove capability. An unusual choice, dementia diagnosis or reported alcohol use also does not automatically decide the question.
+定向力和神经评分提供临床背景，但不能单独证明决定能力。同样，不寻常选择、痴呆诊断或自述饮酒，也不会自动决定结论。
+
+00:10:02.832 --> 00:10:28.800
+Identify barriers to understanding or voluntariness, reassess changes and obtain support when uncertain. The school example names VIRCA; its consent module expands this as Voluntary, Informed, Relevant, Capacity and Advice. These prompt the discussion, the specific decision, capability evidence and follow-up. The letters are not a validated score or a substitute for that evidence.
+识别理解或自愿性的障碍，变化时重新评估，不确定时取得支持。学校示例提到 VIRCA；其医疗同意模块展开为 Voluntary（自愿）、Informed（知情）、Relevant（与具体情境相关）、Capacity（决定能力）及 Advice（建议）。这些词提醒你完成讨论、明确具体决定、取得能力证据并提供后续建议；字母并非经过验证的评分，也不能替代这些证据。
+
+00:10:28.800 --> 00:10:40.896
+Refusal of one element does not automatically mean refusal of every aspect of care. Ask what the person is declining and why, then clarify which assessment or support they will accept.
+拒绝一个环节，不等于拒绝所有照护。应询问具体拒绝什么及原因，再澄清愿意接受哪些评估或支持。
+
+00:10:40.896 --> 00:10:51.840
+Explain clinically relevant risks and uncertainty in terms the patient can use. A generic risks explained entry does not show whether the actual decision was informed.
+用患者能理解、能用于决定的方式说明临床相关风险及不确定性。只写“已解释风险”，无法显示具体决定是否真正知情。
+
+00:10:51.840 --> 00:11:04.368
+Address practical or communication barriers without coercion. Seek the required consultation and extra help for high-risk or uncertain situations; do not use a signature as a shortcut.
+在不强迫的前提下处理实际或沟通障碍。对高风险或不确定情形，应完成所需咨询并取得额外帮助，不能用签名走捷径。
+
+00:11:04.368 --> 00:11:20.088
+The current non-conveyance guideline explicitly requires CliniCall consultation for pediatric patients and patients in police custody. Its broader mandatory-consultation list remains an operational requirement, not something to guess from memory.
+现行非转运指南明确要求：儿童患者及警方羁押患者不转运前需咨询 CliniCall。更完整的强制咨询清单仍属运营要求，不能凭记忆猜测。
+
+00:11:20.088 --> 00:11:32.304
+For a refusal, show the clinical picture and why the proposed plan mattered. Record the assessment findings, any assessment the patient declined and how that limited your conclusions.
+对于拒绝照护，应显示临床图景及建议计划为何重要。记录评估结果、患者拒绝的评估，以及这怎样限制结论。
+
+00:11:32.304 --> 00:11:41.928
+Record the specific risks, benefits and alternatives discussed, the person's responses, their decision and the evidence supporting your capability judgement.
+记录讨论过的具体风险、益处和替代方案、对方回答、其决定，以及支持能力判断的证据。
+
+00:11:41.928 --> 00:11:52.800
+Include consultations and the final safety plan. Advice must explain when and how to obtain further help, and the record should show how understanding was checked.
+包含咨询及最终安全计划。建议应说明何时、如何再次求助，并在记录中显示怎样核实理解。
+
+00:11:52.800 --> 00:12:05.736
+The signature supports the record but does not replace the process. If the patient declines to sign, record that fact and the discussion rather than inventing a signature or abandoning the documentation.
+签名支持记录，但不能替代整个过程。患者拒绝签名时，应记录事实和讨论，不能伪造签名或放弃记录。
+
+00:12:05.736 --> 00:12:18.072
+The BC Infants Act allows a minor to consent when the statutory requirements are met. The provider must explain the care and be satisfied about the minor's understanding and best interests.
+卑诗省 Infants Act 允许在满足法定条件时由未成年人同意。提供者必须解释照护，并对其理解和最佳利益作出相应判断。
+
+00:12:18.072 --> 00:12:30.720
+Understanding concerns the nature and consequences of care and reasonably foreseeable benefits and risks. There is no universal birthday that automatically establishes this for every decision.
+理解涉及照护性质和后果，以及合理可预见的益处和风险。不存在一个对所有决定都自动赋予此能力的通用生日门槛。
+
+00:12:30.720 --> 00:12:42.960
+Record whether consent came from the minor or another verified authorized person and why that source was appropriate. Document communication, relevant disagreements and clinical support.
+记录同意来自未成年人本人，还是其他已核实有权者，并说明来源为何适当。记录沟通、相关分歧和临床支持。
+
+00:12:42.960 --> 00:12:53.712
+Do not turn this summary into an independent pediatric release rule. Current BCEHS non-conveyance guidance requires CliniCall consultation for pediatric patients.
+不能把这个概括当成独立决定儿童不转运的规则。现行 BCEHS 非转运指导要求对儿童患者咨询 CliniCall。
+
+00:12:53.712 --> 00:13:04.776
+An advance directive is a capable adult's written instruction meeting the legal requirements. A MOST is a medical order, not simply another name for an advance directive.
+Advance directive 是具有相关能力的成年人作出、符合法律要求的书面医疗指示。MOST 是医疗指令，不能简单当成 advance directive 的同义词。
+
+00:13:04.776 --> 00:13:14.232
+A No CPR direction concerns resuscitation. It does not automatically mean no assessment, no symptom relief or no other care.
+No CPR 指示针对复苏，不自动意味着不评估、不缓解症状或不提供其他照护。
+
+00:13:14.232 --> 00:13:26.040
+Verify whose document it is, what it directs and whether it applies to the present situation. Record the document type, relevant content and any required approved-system copy.
+核实文件属于谁、指示什么，以及是否适用于当前情形。记录文件类型、相关内容，以及按要求通过获准系统保留的副本。
+
+00:13:26.040 --> 00:13:40.104
+If there is uncertainty or conflict, obtain appropriate clinical consultation rather than casually overriding the document. Detailed resuscitation decisions require the applicable pathway, not this glossary summary.
+存在不确定或冲突时，应取得适当临床咨询，不能随意推翻文件。具体复苏决定需依据适用流程，不能只靠这段词汇概括。
+
+00:13:40.104 --> 00:13:51.984
+A substitute decision-maker is relevant when the patient cannot make the applicable decision. Do not bypass a capable patient simply because a family member is easier to speak with.
+当患者无法作出相关决定时，才涉及替代决策者。不能只因为家属更容易沟通，就绕过有决定能力的患者。
+
+00:13:51.984 --> 00:14:02.400
+Verify the person's authority and its scope. A representation agreement, an existing appointment and an informal family relationship are not interchangeable.
+核实对方权限及范围。代表协议、既有任命和普通亲属关系，不能相互替代。
+
+00:14:02.400 --> 00:14:15.456
+BCEHS guidance contains details and some inconsistent wording about identifying or appointing substitutes. Do not assume that a paramedic can independently create an appointment by choosing a relative.
+BCEHS 指导对识别或任命替代者提供了细节，也存在某些不一致表述。不能假定院前急救员可以自行挑选亲属并创设任命。
+
+00:14:15.456 --> 00:14:27.432
+Use the appropriate clinical and legal support when authority is unclear. Record the document or basis checked, the person involved, their direction and the consultation that supported the plan.
+权限不清时，使用适当临床及法律支持。记录已核实文件或依据、参与人员、其指示，以及支持计划的咨询。
+
+00:14:27.432 --> 00:14:38.880
+Arrived at hospital records a location, not a completed transfer. Identify the receiving person and role, time, relevant report and acceptance of care.
+“已到医院”只记录了位置，不代表完成交接。应记录接收者及角色、时间、相关报告及照护接收情况。
+
+00:14:38.880 --> 00:14:53.016
+Use the appropriate service framework. Current BCEHS A03 uses ATMIST AMBO for transfer and SBAR for consultation, even though parts of the school text use broader SBAR and MIST labels.
+使用适当机构框架。现行 BCEHS A03 在照护交接中使用 ATMIST AMBO，在咨询中使用 SBAR；学校文本某些部分则把 SBAR 和 MIST 标签用得更宽泛。
+
+00:14:53.016 --> 00:15:06.336
+The school also gives different expansions of ISBARR in modules 2A and 4A. Learn the required information and distinguish those labels rather than assuming the letters have one universal expansion.
+学校在 2A 与 4A 中也给出不同 ISBARR 展开方式。应掌握所需信息，并区分这些标签，不能认为字母只有一种通用展开。
+
+00:15:06.336 --> 00:15:17.256
+Record outstanding issues and required documents or traces supplied. The written record and verbal report should agree about the latest status and the care already provided.
+记录未解决问题，以及已提供的所需文件或记录图。书面记录与口头报告应对最新状态和已提供照护保持一致。
+
+00:15:17.256 --> 00:15:28.656
+A patient not being transported still had a clinical encounter. The record needs the assessment, reasoning and actual outcome, not just a non-transport checkbox.
+未被转运的患者仍经历了一次临床接触。记录需要评估、推理和实际结果，而不只勾选“不转运”。
+
+00:15:28.656 --> 00:15:40.560
+Differentiate an informed refusal from a clinically appropriate alternative pathway. If a referral is part of the plan, verify its availability or use the established referral process.
+区分知情拒绝与临床上适当的替代路径。如果计划包含转介，应核实可及性，或使用既定转介流程。
+
+00:15:40.560 --> 00:15:53.664
+The refusal documentation standard calls for two complete observation sets; if required assessment cannot be obtained, explain why. Unobtained data must never be invented to complete the form.
+拒绝照护记录标准要求两组完整生命体征；无法取得所需评估时应解释原因。绝不能为了完成表格而虚构未取得数据。
+
+00:15:53.664 --> 00:16:06.120
+Record specific follow-up and worsening advice, who participated and how understanding was checked. A referral offer, an accepted referral and a completed transfer are different outcomes.
+记录具体随访和恶化时求助建议、参与者，以及如何核实理解。提出转介、转介被接收和完成交接，是不同结果。
+
+00:16:06.120 --> 00:16:15.984
+The reading section contains a fictional timeline and an original model narrative. It is not a school assessment answer or an official ePCR template.
+阅读部分包含虚构时间线和原创叙述示例。它不是学校考核答案，也不是官方 ePCR 模板。
+
+00:16:15.984 --> 00:16:27.048
+Write the record from supplied information only. Attribute the patient's account, preserve measurement times and describe the care and response without diagnosing a deeper injury.
+只使用已给信息书写。注明患者自述来源，保留测量时间，描述照护和反应，不自行诊断更深部损伤。
+
+00:16:27.048 --> 00:16:38.976
+The example has transport and a receiving nurse so that the accountability sequence can close. A comparable non-conveyance record would need its own decision rationale and safety plan.
+示例安排了转运和接收护士，以完成责任交接链。相应非转运记录还需要其自身的决定理由和安全计划。
+
+00:16:38.976 --> 00:16:48.840
+Use the example to learn the structure, then complete your school practice on the official form. Never copy fictional values into a real patient record.
+用示例学习结构，再使用官方表格完成学校练习。绝不能把虚构数值复制到真实患者记录中。
+
+00:16:48.840 --> 00:16:58.752
+Ask a peer or instructor to reconstruct the call from the PCR. If they must guess why you intervened or who accepted care, the record needs improvement.
+请同伴或教师根据 PCR 重建出车过程。如果对方必须猜测为何干预，或谁接收了照护，记录就需要改进。
+
+00:16:58.752 --> 00:17:10.800
+Also review the relationship: did you support trust and autonomy, protect dignity, recognize bias and respond to nonverbal cues? Was the environment or your language a barrier?
+同时复核治疗关系：是否支持信任和自主、保护尊严、识别偏见并回应非语言信号？环境或你的语言是否构成障碍？
+
+00:17:10.800 --> 00:17:35.568
+The school asks you to rate six communication competencies from one, needs improvement, to five, mastered, and choose one skill to refine over thirty days. Review trust, environment, bias, nonverbal cues, de-escalation and adaptation. Support ratings with observed behaviour and feedback: a self-rating of five does not certify mastery.
+学校要求对六项沟通能力按一分“需要改进”至五分“已掌握”自评，并选择一项技能在三十天内改进。复核信任、环境、偏见、非语言信号、降级沟通及适应患者需求。以观察到的行为及反馈支持评分：自己打五分，不代表获得能力认证。
+
+00:17:35.568 --> 00:17:46.968
+Track feedback and a repeat performance. The record, handover and patient interaction should improve together rather than becoming three unrelated paperwork exercises.
+追踪反馈及再次表现。记录、交接和患者互动应共同改善，而不是变成三项互不相关的文书练习。

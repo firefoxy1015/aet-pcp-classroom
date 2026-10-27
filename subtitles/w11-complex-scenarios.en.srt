@@ -1,0 +1,427 @@
+1
+00:00:00,000 --> 00:00:17,760
+The saved Week 11 outline moves into a complex-scenario block. It does
+not introduce a new technical skill. The learner is expected to use
+previously taught assessment, airway, ventilation, vital-sign,
+communication and handover skills with less prompting.
+
+2
+00:00:17,760 --> 00:00:30,840
+A classroom rehearsal can expose a gap and guide practice, but it does
+not certify competence. Perform physical skills only under instructor
+supervision and follow the school’s own checkoff standard.
+
+3
+00:00:30,840 --> 00:00:44,832
+The school asks for a thirty-minute PAA drill each day. A simple,
+repeatable frame helps the learner practise the decision sequence
+instead of spending the whole session resetting equipment or arguing
+about the script.
+
+4
+00:00:44,832 --> 00:01:02,664
+At the start, identify which reference card or current pathway
+contains the newborn and child ventilation targets. Have one learner
+say the patient state and target aloud while another checks the
+reference; do not substitute normal breathing-rate ranges for
+assisted-ventilation rates.
+
+5
+00:01:02,664 --> 00:01:19,560
+Prepare the patient card, previously taught equipment and the relevant
+reference before starting the thirty-minute clock. The school
+specifies daily practice; the minute-by-minute division on the
+preceding slide is our suggested study arrangement, not a school
+marking rule.
+
+6
+00:01:19,560 --> 00:01:33,360
+Give the observer two columns headed cue available and learner action.
+Record what actually happened, such as a breathing change followed by
+reassessment, rather than awarding credit because the learner later
+says they would have noticed it.
+
+7
+00:01:33,360 --> 00:01:46,392
+After the first run, change one finding. Keep the rest of the history
+constant so the learner can explain why that specific change alters
+urgency, a partner task or the chosen pathway.
+
+8
+00:01:46,392 --> 00:01:59,256
+Reserve the final minutes for one repeat of the affected decision. If
+the gap is a physical skill, take it to supervised practice; talking
+through a procedure is not evidence that the hands-on performance was
+safe.
+
+9
+00:01:59,256 --> 00:02:15,552
+Run the Priority Action Approach aloud. Begin with the scene and first
+impression, then assess the immediate threat, carry out the
+appropriate action and continue collecting useful information. If the
+patient deteriorates, return to the top of the decision loop.
+
+10
+00:02:15,552 --> 00:02:28,896
+The observer should note whether the learner recognizes a threat
+without waiting for a mnemonic letter, delegates a clear task and
+checks the result. A correct acronym said at the wrong time is not
+effective patient care.
+
+11
+00:02:28,896 --> 00:02:48,216
+The drill must test the exact ventilation frequency for the patient
+state in the school’s assigned algorithm. Name whether the newborn is
+receiving initial positive-pressure ventilation or compressions, and
+whether the child is receiving rescue ventilation or CPR. These are
+not one generic “pediatric rate.”
+
+12
+00:02:48,216 --> 00:03:09,552
+The saved school outline and the current BCEHS newborn algorithm use
+different initial ventilation ranges. The current linked algorithm
+lists 30 to 60 breaths per minute; the school outline records 40 to
+60. Keep both labels visible, ask which version the class station
+tests, and never merge them into a third number.
+
+13
+00:03:09,552 --> 00:03:29,064
+A ventilation number is not the only performance measure. Look for an
+appropriate seal, visible chest rise without excessive pressure, a
+controlled rhythm and a physiological response. Follow current BCEHS
+clinical direction in practice and the instructor’s stated exam
+revision for school assessment.
+
+14
+00:03:29,064 --> 00:03:48,312
+For a newborn requiring positive-pressure ventilation at birth,
+retrieve the initial ventilation branch rather than a normal resting
+respiratory range. The linked current BCEHS algorithm gives thirty to
+sixty per minute; the saved school outline gives forty to sixty. Keep
+the source labels attached.
+
+15
+00:03:48,312 --> 00:04:07,344
+When the birth-resuscitation algorithm calls for compressions, the
+coordinated three-to-one pattern is a different task. Do not continue
+counting initial ventilation breaths as though no compression branch
+had been entered. Revisit the Week Eight algorithm for entry criteria
+and effective-ventilation checks.
+
+16
+00:04:07,344 --> 00:04:28,104
+For an infant or child with a pulse and inadequate breathing who needs
+rescue breaths, the AHA and AAP twenty-twenty-five comparison gives
+twenty to thirty breaths a minute, approximately one every two to
+three seconds. It excludes newborn birth resuscitation and does not
+override a current indication to start CPR.
+
+17
+00:04:28,104 --> 00:04:51,024
+Pediatric CPR without an advanced airway uses coordinated compression-
+breath cycles; with an advanced airway, the AHA comparison uses the
+twenty-to-thirty ventilation range. State the age, pulse and breathing
+condition, airway setup and source before giving a number. These are
+reference distinctions, not new permission to place an advanced
+airway.
+
+18
+00:04:51,024 --> 00:05:07,416
+Write two headings on the practice card: “school assessment” and
+“current service guideline.” Put each recalled target under its own
+heading and record the source. If the two values differ, pause and ask
+the instructor rather than silently correcting the card.
+
+19
+00:05:07,416 --> 00:05:21,120
+The newest web page is not proof that the school has changed its
+checkoff. The old school number is not proof that it is current
+clinical guidance. Separating the contexts is a clinical-safety and
+exam-accuracy skill.
+
+20
+00:05:21,120 --> 00:05:37,416
+In this original rehearsal, a 58-year-old becomes confused after
+shopping. A witness reports that the patient has “sugar problems” but
+leaves before the crew can ask more. The patient reports abdominal
+discomfort and cannot name today’s medicines.
+
+21
+00:05:37,416 --> 00:05:55,488
+Do not stop the primary assessment while searching for a complete
+history. Address immediate threats, obtain vital signs and glucose
+when indicated, ask short focused questions and request collateral
+information from an available source. Record what is unknown as
+unknown.
+
+22
+00:05:55,488 --> 00:06:14,856
+Return to the original grocery-parking-lot patient. Describe the
+findings without calling this a diabetic emergency: an adult with new
+confusion, weakness, discomfort and abnormal breathing, with an
+unconfirmed metabolic history. That statement remains accurate even if
+the witness was mistaken.
+
+23
+00:06:14,856 --> 00:06:33,000
+Use a brief introduction and the primary assessment. Determine whether
+the patient can maintain the airway and adequate breathing, assess
+circulation and responsiveness, and obtain the indicated observations,
+including glucose. Do not allow the search for a medicine name to
+replace this assessment.
+
+24
+00:06:33,000 --> 00:06:51,312
+A clear partner request is: obtain the agreed observations and report
+any change in breathing or responsiveness immediately. A separate
+short question can establish the last known usual state. If nobody
+knows, record that limit rather than inventing an onset time.
+
+25
+00:06:51,312 --> 00:07:06,552
+State what must happen next even before the cause is known: address
+the current threat, choose the relevant authorized pathway, arrange
+appropriate help and movement, and continue focused history only when
+it does not delay necessary care.
+
+26
+00:07:06,552 --> 00:07:24,960
+A complex medical presentation can cross systems. Confusion may follow
+hypoxia, shock, metabolic change, medication effects, infection,
+injury or another cause. A single abnormal finding should sharpen the
+next question, not end the reasoning.
+
+27
+00:07:24,960 --> 00:07:41,952
+Build a short problem representation: what changed, when it changed,
+what is most abnormal now and what can deteriorate fastest. Use that
+summary to choose the current pathway and decide what history can
+safely be collected while transport is being prepared.
+
+28
+00:07:41,952 --> 00:07:59,472
+In the first original update, the observer supplies a glucose result
+that does not explain the presentation and shows worsening breathing
+effort. The learner should move away from the witness-led assumption
+and assess the new breathing concern, not wait for a better diabetes
+history.
+
+29
+00:07:59,472 --> 00:08:17,400
+In a separate run, an appropriately measured low glucose is corrected
+through the relevant authorized pathway, but the patient remains
+confused. The treatment response is new evidence; it is not proof that
+every other cause has been excluded or that conveyance is unnecessary.
+
+30
+00:08:17,400 --> 00:08:33,792
+Ask which findings improved, which did not and whether any new threat
+appeared. Reassess breathing, perfusion and responsiveness, and pursue
+the remaining problem through the actual pathway. Do not force the
+patient to fit the first explanation.
+
+31
+00:08:33,792 --> 00:08:47,856
+Give the receiving team an attributed timeline: the initial
+observations, the measured result, what was actually done and the
+repeated findings. Do not write resolved solely because one
+measurement moved toward normal.
+
+32
+00:08:47,856 --> 00:09:05,016
+The Sunday scenario intentionally creates competing demands. One
+learner leads while a partner supports two patients. The first task is
+not to assume the loudest patient is the sickest; make a rapid visual
+comparison and name immediate threats for both people.
+
+33
+00:09:05,016 --> 00:09:20,064
+Assign one task at a time: “Check the second patient’s responsiveness
+and breathing, then report back.” Confirm the response. Keep visual
+contact and revisit the second patient when the first plan changes or
+new help arrives.
+
+34
+00:09:20,064 --> 00:09:41,568
+This is an original scene, not the school case. Two adults need help
+in a community-centre foyer. One is calling out about an ankle injury.
+The other is quiet, pale and visibly struggling to speak. Start by
+checking scene safety, access and the actual patient count, including
+whether there could be a common exposure.
+
+35
+00:09:41,568 --> 00:09:58,104
+The quiet patient has a potentially immediate breathing threat and
+needs prompt assessment. Speaking in complete sentences is useful
+information about the injured patient at that moment, not a full
+clearance of their airway, circulation, injury or future course.
+
+36
+00:09:58,104 --> 00:10:16,080
+Tell the partner to make a rapid primary check of Patient A and return
+a specific report, including any significant bleeding or change in
+responsiveness. The leader assesses Patient B. Request additional
+resources early with the number of patients and the current threat.
+
+37
+00:10:16,080 --> 00:10:33,936
+Do not pretend that two clinicians can perform four simultaneous
+procedures. Name who is providing the essential care, what can safely
+wait briefly and what requires another resource. Keep both patients
+within an active plan rather than letting the first allocation become
+permanent.
+
+38
+00:10:33,936 --> 00:10:44,832
+Say who is doing what and by when. A vague request such as “watch
+them” does not identify which observation matters or what should
+trigger a call for help.
+
+39
+00:10:44,832 --> 00:11:01,032
+The partner repeats the task, completes it and reports the finding.
+The leader acknowledges the report and states the next action. If the
+partner cannot complete the task, that is important information;
+assign another safe action instead of assuming it happened.
+
+40
+00:11:01,032 --> 00:11:18,360
+A useful partner report might be: Patient A remains responsive, no
+major external bleeding found on the rapid check, and I have not yet
+completed the distal examination. This separates a limited check from
+a complete examination and makes unfinished work visible.
+
+41
+00:11:18,360 --> 00:11:35,592
+The leader acknowledges the report and assigns the next task in light
+of Patient B. If the partner cannot safely complete an action because
+essential breathing support requires two people, say that and update
+the resource and care plan; do not silently record the task as done.
+
+42
+00:11:35,592 --> 00:11:53,664
+A resource request should tell the responder what is needed, not just
+that the scene is busy. State two patients, the observed immediate
+threat, location and access, current staffing and the assistance
+required. An estimated arrival is not proof that the resource is
+present.
+
+43
+00:11:53,664 --> 00:12:10,320
+When help arrives, give each receiving clinician the patient-specific
+status and the next unresolved concern. Confirm acceptance of
+responsibility before changing roles, and avoid telling both new
+responders to help without naming which patient each owns.
+
+44
+00:12:10,320 --> 00:12:27,480
+A scenario may change when a second patient collapses, the exit
+becomes blocked or additional resources arrive. Pause for a short
+scene scan, state the new risk and update the team. Continuing the
+original plan without checking the change is not autonomy.
+
+45
+00:12:27,480 --> 00:12:43,512
+Protect your partner and both patients. If the environment becomes
+unsafe or the team lacks the training or equipment needed, withdraw to
+a safe position and request help. Do not turn a simulation target into
+permission to take an uncontrolled risk.
+
+46
+00:12:43,512 --> 00:13:00,792
+Reveal the first change only after the learner has stated the initial
+plan: Patient B becomes less responsive. Stop nonessential
+interviewing and reassess immediate threats. A quieter patient after a
+struggle may be deteriorating rather than settling.
+
+47
+00:13:00,792 --> 00:13:16,152
+Tell the partner what changed, which task now has priority and who is
+maintaining observation of Patient A. If the existing team cannot meet
+both needs, communicate the resource gap explicitly and request the
+appropriate urgent support.
+
+48
+00:13:16,152 --> 00:13:35,616
+For a different repeat, keep Patient B unchanged and reveal new
+numbness in Patient A’s injured foot. A limb problem that was
+initially less urgent now needs a repeat distal assessment and a
+revised plan. Do not assume a splint or position remains safe merely
+because it was acceptable earlier.
+
+49
+00:13:35,616 --> 00:13:52,368
+Report the finding before and after the relevant action, with the time
+and any part that cannot be assessed. Reprioritize from the current
+evidence for both patients; this is not an automatic instruction to
+abandon one patient or perform an untrained reduction.
+
+50
+00:13:52,368 --> 00:14:08,232
+The school asks for a shared debrief. Each learner should first
+describe their own observation and reasoning before hearing the
+group’s interpretation. This makes missed cues, assumptions and good
+decisions visible without turning the conversation into blame.
+
+51
+00:14:08,232 --> 00:14:24,120
+Ask “What did you know at that moment?” rather than judging from facts
+revealed later. Name one action to preserve and one specific change
+for the next run. If a skill gap appears, record it for instructor-led
+practice and checkoff.
+
+52
+00:14:24,120 --> 00:14:42,024
+Begin with each person’s account. For this original scene, the learner
+may say: I focused on the ankle because that patient spoke first, and
+I did not notice the quiet patient’s incomplete speech until the
+partner pointed it out. That identifies a specific attention error,
+not a character flaw.
+
+53
+00:14:42,024 --> 00:14:59,496
+Ask what information was available before that decision. The
+corrective plan is to compare immediate threats in both patients, name
+the first priority and assign the other rapid check with an expected
+report. Do not repair the problem merely by making the next script
+longer.
+
+54
+00:14:59,496 --> 00:15:14,568
+On the repeat, the observer records whether the comparison occurred
+before detailed interviewing and whether the partner’s result was
+actually used. This tests the proposed repair without inventing a pass
+score or assuming confidence equals competence.
+
+55
+00:15:14,568 --> 00:15:32,952
+Close by naming one preserved strength and one remaining gap, with a
+practical next action. Carry a technical gap to the instructor; carry
+an unclear source version to the reference card. A debrief ends with a
+changed action, not only an agreement that the case was difficult.
+
+56
+00:15:32,952 --> 00:15:48,960
+The observer should write an exact phrase or action that shows the
+skill. “Looked confident” is too vague to coach. Better evidence is
+“noticed falling responsiveness, stopped the history questions and
+asked the partner to prepare urgent movement.”
+
+57
+00:15:48,960 --> 00:15:59,952
+Use the school rubric if one is supplied. This card is a rehearsal
+prompt, not an invented grading standard, and it does not replace the
+instructor’s formal assessment.
+
+58
+00:15:59,952 --> 00:16:16,584
+The Week 11 block develops autonomy through repeated use of skills
+already taught. Practise the PAA, retrieve the correct newborn or
+pediatric ventilation target, prioritize the most urgent change,
+coordinate with a partner and debrief from evidence.
+
+59
+00:16:16,584 --> 00:16:29,376
+Next, the reading workshop links every school-assigned Week 11 reading
+row to a bilingual study guide. Candidate-edition differences and
+current clinical guidance will remain clearly separated.

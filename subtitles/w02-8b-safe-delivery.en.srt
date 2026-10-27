@@ -1,0 +1,568 @@
+1
+00:00:00,000 --> 00:00:13,320
+Eight B combines medication assistance, routes and vascular access
+with calculation and error management. We start with the legal and
+safety decisions, then practise the technical delivery separately.
+
+2
+00:00:13,320 --> 00:00:23,928
+The environment may be noisy and urgent, but every administration
+still needs an indication, a verified product, an appropriate route
+and a monitoring plan.
+
+3
+00:00:23,928 --> 00:00:36,408
+School section Two teaches an expanded ten-right framework, while
+other Eight B sections return to eight. We will name both accurately
+without pretending the count itself guarantees safety.
+
+4
+00:00:36,408 --> 00:00:46,656
+The original demonstrations below are preparation for supervised
+school practice. They do not complete the medication-math gate or a
+clinical skill sign-off on your behalf.
+
+5
+00:00:46,656 --> 00:01:01,992
+The school distinguishes locating a medicine or placing the container
+in the patient's hand from personally delivering the dose. Injecting a
+drug, applying a patch or spraying it under the tongue is
+administration, not automatically mere assistance.
+
+6
+00:01:01,992 --> 00:01:12,072
+Before acting, describe the actual physical action. Then identify the
+authority for that action, rather than choosing the least restrictive
+label afterwards.
+
+7
+00:01:12,072 --> 00:01:21,312
+A patient's own prescription can support certain assistance
+conditions, but it does not give a student permission to inject
+anything prescribed to anyone.
+
+8
+00:01:21,312 --> 00:01:31,008
+Administration may have a separate current clinical pathway and
+authorization. Keep that pathway separate from the narrower patient-
+request assistance mechanism.
+
+9
+00:01:31,008 --> 00:01:43,464
+Schedule Two's assistance provision applies through the relevant
+category inheritance. When the medicine requires a prescription, it
+must already be prescribed to this patient by the appropriate health
+professional.
+
+10
+00:01:43,464 --> 00:01:57,408
+The patient must request the assistance, it must relate to the
+emergency service being provided and the medicine must be administered
+as prescribed. A container belonging to a relative does not satisfy
+those requirements.
+
+11
+00:01:57,408 --> 00:02:08,496
+The provision also excludes transport between healthcare facilities.
+The school's four-precondition banner omits that fifth condition,
+although a later school paragraph includes it.
+
+12
+00:02:08,496 --> 00:02:21,528
+These conditions do not create unrestricted administration authority.
+Interfacility medication care and emergency treatment of an incapable
+patient require their applicable separate basis.
+
+13
+00:02:21,528 --> 00:02:34,632
+The school banner includes a request from an authorized family
+caregiver. The statutory assistance wording specifically refers to the
+patient's request. Do not silently replace it with any family request.
+
+14
+00:02:34,632 --> 00:02:48,696
+If the patient cannot request or decide, assess the applicable
+emergency, substitute-decision or other treatment authority. Do not
+call emergency treatment a patient-request assistance event that never
+occurred.
+
+15
+00:02:48,696 --> 00:03:02,328
+The school four-element capacity teaching asks about understanding,
+appreciation, reasoning and communication. It supports a discussion
+but is not quoted as four verbatim criteria of the BC adult statute.
+
+16
+00:03:02,328 --> 00:03:14,712
+Use appropriate communication, assess the particular decision and do
+not equate refusal or intoxication alone with incapability. The Health
+Law lecture explains the legal distinctions in full.
+
+17
+00:03:14,712 --> 00:03:26,952
+The ten-right list contains patient, medication, dose, route, time and
+documentation, then reason, the right to refuse, expiry and integrity,
+and response.
+
+18
+00:03:26,952 --> 00:03:41,520
+Match identity using appropriate available identifiers rather than
+assuming that whoever holds the bottle is its owner. An unidentified
+emergency patient still needs a safe identification process, not
+invented demographics.
+
+19
+00:03:41,520 --> 00:03:55,032
+Check product-specific appearance. The school's clear and colourless
+wording is not universal for every legitimate formulation; compare
+with the actual manufacturer specification and stop for an unexplained
+change.
+
+20
+00:03:55,032 --> 00:04:05,448
+Right response means a real comparison after care. Ask what changed,
+what should have changed and what got worse, then use the answers to
+revise the plan.
+
+21
+00:04:05,448 --> 00:04:17,904
+Build a medication picture from the patient, available labels, records
+and reliable collateral. Distinguish prescribed from actually taken;
+an old bottle does not prove current use.
+
+22
+00:04:17,904 --> 00:04:29,352
+Ask about the last actual dose and recent changes, including as-needed
+medicines and duplicate ingredients. Document uncertainty rather than
+filling a guessed schedule.
+
+23
+00:04:29,352 --> 00:04:43,728
+Ask what happened with a reported allergy. Nausea, isolated itch and
+prior airway swelling require different descriptions, but do not
+dismiss the patient's concern or fail to assess a current severe
+reaction.
+
+24
+00:04:43,728 --> 00:04:54,792
+Explain the intended help and assess whether the patient can safely
+use the product and device. The history, consent and product checks
+all support the same treatment decision.
+
+25
+00:04:54,792 --> 00:05:09,480
+The school uses adrenal crisis to show why finding a patient's
+emergency kit matters. Relevant history and an acutely unwell patient
+require assessment of airway, perfusion and glucose, not a drug-only
+response.
+
+26
+00:05:09,480 --> 00:05:23,760
+Current E zero two limits EMR assistance to physically collecting the
+patient's own hydrocortisone; EMRs must not prepare or administer it.
+That is narrower than the school's broad assist-or-administer example.
+
+27
+00:05:23,760 --> 00:05:38,688
+PCP administration uses the current adrenal-crisis pathway and
+requires CliniCall before hydrocortisone. IV is preferred, but an
+authorized IM route should not be delayed for failed or difficult
+access.
+
+28
+00:05:38,688 --> 00:05:52,224
+The guideline emphasizes treatment before movement in suspected crisis
+and not walking the patient. If capacity is impaired, identify the
+actual treatment authority rather than inventing a patient request.
+
+29
+00:05:52,224 --> 00:06:06,864
+A palliative patient may have a specific breakthrough-symptom plan and
+medicines at home. Verify the current plan, patient identity, dose,
+route, timing and supplies rather than assuming the family knows a
+universally valid dose.
+
+30
+00:06:06,864 --> 00:06:19,920
+A MOST document describes treatment orders or scope; it is not
+automatically the prescription for every medicine. No CPR is also not
+an instruction to withhold all symptom relief.
+
+31
+00:06:19,920 --> 00:06:31,776
+Opioid care still needs the required training, endorsement and
+clinical consultation or palliative-team plan. Calling it assistance
+does not authorize an otherwise unpermitted injection.
+
+32
+00:06:31,776 --> 00:06:44,640
+Reassess the intended symptom and the relevant airway, breathing,
+awareness and circulatory effects in the context of the person's
+goals. Document and communicate both comfort and harm.
+
+33
+00:06:44,640 --> 00:06:57,456
+The school assistance example gives a salbutamol schedule up to ten
+puffs. The current public adult monograph instead lists four one-
+hundred-microgram sprays with a spacer, repeatable as required.
+
+34
+00:06:57,456 --> 00:07:06,984
+Pediatric courses use their own weight criteria. Do not transfer a
+child's ten-puff course or a classroom example into a universal adult
+prescription.
+
+35
+00:07:06,984 --> 00:07:22,152
+Inspect the inhaler and spacer, verify remaining medication and use
+the specific device technique. A metered-dose inhaler usually needs
+one actuation at a time, a good seal and an effective coached
+inhalation.
+
+36
+00:07:22,152 --> 00:07:38,424
+Compare air entry, effort, speech, pulse and symptoms after delivery.
+Relief does not prove the cause was benign, and inability to inhale
+effectively may require ventilation support rather than repeated
+ineffective puffs.
+
+37
+00:07:38,424 --> 00:07:49,416
+First write the unit you want at the end. A drug amount may be
+milligrams, a syringe volume millilitres and a gravity rate drops per
+minute. These are different questions.
+
+38
+00:07:49,416 --> 00:08:00,624
+Gather the real weight, dose rule, maximum, product concentration and
+delivery time. A formula cannot rescue the wrong input or decide
+clinical eligibility.
+
+39
+00:08:00,624 --> 00:08:11,976
+Cancel units visibly and carry enough precision. In gravity
+calculations convert hours to minutes; a pump-rate calculation may
+appropriately retain hours instead.
+
+40
+00:08:11,976 --> 00:08:24,864
+The school instruction to convert kilograms to milligrams must not
+mean changing body weight into drug dose without a dose-per-kilogram
+factor. Body mass and medication mass have different roles in the
+equation.
+
+41
+00:08:24,864 --> 00:08:36,744
+Convert mass units explicitly: one gram is one thousand milligrams,
+and one milligram is one thousand micrograms. An unlabelled decimal is
+unsafe communication.
+
+42
+00:08:36,744 --> 00:08:49,008
+A ratio-labelled solution can be misread. One to one thousand and one
+to ten thousand correspond to different concentrations; read and state
+the actual mass per volume on the product.
+
+43
+00:08:49,008 --> 00:09:01,368
+For the same volume, a product ten times as concentrated gives ten
+times as much drug. Say the concentration aloud before translating a
+dose into a syringe mark.
+
+44
+00:09:01,368 --> 00:09:12,456
+A six-hour infusion is three hundred sixty minutes, not six minutes.
+Ask whether the result is physically plausible and whether the bag
+would empty at the intended time.
+
+45
+00:09:12,456 --> 00:09:25,368
+For a fictional training medicine, the rule is zero point zero six
+milligrams per kilogram with a two-milligram cap. A thirty-kilogram
+weight gives one point eight milligrams, below the cap.
+
+46
+00:09:25,368 --> 00:09:37,392
+The label is three milligrams per millilitre. Divide one point eight
+by three to obtain zero point six millilitres. The medication amount
+and volume must both be clear.
+
+47
+00:09:37,392 --> 00:09:49,488
+Reverse-check zero point six millilitres times three milligrams per
+millilitre. It returns one point eight milligrams. Then check whether
+the syringe can measure that volume accurately.
+
+48
+00:09:49,488 --> 00:10:04,056
+The school also contains midazolam and pediatric dextrose arithmetic
+examples. Those can illustrate multiplication, but their named routes,
+drugs and clinical conditions are not automatically authorized PCP
+treatments.
+
+49
+00:10:04,056 --> 00:10:14,424
+A fictional fluid order is seven hundred fifty millilitres over five
+hours using a twenty-drop-per-millilitre set. Convert five hours to
+three hundred minutes.
+
+50
+00:10:14,424 --> 00:10:25,656
+Multiply seven hundred fifty millilitres by twenty drops per
+millilitre and divide by three hundred minutes. Millilitres cancel and
+the result is fifty drops per minute.
+
+51
+00:10:25,656 --> 00:10:37,824
+Fifty drops per minute on that set is two point five millilitres per
+minute, or one hundred fifty millilitres per hour. Over five hours it
+supplies seven hundred fifty millilitres.
+
+52
+00:10:37,824 --> 00:10:50,160
+Set and observe actual drops using the taught procedure, then recheck
+after movement and against the bag volume. A calculated gravity rate
+is not automatically maintained by the clamp.
+
+53
+00:10:50,160 --> 00:11:01,056
+In the previous problem, dividing by five instead of three hundred
+gives three thousand drops per minute. That is sixty times the
+intended rate, not a small rounding error.
+
+54
+00:11:01,056 --> 00:11:11,304
+The visible unit chain exposes the problem: millilitres divided by
+hours and multiplied by drops per millilitre gives drops per hour, not
+drops per minute.
+
+55
+00:11:11,304 --> 00:11:19,560
+An independent checker should rebuild the units from the original
+order and tubing, not merely glance at the first calculator screen.
+
+56
+00:11:19,560 --> 00:11:32,904
+If the answer would require an implausible stream or empty the bag far
+too quickly, stop and recompute before adjusting the line.
+Plausibility is a useful additional layer, not a substitute for
+correct math.
+
+57
+00:11:32,904 --> 00:11:44,160
+With a true sixty-drop-per-millilitre set, the numeric drops-per-
+minute value equals the millilitres-per-hour value, because converting
+hours to minutes cancels the sixty-drop factor.
+
+58
+00:11:44,160 --> 00:11:55,632
+For ninety millilitres per hour, that set needs ninety drops per
+minute. A fifteen-drop set would instead need twenty-two point five
+drops per minute before approved whole-drop handling.
+
+59
+00:11:55,632 --> 00:12:04,968
+Do not memorize the shortcut without reading the tubing package. A set
+change can make the same visible drip rate deliver a different fluid
+volume.
+
+60
+00:12:04,968 --> 00:12:16,488
+A pump requires its own device procedure, unit, concentration and
+limit checks. The correct number typed into the wrong unit or wrong
+channel is still a delivery error.
+
+61
+00:12:16,488 --> 00:12:29,376
+For multiple medicines or infusions, calculate each order separately
+and keep each concentration visible. Copying one line's rate into
+another can produce a correct-looking wrong dose.
+
+62
+00:12:29,376 --> 00:12:40,464
+Separate calculations do not establish chemical compatibility. Verify
+the actual medicines, diluent, connection and any required flushing or
+separate route.
+
+63
+00:12:40,464 --> 00:12:50,184
+Trace the prepared product to the actual patient connection before
+starting or changing it. An accurate label on the wrong line does not
+protect the patient.
+
+64
+00:12:50,184 --> 00:13:02,832
+Reconcile cumulative drug doses and total fluid, including relevant
+flushes. Observe the site, response and running volume rather than
+assuming both lines are functioning because both are labelled.
+
+65
+00:13:02,832 --> 00:13:16,488
+The school proposes a deliberate ten-second pause before preparation
+or delivery. Its purpose is to break automatic action and make the
+patient, drug, concentration, amount and route explicit.
+
+66
+00:13:16,488 --> 00:13:27,984
+This is a rehearsal technique, not a legal stopwatch rule. Do not
+withhold ventilation or another immediately necessary supportive
+action just to complete a silent countdown.
+
+67
+00:13:27,984 --> 00:13:39,168
+Use crew roles so the check happens efficiently while immediate care
+continues. Speak the intended action and require a closed-loop
+confirmation instead of vague agreement.
+
+68
+00:13:39,168 --> 00:13:52,464
+If the product or calculation remains uncertain, hold that medicine,
+maintain supportive care and clarify. The safe response to uncertainty
+is specific, not paralysis of the entire team.
+
+69
+00:13:52,464 --> 00:14:04,872
+A latent condition exists before the final bedside action, such as
+confusing storage or an ambiguous label. An active failure occurs in
+the current action, such as selecting the wrong ampoule.
+
+70
+00:14:04,872 --> 00:14:16,032
+The Swiss-cheese model shows how holes in several defensive layers can
+align. It does not mean layers must fail in one fixed order or that a
+careful person can never make an error.
+
+71
+00:14:16,032 --> 00:14:29,520
+Anchoring can keep a team tied to the first diagnosis or dose.
+Confirmation bias may make the checker seek agreement. Availability
+can make a recently seen problem dominate the current assessment.
+
+72
+00:14:29,520 --> 00:14:43,800
+Useful barriers include clear product separation, standard
+concentrations, readable labels, independent calculation and a culture
+where anyone can interrupt a mismatch. Reporting should lead to a
+specific repair.
+
+73
+00:14:43,800 --> 00:14:53,136
+The preparing clinician states the task without leading with the final
+answer. The checker reads the original source rule, weight and actual
+container.
+
+74
+00:14:53,136 --> 00:15:05,496
+Both independently compute the amount, limits, volume and relevant
+rate, then compare. Agreement only on the calculator result can miss a
+wrong source, weight or concentration.
+
+75
+00:15:05,496 --> 00:15:15,816
+Resolve differences by returning to the earliest uncertain input. Do
+not average two answers or ask the more senior person to choose by
+confidence alone.
+
+76
+00:15:15,816 --> 00:15:27,648
+Finish with the actual syringe or bag, label, patient connection and
+expected monitoring. The independent calculation is one defence, not a
+replacement for the delivery check.
+
+77
+00:15:27,648 --> 00:15:40,584
+If a wrong medication, amount, route or rate may have reached the
+patient, interrupt the implicated delivery safely and immediately
+assess the patient. Do not wait to finish an incident form.
+
+78
+00:15:40,584 --> 00:15:52,152
+Determine what actually entered, when and by which route. Retain the
+relevant label and preparation information while following the
+applicable handling and evidence procedure.
+
+79
+00:15:52,152 --> 00:16:02,856
+Provide indicated supportive care and seek appropriate clinical
+guidance. Do not improvise an antidote or attempt to cancel the dose
+with an unapproved opposite medicine.
+
+80
+00:16:02,856 --> 00:16:15,360
+A near miss caught before delivery may require no treatment for
+exposure, but still needs containment and learning. Verify the correct
+replacement rather than rushing because the first error was caught.
+
+81
+00:16:15,360 --> 00:16:27,840
+The patient record must truthfully show actual care and relevant
+consequences, including the error when it affected care. Do not chart
+the intended dose as if it were the delivered dose.
+
+82
+00:16:27,840 --> 00:16:39,720
+Communicate immediately to the receiving and supporting clinicians so
+they can monitor and treat the actual exposure. Silence can turn one
+error into a duplicate dose or delayed rescue.
+
+83
+00:16:39,720 --> 00:16:52,080
+Use the applicable safety-reporting system for errors and near misses.
+The report supports investigation of contributing conditions; it does
+not replace the clinical record or urgent escalation.
+
+84
+00:16:52,080 --> 00:17:08,496
+Follow the actual disclosure process with factual, non-defensive
+language. Do not guarantee blame-free outcomes or legal
+confidentiality. Reflection should identify a concrete prevention
+change, not merely promise to be more careful.
+
+85
+00:17:08,496 --> 00:17:19,488
+A learner prepares two millilitres for a fictional four-milligram
+dose, assuming two milligrams per millilitre. The actual container
+says ten milligrams per millilitre.
+
+86
+00:17:19,488 --> 00:17:29,760
+The prepared two millilitres contains twenty milligrams, five times
+the intended amount. The division was correct for the assumed label,
+but the assumption was wrong.
+
+87
+00:17:29,760 --> 00:17:44,904
+An independent checker reads the actual label before delivery and
+stops the syringe. Rebuild from the original inputs; the required
+volume from that product is zero point four millilitres if the order
+and all other criteria are valid.
+
+88
+00:17:44,904 --> 00:17:56,952
+This is a near miss, not an administered overdose. Record and report
+accordingly, contain the wrong preparation and address the misleading
+storage or assumption that enabled it.
+
+89
+00:17:56,952 --> 00:18:09,192
+The Week Two plan requires the medication-math gating assessment
+before progression. This course prepares you with original problems;
+it does not open, answer or submit the school assessment.
+
+90
+00:18:09,192 --> 00:18:21,024
+For each practice answer, show the formula, units, maximum and
+reverse-check. If you can only recall the final number, change the
+weight or concentration and try again.
+
+91
+00:18:21,024 --> 00:18:34,272
+In supervised practice, state the ten-right list from the assistance
+lesson and explain how it relates to the eight-right framework.
+Include the actual consent and expiry checks, not just a recital.
+
+92
+00:18:34,272 --> 00:18:44,856
+Bring unresolved source-version differences to the instructor. Do not
+solve a confusing school dose by guessing or by importing a different
+protocol without naming the change.

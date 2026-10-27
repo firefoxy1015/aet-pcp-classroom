@@ -1,0 +1,469 @@
+1
+00:00:00,000 --> 00:00:10,320
+Evidence-based practice combines research with clinical expertise and
+the patient's values and circumstances. None of these inputs works
+well in isolation.
+
+2
+00:00:10,320 --> 00:00:23,256
+A study may describe an average benefit, but your patient may have
+different risks, resources or priorities. Clinical judgement asks
+whether the evidence fits this person and the care you are authorized
+to provide.
+
+3
+00:00:23,256 --> 00:00:33,456
+Your experience helps you recognize patterns and implementation
+problems. It does not make a memorable success stronger than a well-
+conducted body of research.
+
+4
+00:00:33,456 --> 00:00:45,984
+Likewise, a patient's preference matters even when it differs from the
+option with the best average result. Explain the options, check
+understanding and work within the applicable clinical guidance.
+
+5
+00:00:45,984 --> 00:00:56,208
+Quantitative research uses measured data. A trial comparing the
+frequency of missed handover information between two methods asks a
+quantitative question.
+
+6
+00:00:56,208 --> 00:01:08,856
+Qualitative research explores experiences and meanings, often through
+interviews or observations. Asking why patients feel excluded during
+handover is a different and equally useful question.
+
+7
+00:01:08,856 --> 00:01:23,688
+A randomized trial can reduce confounding for an intervention
+comparison. A cohort study follows groups without assigning treatment.
+A case report can reveal a problem but cannot reliably establish how
+often a treatment works.
+
+8
+00:01:23,688 --> 00:01:35,640
+A systematic review brings studies together using explicit methods.
+Its value still depends on the included studies and how the review was
+performed, not simply its place on a hierarchy.
+
+9
+00:01:35,640 --> 00:01:46,560
+Knowledge translation connects research with actual practice. Findings
+need appraisal, synthesis and interpretation before they become a safe
+local process.
+
+10
+00:01:46,560 --> 00:02:00,840
+Prehospital care has particular constraints: moving vehicles, limited
+personnel, variable equipment and long distances to definitive care.
+Results from a well-resourced hospital may not transfer directly.
+
+11
+00:02:00,840 --> 00:02:12,480
+Implementation includes the authorized protocol, team training,
+equipment and monitoring for unintended effects. An article does not
+itself add a procedure to your scope.
+
+12
+00:02:12,480 --> 00:02:25,008
+Report field barriers and audit results through the appropriate
+channel. Good feedback explains where a process failed and what
+resources were missing, rather than silently creating a private
+protocol.
+
+13
+00:02:25,008 --> 00:02:35,928
+PICO stands for population, intervention, comparison and outcome. It
+turns a broad question such as are prompts useful into a question that
+a study can answer.
+
+14
+00:02:35,928 --> 00:02:46,392
+Our original example asks whether new paramedic students using a
+structured handover prompt omit less critical information than
+students using their usual approach.
+
+15
+00:02:46,392 --> 00:02:59,328
+Specify outcomes before interpreting results. Fewer omissions may be
+valuable, but a delay in urgent treatment would also matter. A single
+convenient score may miss an important harm.
+
+16
+00:02:59,328 --> 00:03:09,768
+When reading an abstract, write these four elements in your own words.
+If the population or comparison is unclear, that uncertainty belongs
+in the appraisal.
+
+17
+00:03:09,768 --> 00:03:19,656
+Validity asks whether the estimate is trustworthy. Selection bias can
+occur when the people included differ systematically from those who
+should have been studied.
+
+18
+00:03:19,656 --> 00:03:31,272
+Confounding occurs when another difference between groups helps
+explain the outcome. If only experienced crews receive a new tool,
+experience may partly explain a better result.
+
+19
+00:03:31,272 --> 00:03:42,456
+Blinding can reduce influence from knowing the assigned intervention.
+In a simulation study, a student may see the prompt, while an assessor
+can still be blinded to the study group.
+
+20
+00:03:42,456 --> 00:03:54,336
+Relevance is a separate judgement. A rigorously conducted classroom
+study can still leave uncertainty about noisy emergency scenes,
+experienced crews and actual patient outcomes.
+
+21
+00:03:54,336 --> 00:04:04,440
+An effect estimate describes the size of a difference. Its uncertainty
+matters: a small study may leave a wide range of plausible effects.
+
+22
+00:04:04,440 --> 00:04:18,024
+A p-value is calculated under a specified statistical model, often a
+no-difference model. It concerns obtaining results at least as extreme
+as those observed, assuming that model and its assumptions.
+
+23
+00:04:18,024 --> 00:04:27,768
+It is not the probability that the treatment works, or that the result
+was caused by chance. A threshold alone cannot establish clinical
+importance.
+
+24
+00:04:27,768 --> 00:04:39,648
+Likewise, a result that is not statistically significant does not
+prove that two approaches are equivalent. Look at design, effect
+estimates and uncertainty before drawing a conclusion.
+
+25
+00:04:39,648 --> 00:04:51,240
+These numbers are invented solely for appraisal practice; they are not
+a published trial or evidence of clinical benefit. Thirty students in
+each group perform one simulated handover.
+
+26
+00:04:51,240 --> 00:05:02,280
+The prompt group has fewer mean omissions but takes longer. Random
+allocation and a blinded assessor strengthen the design, provided they
+were actually implemented as described.
+
+27
+00:05:02,280 --> 00:05:12,888
+Important questions remain: how was the checklist chosen, were groups
+comparable, were any students excluded, and how uncertain is the
+estimated difference?
+
+28
+00:05:12,888 --> 00:05:22,800
+Write a conclusion that acknowledges both the possible benefit and the
+limits. Do not turn a classroom omission score into a claim that
+patient survival improves.
+
+29
+00:05:22,800 --> 00:05:33,552
+A cautious but useful conclusion is: the prompt may reduce omissions
+in this student simulation, but the estimate is incomplete and the
+longer handover needs attention.
+
+30
+00:05:33,552 --> 00:05:45,096
+Ask for the full methods and uncertainty estimates before judging
+strength. The study does not tell us whether the result persists,
+generalizes to the field or benefits patients.
+
+31
+00:05:45,096 --> 00:05:57,288
+For an educational improvement, a supervised pilot might be reasonable
+after approval. Define what would count as a successful change and
+watch for delays or mechanical checklist reading.
+
+32
+00:05:57,288 --> 00:06:09,624
+For a clinical intervention, evidence review must also pass through
+the appropriate governance, scope, training and protocol process.
+Personal enthusiasm is not implementation authority.
+
+33
+00:06:09,624 --> 00:06:21,000
+AET asks you to think about PARAMEDIC2. This randomized, double-blind
+UK trial compared epinephrine with saline placebo during adult out-of-
+hospital cardiac arrest.
+
+34
+00:06:21,000 --> 00:06:35,952
+Thirty-day survival was 3.2 percent versus 2.4 percent. Favourable
+neurological outcome at discharge was 2.2 percent versus 1.9 percent,
+without a statistically significant difference.
+
+35
+00:06:35,952 --> 00:07:01,488
+At discharge, severe neurological impairment was reported in thirty-
+nine of one hundred and twenty-six survivors given epinephrine, versus
+sixteen of ninety placebo survivors. Those are survivor denominators,
+not all randomized patients. Discuss this finding alongside the
+separate survival and favourable-outcome comparisons; it does not
+establish what caused every survivor's disability.
+
+36
+00:07:01,488 --> 00:07:12,384
+Appraisal is also different from issuing a treatment order. Use the
+applicable resuscitation protocol and your authorization; this lesson
+does not change either.
+
+37
+00:07:12,384 --> 00:07:21,960
+A practice gap is a difference between your current performance and an
+appropriate standard. It is a starting point for learning, not a
+verdict about your worth.
+
+38
+00:07:21,960 --> 00:07:32,904
+Internal triggers include hesitation or uncertainty. External triggers
+include a preceptor's feedback, a documentation audit, a near miss or
+a changed guideline.
+
+39
+00:07:32,904 --> 00:07:45,024
+Describe the behaviour, its context and its consequence. I omitted
+treatment response in two simulated handovers is actionable; I am bad
+at communication is too broad.
+
+40
+00:07:45,024 --> 00:08:07,320
+Compare your impression with observed feedback. The school uses the
+Dunning-Kruger label to highlight that limited skill can also limit
+recognition of mistakes. Treat it as a reason to seek calibration, not
+a diagnosis of every confident novice. Confidence can rise without
+skill improving; an uncertain student may still perform accurately.
+
+41
+00:08:07,320 --> 00:08:17,856
+SWOT separates internal strengths and weaknesses from external
+opportunities and threats. It helps you plan around real conditions
+instead of listing vague ambitions.
+
+42
+00:08:17,856 --> 00:08:29,904
+A strength could be a consistent assessment sequence. A weakness could
+be missing the latest observations during handover. An opportunity
+could be access to a supervised simulation lab.
+
+43
+00:08:29,904 --> 00:08:41,088
+A threat might be a shift pattern that prevents attendance at one lab.
+Change the action plan by arranging another supervised session, rather
+than lowering the safety standard.
+
+44
+00:08:41,088 --> 00:08:52,128
+The downloaded AET teaching asks for at least two weaknesses and at
+least one opportunity in the personal CPD document. Use genuine
+observations from your own learning.
+
+45
+00:08:52,128 --> 00:09:01,248
+DACA means describe, analyze, conclude and act. Start with a brief
+factual account, not an exhaustive retelling of the call.
+
+46
+00:09:01,248 --> 00:09:15,120
+In our fictional simulation, the student reported the first blood
+pressure but omitted the newer reading. Analysis asks why: perhaps the
+note layout hid the trend and rehearsal focused only on the initial
+assessment.
+
+47
+00:09:15,120 --> 00:09:26,352
+The conclusion is a specific learning need: communicating the latest
+status and meaningful change. The action should practise that exact
+behaviour and include independent feedback.
+
+48
+00:09:26,352 --> 00:09:38,352
+Keep identifiable patient details out of a personal learning
+portfolio. Reflection needs enough context to explain the learning,
+not enough detail to reconstruct a patient's identity.
+
+49
+00:09:38,352 --> 00:09:50,544
+SMART stands for specific, measurable, achievable, relevant and time-
+bound. A goal states the improvement you want to demonstrate; an
+activity is how you plan to reach it.
+
+50
+00:09:50,544 --> 00:10:04,248
+Read about handover is an activity, not a performance outcome. A
+better goal is to deliver three varied simulated handovers with the
+latest observations, trends and treatment response, checked by a
+supervisor.
+
+51
+00:10:04,248 --> 00:10:15,384
+Set a feasible date and a clear success criterion. The practice count
+is an example for your plan, not an AET pass mark or proof of
+independent clinical competence.
+
+52
+00:10:15,384 --> 00:10:27,336
+If the goal depends on rare real patient opportunities, choose a
+supervised simulation alternative. Do not perform an unnecessary
+procedure merely to complete a learning target.
+
+53
+00:10:27,336 --> 00:10:36,792
+A CPD plan connects a gap to a goal, actions, evidence, dates and
+review. Each part should support the same learning need.
+
+54
+00:10:36,792 --> 00:10:48,984
+Select a resource because it addresses the gap. For a local handover
+process, the applicable service guideline is more directly relevant
+than a general article about communication.
+
+55
+00:10:48,984 --> 00:10:58,920
+Plan both learning and performance. Reading explains the framework;
+rehearsal and observed feedback show whether you can use it under
+realistic conditions.
+
+56
+00:10:58,920 --> 00:11:09,792
+Document a review date before starting. If the result is not achieved,
+change the learning action or obtain further support, and record the
+remaining gap honestly.
+
+57
+00:11:09,792 --> 00:11:21,144
+This is an original example, not a completed answer to the school's
+capstone. The performance gap is omission of a clinically important
+change, not simply a lack of confidence.
+
+58
+00:11:21,144 --> 00:11:32,736
+The learner reviews the applicable handover guideline, changes the
+note layout to show times and trends, and practises three different
+scenarios with a supervisor before the next skills session.
+
+59
+00:11:32,736 --> 00:11:44,496
+The supervisor records whether the latest findings, major change and
+treatment response were communicated. The learner keeps a de-
+identified checklist and a short DACA reflection.
+
+60
+00:11:44,496 --> 00:11:54,576
+A later repeat checks retention. If the learner still reads only the
+first measurements, the gap remains open even though the reading and
+practice sessions were completed.
+
+61
+00:11:54,576 --> 00:12:10,968
+Formal activities include structured courses and workshops. Informal
+development can include self-directed reading, peer discussion and
+reflection. Both can support learning, but credit eligibility depends
+on the applicable regulatory rules.
+
+62
+00:12:10,968 --> 00:12:33,408
+The school's six-part reflective entry asks what happened, what you
+learned, why it matters, what action you took, what evidence you kept
+and when you will review it. Add the activity and date, organize by
+topic and retain the supporting record. Separate a planned action from
+a completed one; a tidy folder does not itself prove improvement.
+
+63
+00:12:33,408 --> 00:12:46,008
+A personal portfolio is not a copy of the patient chart. Remove direct
+identifiers and combinations that could identify a person, especially
+in a small community or an unusual event.
+
+64
+00:12:46,008 --> 00:12:54,960
+Use approved secure systems for any official patient-contact
+reporting. A private teaching example should contain no identifiable
+clinical record.
+
+65
+00:12:54,960 --> 00:13:05,616
+A weak entry records only attendance. A stronger entry explains the
+learning need, the learning itself and how it influenced a decision or
+performance.
+
+66
+00:13:05,616 --> 00:13:18,024
+For example: I learned to pair each intervention with a timed
+response; my supervisor observed that all three rehearsed handovers
+included this information; I will repeat the task next week.
+
+67
+00:13:18,024 --> 00:13:29,112
+Keep the actual evidence where permitted. Do not claim an audit proved
+improvement if no comparison was made, and do not write a planned
+action as though it has already occurred.
+
+68
+00:13:29,112 --> 00:13:39,024
+A useful portfolio can show an unfinished gap honestly. That makes it
+possible to obtain further learning rather than disguising attendance
+as mastery.
+
+69
+00:13:39,024 --> 00:13:48,912
+Review a CPD plan after meaningful feedback and at scheduled
+intervals. Successful practice may close one gap while revealing
+another.
+
+70
+00:13:48,912 --> 00:14:00,960
+Keep school completion, service training and regulatory continuing
+competence distinct. One activity may support more than one purpose,
+but automatic credit should not be assumed.
+
+71
+00:14:00,960 --> 00:14:14,448
+The current BC regulation describes continuing education, patient
+contacts, reporting and supporting records, with defined exceptions.
+Check the requirements applicable to your licence and reporting
+period.
+
+72
+00:14:14,448 --> 00:14:27,408
+For this week, the immediate learning task is a specific, defensible
+personal development plan. A well-organized portfolio supports that
+task, but organization alone does not prove clinical competence.
+
+73
+00:14:27,408 --> 00:14:37,728
+The downloaded teaching asks you to build a personal CPD document and
+complete a capstone using a school-provided vignette and template.
+Your work must be your own.
+
+74
+00:14:37,728 --> 00:15:02,040
+The saved instructions require at least one SMART, patient-centred
+goal and at least one relevant evidence source that you appraise and
+justify. The criteria connect a specific learning need, a measurable
+improvement action, evidence-based relevance and complete
+documentation. Explain those connections using your own work, not an
+invented completed experience.
+
+75
+00:15:02,040 --> 00:15:11,616
+A blank planning aid is included with this lecture. It is not the
+official school template, a submitted assignment or a model answer to
+the school's vignette.
+
+76
+00:15:11,616 --> 00:15:21,648
+Before submission, confirm the current school instructions and form.
+This course does not open assessments, submit work or mark an LMS task
+complete.

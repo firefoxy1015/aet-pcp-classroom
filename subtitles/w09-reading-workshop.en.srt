@@ -1,0 +1,845 @@
+1
+00:00:00,000 --> 00:00:15,504
+The saved Week 9 reading table has eleven rows. Each row has a book or
+source, chapter/page locator, learning outcome, and focus. This guide
+keeps those rows separate rather than merging similar-looking titles.
+
+2
+00:00:15,504 --> 00:00:28,512
+A bilingual explanation is a study aid, not a replacement for the
+assigned pages. When the saved school edition cannot be matched to a
+local candidate text, the mismatch is stated rather than hidden.
+
+3
+00:00:28,512 --> 00:00:41,568
+The week joins two explicitly allocated modules, 5B Operational Safety
+and 7F Environmental Pathophysiology. Readings support those modules
+and the school’s practical stations.
+
+4
+00:00:41,568 --> 00:00:56,256
+A&P and CV Patho help explain blood flow, oxygen pressure and ECG
+effects. MSN, CNS and VSM add assessment and measurement concepts;
+they do not all refer to the same edition.
+
+5
+00:00:56,256 --> 00:01:08,952
+BCEHS and BCPEG do not have the same function. One is the current
+service guideline; the other is the school-assigned dated examination
+snapshot. Keep both visible when they differ.
+
+6
+00:01:08,952 --> 00:01:22,800
+FON and PMHN explain stress and grief in a nursing education context.
+Use their concepts to support humane communication without diagnosing
+a patient or assuming a required emotional response.
+
+7
+00:01:22,800 --> 00:01:54,600
+The recovered AET-folder A and P copy resolves the earlier altitude
+page mismatch. Its printed pages 981 to 983 really contain respiratory
+adaptation and altitude, followed by the opening of respiratory
+development. The full assigned circulation range also includes fetal
+pathways and its first key-terms page. The older public candidate
+remains a different pagination, not evidence that the actual assigned
+pages are missing.
+
+8
+00:01:54,600 --> 00:02:17,832
+The identified school-folder cardiovascular book has seventy-nine
+physical pages, so the assigned pages one hundred eighty-one through
+one hundred eighty-three cannot occur in that file. The reader
+explains its named calcium and J-wave content with this locator
+difference visible. An identified topic is not literal page
+equivalence, and no missing page is silently invented.
+
+9
+00:02:17,832 --> 00:02:47,784
+The recovered CNS, CPSC and PHARM course copies now anchor their
+literal assigned spans. In the actual PHARM copy, pages 588 to 592
+really contain antiplatelets, and the full assigned Chapter 22 review
+includes the later shock-drug material. The earlier candidate
+pagination conflict is resolved, not retained as a gap. Nursing-source
+treatment examples still do not expand PCP authority.
+
+10
+00:02:47,784 --> 00:03:00,072
+The saved school outline asks for a 60-second tourniquet competency
+and a 30-second load-and-go verbal decision. These are school station
+targets, not universal clinical deadlines.
+
+11
+00:03:00,072 --> 00:03:18,912
+Current BCEHS H09, H10, H12, H02, I01, I02 and N04 provide service-
+specific clinical guidance. Use the applicable current pathway,
+including its consultation and provider-level requirements.
+
+12
+00:03:18,912 --> 00:03:40,200
+The lesson now distinguishes the actual March 31, 2025 BCPEG course
+copy from the later June 15, 2026 comparison and current service
+guidance. Their doses, headings and thresholds are not silently merged
+into one action card. The instructor-assessed revision remains a
+separate question.
+
+13
+00:03:40,200 --> 00:03:51,720
+For each row, first locate the assigned source. Then identify what the
+page teaches and what it does not teach. Page presence alone is not
+comprehension.
+
+14
+00:03:51,720 --> 00:04:03,984
+After reading, explain the concept in your own English words, then
+restate it in Chinese while preserving the key English term. This
+helps prepare both for English course language and bilingual review.
+
+15
+00:04:03,984 --> 00:04:16,608
+Finish with a new application question: what would change your
+concern, next assessment or escalation? Do not memorize a nursing
+action or older protocol as independent PCP authority.
+
+16
+00:04:16,608 --> 00:04:33,024
+The Kubler-Ross vocabulary is denial, anger, bargaining, depression
+and acceptance. Learn the English names for the reading, but do not
+turn them into five compulsory steps, a timetable or a grading system
+for a family’s response.
+
+17
+00:04:33,024 --> 00:04:51,120
+The text rejects several unrealistic expectations: everyone following
+the same order, finishing by a deadline or expressing emotion in the
+same way. Support an individual response and the person’s chosen
+connections rather than imposing your own idea of correct grieving.
+
+18
+00:04:51,120 --> 00:05:13,008
+Emotional effects can include fear, sadness, guilt, regret, anger or
+relief, sometimes together. Social effects may include changed roles,
+loneliness and strained relationships. None of these observations
+proves how much a person cared or establishes a psychiatric diagnosis
+on its own.
+
+19
+00:05:13,008 --> 00:05:36,264
+The reading discusses losses experienced by nurses and the effects of
+repeated exposure. For an EMS learner, connect this to fatigue, sleep,
+readiness, boundaries and access to confidential support. Burnout,
+compassion fatigue and traumatic stress are related concerns, not
+interchangeable diagnoses from one difficult shift.
+
+20
+00:05:36,264 --> 00:06:10,152
+Original rehearsal: following a drowning resuscitation, a partner
+repeats the same question and a friend stands silently nearby. The
+patient is being transported and the outcome is not yet known. Say
+what is confirmed, without predicting death or recovery: the team is
+treating the patient and transporting them for further care. Pause,
+ask what the partner understood, and ask whom they would like
+contacted. Include the chosen friend if the partner wants that
+support; silence does not mean the friend is unaffected.
+
+21
+00:06:10,152 --> 00:06:44,832
+Worked reasoning: repeated questions can reflect difficulty processing
+information, so use short statements and check understanding rather
+than assigning a denial stage. Offer practical help without promising
+a clinical outcome. If either person develops chest pain, breathing
+difficulty, collapse or another acute concern, assess that problem on
+its own merits. For retrieval, explain one secondary loss, one way
+social recognition changes support, and one statement that is both
+truthful and compassionate in this case.
+
+22
+00:06:44,832 --> 00:07:08,016
+For physiology, distinguish two coordinated arms: sympathetic/adrenal
+activity contributes to rapid catecholamine responses, while the
+hypothalamic-pituitary-adrenal axis regulates cortisol. The book
+paragraph compresses these into one chain; its own diagram separates
+nerves to the medulla from hormonal signaling to the cortex.
+
+23
+00:07:08,016 --> 00:07:30,168
+The HPA sequence is hypothalamic CRH, pituitary ACTH and adrenal-
+cortex cortisol. NIDDK and the NIOSH review support this distinction
+from the sympathetic arm. Do not learn ACTH as a switch that directly
+accounts for every sympathetic effect, or infer a hormone
+concentration from a pulse rate.
+
+24
+00:07:30,168 --> 00:07:51,696
+General adaptation syndrome refers here to a whole-body stress
+response; local adaptation syndrome concerns a more regional response.
+The assigned section names GAS and points to 34.4 for deeper theory.
+Do not substitute an extensive unassigned GAS-stage lecture for the
+actual local-response content on these pages.
+
+25
+00:07:51,696 --> 00:08:12,528
+The inflammatory example uses redness, swelling, warmth, pain and loss
+of function. A local response can help contain harm, while excessive
+or persistent inflammation can also cause problems. These signs do not
+by themselves prove infection, and absence of one does not exclude a
+serious condition.
+
+26
+00:08:12,528 --> 00:08:52,128
+Original rehearsal: during a prolonged extrication, a trainee reports
+trembling hands, a racing heart and difficulty concentrating. One
+teammate calls this adrenal exhaustion. Identify the actual demands
+instead: heat, protective equipment, a difficult scene, repeated
+alarms, workload and possible inadequate rest. Symptoms alone cannot
+establish a hormone level, an exhaustion stage or a psychological
+cause. Communicate the difficulty to the supervisor, arrange safe task
+coverage and assess any acute illness or injury as indicated.
+
+27
+00:08:52,128 --> 00:09:29,544
+Worked reasoning: the sympathetic arm and the HPA axis are coordinated
+but distinct. The first concerns rapid neural and catecholamine
+responses; the second involves hypothalamic CRH, pituitary ACTH and
+adrenal-cortex cortisol. Neither can be measured from the trainee's
+pulse alone. Name a feasible immediate support and a reassessment,
+then a recovery or confidential-support option after the scene. Do not
+require the trainee to disclose personal experiences publicly, and do
+not use a theory label to certify readiness for a hazardous task.
+
+28
+00:09:29,544 --> 00:09:54,120
+Anemia illustrates saturation versus oxygen delivery: the available
+hemoglobin can be well saturated while its total quantity is
+inadequate. Hypovolemia can reduce flow despite a preserved saturation
+value. Assess breathing, perfusion, mental status, symptoms and trends
+together; SpO2 alone measures neither blood volume nor cardiac output.
+
+29
+00:09:54,120 --> 00:10:28,656
+Original case: after a cold-water rescue, a patient is pale, breathing
+rapidly and becoming confused. A finger probe flickers between ninety-
+six and ninety-nine percent while a cuff is cycling on that arm.
+Assess the patient immediately; separate the conflicting measurements,
+inspect signal quality and use an approved suitable site. Reassess
+breathing, circulation, mental status and pressure using a documented
+method. A better-looking saturation number does not explain away the
+deterioration.
+
+30
+00:10:28,656 --> 00:10:57,456
+Before an auscultatory reading, estimate systolic pressure by
+palpation while inflating until the radial or brachial pulse
+disappears. The source teaches a maximum inflation pressure thirty
+millimeters of mercury above the disappearance point. This is not
+thirty above an assumed normal pressure. A silent auscultatory gap can
+otherwise make the later reappearance of sound look like the first
+systolic sound, falsely lowering the recorded systolic value.
+
+31
+00:10:57,456 --> 00:11:28,512
+In the source two-step method, first determine that inflation level
+and release the cuff, then position the stethoscope, reinflate to the
+determined level and deflate evenly at about two millimeters of
+mercury per second. Identify the first Korotkoff sound as systolic and
+final disappearance as diastolic, then fully release pressure and
+record the result. Use supervised practice and the applicable
+measurement procedure; text alone does not establish auscultatory
+skill.
+
+32
+00:11:28,512 --> 00:11:56,256
+Troubleshoot systematically if a brachial pulse or sound is difficult
+to find: confirm anatomy, arm position, reasonable palpation pressure,
+chestpiece position and selected side, seal, earpiece fit and
+surrounding noise. Pressing too hard can obliterate a pulse.
+Reposition or use another appropriate method, stating a limitation if
+necessary; do not enter a guessed value merely to fill the chart.
+
+33
+00:11:56,256 --> 00:12:36,000
+Worked retrieval: explain why cold and cuff inflation can degrade the
+signal, why saturation is not total oxygen delivery, and why a
+preserved systolic pressure cannot exclude hypoperfusion. Then
+rehearse choosing the cuff, supporting the arm, estimating inflation
+by palpation, identifying sounds and documenting a trend. Compare an
+original reading of one hundred twelve over seventy-four with a later
+ninety-four over sixty-eight only after checking method and
+conditions; their pulse pressures are thirty-eight and twenty-six, but
+the patient and trajectory determine concern, not subtraction alone.
+
+34
+00:12:36,000 --> 00:13:07,344
+The actual page 162 adds culturally safe consent. Explain information
+accessibly, avoid coercion, seek consent before a procedure where
+feasible and respect the person's ability to withdraw it. Ask whether
+an Elder, Knowledge Keeper or chosen advocate would help rather than
+assigning a preference from identity. Historical and current power
+imbalances are reasons to improve communication and choice, not assume
+that an Indigenous patient cannot understand or decide.
+
+35
+00:13:07,344 --> 00:13:38,568
+The same literal page requires assessment with consent, decision-
+specific capacity assessment, discussion of risks and a specific
+worsening-symptom plan. A referral must be accepted or follow the
+established process, with clear follow-up and documentation; a phone
+number alone is not a completed referral. FR autonomous non-conveyance
+is excluded, and pediatric or police-custody non-conveyance requires
+CliniCall. A signature does not replace the clinical reasoning or a
+workable plan.
+
+36
+00:13:38,568 --> 00:14:12,384
+Original rehearsal: a six-year-old is pulled from a garden pond and is
+now awake but coughing. A caregiver wants to leave because the child
+is speaking. Establish the event timeline and assess breathing,
+oxygenation, temperature and injuries, while explaining why speaking
+does not exclude evolving lung injury. Use the pediatric pathway and
+required consultation for a non-conveyance decision. Invite the
+caregiver's questions and check understanding rather than describing
+the request itself as incapacity.
+
+37
+00:14:12,384 --> 00:14:49,632
+Worked reasoning: water safety comes before contact; then effective
+breathing and a complete assessment guide urgency. Explain confirmed
+findings and the risk of delayed change, without inventing a prognosis
+or guaranteeing that observation will be harmless. Document findings,
+advice, consultation, the person's understanding and the actual agreed
+disposition. For retrieval, contrast immersion with submersion and
+assisted breaths with CPAP, then explain why an A09 page in the
+assigned span cannot silently be renamed A08.
+
+38
+00:14:49,632 --> 00:15:17,424
+Traumatic arrest commonly reflects severe blood loss, inadequate
+oxygenation or obstructed circulation. A heart may show organized
+electrical activity without enough filling or forward flow to produce
+a palpable pulse. Simultaneously addressing hemorrhage, oxygenation
+and relevant obstruction targets the mechanism; chest compressions
+alone cannot replace missing circulating volume or release a tension
+pneumothorax.
+
+39
+00:15:17,424 --> 00:15:46,104
+The general N04 discussion describes chest decompression, but its
+intervention ladder places bilateral needle thoracentesis in ACP care
+and additional invasive or blood-product actions at higher levels.
+Read a general paragraph together with the role-specific procedure,
+not as expanded PCP permission. A team should identify the suspected
+threat, request the appropriate resource and avoid delaying other
+indicated treatment while waiting.
+
+40
+00:15:46,104 --> 00:16:17,304
+Page 20 concerns preservation of an amputated part, not initial
+tourniquet placement. Stabilize the patient and control life-
+threatening bleeding before spending time on the separated tissue.
+Preserve the possibility of reattachment without treating the part as
+more urgent than breathing, circulation or safe conveyance. The
+school's separate sixty-second tourniquet competency measures timely
+complete bleeding control and recording, not how quickly the amputated
+part is packed.
+
+41
+00:16:17,304 --> 00:16:44,472
+Do not warm the amputated part, immerse it in water, place it directly
+on ice or use dry ice. Distinguish a brief cleaning rinse from leaving
+tissue submerged, and indirect cooling through protection from direct
+freezing contact. Preserve identification and convey the part with the
+patient. Do not attempt reattachment in a classroom rehearsal or delay
+urgent patient care while searching indefinitely for missing tissue.
+
+42
+00:16:44,472 --> 00:17:17,136
+On page 54, hypovolemia means evidence of a significant loss of blood
+or body fluid, connected to poor tissue perfusion. The source lists
+systolic pressure below ninety and other shock findings, but its
+footnote allows use above ninety when the mechanism, injuries or
+condition suggest impending shock. Therefore, a still-preserved
+pressure does not end the assessment. Identify bleeding or fluid loss,
+repeated findings and trajectory rather than waiting for a number to
+cross a threshold.
+
+43
+00:17:17,136 --> 00:17:48,432
+Original arithmetic rehearsal, not a patient order: seventy kilograms
+multiplied by twenty milliliters per kilogram equals fourteen hundred
+milliliters. The source's five-hundred-milliliter reassessment wording
+means that a calculated total is not an uninterrupted automatic
+delivery. Explain what findings would change the plan and which
+current source authorizes it. A rising pressure alone does not prove
+restored tissue perfusion, and a fluid calculation does not replace
+hemorrhage control.
+
+44
+00:17:48,432 --> 00:18:22,032
+The actual 2025 table puts epistaxis and postpartum hemorrhage in a
+medical-oversight-consult-required row. The later 2026 table changes
+that heading to considerations. That changed label does not itself
+grant autonomous administration. The current service monograph
+explicitly requires prior CliniCall for its maternal vaginal-
+bleeding/postpartum indication; epistaxis is not listed as a current
+indication there. Keep the exact source and consultation condition
+attached to the use being discussed.
+
+45
+00:18:22,032 --> 00:18:56,184
+Current service eligibility and exclusions must be read separately:
+shock or hypoperfusion with suspected injury-related bleeding is the
+trauma context; nontraumatic gastrointestinal bleeding is excluded,
+and pediatric age limits differ by provider level. The current
+monograph does not list isolated TBI in its contraindication list,
+unlike the examination copy, but absence from that list does not
+establish an indication when its positive bleeding criteria are
+absent. Do not average the two lists or silently substitute one for
+the other.
+
+46
+00:18:56,184 --> 00:19:35,496
+The source box labels cue recognition, pattern recognition, problem
+representation, hypothesis generation, hypothesis evaluation and final
+judgment as six NCJMM steps. These are not the official six measured
+functions. NCSBN names recognize cues, analyze cues, prioritize
+hypotheses, generate solutions, take action and evaluate outcomes.
+Retain the discrepancy for source-based study instead of memorizing
+the box as an exact official sequence. Neither model replaces an
+urgent primary assessment or grants nursing or paramedic authority.
+
+47
+00:19:35,496 --> 00:20:06,792
+Worked reasoning: notice the new pallor, dizziness and reduced
+participation; interpret possible impaired perfusion without assuming
+one cause; respond with assessment, indicated support and a safer
+movement plan; evaluate the response and communicate changes. Keep
+these actions within actual scope and device instructions. The
+patient's weight-bearing restriction, current assistance needs and
+clinical urgency answer three different questions, all of which are
+needed before the move.
+
+48
+00:20:06,792 --> 00:20:40,008
+Brake use is device- and phase-specific. The textbook's blanket
+instruction to lock a wheeled lift conflicts with the manufacturer's
+Hoyer Advance lifting instruction, which leaves the lift casters
+unbraked so it can center under the load. That does not mean every
+bed, wheelchair or lift should be unlocked. Identify the exact device
+and movement phase, stabilize the receiving surface as required and
+follow its complete instructions with training; never combine
+fragments into an invented operating sequence.
+
+49
+00:20:40,008 --> 00:21:11,304
+Distinguish a standard frame, a two-wheeled walker, a four-wheeled
+rollator and a forearm-support design. A standard frame is lifted and
+positioned before the next supported step; front wheels can allow
+advancement without lifting the whole frame. The source paragraph
+calls the two wheels rear wheels, but its own figure shows front
+wheels, consistent with HealthLinkBC. A rollator's brakes and seat add
+their own operating requirements; more wheels do not automatically
+mean safer support.
+
+50
+00:21:11,304 --> 00:21:45,768
+Original rehearsal: a person awaiting movement from a worksite chair
+says the injured leg must not bear weight. They use a cane at baseline
+but are now pale, dizzy and less able to follow instructions. Do not
+use the familiar cane or a previous transfer to justify standing.
+Reassess the acute change, protect the injured limb, explain the
+revised plan and obtain appropriate equipment and trained help for a
+supported move. The route and urgency must reflect the actual
+condition, not simply the usual walking aid.
+
+51
+00:21:45,768 --> 00:22:18,864
+A safe transfer is a planned move, not simply a test of whether
+someone can stand. Assess current illness and injuries, mobility,
+strength, balance, ability to follow the plan, pain and fatigue, lines
+and tubes, weight-bearing restrictions, surfaces, route, equipment and
+trained help. A previous successful transfer does not establish
+current ability. Connect this to the CPSC assistance-level reading,
+while keeping assistance level and permission to load an injured limb
+as different questions.
+
+52
+00:22:18,864 --> 00:22:49,512
+The visceral pleura covers the lung and the parietal pleura lines the
+chest wall. Their thin fluid interface normally helps couple lung
+movement to chest expansion. Air entering through a damaged chest wall
+or visceral pleura disrupts that relationship and permits lung recoil.
+Loss of ventilated lung can impair gas exchange. The source's small
+normal pleural-fluid volume is an anatomy reference, not a quantity to
+aspirate or a measure obtainable from the bedside examination.
+
+53
+00:22:49,512 --> 00:23:22,464
+Tension is a pressure-and-physiology problem, not merely a synonym for
+a large pneumothorax. Progressive intrathoracic pressure can
+compromise ventilation and venous return, producing obstructive shock.
+A large radiographic air space alone does not establish tension, and a
+smaller collection can become dangerous in the wrong physiology.
+Tracheal displacement may be late or absent; do not wait for it before
+recognizing a deteriorating patient and escalating through the
+applicable pathway.
+
+54
+00:23:22,464 --> 00:23:57,360
+A chest drainage system collects output and limits reverse entry of
+air, using a water seal or another manufacturer-specific mechanism.
+The illustrated device has a marked collection chamber, an air-
+leak/water-seal area, suction control and a bellows indicator. These
+parts answer different questions: amount collected, air movement,
+selected suction and whether that particular suction mechanism is
+working. Identify the actual device and prescribed setup rather than
+assuming every drainage unit has the same chambers or controls.
+
+55
+00:23:57,360 --> 00:24:36,288
+Suction is not automatically required for every chest drain. The
+textbook's blanket suction wording should be read against the actual
+order and device; selected BTS guidance does not advise routine
+initial suction for pneumothorax drainage. Likewise, bubbles must be
+interpreted by chamber, pattern, indication and device. Continuous
+air-leak bubbling is not made harmless simply because a pneumothorax
+was present. Assess the patient and system, preserve the authorized
+setup and escalate concerns instead of improvising clamping,
+disconnection or suction changes.
+
+56
+00:24:36,288 --> 00:25:08,952
+Hypovolemic shock is inadequate circulation associated with critical
+intravascular volume loss. Real blood loss can be external or
+concealed inside the body; the source's description of absolute loss
+as visible is too narrow. Vomiting, diarrhea, fistula drainage,
+sweating, osmotic diuresis or other excessive urinary losses can also
+reduce volume. Identify the actual loss and its mechanism rather than
+treating all cases as visible external hemorrhage.
+
+57
+00:25:08,952 --> 00:25:39,168
+Reduced filling can lower stroke volume and cardiac output.
+Sympathetic responses may increase rate, contractility and vascular
+tone, temporarily preserving pressure while tissues remain threatened.
+Renal and hormonal responses conserve fluid over time. Compensation
+has limits and varies with age, medications, illness and injury;
+absence of marked tachycardia or hypotension does not exclude serious
+hypoperfusion.
+
+58
+00:25:39,168 --> 00:26:12,816
+Original case: a worker is struck on the left chest by a falling
+crate. There is little visible bleeding, but breathing is increasingly
+difficult, one side moves less and the worker becomes less responsive
+while the measured systolic pressure is still one hundred one. Assess
+and support the patient promptly, look for both impaired breathing and
+concealed loss, and request the appropriate resources. Do not wait for
+tracheal deviation or pressure below ninety, and do not assume that no
+visible blood means no volume loss.
+
+59
+00:26:12,816 --> 00:26:45,672
+Worked reasoning: pleural pressure can obstruct circulation, whereas
+bleeding can reduce the amount returning to the heart; both may occur
+together after chest trauma. The actual examination and trajectory
+determine concern, not one label or normal-looking number. Explain
+your findings, likely threats, interventions and response in the
+handover. A general textbook procedure or fluid paragraph does not
+expand PCP scope, and reassessment continues while definitive care is
+arranged.
+
+60
+00:26:45,672 --> 00:27:17,136
+Begin with the target. Platelet activation and aggregation help build
+a plug; coagulation stabilizes it with fibrin. Antiplatelets reduce
+platelet activity, anticoagulants interfere with coagulation, and
+thrombolytics promote breakdown of fibrin through the enzyme plasmin.
+Aspirin is not a medicine that directly dissolves an established clot.
+The class name helps interpret a medication history, but it does not
+tell you every indication, bleeding risk or reversal plan.
+
+61
+00:27:17,136 --> 00:27:53,760
+P2Y12 is a platelet receptor for adenosine diphosphate. Clopidogrel
+requires metabolic activation, importantly involving CYP2C19; poor
+activation can mean less protection, not simply fewer side effects.
+Genetic variation and inhibitors such as omeprazole or esomeprazole
+can reduce its effect. Opioids can delay absorption of oral P2Y12
+drugs. Recognize these history and handover issues without
+independently adding a loading dose, changing gastric treatment or
+stopping a prescribed antiplatelet.
+
+62
+00:27:53,760 --> 00:28:31,056
+Assess for visible and concealed bleeding: prolonged wound bleeding,
+black stools, blood in urine, coffee-ground vomit, hemoptysis, severe
+new headache or deterioration after a head injury. CBC,
+hemoglobin/hematocrit trends and platelet counts help in the hospital
+context, but a normal early value does not exclude a new bleed.
+Platelet number does not directly measure all platelet-function
+inhibition. Connect the medication history to injury mechanism,
+perfusion, mental status and repeated observations rather than looking
+for bruises alone.
+
+63
+00:28:31,056 --> 00:29:06,528
+Teach both sides of the risk: bleeding needs prompt evaluation, while
+premature discontinuation can increase thrombotic events, especially
+after coronary intervention. A generic five-to-seven-day preoperative
+sentence is not permission for a patient or field provider to choose a
+stop date; timing is agent- and procedure-specific and belongs to the
+treating team. Explain injury prevention, medication identification
+and what changes to report. Use a question such as, What would you do
+after a head injury even if the bleeding outside seems small?
+
+64
+00:29:06,528 --> 00:29:39,288
+Cardiac output is heart rate multiplied by stroke volume, with units
+of volume per time. For example, eighty beats per minute times sixty
+milliliters per beat equals forty-eight hundred milliliters per
+minute, or four point eight liters per minute. That is not the volume
+of one beat. The source four-to-five-liter resting reference is not a
+normality guarantee for every size, activity or illness. A fast rate
+can coexist with poor output if filling and stroke volume fall.
+
+65
+00:29:39,288 --> 00:30:15,312
+Preload concerns ventricular filling/stretch before contraction,
+afterload the load against ejection, and contractility the muscle
+response at a given loading state. Venous return influences preload
+but is not its interchangeable definition. Pressure can be related
+approximately to flow and resistance; it is not a direct ATP meter.
+Inadequate oxygen delivery or use can impair cellular energy and
+organs. Thus one medicine that raises pressure may not correct the
+cause, and excessive afterload can make a failing pump work harder.
+
+66
+00:30:15,312 --> 00:30:54,336
+Four mechanisms organize shock: loss of effective circulating volume,
+failed pumping, obstructed filling/outflow, or inappropriate vascular
+distribution/tone. They can coexist. The source wrongly makes reduced
+vascular resistance sound like the necessary consequence of blood
+loss; sympathetic compensation can instead raise resistance while
+stroke volume falls. Distributive shock is not simply all fluid moving
+outside vessels. Think about flow, vascular tone, oxygen content and
+tissue use together; a preserved cuff pressure does not exclude shock.
+
+67
+00:30:54,336 --> 00:31:36,384
+Volume loss requires cause control, such as stopping hemorrhage,
+alongside appropriate circulatory support and access to definitive
+care. Fluid is not equivalent to oxygen-carrying blood or hemostasis.
+Pump failure is different: large uncritical fluid loads may worsen
+pulmonary congestion. Obstruction is different again: a vasoactive
+drug does not remove tension physiology or tamponade. Current D01
+calls for judicious fluid use and consultation in suspected
+cardiogenic shock. Identify mixed or uncertain shock and escalate
+rather than forcing every patient into one drug category.
+
+68
+00:31:36,384 --> 00:32:16,080
+In anaphylaxis, vasodilation and leakage can impair circulation while
+airway swelling or bronchospasm impairs breathing. Epinephrine
+addresses several receptor-mediated problems; inhaled salbutamol
+addresses bronchospasm, not the whole syndrome. The current E09
+initial IM pathway is distinct from advanced refractory IV care and
+arrest dosing. Do not delay indicated IM epinephrine for a perfect
+monitor setup or replace it with a nebulizer. Observe breathing,
+circulation and consciousness in parallel, and communicate whether the
+intended response occurs.
+
+69
+00:32:16,080 --> 00:32:51,816
+Albuterol is the US name used here for salbutamol. Its predominant
+beta-two action relaxes bronchial smooth muscle; tremor, tachycardia,
+dysrhythmia or paradoxically worse breathing can occur. Other
+sympathomimetics, beta blockers and some antidepressants can alter the
+response. Listen to air entry and observe work of breathing, rate,
+oxygenation and the patient, rather than declaring success because the
+nebulizer emptied. New chest pressure, marked palpitations or
+worsening distress needs reassessment.
+
+70
+00:32:51,816 --> 00:33:31,512
+Isotonic refers to effective osmotic behavior relative to plasma, not
+a promise that every isotonic solution has exactly the same sodium
+concentration as blood. Saline and balanced crystalloid differ in
+composition. The source gives rapid one-to-two-liter anaphylaxis and
+two-liter hypovolemia examples. Keep those hospital examples visible
+as source content, not fixed instructions for every adult, child,
+hemorrhage or congested heart. Use the cause-specific current service
+pathway, individualized response and overload reassessment; do not
+make finishing a bag the clinical goal.
+
+71
+00:33:31,512 --> 00:34:13,752
+Norepinephrine, also called noradrenaline, stimulates adrenergic
+receptors; the prototype table heading alpha/beta antagonist is an
+error. Alpha-mediated vasoconstriction and beta-mediated cardiac
+effects can support selected hypotension, but the pulse does not
+always rise: reflex bradycardia can occur. A higher pressure can
+coexist with poor flow when volume is inadequate. The source statement
+no contraindications does not mean no precautions. Recognize ischemia,
+arrhythmia, excessive vasoconstriction, rebound hypotension after
+abrupt cessation and IV extravasation injury.
+
+72
+00:34:13,752 --> 00:34:49,296
+Original Week 9 case: a maintenance worker falls from a platform and
+reports taking two tablets after a coronary stent, but cannot name
+them. There is chest pain, a painful swollen thigh, cool skin and
+increasing confusion. A coworker reports a recent missed dose. State
+the immediate assessment and hemorrhage-control priorities, how to
+verify the medicines without delaying care, and what the history adds
+to the handover. Neither a possible antiplatelet nor a missed dose
+establishes the single cause of deterioration.
+
+73
+00:34:49,296 --> 00:35:32,688
+Worked reasoning: trauma can cause concealed volume loss, impaired
+ventilation or obstruction, while coronary disease remains relevant.
+Assess actual breathing, pulse and perfusion; look for accessible
+bleeding and other time-critical injuries, arrange resources and
+conveyance, and report exact observations and uncertainty. Do not
+reflexively give nitrate for chest pain, a hospital vasopressor for
+one low pressure, or an extra antiplatelet to compensate for an
+unverified missed dose. Change only the later history to a recent head
+strike: concern for intracranial bleeding increases even if external
+bleeding is minimal.
+
+74
+00:35:32,688 --> 00:36:11,280
+Trace the pulmonary loop aloud: systemic veins and coronary sinus to
+right atrium, tricuspid valve, right ventricle, pulmonary valve and
+trunk, right/left pulmonary arteries, smaller branches and alveolar
+capillaries. After exchange, pulmonary venules and usually four
+pulmonary veins return blood to the left atrium. Pulmonary arteries
+therefore normally carry relatively oxygen-poor blood and pulmonary
+veins relatively oxygen-rich blood. The bronchial systemic supply
+serves lung tissue itself and is not the same route as alveolar gas-
+exchange flow.
+
+75
+00:36:11,280 --> 00:36:46,824
+The usual arch has three major branches: brachiocephalic trunk, left
+common carotid and left subclavian. The right common carotid and right
+subclavian arise from the brachiocephalic trunk; do not invent a
+matching left brachiocephalic artery. Each subclavian supplies
+branches including vertebral, internal thoracic and thyrocervical
+pathways before continuing toward the arm. In contrast, both right and
+left brachiocephalic veins exist. Similar words do not make the
+arterial and venous trees mirror images.
+
+76
+00:36:46,824 --> 00:37:24,576
+For the arm, follow subclavian, axillary, brachial, then radial and
+ulnar to palmar arches and digital branches. Radial follows the thumb-
+side radius; ulnar follows the little-finger-side ulna in anatomical
+position. Humeral circumflex, deep brachial and collateral branches
+serve shoulder, posterior arm and elbow regions along the way. The
+arches link channels in the hand; their presence does not guarantee an
+injured hand has adequate perfusion. This route explains why
+assessment above and below an injury answers different questions.
+
+77
+00:37:24,576 --> 00:38:01,488
+For the leg, follow external iliac, femoral and popliteal, then
+anterior tibial to dorsalis pedis or posterior tibial to plantar
+supply. Deep femoral/circumflex and genicular branches serve thigh and
+knee territories; fibular or peroneal names refer to the same lateral-
+leg pathway. Resolve the source ambiguous pronoun with its own table:
+medial and lateral plantar arteries arise from posterior tibial, not
+from a fibular artery that simply splits into both. Dorsal and plantar
+anastomoses distribute blood toward toes.
+
+78
+00:38:01,488 --> 00:38:34,752
+Upper-body return usually reaches the superior vena cava through the
+paired brachiocephalic veins. Each brachiocephalic is formed mainly by
+internal jugular plus subclavian; external jugular usually drains into
+subclavian, while vertebral and internal thoracic tributaries also
+contribute. The two brachiocephalics unite into SVC, which receives
+the azygos arch and empties into right atrium. Coronary venous return
+through the coronary sinus is a separate route directly to that
+atrium.
+
+79
+00:38:34,752 --> 00:39:15,096
+The hepatic portal route connects two exchange beds before general
+venous return: digestive/splenic capillaries, portal tributaries and
+vein, liver sinusoids, then hepatic veins and IVC. Superior mesenteric
+plus splenic commonly form the portal vein; inferior mesenteric often
+joins splenic, while gastric and cystic tributaries contribute.
+Hepatic arterial blood also reaches the liver. This arrangement
+supports nutrient handling and first-pass processing, but does not
+mean every swallowed substance is completely removed or that portal
+and systemic veins are interchangeable.
+
+80
+00:39:15,096 --> 00:39:47,472
+In fetal circulation, the placenta provides gas exchange. One
+umbilical vein brings relatively oxygen-rich fetal blood toward the
+fetus; two umbilical arteries return relatively oxygen-poor blood
+toward placenta. The fetal and maternal circulations exchange across
+the placental interface rather than normally forming one continuous
+shared blood pipe. Not all oxygenated umbilical blood bypasses the
+liver, and the fetal lungs still receive blood for growth even though
+they are not the main gas-exchange organ.
+
+81
+00:39:47,472 --> 00:40:30,384
+Know three shunts and their adult remnants. Foramen ovale permits
+right-to-left atrial flow and leaves the fossa ovalis; ductus
+arteriosus connects pulmonary trunk toward aorta and leaves ligamentum
+arteriosum; ductus venosus links umbilical return toward IVC while
+bypassing much hepatic exchange and leaves ligamentum venosum. After
+birth, lung expansion and lower pulmonary resistance increase left-
+atrial filling relative to right, helping close the atrial flap.
+Oxygen and circulatory changes promote ductal closure; functional and
+anatomical closure are not all instantaneous with the first breath.
+
+82
+00:40:30,384 --> 00:41:21,240
+Altitude lowers barometric pressure while the oxygen fraction remains
+about twenty-one percent. The source dry-air table pairs pressures of
+760, 632, 565, 447, 350 and 260 millimeters of mercury with oxygen
+partial pressures about 159, 133, 118, 94, 73 and 54. These examples
+span sea level through roughly twenty-nine thousand feet. They are not
+arterial blood-gas values or saturation percentages. For example,
+twenty-one percent of 760 is about 160, whereas twenty-one percent of
+447 is about 94; the fraction stayed similar while the pressure fell.
+
+83
+00:41:21,240 --> 00:41:59,832
+Adaptation has different time scales. Ventilatory and acid-base
+responses occur early; reduced plasma volume can increase hemoglobin
+concentration without immediately making new red cells. EPO-mediated
+production contributes over longer exposure. Thus an immediate higher
+hematocrit is not proof that EPO already produced a new red-cell mass.
+Acclimatization reduces risk but is not guaranteed protection at a new
+higher sleeping altitude. Hydration supports ordinary needs; forced
+drinking is not a substitute for acclimatization, descent or
+treatment.
+
+84
+00:41:59,832 --> 00:42:34,776
+Original integration: at a high camp, a worker cuts a thigh on damaged
+equipment and later has increasing breathlessness and confusion. One
+finger saturation seems plausible for the altitude. Explain why that
+number cannot exclude concealed blood loss, impaired ventilation or
+altitude illness, and trace how a fall in venous return can reduce
+output. The immediate task is a coordinated assessment, hemorrhage
+control, environmental protection and resource/evacuation plan, not
+choosing a single reassuring measurement.
+
+85
+00:42:34,776 --> 00:43:17,256
+Worked explanation: the pulmonary loop loads oxygen, systemic arterial
+branches distribute blood, and venous routes return filling volume. A
+local injury and a lower inspired oxygen pressure can impair different
+parts of this chain simultaneously. Assess the whole patient and
+trends while addressing time-critical threats. For retrieval, draw one
+arm arterial route, one foot-to-heart venous route, the liver portal
+sequence and the three fetal shunts; then explain altitude using
+fraction versus partial pressure. The guide covers the assigned
+narrative domains and selected figures, not every optional link or
+source assessment.

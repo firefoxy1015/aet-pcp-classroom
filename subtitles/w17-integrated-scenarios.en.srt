@@ -1,0 +1,245 @@
+1
+00:00:00,000 --> 00:00:15,216
+The saved Week 17 plan identifies a high-acuity multisystem medical
+capstone and a trauma capstone with multiple mechanisms and diagnostic
+mimics. It does not include the actual examination cases or answer
+key.
+
+2
+00:00:15,216 --> 00:00:27,960
+The following scenarios are newly written practice examples. They
+train prioritization, alternatives, reassessment, PCR and handover;
+they are not predictions of the school examination.
+
+3
+00:00:27,960 --> 00:00:45,144
+The patient has sudden breathlessness, weakness and new confusion. A
+family member reports a change from baseline, and a medication list is
+present. No single diagnosis is supplied; the crew must identify
+urgent threats and gather relevant evidence.
+
+4
+00:00:45,144 --> 00:00:58,920
+Begin with immediate safety and primary threats. Obtain focused
+history and measurements using authorized equipment, verify unexpected
+signals and request the clinical support required by the current
+pathway.
+
+5
+00:00:58,920 --> 00:01:14,664
+Do not anchor on a single alarming symptom. Consider respiratory,
+circulatory, metabolic, neurologic and medication-related
+possibilities as categories, then use the patient’s actual findings
+and current pathway to narrow them.
+
+6
+00:01:14,664 --> 00:01:28,848
+If altered mental status is part of the case, use the school-taught
+assessment sequence and check for reversible contributors when the
+current pathway calls for it. State what you know, what you do not
+know and what should be reassessed.
+
+7
+00:01:28,848 --> 00:01:42,624
+The patient is found after a fall, with visible bruising, confusion
+and reported new weakness. The witness did not see the full sequence;
+the patient’s medication card and chronic-disease history are
+available.
+
+8
+00:01:42,624 --> 00:01:57,480
+Treat the injury as real while asking whether a medical event could
+have caused or contributed to the fall. Protect immediate threats,
+obtain the event timeline and avoid dismissing a serious injury
+because another explanation also fits.
+
+9
+00:01:57,480 --> 00:02:12,384
+A diagnostic mimic is a reason to widen the assessment, not a reason
+to stop assessing trauma. Preserve the mechanism, any unknown
+interval, observed injuries, patient trend and relevant history as
+separate facts.
+
+10
+00:02:12,384 --> 00:02:26,472
+Use the school’s current trauma and medical approach. Do not choose an
+advanced intervention or treatment from this practice vignette; stay
+within PCP authorization and escalate when the patient or mechanism
+warrants it.
+
+11
+00:02:26,472 --> 00:02:37,584
+For either case, chart the source and time of each important cue. Keep
+the witness account, patient account, objective findings and crew
+interpretation separate.
+
+12
+00:02:37,584 --> 00:02:51,696
+The written record and SBAR/MIST handover should tell a consistent
+story. Include uncertainty, the trend and the immediate next concern
+instead of presenting a false sense of diagnostic certainty.
+
+13
+00:02:51,696 --> 00:03:03,048
+The saved school plan calls for a student-led seven-question debrief.
+These original prompts organize that reflection; they are not
+presented as the school’s verbatim seven questions.
+
+14
+00:03:03,048 --> 00:03:15,720
+Keep the debrief psychologically safe and evidence-based. Describe
+decisions and conditions rather than labeling the learner; end with
+one narrow drill and a way to observe the next attempt.
+
+15
+00:03:15,720 --> 00:03:39,744
+Make the medical case concrete. The adult is confused and breathing
+hard, with glucose two point seven millimoles per litre, room-air
+saturation eighty-eight percent, breathing twenty-eight and pressure
+eighty-eight over fifty-six. These are fictional observations for
+reasoning, not a new clinical cutoff set. Check measurement quality
+while addressing the immediate patient threats.
+
+16
+00:03:39,744 --> 00:04:06,336
+Low glucose is a treatable finding, but it does not explain away
+impaired oxygenation or poor circulation. Protect the airway and
+provide the indicated respiratory support while arranging the
+authorized glucose correction. If the person cannot safely follow
+instructions and swallow, do not put an oral treatment into an
+unprotected airway. Seek the support the patient needs rather than
+waiting for a perfect diagnosis.
+
+17
+00:04:06,336 --> 00:04:31,128
+For the next simulation cue, stipulate that an appropriately
+authorized clinician has completed indicated glucose treatment and
+respiratory support. Repeat glucose is five point one, saturation
+ninety-five with support and pressure one hundred two over sixty-four.
+The patient is more attentive, but breathing is still laboured. Report
+both the change and what did not improve.
+
+18
+00:04:31,128 --> 00:04:57,816
+Reassess the airway, work of breathing, circulation, neurologic
+findings and the measurement context. Ask about recent illness, intake
+and medication use without assuming an overdose from a medication
+list. Ongoing acute illness means this is not a simple recovered low-
+glucose release example. Continue indicated care and time-sensitive
+conveyance, with clinical advice when needed.
+
+19
+00:04:57,816 --> 00:05:20,760
+A useful situation statement is: this adult remains acutely breathless
+after correction of confirmed low glucose. Then give the sudden
+change, relevant medication history, initial findings, actual actions
+and repeat findings. Say that saturation improved with respiratory
+support; do not present it as an untreated room-air value.
+
+20
+00:05:20,760 --> 00:06:19,968
+An original handover using situation, background, assessment and
+recommendation. Situation: an adult remains acutely breathless after
+treatment of confirmed low glucose. Background: family reports a
+sudden change and provides the insulin list; the complete cause is not
+established. Assessment: initial glucose two point seven millimoles
+per litre, saturation eighty-eight percent on room air, respiratory
+rate twenty-eight and pressure eighty-eight over fifty-six. Repeat
+glucose five point one, saturation ninety-five percent with support
+and pressure one hundred two over sixty-four, but breathing remains
+laboured. Recommendation: urgent receiving-team assessment of the
+unresolved respiratory and circulatory problem, with ongoing
+monitoring and support. Include actual treatment details and times;
+these fictional values are not a destination algorithm.
+
+21
+00:06:19,968 --> 00:06:43,584
+In the trauma example, a witness last saw the adult at usual function
+at thirteen forty-five, then found the patient near the stairs at
+fourteen twelve. Confusion and left-sided weakness persist. Glucose is
+six point two, and the medication history includes an anticoagulant.
+Keep the two times, direct findings and reported history separate.
+
+22
+00:06:43,584 --> 00:07:08,304
+There is a real injury concern and a possible preceding neurologic or
+other medical event. A normal glucose value does not prove stroke; a
+visible bruise does not explain every neurologic finding. Obtain the
+relevant focused assessment, protect immediate threats and seek the
+appropriate time-sensitive trauma and neurologic pathway advice
+without delaying care for a complete story.
+
+23
+00:07:08,304 --> 00:07:33,144
+Continue the actual trauma assessment: address airway or breathing
+compromise and significant bleeding, preserve perfusion and use the
+indicated movement and spinal-protection approach. Do not apply an
+adult low-risk clearance rule as if an altered patient with weakness
+met every requirement. Reassess neurologic findings rather than
+documenting only the first examination.
+
+24
+00:07:33,144 --> 00:07:55,608
+The anticoagulant history increases the importance of communicating
+possible bleeding risk, but does not establish the site of bleeding or
+authorize a reversal medicine. Do not turn the practice case into
+permission for an advanced intervention. Report the uncertain
+sequence, persistent deficit, treatment response and destination
+concern to the appropriate clinical team.
+
+25
+00:07:55,608 --> 00:08:15,816
+A useful mechanism statement preserves both the incomplete fall
+account and the possibility of a preceding event. Distinguish observed
+bruising from suspected head or spinal injury. Include the focal
+weakness, confusion, glucose and any subsequent changes, and state the
+actual treatments and response.
+
+26
+00:08:15,816 --> 00:09:11,160
+An original handover using mechanism, injuries, signs and treatment.
+Mechanism: found near stairs at fourteen twelve after an incompletely
+witnessed fall; last observed at usual function at thirteen forty-
+five. Injuries: visible bruising and possible head or neck injury,
+with the complete injury pattern still under assessment. Signs:
+confusion and persistent left-sided weakness; capillary glucose six
+point two millimoles per litre, not a demonstrated low-glucose
+explanation. Treatment: report the actual airway, bleeding, movement-
+protection and monitoring actions and the response, not an assumed
+treatment bundle. Highlight anticoagulant history, the uncertain
+sequence and the need for time-sensitive destination advice. Do not
+label the case proven ischemic stroke or merely a mechanical fall.
+
+27
+00:09:11,160 --> 00:09:36,912
+Use this five-part practice plan for the school five-minute
+documentation target, not as a mandatory operational time limit. First
+establish the event and evidence sources. Add focused assessment and
+relevant history, then the actual actions and times. Finish the
+response, current concern and accepted handover before checking units,
+missing times and unsupported conclusions.
+
+28
+00:09:36,912 --> 00:09:56,616
+Never invent a treatment time, examination finding, consent discussion
+or successful handover to fill the form. Mark a fact as unknown when
+it is unknown, and distinguish later information from what drove the
+earlier decision. Necessary patient care takes priority over finishing
+a practice timer.
+
+29
+00:09:56,616 --> 00:10:18,792
+In the medical case, ask whether the learner noticed persistent
+respiratory effort after glucose improved. In the trauma case, ask
+whether the learner separated last-known-well from discovery time and
+kept both injury and medical causes in view. These are observable
+decisions, not personality judgments or a self-awarded examination
+pass.
+
+30
+00:10:18,792 --> 00:10:40,296
+Change one cue for the next repetition: for example, the witness
+cannot confirm the last normal time, or a repeat measurement is
+unreliable. Explain how that changes the plan and handover. The goal
+is transfer of reasoning under changed evidence, not memorization of
+these two fictional patients.

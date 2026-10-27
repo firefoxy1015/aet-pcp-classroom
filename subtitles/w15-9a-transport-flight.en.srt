@@ -1,0 +1,314 @@
+1
+00:00:00,000 --> 00:00:17,736
+The live Week 15 Moodle activity is labelled Course 9A: MCI, but its
+Preview SCORM opens a different internal title: Transport Logistics
+and Flight Physiology for Primary Care Paramedics. The internal body
+contains five teaching lessons and a glossary.
+
+2
+00:00:17,736 --> 00:00:35,280
+This course fills that verified Week 15 gap. It does not replace the
+separate MCI/START track, and it does not reproduce embedded knowledge
+checks. Current BCEHS helicopter procedures govern local field safety
+where generic course statements conflict.
+
+3
+00:00:35,280 --> 00:00:50,976
+A moving ambulance, boat or aircraft changes what the crew can reach,
+see, hear and do. Transport planning therefore includes what care is
+feasible in motion, what must be addressed first, and how help will be
+summoned if the patient worsens.
+
+4
+00:00:50,976 --> 00:01:05,424
+Use the whole pathway: scene-to-vehicle, vehicle-to-destination, then
+handover. Reassess after major movement and whenever the patient,
+route, weather, resources or landing site changes.
+
+5
+00:01:05,424 --> 00:01:24,576
+Air transport can shorten a segment of the journey or reach a remote
+area, but the relevant comparison is time to appropriate definitive
+care—not flight time alone. Include activation, aircraft availability,
+weather, landing, patient transfer and onward ground travel.
+
+6
+00:01:24,576 --> 00:01:44,160
+Use the school lesson’s four-T memory aid—time, terrain/traffic,
+treatment capability and team availability—to organize the discussion.
+It is a study aid, not an authorization rule; coordinate with
+dispatch, clinical oversight, the receiving service and flight crew as
+required.
+
+7
+00:01:44,160 --> 00:01:58,728
+Ask what time is actually saved after the response and transfer
+sequence is counted. A helicopter may not be the quickest option for a
+nearby hospital, an unsafe site or a patient whose immediate needs
+cannot be met during flight.
+
+8
+00:01:58,728 --> 00:02:10,752
+Do not suspend immediate care merely to await a preferred mode.
+Reassess when the patient or weather changes and communicate the
+updated plan through the proper operational and clinical channels.
+
+9
+00:02:10,752 --> 00:02:25,152
+Before loading, identify which assessments and interventions may be
+needed en route. Place and secure equipment so that it does not snag,
+disconnect or block access; follow the device instructions and service
+procedure.
+
+10
+00:02:25,152 --> 00:02:42,144
+Protect the patient from cold, heat, unnecessary exposure and
+avoidable movement. In rotary-wing operations, loose blankets,
+clothing, cables and bags can be lifted by downwash, so secure all
+items before the aircraft approaches.
+
+11
+00:02:42,144 --> 00:02:54,912
+Patient packaging does not prove stability. Continue the appropriate
+monitoring, compare trends, and reassess after stretcher loading,
+aircraft transfer, bumps or a clinical change.
+
+12
+00:02:54,912 --> 00:03:08,808
+If an intervention cannot be done safely while moving, coordinate
+whether the vehicle should stop or the transport plan should change.
+Communicate early; do not let the desire to arrive quickly hide a
+deteriorating patient.
+
+13
+00:03:08,808 --> 00:03:22,056
+An ambulance is heavier and often taller than a passenger car. Its
+braking, acceleration and cornering response differ, especially when
+loaded or on wet, uneven or icy roads.
+
+14
+00:03:22,056 --> 00:03:35,256
+Smooth control protects the patient, the working partner and
+equipment. Lights and sirens do not remove road hazards or justify a
+speed that is unsafe for visibility, traction or traffic.
+
+15
+00:03:35,256 --> 00:03:48,360
+The source lesson emphasizes vehicle readiness, road weather and
+defensive driving. Make the pre-trip check a real, locally defined
+checklist rather than an invented universal maintenance procedure.
+
+16
+00:03:48,360 --> 00:04:04,512
+A stable patient does not make an unsafe road safe. If visibility,
+traction, vehicle behaviour or another hazard becomes unacceptable,
+prioritize safe control, communicate the delay or stop and revisit the
+route with the appropriate team.
+
+17
+00:04:04,512 --> 00:04:19,848
+The BCEHS Spring 2026 procedure describes a Landing Zone Manager role
+for selection, hazard communication, readiness and perimeter control.
+The manager should not be simultaneously occupied with scene
+operations or patient care.
+
+18
+00:04:19,848 --> 00:04:33,144
+Coordinate selection with Incident Command and relevant responders.
+The pilot-in-command has final authority over whether the site and
+approach are suitable; the flight crew may choose another location or
+decline to land.
+
+19
+00:04:33,144 --> 00:04:53,472
+The current public BCEHS Spring 2026 briefing defines the LZ as a
+safety zone plus the touchdown point. It gives a safety-zone guide of
+at least 40 paces by 40 paces, approximately 40 metres by 40 metres,
+and a preferred separation of at least 50 paces from the patient or
+accident area.
+
+20
+00:04:53,472 --> 00:05:12,480
+The Moodle lesson also displays a generic 100-by-100-foot figure, then
+a different BCEHS dimension. Do not blend these into one rule: for
+BCEHS operations use its current 40-pace procedure and follow the
+responding aircraft’s requirements. The pilot retains final authority.
+
+21
+00:05:12,480 --> 00:05:28,488
+Walk and scan the whole safety zone when feasible. The BCEHS procedure
+recommends at least 50 metres between the LZ edge and power lines; if
+a site is closer, the hazard must be briefed to the pilot, and an
+alternative location may be safer.
+
+22
+00:05:28,488 --> 00:05:42,072
+Thin wires can be difficult to see from the air, particularly at
+night. Identify obstacles by direction and landmark, report them
+clearly, and never assume a light, cone or marker makes a wire safe.
+
+23
+00:05:42,072 --> 00:05:56,064
+A landing zone is more than an empty patch of ground. The team needs a
+clear perimeter, a patient-transfer route and a shared understanding
+of who controls access, who communicates and what happens if
+conditions change.
+
+24
+00:05:56,064 --> 00:06:08,400
+Do not use people as markers around the landing perimeter. People may
+control access from a safe position, while visible markers are used
+only as approved by the current procedure and flight crew.
+
+25
+00:06:08,400 --> 00:06:23,136
+Use the authorized channel and the local agency’s call format. Report
+the status plainly: ready, not ready, or how many minutes are needed.
+Give the LZ location and its relationship to the scene or a known
+landmark.
+
+26
+00:06:23,136 --> 00:06:38,688
+Include estimated wind direction and speed, visibility and every
+relevant obstacle. Update the report when conditions change. Do not
+direct the aircraft’s approach path; transmit observations and let the
+pilot decide.
+
+27
+00:06:38,688 --> 00:06:52,704
+Night-vision equipment does not make darkness equivalent to daylight.
+Weather, dust, snow, rain, smoke, glare and narrow obstacles can
+reduce visibility even when crews use night-vision goggles.
+
+28
+00:06:52,704 --> 00:07:08,616
+BCEHS notes that some LED beacons may be invisible to night-vision
+goggles and that crews may request strobes be turned off. Use only
+approved lighting, never improvise aircraft-directed illumination, and
+follow the crew’s current instructions.
+
+29
+00:07:08,616 --> 00:07:38,520
+On final approach, the landing-zone manager clears outside the safety
+zone and watches for hazards, keeping radio traffic safety-critical.
+If a hazard appears, transmit: abort, abort, abort. The BCEHS visual
+alternative is to extend both arms overhead and wave them in a
+crossing motion. If in doubt, call the abort; remain in communication
+and explain the hazard. The pilot-in-command retains the landing
+decision.
+
+30
+00:07:38,520 --> 00:07:53,496
+Do not clear an aircraft into an LZ that is not ready. If the aircraft
+overshoots or aborts, remain in communication and follow the agreed
+next step; do not restart the approach until the hazard and
+authorization are resolved.
+
+31
+00:07:53,496 --> 00:08:12,336
+Transport Canada advises following crew instructions and avoiding
+rotor hazards. The current BCEHS Spring 2026 LZ procedure is more
+specific for local scene operations: do not approach until the rotors
+have completely stopped and a pilot gets out and waves responders
+forward.
+
+32
+00:08:12,336 --> 00:08:28,440
+The Moodle lesson’s generic “front or side while crouched” wording
+conflicts with that current BCEHS rule. Do not use it to approach an
+active aircraft. Aircraft type and operator procedures vary; the
+flight crew controls the authorized route.
+
+33
+00:08:28,440 --> 00:08:47,256
+Identify yourself as the primary ground caregiver and give the flight
+paramedic a short, structured report: what happened, what you found,
+what changed, what you did and the current vital-sign trend. Include
+identification or known allergies when available and appropriate.
+
+34
+00:08:47,256 --> 00:09:06,120
+Follow the flight paramedic and pilot directions for loading and
+transfer. BCEHS says not to load equipment or operate aircraft doors
+unless asked. Keep the site clear after takeoff; its 2026 briefing
+says maintain the LZ for about five minutes in case the aircraft must
+return.
+
+35
+00:09:06,120 --> 00:09:19,320
+During ascent, lower ambient pressure can expand a closed gas
+collection. The Week-15 school lesson emphasizes that this can matter
+for pneumothorax, other trapped gas and air-containing equipment.
+
+36
+00:09:19,320 --> 00:09:34,848
+The size of the effect depends on actual cabin altitude,
+pressurization, flight profile and the patient or device. Do not
+assume every helicopter flight produces the same pressure change or
+make an intervention solely from the gas-law principle.
+
+37
+00:09:34,848 --> 00:09:48,576
+Oxygen remains about 21 percent of dry air, but the total atmospheric
+pressure decreases with altitude. The result is a lower oxygen partial
+pressure, which can worsen hypoxia in a vulnerable patient.
+
+38
+00:09:48,576 --> 00:10:05,352
+Actual exposure varies with the aircraft, cabin pressure, route and
+operating altitude. Follow the current clinical protocol and flight-
+team plan for oxygen, monitoring and escalation; there is no universal
+altitude or saturation rule in this lesson.
+
+39
+00:10:05,352 --> 00:10:17,880
+A helicopter cabin can be noisy, vibratory and constrained. The course
+teaches these as operational stressors, not as proof that a particular
+measurement is always impossible.
+
+40
+00:10:17,880 --> 00:10:33,624
+Before flight, confirm with the flight crew which equipment is
+available, where it can be secured and how communication will work. Do
+not rely on a monitor reading without considering motion, signal
+quality, device limits and the patient’s full presentation.
+
+41
+00:10:33,624 --> 00:10:47,208
+For a patient at risk from gas expansion or hypoxia, identify the
+concern before flight, communicate it to the flight crew and agree on
+monitoring, equipment and escalation under the approved protocol.
+
+42
+00:10:47,208 --> 00:11:03,000
+The Moodle lesson mentions changing the volume of air-filled devices.
+This track does not direct you to deflate an endotracheal cuff or
+alter any device. Use the device instructions, scope, medical
+direction and flight-provider procedure.
+
+43
+00:11:03,000 --> 00:11:20,136
+In this original case, do not choose “air” merely because it is
+shorter on a map. Compare the whole time to appropriate care, the
+patient’s changing condition, weather, available crew, route and
+whether a secure landing and transfer can actually be completed.
+
+44
+00:11:20,136 --> 00:11:36,960
+If wind or rain makes the LZ unsafe, report the hazard and wait for a
+safe plan. Continue appropriate care while coordinating; once transfer
+is authorized, reassess after each major movement and hand over the
+patient’s status and trend.
+
+45
+00:11:36,960 --> 00:11:49,896
+If a number or approach rule differs between a generic module and the
+current BCEHS briefing, stop and resolve the discrepancy before
+practice. Do not blend sources into a third, invented procedure.
+
+46
+00:11:49,896 --> 00:12:06,792
+This narrated course prepares your reasoning; it does not certify
+driving, LZ management, aircraft approach, flight procedures or
+medical competency. Hands-on actions require the school instructor,
+current operator procedures and supervised practice.

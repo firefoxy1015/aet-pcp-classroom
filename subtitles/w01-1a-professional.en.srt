@@ -1,0 +1,436 @@
+1
+00:00:00,000 --> 00:00:10,656
+Professionalism is observable behaviour. A patient sees it when you
+introduce yourself, ask permission, explain an examination and cover
+them again afterwards.
+
+2
+00:00:10,656 --> 00:00:22,872
+Integrity means recording the findings you actually obtained. If a
+measurement was not completed, state that and explain why, rather than
+filling the gap with an assumed normal result.
+
+3
+00:00:22,872 --> 00:00:35,280
+Reliability includes checking equipment before a call, completing
+agreed tasks and noticing when the original plan is no longer safe.
+Courtesy without dependable clinical work is not enough.
+
+4
+00:00:35,280 --> 00:00:44,448
+Competence includes asking for assistance. A professional identifies a
+limit before that limit exposes the patient to avoidable harm.
+
+5
+00:00:44,448 --> 00:00:55,512
+In British Columbia, the Emergency Medical Assistants Licensing Board
+is the regulator. BCEHS is a service and employer; it is not another
+name for the Licensing Board.
+
+6
+00:00:55,512 --> 00:01:05,784
+The regulation defines licence categories, authorized services and
+endorsements. A particular licence can also have conditions or
+restrictions.
+
+7
+00:01:05,784 --> 00:01:20,376
+Operational practice must also fit the service's authorization,
+available resources and your demonstrated competence. Reading a
+procedure or receiving a suggestion from a colleague does not
+establish that you are authorized to perform it.
+
+8
+00:01:20,376 --> 00:01:28,824
+When the limits are unclear, keep providing the safe care you can
+deliver and clarify through the appropriate clinical or supervisory
+channel.
+
+9
+00:01:28,824 --> 00:01:38,520
+Imagine a colleague asks you to use a device that you have watched
+once but have never practised with. Familiarity with the name is
+different from safe performance.
+
+10
+00:01:38,520 --> 00:01:49,032
+Check legal authority, service authorization, your capability and the
+patient's needs. These are separate checks; passing one does not
+answer the others.
+
+11
+00:01:49,032 --> 00:02:00,312
+State the limitation plainly: I am not trained to operate this device
+independently. I can continue monitoring while we obtain a qualified
+operator or clinical advice.
+
+12
+00:02:00,312 --> 00:02:08,544
+This response offers a safe next action. It avoids both an unsupported
+attempt and simply withdrawing from patient care.
+
+13
+00:02:08,544 --> 00:02:22,080
+Fatigue can slow decisions and make a simple calculation difficult.
+Illness, emotional distress, alcohol, other substances and prescribed
+medication effects can also impair safe work.
+
+14
+00:02:22,080 --> 00:02:32,832
+Notice functional evidence: repeated missed instructions, inability to
+stay awake, an unsafe driving decision or a task you cannot reliably
+complete.
+
+15
+00:02:32,832 --> 00:02:47,280
+Act on the immediate risk. Tell your partner and supervisor, arrange a
+safe handover of the task and follow the service's process. Concealing
+impairment to avoid inconveniencing a team transfers risk to the
+patient.
+
+16
+00:02:47,280 --> 00:02:59,016
+If the concern involves a colleague, describe the behaviour you
+observed rather than diagnosing its cause. Immediate protection and a
+factual report are more useful than an accusation.
+
+17
+00:02:59,016 --> 00:03:10,176
+Accountability means being answerable for your assessment, decisions,
+actions and omissions. It continues through treatment, documentation
+and the transfer of care.
+
+18
+00:03:10,176 --> 00:03:20,280
+You should be able to explain what you knew at the time, what you did,
+why you chose it and what changed afterwards. Hindsight alone should
+not replace this actual sequence.
+
+19
+00:03:20,280 --> 00:03:33,600
+Documentation supports accountability when it contains observations,
+times, reasoning, actions and responses. It fails when it contains a
+polished story that hides a delay or uncertainty.
+
+20
+00:03:33,600 --> 00:03:44,352
+Professional responsibility also applies off duty. A patient story
+posted online can identify someone through combined details, even when
+the name is removed.
+
+21
+00:03:44,352 --> 00:03:54,936
+An error response starts with the patient, not with deciding who is at
+fault. Assess for harm, obtain the necessary clinical assistance and
+maintain continuity of care.
+
+22
+00:03:54,936 --> 00:04:06,720
+Tell the relevant people what is known, what is uncertain and what has
+already been done. Follow the service's disclosure and incident-
+reporting process rather than making promises about an outcome.
+
+23
+00:04:06,720 --> 00:04:17,712
+Record clinical facts in the patient record. Use the separate safety-
+reporting channel for the event investigation. An incident report does
+not replace the patient care report.
+
+24
+00:04:17,712 --> 00:04:28,896
+A near miss also reveals a weak point. For example, two look-alike
+equipment labels deserve a process correction even if a final check
+prevented the wrong item from being used.
+
+25
+00:04:28,896 --> 00:04:39,984
+Suppose a partner starts entering an unmeasured blood pressure. A
+useful challenge names the specific action and the patient-safety
+concern, then asks for a correction.
+
+26
+00:04:39,984 --> 00:04:51,024
+If the concern is not resolved, escalate to the appropriate supervisor
+or clinical support. Do not let hierarchy turn an invented finding
+into a permanent patient record.
+
+27
+00:04:51,024 --> 00:05:05,904
+The BC Code of Ethics includes reporting incompetent, illegal or
+unethical conduct to appropriate authorities. The destination and
+urgency depend on the concern; gossip and public shaming are not
+reporting systems.
+
+28
+00:05:05,904 --> 00:05:19,296
+Describe observations, exact relevant words, actions taken and
+unresolved risks. Keep clinical records factual and use the proper
+personnel or regulatory process for conduct concerns.
+
+29
+00:05:19,296 --> 00:05:30,816
+A clinical relationship contains an unequal distribution of
+information, authority and vulnerability. Boundaries prevent the
+professional from using that position to meet personal needs.
+
+30
+00:05:30,816 --> 00:05:42,288
+Compassion means listening and responding to the patient's concern. It
+does not require sharing your private problems, offering personal
+money or becoming the patient's private contact after a call.
+
+31
+00:05:42,288 --> 00:05:54,624
+Before physical contact, explain what you need to examine and why. Use
+appropriate covering and assistance. A clinically necessary
+examination still requires respectful communication.
+
+32
+00:05:54,624 --> 00:06:04,080
+Watch for thoughts such as this patient needs only me, or I should
+hide this favour from my team. Those are reasons to pause and seek
+supervision.
+
+33
+00:06:04,080 --> 00:06:15,816
+A dual relationship occurs when your professional role overlaps with a
+personal, social or financial role. In a small community, encountering
+someone you know may be unavoidable.
+
+34
+00:06:15,816 --> 00:06:27,912
+The overlap is a risk to manage, not proof that you must abandon
+urgent care. Provide necessary help, identify the conflict and arrange
+another appropriate clinician when feasible.
+
+35
+00:06:27,912 --> 00:06:38,592
+Use the same assessment and documentation standards. Do not skip
+sensitive questions because you know the family, and do not tell
+mutual friends that the patient called for help.
+
+36
+00:06:38,592 --> 00:06:50,184
+Gifts and special favours can create obligation. Follow the applicable
+gift policy, decline inappropriate personal benefits and seek guidance
+when the boundary is uncertain.
+
+37
+00:06:50,184 --> 00:07:00,288
+If a patient asks for your personal phone number, begin by
+acknowledging the underlying need. They may be frightened of being
+alone or unsure how to access follow-up.
+
+38
+00:07:00,288 --> 00:07:10,272
+Then state the professional limit clearly and kindly. Offer a service-
+based option without promising that a referral will be accepted or
+available immediately.
+
+39
+00:07:10,272 --> 00:07:20,352
+Brief self-disclosure is only useful if it serves the patient's care.
+A conversation that asks the patient to comfort you reverses the
+professional relationship.
+
+40
+00:07:20,352 --> 00:07:30,480
+If you feel unusually attached or responsible, discuss that reaction
+with an appropriate supervisor or support person while protecting
+patient confidentiality.
+
+41
+00:07:30,480 --> 00:07:42,168
+Autonomy asks whose decision this is and whether the person has the
+information and opportunity needed to decide. A recommendation should
+help the patient make a choice, not silence them.
+
+42
+00:07:42,168 --> 00:07:54,240
+Beneficence asks what good the proposed action could achieve.
+Nonmaleficence asks what harm it might cause, including harm from
+delay, coercion or an unnecessary intervention.
+
+43
+00:07:54,240 --> 00:08:05,952
+Justice asks whether care is fair. Clinical urgency and need can
+justify different priorities; wealth, social status or your personal
+liking of a patient cannot.
+
+44
+00:08:05,952 --> 00:08:16,680
+The principles may pull in different directions. Use them to expose
+the competing concerns, then explain a defensible action rather than
+merely naming a principle.
+
+45
+00:08:16,680 --> 00:08:28,608
+For adult consent in BC, capability is presumed unless the contrary is
+demonstrated. Disagreeing with your recommendation does not, by
+itself, show incapability.
+
+46
+00:08:28,608 --> 00:08:39,936
+Explain the condition, the proposed care, important risks and
+benefits, and reasonable alternatives. Ask the person to describe what
+those options could mean for their own situation.
+
+47
+00:08:39,936 --> 00:08:50,520
+A capable adult can refuse care, including a choice with serious
+consequences. Family anxiety does not automatically transfer the
+decision to a relative.
+
+48
+00:08:50,520 --> 00:09:05,832
+If understanding, voluntariness or a possible emergency exception is
+uncertain, obtain appropriate clinical support and follow the consent
+pathway. This ethical discussion is not a complete refusal or mental-
+health algorithm.
+
+49
+00:09:05,832 --> 00:09:17,496
+Start by stating the dilemma in one sentence. For example: I recommend
+assessment in hospital, but the patient is declining because they fear
+leaving a dependent person alone.
+
+50
+00:09:17,496 --> 00:09:26,976
+Gather clinical findings and ask what matters to the patient. Separate
+a confirmed fact from an assumption about their motivation or
+capability.
+
+51
+00:09:26,976 --> 00:09:40,752
+Compare options that are genuinely available. Consider urgent
+treatment, further discussion, an interpreter, a support person or
+clinical consultation, without inventing resources you cannot arrange.
+
+52
+00:09:40,752 --> 00:09:51,528
+Choose an action within the applicable authority, explain the trade-
+offs and record the reasoning. Reassess if symptoms, wishes or
+available information change.
+
+53
+00:09:51,528 --> 00:10:02,664
+In this original teaching case, the patient wants the recommended
+assessment. The immediate obstacle is concern for a dependent
+relative, not a settled refusal of medical care.
+
+54
+00:10:02,664 --> 00:10:13,032
+First assess clinical urgency. Then ask whether an appropriate person
+or established service could help with the relative, and whether the
+patient agrees to that contact.
+
+55
+00:10:13,032 --> 00:10:27,144
+Autonomy supports understanding the patient's priorities. Beneficence
+supports needed assessment. Nonmaleficence makes us consider harm from
+delay, and justice requires a fair response to a social barrier.
+
+56
+00:10:27,144 --> 00:10:40,680
+A defensible plan combines clinical care with a feasible, consent-
+based support step. If no support is available, explain that
+limitation, obtain clinical advice when needed and document the
+patient's decision.
+
+57
+00:10:40,680 --> 00:10:52,512
+Advocacy means helping a patient access appropriate care or support.
+Common barriers include medication access, transport, housing,
+language and limited social support.
+
+58
+00:10:52,512 --> 00:11:04,464
+Ask what is preventing access instead of labelling the person
+noncompliant. The difference matters: an unanswered practical barrier
+may continue after today's symptoms improve.
+
+59
+00:11:04,464 --> 00:11:18,528
+Offer choices, obtain the appropriate agreement and use established
+referral routes. Ordinary referral consent is not a universal rule for
+every legally required disclosure; those duties need their own
+pathway.
+
+60
+00:11:18,528 --> 00:11:30,168
+Do not guarantee acceptance, fund care personally or take over long-
+term case management. Effective advocacy connects the patient to a
+service while keeping responsibility clear.
+
+61
+00:11:30,168 --> 00:11:40,872
+Limited English is a communication barrier, not evidence of
+incapability. Begin with immediate safety and assessment while
+arranging the appropriate language support.
+
+62
+00:11:40,872 --> 00:11:52,632
+Explain to relatives that you need to hear the patient's own account.
+Address the patient, use brief questions and allow interpretation time
+rather than speaking only to the interpreter.
+
+63
+00:11:52,632 --> 00:12:05,376
+For important choices, use the service's appropriate interpreting
+process rather than assuming a relative's summary is complete or
+neutral. Ask the patient to explain key information in their own
+words.
+
+64
+00:12:05,376 --> 00:12:16,848
+Document the communication barrier, support used, relevant
+understanding and agreed plan. Advocacy has improved access without
+changing the patient's right to participate.
+
+65
+00:12:16,848 --> 00:12:26,688
+Separate observation from the patient's report. Patient states is
+useful when the information comes from the patient rather than an
+independent observation.
+
+66
+00:12:26,688 --> 00:12:38,352
+Record the barrier, the action offered, the relevant consent and the
+outcome. If a referral was offered but declined, say that accurately
+rather than charting a completed referral.
+
+67
+00:12:38,352 --> 00:12:50,544
+Avoid moral labels such as difficult or uncooperative when you can
+describe the behaviour and context. For example, the patient declined
+the proposed service after its purpose was explained.
+
+68
+00:12:50,544 --> 00:13:01,608
+Use the patient record for relevant care information. A dispute with a
+colleague belongs in the appropriate reporting process; include any
+clinically relevant effect on care factually.
+
+69
+00:13:01,608 --> 00:13:10,008
+Pause and form a response before reading the model reasoning. Your
+answer should protect information without becoming hostile to the
+neighbour.
+
+70
+00:13:10,008 --> 00:13:19,824
+A suitable response is: I cannot discuss someone else's health
+information. Thank you for offering help; please give us space to
+continue our work.
+
+71
+00:13:19,824 --> 00:13:31,344
+The gift and request create a boundary concern. Do not exchange
+information for a favour, and follow the service's gift policy. Record
+only what is relevant to the patient's care.
+
+72
+00:13:31,344 --> 00:13:42,648
+Explain the principles: confidentiality protects trust; autonomy
+respects the patient's expressed wish; professional boundaries prevent
+private influence over care.

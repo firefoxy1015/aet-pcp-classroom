@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 390" role="img" aria-labelledby="title desc">
+  <title id="title">Ovarian and uterine cycles describe different organs</title>
+  <desc id="desc">The ovarian follicular phase overlaps uterine menstruation and proliferation. Ovulation separates it from the luteal phase, which overlaps the uterine secretory phase. The diagram shows sequence, not a fixed ovulation date.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10Z" fill="#183750"/></marker></defs>
+  <rect width="720" height="390" rx="18" fill="#f4f8fb"/>
+  <g font-family="Arial, sans-serif" fill="#183750">
+    <text x="24" y="36" font-size="25" font-weight="700">Two organs, two connected cycles</text>
+    <text x="24" y="64" font-size="18">A sequence diagram - not a fixed day-14 prediction</text>
+    <text x="24" y="100" font-size="20" font-weight="700">OVARY</text>
+    <rect x="24" y="112" width="304" height="75" rx="12" fill="#d4edf0"/>
+    <rect x="344" y="112" width="116" height="75" rx="12" fill="#ffe8b3"/>
+    <rect x="476" y="112" width="220" height="75" rx="12" fill="#d4edf0"/>
+    <text x="176" y="144" text-anchor="middle" font-size="24" font-weight="700">Follicular</text>
+    <text x="176" y="171" text-anchor="middle" font-size="18">Growing follicles</text>
+    <text x="402" y="144" text-anchor="middle" font-size="21" font-weight="700">Ovulation</text>
+    <text x="402" y="171" text-anchor="middle" font-size="18">LH surge</text>
+    <text x="586" y="144" text-anchor="middle" font-size="24" font-weight="700">Luteal</text>
+    <text x="586" y="171" text-anchor="middle" font-size="18">Corpus luteum</text>
+    <text x="24" y="222" font-size="20" font-weight="700">UTERUS</text>
+    <rect x="24" y="234" width="144" height="75" rx="12" fill="#f7dce2"/>
+    <rect x="184" y="234" width="276" height="75" rx="12" fill="#e2ebff"/>
+    <rect x="476" y="234" width="220" height="75" rx="12" fill="#e2ebff"/>
+    <text x="96" y="267" text-anchor="middle" font-size="23" font-weight="700">Menses</text>
+    <text x="96" y="294" text-anchor="middle" font-size="18">Shedding</text>
+    <text x="322" y="267" text-anchor="middle" font-size="23" font-weight="700">Proliferative</text>
+    <text x="322" y="294" text-anchor="middle" font-size="18">Rebuilding lining</text>
+    <text x="586" y="267" text-anchor="middle" font-size="23" font-weight="700">Secretory</text>
+    <text x="586" y="294" text-anchor="middle" font-size="18">Steroid support</text>
+    <path d="M328 150 H340 M460 150 H472 M168 272 H180 M460 272 H472" stroke="#183750" stroke-width="2" marker-end="url(#arrow)"/>
+    <text x="24" y="346" font-size="19">Without ongoing support, luteal regression leads to the next menses.</text>
+    <text x="24" y="373" font-size="17">Original teaching diagram. Timing varies between people and cycles.</text>
+  </g>
+</svg>

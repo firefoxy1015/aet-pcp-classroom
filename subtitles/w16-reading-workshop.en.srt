@@ -1,0 +1,391 @@
+1
+00:00:00,000 --> 00:00:15,096
+The saved Week 16 index lists eleven reading rows. The assigned focus
+ranges from learner-specific remediation to procedure review,
+provincial examination material, case reasoning, medication review and
+measurement flashcards.
+
+2
+00:00:15,096 --> 00:00:30,048
+Nancy Caroline’s Canadian eighth edition is the learner-confirmed
+principal examination text. The selected assessment chapters below are
+a separate bridge; they are not a twelfth school row and do not
+replace any of the eleven assignments.
+
+3
+00:00:30,048 --> 00:00:51,384
+The reading panel now contains the reviewed school-folder bodies
+rather than short candidate placeholders. Keep three distinctions
+visible: a named chapter can be explained even when a school page
+number conflicts; a checklist index is not every listed procedure
+body; and a current clinical comparison is not proof of the school
+edition.
+
+4
+00:00:51,384 --> 00:01:19,416
+The cardiovascular copy has seventy-nine physical pages, while the
+school locator reaches page three hundred nineteen. The complete seven
+named chapters are explained, but literal page equivalence is
+unresolved. The procedure reader now adds primary Pinel teaching and
+distinguishes the actual PR30 resources from the mislabeled
+attachment. Source identity differences remain visible rather than
+becoming invented instructions.
+
+5
+00:01:19,416 --> 00:01:34,200
+For a case-focused chapter, build a timeline and separate reported
+facts, direct observations, unknowns and assumptions. For a skills
+checklist, identify the safety gate, expected result and reassessment
+point.
+
+6
+00:01:34,200 --> 00:01:51,480
+Keep source identity beside each note. A candidate nursing or
+pharmacology textbook can explain a general concept, but current BC
+Emergency Health Services direction, BC legislation, provider scope
+and instructor guidance control operational practice.
+
+7
+00:01:51,480 --> 00:02:11,088
+Start with the assignment directory in Reading mode. The
+cardiovascular guide has all seven chapter routes, the pharmacology
+guide has twenty-five chapters in six units, and the procedure guide
+has code-specific rounds. These are organized components of weekly
+teaching, not hundreds of unrelated lessons.
+
+8
+00:02:11,088 --> 00:02:29,088
+Read both the source notice and the explanation. When the school names
+an individual gap, select the matching route from an actual observed
+difficulty. Do not manufacture a personal deficiency or mark a missing
+school appendix complete because a related nursing index is available.
+
+9
+00:02:29,088 --> 00:02:52,680
+For the school bradycardia case, connect electrical rate to mechanical
+output. Cardiac output depends on both rate and stroke volume, and
+tissue perfusion also depends on pressure and vascular conditions. A
+low displayed rate alone does not tell you whether output is adequate.
+Compare consciousness, skin, symptoms, blood pressure and the measured
+trend.
+
+10
+00:02:52,680 --> 00:03:15,912
+If the learner gap is respiratory, distinguish movement of air, gas
+exchange and oxygen delivery. If it is neurological, connect an
+observed change to brain function without assigning a lesion from one
+sign. The A&P routes support targeted explanation; they do not impose
+an invented fixed reading range on the school’s individualized
+assignment.
+
+11
+00:03:15,912 --> 00:03:41,040
+Read the seven chapters as one circulation: electrical activation
+drives contraction; filling and resistance affect flow; valve or
+congenital abnormalities alter pressure or direction; and coronary
+supply must meet demand. Heart failure can occur with preserved
+ejection fraction, so a preserved fraction does not prove normal
+filling pressures or absence of congestion.
+
+12
+00:03:41,040 --> 00:04:06,408
+In a breathless patient, contrast pump failure with an arrhythmia, an
+ischaemic process and a non-cardiac cause instead of forcing every cue
+into one diagnosis. New chest symptoms, a changing ECG or a concerning
+perfusion trend require the authorized assessment and escalation
+pathway. A summary table is not a rule that excludes disease when one
+familiar sign is absent.
+
+13
+00:04:06,408 --> 00:04:27,480
+Start the six-unit review with the difference between what the body
+does to a medicine and what a medicine does to the body. Poor intake,
+renal or hepatic impairment, timing and formulation can change
+exposure. A medicine list without the last actual dose or a recent
+change may conceal the most important part of the history.
+
+14
+00:04:27,480 --> 00:04:53,376
+Use the early chapters for safe administration, legal and ethical
+reasoning, calculations, teaching, supplements and complementary
+products. An OTC label or natural origin does not remove interaction
+or toxicity risk. Dimensional analysis checks units, but the result
+still needs the correct patient, authorized order, concentration,
+route and a plausibility check.
+
+15
+00:04:53,376 --> 00:05:15,912
+The immunity, anti-infective and cancer chapters connect treatment
+targets with host risk. Distinguish immune suppression from immune
+stimulation and an allergic reaction from an unrelated adverse effect.
+An antibiotic does not treat every cause of fever, and changing
+symptoms can reflect a complication rather than failure to use a
+stronger drug.
+
+16
+00:05:15,912 --> 00:05:41,664
+In a recently treated cancer patient who becomes unwell, obtain the
+treatment and symptom timeline and assess immediate threats without
+assuming the problem is anxiety or an expected side effect. Report
+fever, deterioration and relevant treatment information through the
+actual pathway. This review explains risk recognition, not an
+independent antimicrobial or oncology prescription.
+
+17
+00:05:41,664 --> 00:06:07,104
+Use the neural foundation before memorizing drug names. Receptor
+location and action explain why one product can change pulse,
+pressure, secretions, alertness or breathing. The same symptom can
+arise from illness, a prescribed dose, accumulation, a missed
+treatment or another exposure, so reconstruct the timeline before
+deciding which mechanism best fits.
+
+18
+00:06:07,104 --> 00:06:34,200
+The neurological, psychiatric and substance-use routes preserve
+important distinctions: withdrawal can occur despite a positive
+alcohol level; ongoing opioid agonist treatment is not simply a short
+weaning course; and apparent improvement after a reversal medicine may
+not last as long as the original exposure. Continue the required
+monitoring and communication rather than treating one response as a
+final diagnosis.
+
+19
+00:06:34,200 --> 00:06:58,896
+Link cardiovascular drug purpose to the patient’s findings. A medicine
+that lowers pressure or slows the node may have a useful chronic role
+yet be relevant to today’s poor perfusion. Diuretics can change volume
+and electrolytes; treatment effect and adverse effect must be assessed
+together. Never infer that all slow rhythms or all rapid rhythms share
+one medication response.
+
+20
+00:06:58,896 --> 00:07:27,336
+Antiplatelets, anticoagulants and thrombolytics act at different parts
+of haemostasis and have different indications, monitoring and reversal
+limits. A normal INR does not exclude clinically relevant direct oral
+anticoagulant exposure. Lipid treatments primarily address longer-term
+risk; symptom absence does not prove treatment is unnecessary. Use
+chapter contrasts before recalling a product from its name ending.
+
+21
+00:07:27,336 --> 00:07:52,848
+The named sixth unit includes all three respiratory chapters, even
+though the school’s literal page endpoint stops earlier. Distinguish
+upper-airway symptom products, lower-airway bronchodilators and anti-
+inflammatory controllers. A brief improvement in wheeze does not prove
+all risk is resolved. An acceptable saturation does not prove that the
+patient is ventilating adequately.
+
+22
+00:07:52,848 --> 00:08:17,232
+Check the actual formulation and delivery device before reasoning
+about benefit or harm. Children are not small adults for cough-and-
+cold products; combination ingredients and sedating effects matter. If
+a patient is deteriorating, reassess airway, breathing, mental status
+and authorized escalation needs instead of stacking OTC products or
+treating the monitor number alone.
+
+23
+00:08:17,232 --> 00:08:38,688
+The code-specific reading rounds explain the available procedure
+bodies and identify advanced-provider material. For the two-hundred-
+twenty-kilogram movement case, capacity, patient condition, route and
+the whole equipment system must be assessed before movement. A
+patient’s ability to stand or an isolated device label cannot replace
+that plan.
+
+24
+00:08:38,688 --> 00:09:05,496
+For Pinel, use the actual manufacturer instructions together with the
+current service policies, not a title in an old contents page. For
+transfusion, explain the supplied checklist and pediatric syringe
+method within their actual roles. A volumetric label on a syringe
+manual does not change the device. Do not invent a missing method or
+turn a hospital example into new independent PCP authority.
+
+25
+00:09:05,496 --> 00:09:30,864
+The CPSC guide groups the complete Appendix Two index and explains the
+assigned glucose-assessment pages. A checklist entry tells you that a
+procedure exists; it does not supply every instruction or make an
+unfamiliar ward skill appropriate for a PCP. Check indication,
+equipment, patient explanation, infection-control boundaries, response
+and the actual authorized procedure.
+
+26
+00:09:30,864 --> 00:09:54,720
+The CNS guide teaches the identified cardiac chapter and clinical-
+judgment content. Its missing Appendix Two pointer remains separate
+from the available CPSC index. Use cardiac assessment to connect
+history and physical findings, but do not let a checklist delay
+immediate support or convert an educational nursing assessment into a
+paramedic treatment order.
+
+27
+00:09:54,720 --> 00:10:19,296
+The Chapter Seven flashcards are technique retrieval, not just number
+memorization. Explain temperature method, pulse and respirations,
+pressure technique and saturation limitations. In the large-patient
+case, choose a cuff using the measured arm and manufacturer range;
+body weight does not determine cuff size. A poor fit can distort the
+pressure you use to judge perfusion.
+
+28
+00:10:19,296 --> 00:10:41,616
+When the measurement conflicts with appearance, check the method and
+signal, repeat appropriately and continue immediate care. Document why
+a reading is uncertain rather than silently discarding it or reporting
+false precision. The twelve source cards are reviewed in the guide;
+supervised practice still establishes hand position, fit and
+measurement quality.
+
+29
+00:10:41,616 --> 00:11:04,752
+In the unfolding case, do not leak later information into an earlier
+decision. At each point state what is known now, its source, the
+important unknown and the priority it supports. A patient can improve
+in one domain while a functional, pain or safety problem remains.
+Reassessing only the number that first worried you can miss the next
+threat.
+
+30
+00:11:04,752 --> 00:11:25,848
+Use the FON clinical-judgment chain to explain why a new cue changes
+your plan. A changed plan is not proof that the first clinician was
+careless; it may reflect new information. Separate observation from
+interpretation, choose an action within current authority, then
+explain the actual response and the next decision.
+
+31
+00:11:25,848 --> 00:11:48,432
+The MSN outcome-evaluation reading asks you to compare a planned
+result with evidence, not to count completed tasks. State the intended
+observable change, the actual finding, time and method. If breathing
+appears easier but consciousness falls, report both. You cannot call
+the overall goal met by selecting only the favourable result.
+
+32
+00:11:48,432 --> 00:12:08,328
+If a goal is not met, reassess the patient, original assumption,
+intervention delivery and measurement quality. Do not automatically
+repeat or intensify treatment. Communicate the expected-versus-actual
+response and unresolved concern so the next clinician can act on the
+same evidence.
+
+33
+00:12:08,328 --> 00:12:33,360
+The mental-health case dissection separates what the person said, what
+you observed and what you infer. In an anxious or distressed patient,
+use calm neutral language, one question at a time and enough space to
+answer. Do not diagnose from a short fragment or allow a psychiatric
+history to explain away abnormal breathing, perfusion, glucose or
+consciousness.
+
+34
+00:12:33,360 --> 00:12:58,776
+Reassess safety and the response to communication as the case
+develops. Explain privacy without promising absolute secrecy when
+safety requires appropriate sharing. During debrief, identify the
+specific new fact that changed concern, the support you sought and
+what still needs follow-up. These are observable clinical behaviours
+rather than labels such as difficult or non-compliant.
+
+35
+00:12:58,776 --> 00:13:24,144
+The BC Provincial Examination Guidelines reader distinguishes the
+school’s saved version, the literal pages and the grading material
+reached by the named topic. It also identifies the later comparison
+rather than mixing editions. Provincial exam deficiencies and result-
+review procedures belong to that licensing system; they are not
+automatically AET Mock OSCE pass marks or critical-fail rules.
+
+36
+00:13:24,144 --> 00:13:48,000
+Use feedback by recording the observed action, sequence, consequence
+and actual criterion, then choose one corrected behaviour for the next
+drill. The available school plan requires extensive documentation and
+formal handover. It does not supply a numerical station rubric, so
+neither an original practice answer nor a polished handover can
+certify a school pass.
+
+37
+00:13:48,000 --> 00:14:04,056
+For each mock case, name one idea from the reading that changed your
+assessment, sequencing, measurement, documentation or handover. If no
+decision changed, explain what knowledge gap remains rather than
+forcing a textbook connection.
+
+38
+00:14:04,056 --> 00:14:16,488
+A reading guide supports revision; it does not certify clinical
+competence. Only supervised school practice and the instructor’s
+actual criteria can establish performance in the assigned station.
+
+39
+00:14:16,488 --> 00:14:42,000
+Close the notes and walk through the school bradycardia and movement
+case from arrival to handover. State what you know and do not know.
+Explain which reading changes each decision: measurement for reliable
+pressure, cardiovascular and pharmacology reasoning for the clinical
+picture, procedures for safe movement, and case chapters for response
+and communication. Do not invent extra case observations.
+
+40
+00:14:42,000 --> 00:15:05,232
+When you cannot explain one step, reopen that exact chapter or round,
+then rehearse again using an actual observed gap. The aim is one
+coherent clinical performance, not recalling a pile of isolated facts.
+Reading completion, media playback, practical competence and official
+school assessment remain different kinds of evidence.
+
+41
+00:15:05,232 --> 00:15:28,920
+A frightened patient is not an equipment problem. Start with safety,
+communication and possible illness, and attempt reasonable de-
+escalation. If restraint becomes necessary, establish the applicable
+authority and seek appropriate clinical advice. Explain the plan and
+the conditions for ending it. A product demonstration cannot make that
+decision for you.
+
+42
+00:15:28,920 --> 00:15:49,560
+Use the least restrictive suitable method for the shortest necessary
+time. The reader distinguishes current service policies from the
+manufacturer instructions. It also identifies contradictions in those
+instructions. In supervised practice, name the actual model and
+approved configuration before describing how its parts connect.
+
+43
+00:15:49,560 --> 00:16:10,224
+Before use, identify the compatible parts and demonstrate both locking
+and release. A click alone is not enough. During application, check
+fit and the actual attachment point, then assess breathing, skin and
+distal circulation. A later recheck never excuses an immediately
+unsafe fit.
+
+44
+00:16:10,224 --> 00:16:35,160
+A waist belt, pelvic component and lateral attachments have different
+jobs. An extender changes length, not automatically load capacity. A
+manufacturer photograph with hands behind the body does not establish
+an approved transport position. Never place or transport a restrained
+person face down; follow the actual service policy and maintain
+patient access.
+
+45
+00:16:35,160 --> 00:16:57,912
+In the original case, the patient becomes unusually quiet after
+restriction. Stop interpreting compliance as recovery. Reassess the
+airway, ventilation, perfusion and possible restraint-related harm,
+obtain help and coordinate safe adjustment or release with necessary
+support. Continue looking for the underlying medical cause.
+
+46
+00:16:57,912 --> 00:17:21,096
+Document the observed risk, alternatives, chosen method, response,
+monitoring, interventions and clinical communication. Explain what
+would permit discontinuation, reassess frequently and reduce
+restriction as soon as safe. Your rehearsal records observable
+decisions and omissions; it does not certify a skill or create an
+official school score.

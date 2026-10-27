@@ -1,0 +1,76 @@
+1
+00:00:00,000 --> 00:00:31,440
+The saved school index contains eleven Week 14 rows: a broad A&P
+review, BCEHS A01 through A04, BCPEG practical examination criteria,
+and assignments in CV Patho, CNS, CPSC, FON, MSN, pharmacology,
+mental-health nursing and vital-sign measurement. The source identity
+and exact assigned-range status are stated in each reading, rather
+than treating every recovered file as an unverified candidate.
+
+2
+00:00:31,440 --> 00:00:45,744
+Nancy is the learner-confirmed main examination textbook. Its selected
+EENT and clinical-decision sections are an additional study bridge,
+not a twelfth school reading row and not a translation of the assigned
+chapters.
+
+3
+00:00:45,744 --> 00:01:10,560
+The assignment table identifies the reading requirement; the actual
+school-folder copy identifies the text that can be checked. Several
+repeated safety and communication ranges now have verified source
+identities and earlier full-range explanations. A similar title alone
+is still insufficient, and a source or page difference remains
+explicit rather than being silently cleared.
+
+4
+00:01:10,560 --> 00:01:35,808
+This workshop uses original paired English and Chinese teaching and
+retains the exact school locator beside the actual mapping. It does
+not reproduce source patient stories, figures, assessment questions or
+answer keys. Review status is tied to the source and teaching
+evidence, not the number of files, slides or links. Remaining reading
+gaps are not presented as completed.
+
+5
+00:01:35,808 --> 00:01:53,880
+For the child airway case, connect respiratory anatomy, pediatric
+physiology and danger cues; for eye exposure, connect chemical
+contact, infection-control/PPE and rapid irrigation; for bleeding,
+connect risk history with a simple first-aid action.
+
+6
+00:01:53,880 --> 00:02:08,040
+Do not use nursing texts or broad physiology readings as field
+authorization. Clinical pathways, provincial legislation, current
+service policy, licensing and supervised instruction define the
+operative boundary.
+
+7
+00:02:08,040 --> 00:02:21,912
+For each answer, state the source you used and whether it is a school
+objective, current BCEHS direction or a candidate-text concept. That
+habit prevents a textbook summary from being mistaken for a current
+treatment order.
+
+8
+00:02:21,912 --> 00:02:35,808
+When studying for a test, distinguish recall from application. Recall
+the school’s stated criteria; then apply the current source and
+explain how you would respond if equipment, patient condition or scene
+safety changed.
+
+9
+00:02:35,808 --> 00:02:54,600
+The school plan requests a Sunday self-assessment using Appendix G and
+three weak points for Week 16 remediation. The official appendix was
+not present in the available source set. Use the linked original
+three-gap method only as preparation; do not submit it in place of the
+school form.
+
+10
+00:02:54,600 --> 00:03:13,392
+A useful gap says what happened, when it happened, why it matters and
+how the next run will test a different behavior. For example: “I
+waited for saline while the eye remained exposed; next run I will
+start suitable clean water while my partner identifies the product.”

@@ -1,0 +1,756 @@
+1
+00:00:00,000 --> 00:00:14,880
+The school 7F module is explicitly allocated this week. This session
+follows each of its six narrative sections, but explains mechanisms
+and decision links rather than copying the old companion’s
+environmental-emergency catalogue.
+
+2
+00:00:14,880 --> 00:00:25,656
+A mechanism helps you predict what might happen next. It does not
+identify the individual patient’s complete diagnosis, supply a missing
+treatment order or authorize a procedure.
+
+3
+00:00:25,656 --> 00:00:36,264
+For any disagreement, preserve three labels: what the school source
+says, what current BCEHS guidance says, and what the actual licensed
+provider is authorized to do.
+
+4
+00:00:36,264 --> 00:00:50,976
+Thermal energy disrupts cell membranes and proteins. Tissue injury
+triggers inflammation; when vascular permeability rises, fluid and
+proteins move from the intravascular space into surrounding tissues.
+
+5
+00:00:50,976 --> 00:01:03,456
+The result can include swelling at the burn site and reduced effective
+circulating volume. Burn shock can combine vasodilation and capillary
+leak; it is not explained by skin appearance alone.
+
+6
+00:01:03,456 --> 00:01:14,472
+The time course and body area matter, but a single percentage does not
+tell you current airway status, perfusion, depth, inhaled exposure or
+other trauma.
+
+7
+00:01:14,472 --> 00:01:26,208
+The school calls the early response the ebb phase. Circulating volume
+and cardiac output may be reduced after a severe burn, limiting the
+delivery of oxygen and nutrients.
+
+8
+00:01:26,208 --> 00:01:39,864
+The later flow phase includes greater cardiac work and metabolic
+demand. Stress hormones and inflammation can sustain protein breakdown
+and increased energy needs long after the original exposure.
+
+9
+00:01:39,864 --> 00:01:54,336
+The saved school text places the transition around forty-eight hours.
+A published burn primer describes a longer initial period. These are
+broad models, not a promise that every patient changes phase at one
+fixed hour.
+
+10
+00:01:54,336 --> 00:02:07,992
+For a field assessment, ask when the injury happened and what care has
+occurred, then assess actual perfusion. Do not label new hypotension
+as normal ebb physiology or assume later tachycardia proves infection.
+
+11
+00:02:07,992 --> 00:02:23,088
+Edema can distort anatomy. In a circumferential limb burn, swelling
+inside a relatively fixed skin boundary may reduce distal perfusion;
+in a circumferential chest burn, chest-wall expansion can be
+mechanically limited.
+
+12
+00:02:23,088 --> 00:02:36,264
+Inhaled hot gases, smoke and chemical irritants can injure upper or
+lower airways. Symptoms may evolve, so an early normal voice or oxygen
+reading does not guarantee a stable airway.
+
+13
+00:02:36,264 --> 00:02:49,224
+Current BCEHS H10 emphasizes repeated airway-patency assessment,
+supplemental oxygen where indicated, and prompt reassessment when
+cough, voice change or soot suggests inhalation injury.
+
+14
+00:02:49,224 --> 00:03:02,280
+Above the vocal cords, heat injury can produce swelling and
+obstruction. New hoarseness, noisy inspiration or increasing effort
+needs attention even before the oxygen display falls.
+
+15
+00:03:02,280 --> 00:03:18,048
+Below the vocal cords, smoke chemicals can injure the airway lining,
+impair clearance and provoke bronchospasm. Cough and wheeze point to
+different observations from a narrowed upper airway, but do not
+identify one cause by themselves.
+
+16
+00:03:18,048 --> 00:03:33,096
+Upper thermal and lower chemical injury are useful patterns, not
+absolute boundaries. The exposure, including steam or unusual
+chemicals, can change the pattern; an external facial burn does not
+describe the whole airway.
+
+17
+00:03:33,096 --> 00:03:51,096
+Keep reassessing voice, airway sounds, effort, ventilation and
+circulation. Plan escalation before deterioration; advanced airway
+intervention belongs to appropriately trained and authorized
+clinicians, not to a decision based only on singed hair.
+
+18
+00:03:51,096 --> 00:04:06,240
+Carbon monoxide binds hemoglobin and impairs oxygen carriage. A
+standard two-wavelength pulse oximeter cannot reliably distinguish
+carboxyhemoglobin from oxyhemoglobin, so the displayed saturation may
+mislead.
+
+19
+00:04:06,240 --> 00:04:18,312
+A suspected combustion exposure is a history-and-scene problem as well
+as a monitor problem. Consider whether more than one person is
+affected and whether symptoms match the exposure.
+
+20
+00:04:18,312 --> 00:04:34,080
+Current BCEHS J02 directs oxygen and consultation for suspected or
+confirmed CO. CO-oximetry, when available, can add information, but a
+device reading is not a universal mandatory screen or a stand-alone
+rule-out.
+
+21
+00:04:34,080 --> 00:04:48,120
+Think of oxygen transport as a delivery route. Carbon monoxide
+occupies hemoglobin binding sites and interferes with oxygen delivery
+and release. The usual pulse-oximeter number may not reveal that
+problem.
+
+22
+00:04:48,120 --> 00:05:01,944
+Cyanide acts further along the route by inhibiting mitochondrial
+energy production. Oxygen may reach a tissue that cannot use it
+normally. Combustion exposure can involve both poisons, as well as
+airway injury.
+
+23
+00:05:01,944 --> 00:05:16,344
+Severe unexplained neurologic or circulatory decline after an enclosed
+fire raises concern, but no single bedside finding proves cyanide
+poisoning. A high lactate, if available, has other possible causes.
+
+24
+00:05:16,344 --> 00:05:36,912
+BCEHS J03 requires CliniCall consultation for suspected cyanide
+exposure. Its hydroxocobalamin monograph labels the antidote for CCP
+use. Recognize the concern, support the patient and communicate it; do
+not convert the school antidote mention into a PCP administration
+order.
+
+25
+00:05:36,912 --> 00:05:49,872
+Burn depth is not always obvious at first contact and can change in
+appearance. Ask about the mechanism, time, clothing, cooling already
+provided and possible inhalation exposure.
+
+26
+00:05:49,872 --> 00:06:02,280
+Rules of Nines and the patient’s hand can help estimate the area of
+partial-thickness or deeper burns. Do not count uncomplicated
+superficial redness in the BCEHS TBSA estimate.
+
+27
+00:06:02,280 --> 00:06:15,864
+For children and irregular patterns, the appropriate chart and current
+local destination guidance matter. The percentage is an estimate for
+communication, not a precise measurement or automatic fluid formula.
+
+28
+00:06:15,864 --> 00:06:32,784
+In this original practice case, a worker is already outside a smoke-
+filled equipment room. You find a small forearm burn, headache and a
+reassuring-looking saturation. Begin with scene safety and the primary
+survey, not with wound photography.
+
+29
+00:06:32,784 --> 00:06:48,336
+During reassessment the voice becomes rough and breathing effort
+increases. Explain the change: the airway may be evolving
+independently of the visible skin injury. Reassess ventilation and
+prepare the appropriate support and escalation.
+
+30
+00:06:48,336 --> 00:07:03,600
+The headache and exposure history also keep combustion toxicity on the
+problem list. A normal-looking conventional saturation cannot remove
+carbon monoxide from that list. Do not wait for a large skin burn or a
+device diagnosis.
+
+31
+00:07:03,600 --> 00:07:20,112
+A useful pre-alert describes the enclosed-smoke exposure, the new
+voice change, breathing trend, circulation, treatment and response.
+State concern for inhalation injury and toxic exposure while
+acknowledging what remains unconfirmed.
+
+32
+00:07:20,112 --> 00:07:32,760
+The core temperature reflects heat produced by metabolism and muscle
+work minus heat lost to the environment. Radiation, conduction,
+convection and evaporation all contribute.
+
+33
+00:07:32,760 --> 00:07:47,976
+Vasoconstriction and shivering can help conserve or produce heat.
+Sweating and skin blood flow can dissipate heat, but these responses
+have limits and depend on hydration, age, illness, clothing and air
+movement.
+
+34
+00:07:47,976 --> 00:08:01,464
+A hot or cold environment is not the only cause. Immobility, wet
+clothing, intoxication, illness, medications or a long extrication can
+defeat normal compensation.
+
+35
+00:08:01,464 --> 00:08:14,760
+Sweat cools mainly when it evaporates. In humid air, a person may be
+visibly soaked while losing heat poorly. The presence of sweat is
+therefore not evidence that temperature control is working.
+
+36
+00:08:14,760 --> 00:08:27,672
+A wet patient on a cold surface can lose heat by contact, moving air
+and evaporation together. Covering the chest alone does not correct
+heat loss through the ground or an exposed wet back.
+
+37
+00:08:27,672 --> 00:08:40,944
+Radiation and convection are heat-exchange processes, not always
+cooling processes. Direct sunlight or air hotter than the skin may add
+heat. Ask which direction the temperature gradient points.
+
+38
+00:08:40,944 --> 00:08:57,960
+Link each environmental observation to a practical control: safer
+shelter, shade, suitable clothing removal, insulation or active
+cooling. Then repeat the patient assessment; changing the environment
+does not prove that organ dysfunction has resolved.
+
+39
+00:08:57,960 --> 00:09:11,304
+Heat illness exists on a spectrum. Cramps and heat exhaustion can
+progress; altered mental status or other central nervous system
+dysfunction in an overheated patient raises concern for heat stroke.
+
+40
+00:09:11,304 --> 00:09:23,520
+Classic heat illness and exertional heat illness have different
+exposure contexts, but both can cause life-threatening organ injury.
+Sweating does not safely exclude exertional heat stroke.
+
+41
+00:09:23,520 --> 00:09:39,288
+Current BCEHS I02 says begin cooling on scene where possible and
+continue during transport, with the method chosen around patient
+condition, movement safety and available resources. Do not treat
+environmental heat stroke with antipyretics.
+
+42
+00:09:39,288 --> 00:09:54,840
+A volunteer becomes confused during heavy work in a hot warehouse. The
+person is sweating. A forehead device reads thirty-eight point four
+degrees Celsius. Neither finding safely dismisses dangerous
+environmental heat illness.
+
+43
+00:09:54,840 --> 00:10:08,232
+A surface reading is not a reliable substitute for the core
+measurement in the formal heat-stroke definition. Record the site and
+method, but do not wait for the display to cross forty before
+responding to the clinical threat.
+
+44
+00:10:08,232 --> 00:10:23,256
+Start cooling and support airway, breathing and circulation while
+checking for competing or concurrent problems such as low glucose,
+infection or intoxication. Environmental heat and another emergency
+can coexist.
+
+45
+00:10:23,256 --> 00:10:39,024
+BCEHS I02 calls for prompt cooling rather than antipyretics for
+environmental heat illness. Repeat mental status, breathing and
+perfusion during treatment. Oral water alone is not an effective
+substitute for full-body cooling.
+
+46
+00:10:39,024 --> 00:10:56,952
+Heat exhaustion often includes weakness, dizziness, thirst and
+sweating without marked central nervous system impairment. New
+confusion, ataxia or reduced consciousness is a warning of more
+dangerous illness. Do not wait to settle the label before starting
+cooling.
+
+47
+00:10:56,952 --> 00:11:10,584
+Hypothermia is a core temperature below 35 degrees Celsius, but
+peripheral temperature readings can be inaccurate. Clinical stage and
+context are often more useful than claiming an exact core number in
+the field.
+
+48
+00:11:10,584 --> 00:11:24,168
+Remove the person from ongoing cold exposure when safe, remove wet
+clothing, insulate and handle gently. Avoid unnecessary standing or
+rough movement in a markedly cold patient.
+
+49
+00:11:24,168 --> 00:11:38,784
+Shivering may disappear as illness worsens, but its absence alone does
+not stage the patient. Look for mental-status change, pulse and
+breathing trends, trauma, intoxication and other treatable causes.
+
+50
+00:11:38,784 --> 00:11:51,576
+Cooling slows many cellular processes. A reduced heart rate in a
+deeply cold patient belongs in that context, but does not remove the
+need to assess perfusion and other causes of deterioration.
+
+51
+00:11:51,576 --> 00:12:04,248
+The Osborn, or J, wave is a deflection near the end of the QRS complex
+that can occur with hypothermia. It is not unique to cold exposure and
+cannot supply an exact core temperature.
+
+52
+00:12:04,248 --> 00:12:18,096
+Clinical stage, environmental history and repeated findings matter
+when a thermometer is unreliable. A patient found on a floor indoors
+can be cold because another illness prevented movement or normal heat
+production.
+
+53
+00:12:18,096 --> 00:12:34,320
+Use gentle handling, prevent further heat loss and assess concurrent
+problems. If arrest is suspected, follow the actual current
+hypothermia and resuscitation pathway; do not invent a pulse-check
+interval by combining conflicting source versions.
+
+54
+00:12:34,320 --> 00:12:48,192
+Drowning is a respiratory impairment process following submersion, not
+a special disease caused by saltwater alone. Aspiration can injure the
+alveolar surface and interfere with surfactant and normal expansion.
+
+55
+00:12:48,192 --> 00:13:01,656
+Partly collapsed or fluid-filled regions receive less ventilation
+while blood continues to flow through them. This creates a
+ventilation-perfusion mismatch and shunt, so oxygenation can be
+difficult.
+
+56
+00:13:01,656 --> 00:13:16,344
+A person who seems better immediately after rescue may later develop
+respiratory deterioration. Current BCEHS H12 emphasizes oxygenation,
+aspiration and heat-loss prevention, and conveyance for assessment.
+
+57
+00:13:16,344 --> 00:13:28,560
+Surfactant helps reduce surface tension so alveoli remain easier to
+keep open. Damage to that lining, edema and collapse can reduce the
+surface available for gas exchange.
+
+58
+00:13:28,560 --> 00:13:41,160
+If blood continues through a region receiving little or no fresh gas,
+it remains poorly oxygenated. That is the reason the school connects
+atelectasis, shunt and worsening hypoxemia.
+
+59
+00:13:41,160 --> 00:13:57,624
+The school diagram includes breath-holding, laryngospasm and
+aspiration. Treat this as a possible mechanism chain, not a required
+sequence in every drowning event. Do not wait for evidence of every
+step before supporting breathing.
+
+60
+00:13:57,624 --> 00:14:14,208
+Current BCEHS H12 uses the same care principles for fresh and salt
+water. Oxygenation, ventilation when needed, thermal protection,
+reassessment and appropriate conveyance matter more than memorizing
+separate water-type algorithms.
+
+61
+00:14:14,208 --> 00:14:26,184
+Dysbaric illness relates to changing ambient pressure. During ascent,
+trapped gas expands; during a rapid pressure reduction, inert gas
+dissolved in tissue can form bubbles.
+
+62
+00:14:26,184 --> 00:14:39,048
+Pulmonary barotrauma can cause pneumothorax or arterial gas embolism.
+Decompression illness can produce pain, sensory or motor changes,
+breathing difficulty or altered awareness.
+
+63
+00:14:39,048 --> 00:14:53,472
+The dive profile and timing are essential history. Do not assume that
+every post-dive symptom is decompression sickness, and do not let a
+benign-looking skin examination overrule neurologic or respiratory
+deterioration.
+
+64
+00:14:53,472 --> 00:15:09,888
+Imagine a free gas volume of one litre at two units of absolute
+pressure. At one unit, the simple Boyle model predicts two litres if
+temperature and gas amount stay constant. This is a teaching
+calculation, not a lung-volume target.
+
+65
+00:15:09,888 --> 00:15:26,592
+A lung cannot expand without limit. Trapped gas during ascent can
+injure tissue, whereas decompression sickness involves gas that was
+dissolved in tissues forming bubbles as pressure falls. The mechanisms
+are related to pressure but are not identical.
+
+66
+00:15:26,592 --> 00:15:40,848
+Decompression illness is the broader term covering decompression
+sickness and arterial gas embolism. A reported normal ascent or
+compliance with a dive computer does not exclude illness, and symptom
+patterns may overlap.
+
+67
+00:15:40,848 --> 00:15:58,752
+Record dive depth and duration, breathing gas, repeated dives, ascent
+events and symptom times. New weakness, altered awareness or breathing
+difficulty requires urgent assessment and specialist coordination,
+even if symptoms improve after oxygen.
+
+68
+00:15:58,752 --> 00:16:12,528
+A diver who is short of breath may have lung barotrauma as well as
+other problems. Do not automatically borrow the CPAP approach used for
+selected drowning patients: the mechanisms and contraindications
+differ.
+
+69
+00:16:12,528 --> 00:16:30,096
+Current BCEHS I03 directs the highest possible oxygen percentage and
+flow for symptomatic patients, continuing even if symptoms resolve.
+Support inadequate ventilation with the trained airway and bag-mask
+pathway; assess breathing effectiveness repeatedly.
+
+70
+00:16:30,096 --> 00:16:44,664
+I03 contraindicates CPAP and PEEP because underlying barotrauma may
+worsen. Keep the patient supine where possible, changing position when
+needed to protect the airway and respond to the clinical condition.
+
+71
+00:16:44,664 --> 00:16:58,008
+Arrange emergency physician assessment and hyperbaric specialist
+coordination through the service pathway. Do not independently select
+a chamber destination or send a symptomatic diver back into the water.
+
+72
+00:16:58,008 --> 00:17:30,432
+The linked physiology video introduces several different effects.
+Nitrogen narcosis describes impaired function from breathing nitrogen
+at raised ambient pressure; it is not the same mechanism as bubbles in
+decompression sickness. Lung barotrauma can cause arterial gas
+embolism. These explanations can guide questions, but overlapping
+weakness, confusion or breathing difficulty after a dive requires
+urgent assessment and the current service pathway, not a diagnosis
+from one analogy.
+
+73
+00:17:30,432 --> 00:18:02,520
+The video model does not establish fixed patient gas values. In
+Boyle’s model, volume changes while the gas amount remains fixed.
+Tissue uptake also depends on time. Carbon dioxide can accumulate if
+elimination is inadequate; dense breathing gas, workload and
+rebreathing are relevant despite the video’s reassuring statement.
+Record the actual dive and symptom history and support breathing. A
+chamber tour supplies neither a treatment table nor permission to
+operate equipment.
+
+74
+00:18:02,520 --> 00:18:12,960
+At high altitude the fraction of oxygen in air remains about the same,
+but barometric pressure is lower. The partial pressure driving oxygen
+into blood therefore falls.
+
+75
+00:18:12,960 --> 00:18:25,224
+Ventilation and circulation can adapt over time. Acclimatization is
+not immediate, and a previously fit or experienced hiker can still
+develop serious altitude illness.
+
+76
+00:18:25,224 --> 00:18:41,952
+New ataxia or altered awareness suggests high-altitude cerebral edema;
+dyspnea at rest raises concern for high-altitude pulmonary edema.
+Current WMS guidance pairs urgent descent with oxygen when indicated
+rather than delaying one for the other.
+
+77
+00:18:41,952 --> 00:18:54,168
+Crush injury begins with compressive force and local ischemia. Muscle
+cells lose membrane integrity and release intracellular material;
+injured tissue also becomes edematous.
+
+78
+00:18:54,168 --> 00:19:09,528
+When compression is relieved, reperfusion may deliver potassium,
+myoglobin and other metabolites into the circulation. At the same
+time, injured muscle can retain fluid, worsening effective
+circulating-volume loss.
+
+79
+00:19:09,528 --> 00:19:21,240
+The feared complications include dysrhythmia, acidosis, shock, kidney
+injury and later organ dysfunction. A patient may look stable before
+release and deteriorate afterward.
+
+80
+00:19:21,240 --> 00:19:37,464
+Muscle cells need ATP, their usable energy supply, to maintain ion
+gradients. During prolonged ischemia, energy production falls and
+membrane control becomes impaired. Direct compression can damage the
+cell at the same time.
+
+81
+00:19:37,464 --> 00:19:52,056
+Abnormal calcium handling activates damaging processes within the
+cell. As muscle breaks down, intracellular potassium, myoglobin and
+enzymes enter the surrounding fluid and may reach the circulation.
+
+82
+00:19:52,056 --> 00:20:09,600
+Potassium affects cardiac electrical activity; myoglobin is associated
+with kidney injury; creatine kinase is a marker of muscle damage.
+These substances are not interchangeable, and a normal early ECG
+cannot measure the total burden of muscle injury.
+
+83
+00:20:09,600 --> 00:20:24,960
+Swollen muscle also sequesters fluid, and shock reduces renal
+perfusion. Kidney injury is therefore not simply a pipe blocked by
+pigment; several linked processes matter. Do not wait for dark urine
+before recognizing the risk.
+
+84
+00:20:24,960 --> 00:20:40,752
+Entrapment duration, involved muscle mass, compressive force, access,
+temperature and associated trauma change the risk picture. Rescue work
+also introduces structural, electrical, machinery and secondary-
+collapse hazards.
+
+85
+00:20:40,752 --> 00:20:55,104
+The current BCEHS H02 calls for coordinated planning and CliniCall
+involvement for key pre-release treatment decisions. The lesson is to
+prepare a time-stamped plan and reassessment rather than improvise a
+fixed regimen.
+
+86
+00:20:55,104 --> 00:21:09,720
+Do not assume that every trapped patient needs the same fluid volume,
+that a tourniquet automatically prevents systemic effects, or that a
+fast unplanned release is harmless. Apply the current guideline and
+license-specific direction.
+
+87
+00:21:09,720 --> 00:21:28,080
+For significant crush injury, current BCEHS H02 includes considering
+two litres of normal saline immediately before release, with CliniCall
+consultation recommended for fluid planning. This is a source-specific
+consideration, not a fixed volume for every trapped limb.
+
+88
+00:21:28,080 --> 00:21:43,032
+The same guideline requires consultation before salbutamol for this
+indication. Calcium and other electrolyte treatments appear at
+different provider levels. Do not import the whole treatment list into
+an unsupervised PCP plan.
+
+89
+00:21:43,032 --> 00:22:00,576
+The school narrative says even a small amount of lactated Ringer
+solution can trigger immediate arrest in crush injury. That absolute
+is not supported by the AAST rhabdomyolysis consensus, which accepts
+either saline or lactated Ringer solution in its hospital context.
+
+90
+00:22:00,576 --> 00:22:15,336
+This correction is not permission to switch the field fluid. Follow
+the current BC plan, consultation and patient-specific reassessment.
+Explain the local choice accurately without inventing a universal
+lethal mechanism.
+
+91
+00:22:15,336 --> 00:22:28,272
+Muscle groups lie inside fascia that does not stretch freely. Bleeding
+or edema can raise pressure; rising compartment pressure reduces
+capillary perfusion and may injure nerve and muscle.
+
+92
+00:22:28,272 --> 00:22:40,776
+Worsening pain, a tense compartment, pain with passive stretch where
+assessed, sensory change or weakness can raise concern. No single
+finding rules the condition in or out.
+
+93
+00:22:40,776 --> 00:22:52,104
+Distal pulses can remain present early because pressure sufficient to
+impair capillary flow may be lower than arterial pressure. Waiting for
+pulselessness risks late recognition.
+
+94
+00:22:52,104 --> 00:23:06,048
+A muscle compartment contains tissue, nerves and vessels within a
+relatively unyielding fascial boundary. More volume inside raises
+pressure and can impair low-pressure venous drainage, making swelling
+worse.
+
+95
+00:23:06,048 --> 00:23:22,656
+The key is loss of the pressure gradient supporting tissue perfusion.
+Compartment pressure does not need to exceed systolic blood pressure
+before microvascular flow is threatened. A palpable artery farther
+down the limb does not demonstrate adequate muscle perfusion.
+
+96
+00:23:22,656 --> 00:23:39,792
+Increasing pain, pain with passive movement, tense swelling and
+sensory or motor changes raise concern. Findings can be incomplete,
+especially when consciousness or communication is impaired. No single
+sign safely excludes the problem.
+
+97
+00:23:39,792 --> 00:23:56,040
+Repeat and time-stamp the examination, document analgesia and
+response, and seek urgent escalation. Hospital pressure measurement
+and surgical decisions are not replaced by a field pulse check or a
+fixed number of hours assumed to be safe.
+
+98
+00:23:56,040 --> 00:24:09,384
+Crush syndrome describes a systemic pathophysiologic risk associated
+with significant muscle compression and release. Compartment syndrome
+describes pressure-related ischemia in a confined anatomical space.
+
+99
+00:24:09,384 --> 00:24:22,680
+They may coexist, but one does not prove the other. Crush release can
+produce systemic electrolyte and volume problems; a compartment may
+threaten a limb even without a dramatic systemic presentation.
+
+100
+00:24:22,680 --> 00:24:34,296
+Useful handover describes mechanism, duration, changes in pain or
+perfusion, interventions and release time. Do not replace serial
+findings with a single label.
+
+101
+00:24:34,296 --> 00:24:51,000
+In this original rehearsal, a person has a thigh pinned beneath
+equipment. Before coordinated release the patient is awake, with tense
+swelling and a pressure of one hundred eighteen over seventy-four.
+That initial pressure does not make release risk disappear.
+
+102
+00:24:51,000 --> 00:25:08,952
+After release, the pulse is one hundred twenty-four, pressure is
+ninety-four over sixty, and the patient is more drowsy. First respond
+to the deteriorating patient and reassess the primary survey; do not
+spend the transition arguing over one diagnostic label.
+
+103
+00:25:08,952 --> 00:25:25,968
+Consider volume loss, electrolyte disturbance and acidosis alongside
+bleeding, chest injury, hypoxia and other causes. Report the concern
+for crush-related deterioration, but do not claim a potassium result
+from a monitor waveform alone.
+
+104
+00:25:25,968 --> 00:25:42,288
+Hand over the estimated compression time and muscle region, exact
+release time, serial findings, care before and after release,
+consultation and response. That timeline is more useful than saying
+only that the patient has crush syndrome.
+
+105
+00:25:42,288 --> 00:25:56,448
+Capillary leak describes increased movement of fluid and proteins out
+of vessels. Hypoxemia describes low arterial oxygen; cyanosis,
+confusion or a low saturation can have several causes.
+
+106
+00:25:56,448 --> 00:26:06,600
+Reperfusion is restored blood flow after ischemia; it can restore
+oxygen delivery while also carrying accumulated cellular contents into
+circulation.
+
+107
+00:26:06,600 --> 00:26:18,744
+Third-spacing is a conceptual way to describe fluid that is no longer
+effectively available to the circulating volume. It is not a precise
+bedside measurement or an independent fluid order.
+
+108
+00:26:18,744 --> 00:26:31,824
+SIRS means systemic inflammatory response syndrome. Major burns or
+other severe injuries can produce systemic inflammation without
+infection. A rapid pulse and fever alone do not prove sepsis.
+
+109
+00:26:31,824 --> 00:26:47,328
+ARDS means acute respiratory distress syndrome. Inflammatory damage to
+the lung barrier can cause edema and poor gas exchange. It is not a
+name for every low saturation or a diagnosis made from one field
+finding.
+
+110
+00:26:47,328 --> 00:27:03,216
+Hyperkalemia means elevated potassium in blood. That can disturb
+cardiac conduction, but an ECG is not a potassium assay. Connect the
+crush history to monitoring and urgent support rather than claiming a
+laboratory value you have not measured.
+
+111
+00:27:03,216 --> 00:27:17,520
+Fasciotomy is a surgical opening of fascia to decompress an affected
+compartment when indicated. Your learning task is recognition,
+reassessment and timely escalation, not attempting a field surgical
+release.
+
+112
+00:27:17,520 --> 00:27:34,080
+The Week 9 outline calls descent an absolute first priority before
+oxygen or medication, and calls CO-oximetry mandatory for every
+enclosed fire. Those statements are retained as school prompts but
+should not be taught as universal clinical rules.
+
+113
+00:27:34,080 --> 00:27:50,160
+Current altitude guidance treats urgent descent and indicated oxygen
+as complementary actions. Current BCEHS J02 calls for oxygen and
+consultation for suspected carbon monoxide exposure; standard pulse
+oximetry may mislead.
+
+114
+00:27:50,160 --> 00:28:03,792
+For written exams, ask which dated school revision is assessed. For
+clinical learning, use current BCEHS guidance and authorized scope; do
+not merge conflicting statements into a compromise algorithm.

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Original proportional discordance measurement example</title>
+  <desc id="desc">A schematic has a reference at y280, S nadir at y520, and J point at y200. At 20 pixels per millimeter the S depth is 12 mm and elevation is 4 mm, so the magnitude ratio is 33 percent.</desc>
+  <defs><marker id="dot" markerWidth="4" markerHeight="4" refX="2" refY="2"><circle cx="2" cy="2" r="1.8" fill="#c8d7ed"/></marker></defs>
+  <rect width="1200" height="680" rx="24" fill="#101c2d"/>
+  <text x="48" y="57" font-family="Arial,sans-serif" font-size="30" font-weight="bold" fill="#f3f7ff">Proportion uses S-wave depth, not T-wave height</text>
+  <text x="48" y="94" font-family="Arial,sans-serif" font-size="21" fill="#b7c9e2">Assumed interpretable LBBB context. Vertical measurement example; no time scale.</text>
+  <rect x="58" y="132" width="640" height="438" rx="17" fill="#1c2f47"/>
+  <path d="M78 280H675" stroke="#9aadc6" stroke-width="2" stroke-dasharray="8 7"/>
+  <text x="80" y="266" font-family="Arial,sans-serif" font-size="19" fill="#b7c9e2">Reference</text>
+  <path d="M82 280H217L240 251L289 520L340 287L365 200H455Q480 149 507 200L559 280H671" fill="none" stroke="#74dbc3" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="365" cy="200" r="7" fill="#f6c97d"/>
+  <text x="383" y="177" font-family="Arial,sans-serif" font-size="21" font-weight="bold" fill="#f6c97d">J point</text>
+  <path d="M603 200V280M590 200H617M590 280H617" stroke="#f6c97d" stroke-width="3"/>
+  <text x="625" y="247" font-family="Arial,sans-serif" font-size="21" fill="#f6c97d">4 mm</text>
+  <path d="M177 280V520M165 280H189M165 520H189" stroke="#c4b6fc" stroke-width="3"/>
+  <text x="82" y="410" font-family="Arial,sans-serif" font-size="21" fill="#c4b6fc">12 mm</text>
+  <rect x="743" y="158" width="404" height="354" rx="18" fill="#233a56"/>
+  <g font-family="Arial,sans-serif" fill="#f3f7ff"><text x="770" y="207" font-size="25" font-weight="bold">Magnitude ratio</text><text x="770" y="269" font-size="38" font-weight="bold" fill="#74dbc3">4 / 12 = 0.33</text><text x="770" y="319" font-size="26">About 33%</text><text x="770" y="376" font-size="22">At least 1 mm elevation</text><text x="770" y="415" font-size="22">At least 25% of S depth</text><text x="770" y="469" font-size="21" fill="#c7d7ed">Meets this assumed teaching item.</text></g>
+  <text x="600" y="610" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#f3f7ff">A negative item is not a rule-out test for an unstable or symptomatic patient.</text>
+  <text x="600" y="650" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#a9bad0">Original idealized example. Not a clinical trace or automatic activation/destination rule.</text>
+</svg>

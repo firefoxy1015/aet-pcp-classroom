@@ -1,0 +1,713 @@
+1
+00:00:00,000 --> 00:00:12,216
+The school respiratory sequence builds on Week One assessment. Its
+purpose is to connect what you see with the physiological problem,
+choose support and discover promptly whether that support works.
+
+2
+00:00:12,216 --> 00:00:25,752
+A patient can have an open airway but inadequate ventilation, or
+adequate ventilation but poor oxygen transfer. Naming the failing
+function is more useful than simply announcing a breathing problem.
+
+3
+00:00:25,752 --> 00:00:37,056
+Start with immediate threats and obtain help early. Do not postpone
+opening an obstructed airway or assisting inadequate breathing while
+completing an extensive respiratory history.
+
+4
+00:00:37,056 --> 00:00:52,056
+This lecture follows all seven school sections, including the
+treatment-failure loop. The separate airway-device lesson develops
+insertion and suction techniques; memorizing a device name is not a
+substitute for these functional decisions.
+
+5
+00:00:52,056 --> 00:01:06,240
+The upper route conducts and conditions air. Loss of tone can let soft
+tissues obstruct the pharynx; swelling or foreign material can
+obstruct a different level. A visible mouth does not prove a patent
+route to the lungs.
+
+6
+00:01:06,240 --> 00:01:20,376
+The tracheobronchial tree distributes gas. Smooth-muscle narrowing,
+swelling and secretions increase resistance, particularly in smaller
+airways. The work required to move the same gas volume rises.
+
+7
+00:01:20,376 --> 00:01:32,232
+Alveoli provide a thin exchange surface beside flowing capillary
+blood. Ventilation must reach that surface and perfusion must reach
+the same region for effective gas exchange.
+
+8
+00:01:32,232 --> 00:01:45,696
+The pump can fail even when the airway is open: depressed drive,
+muscle fatigue, weakness or a disrupted chest can reduce effective
+breaths. Examine the whole route and pump, not only breath sounds.
+
+9
+00:01:45,696 --> 00:02:00,384
+During ordinary inspiration, diaphragm contraction increases thoracic
+volume and lowers alveolar pressure below atmospheric pressure. Air
+moves down the resulting pressure gradient, not because the lungs
+actively suck on their own.
+
+10
+00:02:00,384 --> 00:02:14,592
+At rest, expiration largely follows elastic recoil. Obstructed airways
+can need longer to empty; another forced breath before exhalation
+finishes can trap gas and increase intrathoracic pressure.
+
+11
+00:02:14,592 --> 00:02:29,928
+Resistance concerns opposition to airflow. Compliance concerns volume
+change for a pressure change. A stiff, poorly compliant lung and a
+narrowed airway can both be hard to ventilate, but they are not the
+same mechanism.
+
+12
+00:02:29,928 --> 00:02:44,208
+Positive-pressure support can improve ventilation or recruitment but
+may reduce venous return. Greater bag force is not automatically
+better oxygen delivery, especially in shock or dynamic hyperinflation.
+
+13
+00:02:44,208 --> 00:02:59,088
+Use a simplified adult teaching example with an assumed dead-space
+volume of zero point one five litres per breath. These numbers
+illustrate a relationship; they are not a patient-specific measurement
+or a prescribed tidal volume.
+
+14
+00:02:59,088 --> 00:03:13,320
+At twenty breaths of half a litre, minute ventilation is ten litres
+and estimated alveolar ventilation is seven litres per minute. The
+portion remaining in conducting dead space does not exchange gas in
+the same way.
+
+15
+00:03:13,320 --> 00:03:27,840
+At forty quarter-litre breaths, minute ventilation is still ten
+litres, but estimated alveolar ventilation falls to four litres. A
+high rate cannot be interpreted without the depth and effectiveness of
+each breath.
+
+16
+00:03:27,840 --> 00:03:44,352
+This explains why respiratory rate alone can falsely reassure. Observe
+chest movement, air entry, effort, mental state and the carbon-dioxide
+trend; do not calculate a normal-looking minute volume from guessed
+bedside volumes.
+
+17
+00:03:44,352 --> 00:03:57,864
+A person sitting forward and speaking in short phrases is giving
+functional information before the stethoscope is applied. Observe work
+of breathing and the ability to sustain it, not just the displayed
+oxygen saturation.
+
+18
+00:03:57,864 --> 00:04:13,752
+Compare both sides and several appropriate chest locations on skin.
+Note air entry, added sounds and any asymmetry. Clothing, a noisy
+vehicle and an incomplete examination must be recognized as
+limitations.
+
+19
+00:04:13,752 --> 00:04:31,152
+Ask about sudden versus gradual onset, chest discomfort, fever, cough,
+swelling, exposures, trauma and prior episodes. Confirm actual inhaler
+or oxygen use rather than inferring a diagnosis from equipment beside
+the patient.
+
+20
+00:04:31,152 --> 00:04:45,816
+Use a baseline and repeat the relevant findings after intervention. If
+ventilation is immediately inadequate, treatment and a concise
+assessment occur together; the full history can follow without
+abandoning reassessment.
+
+21
+00:04:45,816 --> 00:05:01,536
+Respiratory distress describes increased difficulty and effort.
+Failure means the respiratory system cannot adequately perform its
+oxygenation or ventilation task. The two can overlap, and failure does
+not always look dramatic.
+
+22
+00:05:01,536 --> 00:05:16,632
+A severely distressed patient who becomes quiet, sleepy and shallow
+may be exhausting rather than recovering. A rate falling from thirty-
+four to ten is not good news if chest expansion and responsiveness
+also decline.
+
+23
+00:05:16,632 --> 00:05:32,112
+Sedatives or opioids can suppress drive without an earlier period of
+marked effort. Examine airway integrity, breath depth and the
+circulation; a normal saturation on oxygen can coexist with dangerous
+carbon-dioxide retention.
+
+24
+00:05:32,112 --> 00:05:45,120
+Escalate support and resources when function fails. Do not leave an
+inadequately ventilating patient on CPAP simply because the mask was
+already fitted or its saturation initially improved.
+
+25
+00:05:45,120 --> 00:06:00,840
+The school oxygen cascade moves from available environmental oxygen to
+cellular use. Treat it as a causal map: a problem upstream can deprive
+every later step, while a problem downstream may be invisible to a
+saturation probe.
+
+26
+00:06:00,840 --> 00:06:15,192
+An obstructed airway limits entry. Pneumonia or edema can impair
+exchange. Hemorrhage and anemia reduce effective oxygen carriage,
+while poor cardiac output limits delivery of the oxygenated blood.
+
+27
+00:06:15,192 --> 00:06:30,144
+Some toxic exposures impair cellular use, and sepsis can disturb
+several steps together. More oxygen concentration cannot by itself
+restore missing blood flow or make a poisoned cell use oxygen
+normally.
+
+28
+00:06:30,144 --> 00:06:45,000
+Name your evidence and uncertainty: poor ventilation, possible lung-
+exchange failure or possible shock. Multiple links may fail at once,
+so do not stop the assessment after finding the first abnormal sound.
+
+29
+00:06:45,000 --> 00:06:59,112
+Stridor suggests turbulent flow through a narrowed upper airway.
+Sudden onset during eating, progressive swelling and a traumatic neck
+injury create different pathways; the sound alone does not identify
+the cause.
+
+30
+00:06:59,112 --> 00:07:13,872
+Snoring can accompany loss of pharyngeal tone; gurgling or wet sounds
+may indicate material needing appropriate clearance. Reassess after
+positioning, a manual maneuver or suction rather than assuming the
+airway is fixed.
+
+31
+00:07:13,872 --> 00:07:28,920
+Treat severe obstruction urgently with the applicable cause-specific
+procedure and help. Avoid repeated unnecessary stimulation or blind
+finger sweeps, and do not force a patient with a threatened airway
+into an intolerable position.
+
+32
+00:07:28,920 --> 00:07:42,840
+A reduction in noise can mean better patency or less airflow. Confirm
+movement, air entry and patient function before declaring improvement;
+a silent obstructed patient may be deteriorating.
+
+33
+00:07:42,840 --> 00:07:56,640
+Wheeze often reflects airflow through narrowed intrathoracic airways,
+but it is not an asthma certificate. History, exposure, fever, edema
+and other findings may support competing explanations.
+
+34
+00:07:56,640 --> 00:08:09,456
+Observe the prolonged expiratory phase and whether the patient has
+time to empty the lungs. Increasing resistance and effort can progress
+to fatigue even while a saturation reading looks acceptable.
+
+35
+00:08:09,456 --> 00:08:24,480
+A silent chest in a severely breathless person may reflect very little
+airflow. Compare air entry, chest movement, speech and responsiveness;
+do not use disappearance of wheeze alone as a treatment endpoint.
+
+36
+00:08:24,480 --> 00:08:40,176
+Provide the indicated authorized cause-specific therapy while
+supporting breathing. If spontaneous ventilation fails, move to
+effective assisted ventilation and escalation rather than repeating a
+previously chosen intervention indefinitely.
+
+37
+00:08:40,176 --> 00:08:53,064
+Crackles are discontinuous sounds associated with several processes,
+including fluid or reopening of small airways. Their presence helps
+form a pattern, not a unique diagnosis.
+
+38
+00:08:53,064 --> 00:09:08,736
+An orthopneic patient with cardiac history and diffuse findings may
+have cardiogenic edema. Fever, cough and focal findings may suggest
+infection, but absence of fever does not exclude it and both
+conditions can coexist.
+
+39
+00:09:08,736 --> 00:09:22,560
+Assess pressure and perfusion before choosing a positive-pressure
+strategy. A patient who is alert and maintaining ventilation differs
+from one becoming hypotensive, exhausted or unable to protect the
+airway.
+
+40
+00:09:22,560 --> 00:09:35,472
+CPAP can recruit alveoli and reduce work in suitable patients. It does
+not literally squeeze all water out of the lungs, treat every cause or
+remove the need for medication and repeated assessment.
+
+41
+00:09:35,472 --> 00:09:51,552
+After trauma, inspect for asymmetry, wounds and abnormal movement,
+compare air entry and assess perfusion. A changing respiratory
+examination plus shock is more concerning than one uncertain
+auscultation finding.
+
+42
+00:09:51,552 --> 00:10:03,552
+Possible pneumothorax or other thoracic injury requires a time-
+critical cause-specific pathway. Do not delay escalation or transport
+while trying to prove a complete textbook triad.
+
+43
+00:10:03,552 --> 00:10:18,792
+The school narrative mentions decompression as an advanced response.
+That is not an independent permission for every PCP student to perform
+it. Training, licence, employer authorization and the actual procedure
+determine who can act.
+
+44
+00:10:18,792 --> 00:10:30,624
+Suspected pneumothorax and traumatic respiratory distress also alter
+the safety of pressure support. Do not transfer a non-traumatic CPAP
+plan unchanged to this patient.
+
+45
+00:10:30,624 --> 00:10:45,744
+For the school comparison exercise, retain its ninety-four to ninety-
+eight and eighty-eight to ninety-two target ranges. Current BCEHS A
+seven uses different operational wording; learn which source the
+question or clinical setting is using.
+
+46
+00:10:45,744 --> 00:10:57,936
+Titration means assessing the patient, delivering an appropriate
+concentration and rechecking response. A NEWS2 zero-point saturation
+band is not itself an oxygen prescription.
+
+47
+00:10:57,936 --> 00:11:15,000
+Do not explain oxygen-associated carbon-dioxide rise solely as
+switching off a hypoxic drive. Changes in ventilation-perfusion
+matching and carbon-dioxide carriage also matter. Controlled therapy
+is not a reason to abandon severe hypoxemia.
+
+48
+00:11:15,000 --> 00:11:29,904
+If breathing is inadequate, oxygen alone cannot provide ventilation.
+Support the failing function and reassess consciousness, chest
+movement, oxygenation and carbon dioxide while following the
+applicable pathway.
+
+49
+00:11:29,904 --> 00:11:45,888
+A low-flow nasal cannula allows speech and can support titrated
+oxygen, but the actual inspired concentration varies with breathing
+pattern, leaks and device flow. Do not convert a flow setting into a
+guaranteed inspired percentage.
+
+50
+00:11:45,888 --> 00:12:00,192
+A reservoir mask requires the appropriate manufacturer flow and a
+functioning reservoir, valves and seal. A poorly inflated reservoir or
+disconnected supply can make a reassuring mask appearance misleading.
+
+51
+00:12:00,192 --> 00:12:14,088
+No passive oxygen device compensates for an apneic patient. Open and
+clear the airway, provide effective ventilation when indicated, and
+choose another device only if it solves the actual remaining problem.
+
+52
+00:12:14,088 --> 00:12:29,184
+Estimate supply requirements for transport, including high oxygen
+consumption by some pressure devices. Recheck flow, connections and
+patient effect after movement, cylinder change and any unexpected
+deterioration.
+
+53
+00:12:29,184 --> 00:12:41,688
+A capnogram displays exhaled carbon dioxide over time. First identify
+a repeatable respiratory waveform and a functioning sampling system
+before interpreting its end-tidal number.
+
+54
+00:12:41,688 --> 00:12:56,544
+Early expired conducting gas has little carbon dioxide, followed by
+the expiratory upstroke and alveolar plateau. The end-tidal value is
+measured near the end of that plateau; inspiration produces the
+descending limb.
+
+55
+00:12:56,544 --> 00:13:11,184
+The school thirty-five to forty-five millimetre range is a reference,
+not a universal target for every condition. End-tidal and arterial
+carbon dioxide can diverge when dead space, perfusion or lung disease
+changes.
+
+56
+00:13:11,184 --> 00:13:27,264
+Use waveform shape, trend and examination together. A missing waveform
+can mean absent ventilation, disconnection, obstruction, displacement,
+low perfusion or sampling failure; assess and troubleshoot
+immediately.
+
+57
+00:13:27,264 --> 00:13:43,176
+With reduced effective alveolar ventilation, carbon dioxide can
+accumulate and the end-tidal value may rise. A drowsy patient with
+shallow breaths and a rising trace needs functional breathing
+assessment, not simply oxygen adjustment.
+
+58
+00:13:43,176 --> 00:13:59,568
+A falling value can follow improved ventilation, but can also indicate
+falling pulmonary blood flow. In a patient becoming pale and
+hypotensive, a lower end-tidal number may be a circulation warning
+rather than a respiratory success.
+
+59
+00:13:59,568 --> 00:14:13,008
+Obstructive disease may produce a sloping shark-fin pattern, but
+leaks, sampling and mixed disease affect the trace. A descriptive
+pattern supports reasoning; it does not replace the rest of the
+examination.
+
+60
+00:14:13,008 --> 00:14:26,976
+Capnography often changes before pulse oximetry in hypoventilation,
+especially with oxygen therapy. There is no fixed universal thirty-to-
+sixty-second lag to memorize for every device and patient.
+
+61
+00:14:26,976 --> 00:14:41,928
+During resuscitation, pulmonary blood flow strongly influences exhaled
+carbon dioxide. Compression-generated flow is one contributor, but
+ventilation, the airway, metabolism and measurement also affect the
+number.
+
+62
+00:14:41,928 --> 00:14:54,120
+The school highlights ten and twenty millimetres as teaching markers.
+Do not convert them into a stand-alone pass-fail test for compressions
+or an independent rule to stop resuscitation.
+
+63
+00:14:54,120 --> 00:15:07,848
+An abrupt sustained rise can suggest improved circulation or return of
+spontaneous circulation. Correlate it with the appropriate clinical
+and rhythm assessment without creating unnecessary compression
+interruptions.
+
+64
+00:15:07,848 --> 00:15:20,832
+If the value falls unexpectedly, verify the patient and airway circuit
+and review ventilation and compression quality. Treat the cause, not a
+target number detached from the resuscitation context.
+
+65
+00:15:20,832 --> 00:15:35,952
+A bag can be squeezed while no effective volume reaches the lungs.
+Check the equipment, position, airway patency and mask seal before
+increasing force. Use an airway adjunct when indicated and compatible
+with the patient.
+
+66
+00:15:35,952 --> 00:15:49,800
+Where two providers are available, one maintains the airway and two-
+handed mask seal while the other gives breaths and watches the chest.
+Lift the jaw toward the mask rather than pressing the mask hard into
+soft tissue.
+
+67
+00:15:49,800 --> 00:16:04,608
+Deliver only enough volume for a slight definite chest rise, allow
+exhalation and monitor effectiveness. Excess volume, pressure or rate
+can inflate the stomach, increase aspiration risk and impair
+circulation.
+
+68
+00:16:04,608 --> 00:16:18,816
+If the chest does not rise, correct patency and seal, inspect for
+obstruction and equipment problems, and escalate the airway plan if
+needed. Repeated failed squeezes do not count as successful
+ventilation.
+
+69
+00:16:18,816 --> 00:16:34,536
+The school gives ten to twelve adult breaths per minute as general BVM
+teaching. The named twenty-twenty-five AHA adult respiratory-arrest
+branch, with a definite pulse, specifies one breath every six seconds,
+or ten per minute.
+
+70
+00:16:34,536 --> 00:16:50,088
+For the latter branch, use visible chest rise and reassess pulse every
+two minutes. A patient without a definite pulse and without an
+advanced airway follows the compression-and-breath sequence, not
+uninterrupted rescue breaths alone.
+
+71
+00:16:50,088 --> 00:17:04,320
+These numbers are not an instruction to ignore spontaneous breaths or
+force a single rate in every illness. Coordinate assisted breaths
+appropriately and allow exhalation, especially with obstructive
+physiology.
+
+72
+00:17:04,320 --> 00:17:19,296
+Pediatric rates, advanced-airway CPR and the specific PEEP procedure
+have separate instructions. State the patient and branch before
+quoting a rate, and use the current school resuscitation standard for
+its supervised skills check.
+
+73
+00:17:19,296 --> 00:17:33,168
+PEEP retains pressure at the end of expiration. CPAP provides
+continuous pressure during spontaneous breathing. Neither name
+guarantees effective ventilation or eliminates the need to examine
+airway integrity.
+
+74
+00:17:33,168 --> 00:17:49,968
+Current PR ten starts indicated BVM PEEP at five centimetres of water,
+with monitored adjustments of two point five up to ten. The procedure
+has specific exclusions and requires consultation for persistent
+hypoxemia despite maximal therapy.
+
+75
+00:17:49,968 --> 00:18:06,096
+That procedure excludes cardiac arrest, traumatic respiratory arrest,
+suspected pneumothorax and defined low-pressure states. Its usual
+eight-to-ten breath wording is context-specific, not a reason to
+overwrite every other ventilation algorithm.
+
+76
+00:18:06,096 --> 00:18:21,720
+Monitor pressure, chest mechanics and oxygenation, and discontinue
+when a contraindication or equipment concern develops. Pressure is a
+treatment with physiological trade-offs, not an automatic upgrade for
+every breathless patient.
+
+77
+00:18:21,720 --> 00:18:34,368
+CPAP helps a suitable spontaneously breathing patient; it does not
+generate mandatory breaths. The most important first question is
+whether the person can maintain the airway and keep ventilating.
+
+78
+00:18:34,368 --> 00:18:47,352
+For the current PR nine selection exercise, check the listed age,
+distress findings and supplemental-oxygen context together. An
+isolated low room-air saturation is not the whole indication.
+
+79
+00:18:47,352 --> 00:18:58,392
+Authorization and training are part of the decision, not a separate
+administrative detail. A lecture about CPAP cannot authorize a learner
+to apply it independently.
+
+80
+00:18:58,392 --> 00:19:10,608
+Explain the aim, obtain applicable consent and plan what you will do
+if it fails before fitting the device. The patient must be able to
+report intolerance and cooperate with close reassessment.
+
+81
+00:19:10,608 --> 00:19:24,744
+In the public PR nine procedure, the listed exclusions must be checked
+before treatment and again if the condition changes. Failure to follow
+commands is not just a comfort problem; it undermines safe use.
+
+82
+00:19:24,744 --> 00:19:38,544
+A patient with slower shallow breaths and falling consciousness needs
+effective ventilation, not a tighter CPAP strap. Remove an ineffective
+or unsafe strategy and enact the prepared airway-support plan.
+
+83
+00:19:38,544 --> 00:19:51,432
+Vomiting or inability to protect the airway creates an aspiration
+concern. Anticipate access to suction and an alternate support method
+rather than waiting until secretions cannot be cleared.
+
+84
+00:19:51,432 --> 00:20:04,944
+Use the full examination to distinguish anxiety with maintained
+function from evolving failure. Reassurance can improve tolerance, but
+it must not be used to explain away physiological deterioration.
+
+85
+00:20:04,944 --> 00:20:17,736
+The PR nine fixed-flow device starts at five litres per minute if
+possible, otherwise six. That is a device-linked setup, not a
+universal conversion between litres per minute and centimetres of
+water.
+
+86
+00:20:17,736 --> 00:20:34,248
+Let the patient hold the mask initially and build the seal
+progressively with explanation. Once tolerated, secure it and recheck
+leaks and effect; follow the manufacturer chart, never exceeding ten
+centimetres of water under PR nine.
+
+87
+00:20:34,248 --> 00:20:48,480
+Do not attach a BVM to a CPAP mask as a substitute circuit, and do not
+delay indicated medication to fit it. Equipment-specific nebulizer
+connections and oxygen changes require the actual device procedure.
+
+88
+00:20:48,480 --> 00:21:06,696
+Reassess the whole patient after application and each change: effort,
+volume, mental state, oxygenation and circulation. A brief initial
+saturation change needs interpretation, but ongoing deterioration
+requires action, not passive waiting.
+
+89
+00:21:06,696 --> 00:21:21,720
+In this new simulation, an initially distressed adult becomes quieter
+during treatment. The oxygen saturation remains ninety-five percent on
+supplemental oxygen, but the patient is drowsier and moving much less
+air.
+
+90
+00:21:21,720 --> 00:21:35,760
+The correct explanation is not that the wheeze and rate improved. The
+combined fall in responsiveness, rate and tidal movement indicates
+loss of effective ventilation; carbon-dioxide rise supports that
+concern.
+
+91
+00:21:35,760 --> 00:21:48,912
+Return to airway and breathing support, obtain additional help and use
+effective assisted ventilation within the applicable pathway. Preserve
+enough expiratory time and reassess for pressure-related harm.
+
+92
+00:21:48,912 --> 00:22:01,608
+State what changed, what you did and what happened next. That
+explanation demonstrates recognition of a transition from distress to
+failure; listing a bronchodilator name alone does not.
+
+93
+00:22:01,608 --> 00:22:16,488
+An adult with the displayed initial findings may satisfy the
+physiological PR nine criteria, but that is only after checking the
+rest of the history, examination and exclusions. The case is original,
+not a school assessment answer.
+
+94
+00:22:16,488 --> 00:22:30,720
+A trained authorized provider could select CPAP with close monitoring
+and appropriate concurrent care. Predict an improvement in work,
+oxygenation and maintained mentation rather than claiming the device
+cures the underlying disease.
+
+95
+00:22:30,720 --> 00:22:45,384
+Now change one variable group: the patient becomes drowsy with eight
+shallow breaths per minute. The treatment assumptions fail. This is a
+ventilation and airway-support problem even if a saturation has not
+yet fallen.
+
+96
+00:22:45,384 --> 00:22:58,464
+Stop treating the original indication as permanent. Reassess
+immediately, provide the indicated alternate support and escalate
+resources, communicating the deterioration and actual response.
+
+97
+00:22:58,464 --> 00:23:13,680
+An unresponsive adult has five shallow breaths per minute, a definite
+pulse and a high saturation while receiving oxygen. Possible opioid
+exposure is relevant, but the decisive initial finding is inadequate
+ventilation.
+
+98
+00:23:13,680 --> 00:23:24,504
+Open and clear the airway and provide effective assisted breaths.
+Waiting for the saturation to fall or for naloxone to work leaves a
+failing function unsupported.
+
+99
+00:23:24,504 --> 00:23:37,128
+Give naloxone when indicated and authorized, using the actual route
+and schedule taught in the medication lesson. The aim is adequate
+breathing, not forcing complete wakefulness at any cost.
+
+100
+00:23:37,128 --> 00:23:52,584
+Reassess sustained breathing, circulation and other possible causes.
+Recurrent depression can occur after an initial response; a transient
+improvement is not permission to end monitoring or make an unsupported
+non-conveyance decision.
+
+101
+00:23:52,584 --> 00:24:05,304
+Record what was happening before the intervention and the support
+already in place. A saturation without oxygen-device context and a
+respiratory rate without depth lose important meaning.
+
+102
+00:24:05,304 --> 00:24:21,096
+Compare work, speech, chest movement, air entry, mental state,
+perfusion, saturation and appropriate waveform trends. Improvement
+should be coherent across relevant findings, not merely one selected
+number.
+
+103
+00:24:21,096 --> 00:24:34,968
+An unexpected response should reopen the differential and the
+equipment check. Consider disease progression, an incorrect
+assumption, a leak, obstruction, depleted oxygen or a pressure-related
+adverse effect.
+
+104
+00:24:34,968 --> 00:24:50,376
+Handover must include baseline, change, device or medication details
+and remaining concern. Saying respiratory patient, better after oxygen
+hides the reasoning and may obscure ongoing ventilatory failure.
+
+105
+00:24:50,376 --> 00:25:04,032
+In the school station, state your role and identify the immediate
+respiratory problem before choosing a device. Prepare the equipment
+and a fallback, and assign a second provider when the skill benefits
+from one.
+
+106
+00:25:04,032 --> 00:25:17,928
+Demonstrate a patent airway and effective bag-mask technique on the
+appropriate trainer. Then explain how you distinguish an alert,
+spontaneously ventilating CPAP candidate from a patient needing
+assisted ventilation.
+
+107
+00:25:17,928 --> 00:25:32,856
+Have the observer change one feature: a leak, weaker breathing, a
+falling pressure or a disconnected sampling line. State the finding,
+correct the cause and verify the actual effect rather than announcing
+the skill complete.
+
+108
+00:25:32,856 --> 00:25:47,016
+Use the original practice questions and paired reading to explain the
+decisions without notes. Physical competence, patient safety and the
+school skills sign-off still require supervised demonstration, not
+playback completion.

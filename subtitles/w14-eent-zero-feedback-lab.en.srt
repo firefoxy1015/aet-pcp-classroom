@@ -1,0 +1,198 @@
+1
+00:00:00,000 --> 00:00:15,792
+The saved Week 14 plan names an EENT lab and says the course begins a
+zero-feedback standard. The specific station document was not yet
+available in the saved school view, so these are original practice
+stations based only on the visible objectives.
+
+2
+00:00:15,792 --> 00:00:31,176
+A no-prompt run tests whether the learner notices, prioritizes and
+explains. It is not a reason to permit preventable harm. The
+instructor retains a safety-interruption role; the learner receives
+coaching and correction after the run.
+
+3
+00:00:31,176 --> 00:00:46,152
+Before the clock begins, agree on the safe simulation boundaries,
+available equipment and stop word. During the run, the observer gives
+no hints; the learner must verbalize the reasoning that would
+otherwise remain invisible.
+
+4
+00:00:46,152 --> 00:01:04,032
+When a safety issue requires interruption, stop the clock, correct the
+immediate hazard and record the point. Resume only if the instructor
+decides the simulation remains useful. This is an original coaching
+method, not a claim about the school’s exact formal protocol.
+
+5
+00:01:04,032 --> 00:01:21,576
+During the run, write short observable notes: “kept child upright,”
+“asked for a forced mouth exam,” “started rinse before product label
+arrived,” or “released nose pressure twice.” Avoid vague notes such as
+“bad confidence” or “not ready.”
+
+6
+00:01:21,576 --> 00:01:40,992
+The accessible BCPEG page 80 groups deficiencies by likely impact and
+includes sequence, safety and critical reporting. The unseen pages
+274–276 may add criteria; do not treat this worksheet as their
+substitute or assign an official passing score.
+
+7
+00:01:40,992 --> 00:01:54,432
+Use simulation props only. Do not practise medication administration,
+invasive airway actions, eye-object extraction or other procedures
+outside a supervised school station and current authorization.
+
+8
+00:01:54,432 --> 00:02:10,608
+Plan the route and roles before the patient contact: who is leading,
+who obtains equipment, who communicates with the receiving team and
+who monitors the scene. Clear role assignment prevents a single
+learner from losing the whole patient while focusing on one local
+detail.
+
+9
+00:02:10,608 --> 00:02:28,128
+Scenario: the child remains awake, drools, leans forward and becomes
+agitated when an examiner approaches with a tongue depressor. The
+learner should identify the airway threat and stop the unnecessary
+examination rather than trying to prove a diagnosis.
+
+10
+00:02:28,128 --> 00:02:47,256
+A strong independent response explains why the child stays upright,
+what observations can be obtained without provocation, how early
+transport/support is organized and which change would trigger
+immediate escalation. Do not give medication or perform a procedure
+simply to fill station time.
+
+11
+00:02:47,256 --> 00:03:06,768
+During the run, the child stops resisting and becomes quiet. The
+learner must not use silence as the only improvement measure. Look
+again at responsiveness, speech, respiratory effort, colour and air
+movement; a fatigued child may look less active while becoming more
+dangerous.
+
+12
+00:03:06,768 --> 00:03:23,040
+State the trend aloud, describe the likely airway risk and use the
+current service escalation pathway. Do not force an oral examination
+to resolve uncertainty; uncertainty is a reason to escalate, not a
+reason to provoke the airway.
+
+13
+00:03:23,040 --> 00:03:39,768
+Scenario: a worker has bleach splashed in one eye, and saline has not
+arrived. The learning objective is to prevent delay: start suitable
+clean-water irrigation while another responder identifies the product
+and contacts the appropriate support resource.
+
+14
+00:03:39,768 --> 00:03:57,312
+Protect the responder and prevent runoff from contaminating the other
+eye or surrounding people. Use a gentle controlled flow. Continue
+according to the chemical-specific advice; do not neutralize the
+chemical or stop solely because the school timer reached 15 minutes.
+
+15
+00:03:57,312 --> 00:04:15,648
+In the school rehearsal, verbalize the specified “at least 15 minutes”
+saline target. In actual readiness reasoning, distinguish the target
+from an endpoint: start clean fluid promptly, contact CliniCall as
+required and follow exposure-specific guidance.
+
+16
+00:04:15,648 --> 00:04:32,304
+The observer should note both parts: did the learner know the school
+criterion, and did they avoid a harmful delay when saline was not
+immediately available? This resolves the apparent conflict without
+erasing either the school exercise or current service guidance.
+
+17
+00:04:32,304 --> 00:04:49,008
+Scenario: after a workshop accident, a small object is visible at the
+eye and the patient reports pain with blurred vision. Do not use
+forceps, press on the eye, remove the object or perform a lengthy
+visual-acuity sequence before transport planning.
+
+18
+00:04:49,008 --> 00:05:03,936
+Protect the eye using an appropriate rigid shield if available and
+prevent movement of the object. Assess for the same mechanism’s head
+or facial injury, monitor the patient and arrange prompt specialist
+assessment under current guidance.
+
+19
+00:05:03,936 --> 00:05:19,656
+Scenario: a patient with a nosebleed is leaning back and repeatedly
+checking whether bleeding has stopped. Guide the patient to sit
+upright and lean slightly forward; demonstrate the correct compression
+point and maintain pressure without intermittent checking.
+
+20
+00:05:19,656 --> 00:05:36,816
+Ask about trauma, blood-thinning medicines and bleeding disorders
+while pressure is maintained. Do not focus solely on the nose: assess
+airway, amount of blood loss, vital signs, symptoms and relevant
+chronic conditions, then follow the current pathway.
+
+21
+00:05:36,816 --> 00:05:52,152
+Use an original practice case, not a hidden school case. Start a five-
+minute timer only after the learner has heard the dispatch and scene
+information. The goal is to structure a usable record efficiently, not
+to reward typing speed.
+
+22
+00:05:52,152 --> 00:06:08,952
+After the timer, check whether a reader can reconstruct what happened,
+what changed, why an action was taken, what response followed and what
+remains unresolved. Record the actual completion time separately from
+completeness; one does not prove the other.
+
+23
+00:06:08,952 --> 00:06:27,648
+The saved plan asks for a Sunday written self-assessment using
+Appendix G and three weak points for Week 16 remediation. The official
+appendix was not available in the source set. This is an original
+three-gap preparation tool, not Appendix G and not a substitute for
+the school form.
+
+24
+00:06:27,648 --> 00:06:46,896
+Phrase gaps as observable actions: “I did not state the child’s
+position as a risk cue before planning transport,” or “I delayed
+irrigation while waiting for saline.” Then choose one repeated drill
+and a clear success observation. Avoid labels about character or
+confidence.
+
+25
+00:06:46,896 --> 00:06:59,664
+Start with the learner’s account, then compare it with the observer’s
+factual notes. Ask what the learner expected to happen, what actually
+happened, and which alternative explanation or change they considered.
+
+26
+00:06:59,664 --> 00:07:14,328
+Choose only a few high-value practice targets. Re-run the scenario so
+the learner can demonstrate the changed behavior. This reduces the gap
+between recognizing a mistake in discussion and performing the safe
+action under time pressure.
+
+27
+00:07:14,328 --> 00:07:32,352
+Do not collapse all EENT calls into one generic exam. The right
+priority depends on the threat: airway compromise, ongoing chemical
+exposure, globe penetration or hemorrhage. State the reason for the
+first action and the observation that will change your plan.
+
+28
+00:07:32,352 --> 00:07:46,776
+The official lab sheet and Appendix G must be checked when the school
+releases them. Until then, use these original stations to build
+independent reasoning, accurate PCR habits and a concrete list of
+practice needs.

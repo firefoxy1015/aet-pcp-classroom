@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:15,000
+The saved reading index contains no Week 17 assignment rows, and the
+saved Moodle Weekend 17 section is empty. The weekly plan describes
+the summative assessment format but does not name additional book
+chapters or page ranges.
+
+2
+00:00:15,000 --> 00:00:30,072
+This does not prove that the instructor assigned no other reading
+through email, class or a separate platform. Confirm any newer
+instruction directly with the school instead of treating a missing
+index entry as a complete school reading list.
+
+3
+00:00:30,072 --> 00:00:43,560
+Use short retrieval rounds rather than passive rereading: close the
+book, explain one assessment sequence, one alternative explanation and
+one reassessment decision, then reopen the source to correct your
+gaps.
+
+4
+00:00:43,560 --> 00:00:55,680
+Keep the source edition and page beside each correction. A final
+review should reveal what you still need to ask or practise, not
+produce a false impression that a summary replaced the assigned
+materials.

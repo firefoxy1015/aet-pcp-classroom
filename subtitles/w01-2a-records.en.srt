@@ -1,0 +1,535 @@
+1
+00:00:00,000 --> 00:00:12,312
+A Patient Care Record, or PCR, should let another clinician
+reconstruct the encounter. It is a clinical, legal and operational
+record, not merely a task to finish after transport.
+
+2
+00:00:12,312 --> 00:00:23,232
+Record the patient's concern, assessment, reasoning, care, response
+and outcome. Include the times and communications that explain how the
+plan developed.
+
+3
+00:00:23,232 --> 00:00:37,536
+The phrase if it was not documented, it did not happen is a warning
+about missing evidence, not a literal rule that undocumented care
+never occurred. Accurate entries are needed precisely because memory
+alone is unreliable.
+
+4
+00:00:37,536 --> 00:00:49,200
+Timely, clear records support the patient and the next team. Writing
+mainly to defend yourself can distort priorities; record the clinical
+story honestly, including uncertainty.
+
+5
+00:00:49,200 --> 00:00:59,640
+Begin with correct patient identification and the reason for contact.
+Verify information when possible and identify its source when it comes
+from someone else.
+
+6
+00:00:59,640 --> 00:01:11,304
+Record relevant history and examination findings, including measured
+values, units and times. A finding is not negative merely because no
+one asked about it.
+
+7
+00:01:11,304 --> 00:01:23,112
+Link care to reasoning and reassessment. Include consent discussions,
+clinical advice and the final disposition. The actual ePCR may contain
+additional required fields.
+
+8
+00:01:23,112 --> 00:01:34,200
+Review the whole record before finalizing it. A completed checkbox can
+still be wrong or contradicted by the narrative; correct the
+inconsistency using the approved process.
+
+9
+00:01:34,200 --> 00:01:45,720
+Objective information is observed or measured. Subjective information
+includes symptoms and history reported by the patient or a witness.
+Both belong in a useful record.
+
+10
+00:01:45,720 --> 00:01:57,720
+Objectivity means representing each source accurately, not deleting
+symptoms because you cannot measure them. Patient reports severe pain
+is appropriate when that is what the patient reports.
+
+11
+00:01:57,720 --> 00:02:08,376
+Label a clinical impression as an impression and support it with
+findings. Do not turn an uncertain loss of consciousness or a
+suspected injury into a confirmed event.
+
+12
+00:02:08,376 --> 00:02:17,592
+Replace character judgements with specific behaviour and context.
+Describe what the person declined, what was explained and what
+happened next.
+
+13
+00:02:17,592 --> 00:02:29,448
+Keep symptom onset, call time, assessment time, intervention time and
+entry time distinct. They may differ, and that difference can change
+clinical interpretation.
+
+14
+00:02:29,448 --> 00:02:40,512
+Use time-linked findings to show a trend. A later reading must not be
+placed beside an earlier intervention in a way that falsely suggests
+it was the pretreatment baseline.
+
+15
+00:02:40,512 --> 00:02:50,760
+If an onset or time is approximate, say so and identify the source. Do
+not invent minute-level precision because the form has a time field.
+
+16
+00:02:50,760 --> 00:03:03,336
+Brief contemporaneous notes can help, provided they are handled
+securely and transferred according to policy. Urgent care takes
+priority, but a later entry must remain transparent.
+
+17
+00:03:03,336 --> 00:03:12,984
+An intervention without a baseline is difficult to interpret. Record
+the relevant assessment before care, then the action and subsequent
+findings.
+
+18
+00:03:12,984 --> 00:03:25,656
+For a medication, include the full drug, dose and units, route and
+administration time. Record the relevant effect and reassessment
+rather than assuming the expected response occurred.
+
+19
+00:03:25,656 --> 00:03:36,816
+If the intervention did not help, that is important information.
+Document the lack of improvement, continued concern and any change in
+management or request for assistance.
+
+20
+00:03:36,816 --> 00:03:48,528
+A clinical consultation needs the person or service, time, relevant
+advice and action taken. Verify instructions and ensure any action
+remains within your authorization.
+
+21
+00:03:48,528 --> 00:04:00,024
+If a value or time is wrong, correct it through the approved record
+process. Do not silently rewrite history or copy a number into several
+fields to make the record appear complete.
+
+22
+00:04:00,024 --> 00:04:11,976
+A late entry should be identifiable as late and tied to the actual
+event as accurately as possible. Follow local requirements rather than
+inventing a universal correction format.
+
+23
+00:04:11,976 --> 00:04:20,664
+If care is still ongoing and the error could change a decision,
+communicate the correction directly to the relevant clinician as well
+as correcting the record.
+
+24
+00:04:20,664 --> 00:04:33,744
+Not obtained, declined, not indicated and unknown describe different
+situations. Use the appropriate description and explain missing
+required information rather than substituting a normal value.
+
+25
+00:04:33,744 --> 00:04:46,560
+The BC privacy framework distinguishes public bodies under FIPPA, also
+commonly called FOIPPA, from private organizations under PIPA. Do not
+assume both laws apply identically to every employer.
+
+26
+00:04:46,560 --> 00:05:07,176
+Protected information is not limited to a written name. Conversations,
+images and device screens can identify a person. The school calls
+identification through combined details mosaic identification: age,
+location, time and event can identify someone even when a name is
+removed.
+
+27
+00:05:07,176 --> 00:05:20,064
+Before sharing, verify the recipient and the applicable authority and
+purpose. Share the necessary information through an approved channel,
+not simply with anyone who appears interested or helpful.
+
+28
+00:05:20,064 --> 00:05:32,976
+Clinical care is an important authorized purpose, but other lawful
+disclosures can exist. If the legal basis is unclear, seek the
+appropriate privacy or supervisory advice rather than guessing.
+
+29
+00:05:32,976 --> 00:05:43,872
+A crowded home or public scene does not remove the duty to protect
+privacy. Lower your voice, reposition when feasible and avoid
+displaying the record to bystanders.
+
+30
+00:05:43,872 --> 00:05:54,960
+Family can provide valuable history, but being a relative does not
+automatically authorize every disclosure or decision. Ask the capable
+patient what they agree to share.
+
+31
+00:05:54,960 --> 00:06:05,448
+Use only approved devices, storage and transmission methods. Keep
+paperwork secure and follow the service's process for temporary notes
+and printed records.
+
+32
+00:06:05,448 --> 00:06:16,008
+During handover, give necessary information to the appropriate team
+while limiting avoidable exposure. Privacy and an effective clinical
+report should support each other.
+
+33
+00:06:16,008 --> 00:06:27,408
+A scene photo can reveal a home, vehicle or location even when no
+patient is visible. Do not use personal photography or social media to
+store or share case material.
+
+34
+00:06:27,408 --> 00:06:38,904
+The same boundary principle applies offline: avoid private financial
+favours, excessive personal disclosure and personal contact that
+shifts care into a private relationship.
+
+35
+00:06:38,904 --> 00:06:50,592
+If you already know the patient, protect necessary care and manage the
+conflict with appropriate support. Maintain privacy, role clarity and
+the same assessment standards.
+
+36
+00:06:50,592 --> 00:07:03,960
+After a difficult encounter, seek appropriate confidential support and
+remove identifying details from personal reflection. Stress is a
+reason to obtain help, not permission to expose a patient.
+
+37
+00:07:03,960 --> 00:07:15,504
+Suppose patient details are sent to the wrong approved-system
+recipient. First prevent further exposure where possible, then
+promptly use the organization's privacy-incident process.
+
+38
+00:07:15,504 --> 00:07:27,000
+Do not hide the incident or assume it is harmless because the
+recipient seems trustworthy. The privacy team needs facts to assess
+the information, recipients and possible consequences.
+
+39
+00:07:27,000 --> 00:07:38,664
+Record the time, information involved, recipient and containment
+actions through the appropriate channel. Follow instructions about
+preserving records and contacting the recipient.
+
+40
+00:07:38,664 --> 00:07:50,784
+Patient notification and external reporting depend on the applicable
+process and legal duties. Do not invent a universal notification
+deadline or promise an outcome you cannot guarantee.
+
+41
+00:07:50,784 --> 00:08:02,064
+Consent is a process, not merely a signature. Explain the proposed
+care and why you recommend it, along with important benefits, risks
+and reasonable alternatives.
+
+42
+00:08:02,064 --> 00:08:11,400
+Give the person an opportunity to ask questions. Use appropriate
+language support and check what they understood, rather than simply
+asking whether they agree.
+
+43
+00:08:11,400 --> 00:08:24,384
+Consent can be expressed verbally, in writing or through relevant
+conduct, but it applies to the particular care agreed to. Permission
+for one examination does not authorize every later intervention.
+
+44
+00:08:24,384 --> 00:08:34,152
+Document the discussion and decision. If consent is withdrawn or the
+plan changes, reassess the situation and record the new decision and
+actions.
+
+45
+00:08:34,152 --> 00:08:45,984
+Consent inferred from conduct can be a capable patient extending an
+arm after an explained examination. It still depends on the situation
+and the particular care being proposed.
+
+46
+00:08:45,984 --> 00:08:58,296
+An unconscious patient presents a different issue: there may be a
+lawful basis for necessary urgent care without express consent. The
+word implied alone does not establish that basis.
+
+47
+00:08:58,296 --> 00:09:11,040
+Known valid refusals, applicable advance instructions and the
+available decision-making process must be considered. An emergency is
+not automatic permission to ignore every prior decision.
+
+48
+00:09:11,040 --> 00:09:23,496
+Record urgency, the capability concern, what information was available
+and the basis for the action. Seek clinical support where needed and
+obtain the patient's decision when they can participate.
+
+49
+00:09:23,496 --> 00:09:35,880
+Adult capability is presumed unless there is evidence otherwise.
+Assess the actual decision at the actual time, using understandable
+information and appropriate communication support.
+
+50
+00:09:35,880 --> 00:09:48,096
+Document how the person understands the relevant information and its
+application to their own circumstances. Use their meaningful
+responses, not just a statement that capacity was assessed.
+
+51
+00:09:48,096 --> 00:10:02,832
+Orientation and a neurological score provide clinical context but do
+not alone prove capability. An unusual choice, dementia diagnosis or
+reported alcohol use also does not automatically decide the question.
+
+52
+00:10:02,832 --> 00:10:28,800
+Identify barriers to understanding or voluntariness, reassess changes
+and obtain support when uncertain. The school example names VIRCA; its
+consent module expands this as Voluntary, Informed, Relevant, Capacity
+and Advice. These prompt the discussion, the specific decision,
+capability evidence and follow-up. The letters are not a validated
+score or a substitute for that evidence.
+
+53
+00:10:28,800 --> 00:10:40,896
+Refusal of one element does not automatically mean refusal of every
+aspect of care. Ask what the person is declining and why, then clarify
+which assessment or support they will accept.
+
+54
+00:10:40,896 --> 00:10:51,840
+Explain clinically relevant risks and uncertainty in terms the patient
+can use. A generic risks explained entry does not show whether the
+actual decision was informed.
+
+55
+00:10:51,840 --> 00:11:04,368
+Address practical or communication barriers without coercion. Seek the
+required consultation and extra help for high-risk or uncertain
+situations; do not use a signature as a shortcut.
+
+56
+00:11:04,368 --> 00:11:20,088
+The current non-conveyance guideline explicitly requires CliniCall
+consultation for pediatric patients and patients in police custody.
+Its broader mandatory-consultation list remains an operational
+requirement, not something to guess from memory.
+
+57
+00:11:20,088 --> 00:11:32,304
+For a refusal, show the clinical picture and why the proposed plan
+mattered. Record the assessment findings, any assessment the patient
+declined and how that limited your conclusions.
+
+58
+00:11:32,304 --> 00:11:41,928
+Record the specific risks, benefits and alternatives discussed, the
+person's responses, their decision and the evidence supporting your
+capability judgement.
+
+59
+00:11:41,928 --> 00:11:52,800
+Include consultations and the final safety plan. Advice must explain
+when and how to obtain further help, and the record should show how
+understanding was checked.
+
+60
+00:11:52,800 --> 00:12:05,736
+The signature supports the record but does not replace the process. If
+the patient declines to sign, record that fact and the discussion
+rather than inventing a signature or abandoning the documentation.
+
+61
+00:12:05,736 --> 00:12:18,072
+The BC Infants Act allows a minor to consent when the statutory
+requirements are met. The provider must explain the care and be
+satisfied about the minor's understanding and best interests.
+
+62
+00:12:18,072 --> 00:12:30,720
+Understanding concerns the nature and consequences of care and
+reasonably foreseeable benefits and risks. There is no universal
+birthday that automatically establishes this for every decision.
+
+63
+00:12:30,720 --> 00:12:42,960
+Record whether consent came from the minor or another verified
+authorized person and why that source was appropriate. Document
+communication, relevant disagreements and clinical support.
+
+64
+00:12:42,960 --> 00:12:53,712
+Do not turn this summary into an independent pediatric release rule.
+Current BCEHS non-conveyance guidance requires CliniCall consultation
+for pediatric patients.
+
+65
+00:12:53,712 --> 00:13:04,776
+An advance directive is a capable adult's written instruction meeting
+the legal requirements. A MOST is a medical order, not simply another
+name for an advance directive.
+
+66
+00:13:04,776 --> 00:13:14,232
+A No CPR direction concerns resuscitation. It does not automatically
+mean no assessment, no symptom relief or no other care.
+
+67
+00:13:14,232 --> 00:13:26,040
+Verify whose document it is, what it directs and whether it applies to
+the present situation. Record the document type, relevant content and
+any required approved-system copy.
+
+68
+00:13:26,040 --> 00:13:40,104
+If there is uncertainty or conflict, obtain appropriate clinical
+consultation rather than casually overriding the document. Detailed
+resuscitation decisions require the applicable pathway, not this
+glossary summary.
+
+69
+00:13:40,104 --> 00:13:51,984
+A substitute decision-maker is relevant when the patient cannot make
+the applicable decision. Do not bypass a capable patient simply
+because a family member is easier to speak with.
+
+70
+00:13:51,984 --> 00:14:02,400
+Verify the person's authority and its scope. A representation
+agreement, an existing appointment and an informal family relationship
+are not interchangeable.
+
+71
+00:14:02,400 --> 00:14:15,456
+BCEHS guidance contains details and some inconsistent wording about
+identifying or appointing substitutes. Do not assume that a paramedic
+can independently create an appointment by choosing a relative.
+
+72
+00:14:15,456 --> 00:14:27,432
+Use the appropriate clinical and legal support when authority is
+unclear. Record the document or basis checked, the person involved,
+their direction and the consultation that supported the plan.
+
+73
+00:14:27,432 --> 00:14:38,880
+Arrived at hospital records a location, not a completed transfer.
+Identify the receiving person and role, time, relevant report and
+acceptance of care.
+
+74
+00:14:38,880 --> 00:14:53,016
+Use the appropriate service framework. Current BCEHS A03 uses ATMIST
+AMBO for transfer and SBAR for consultation, even though parts of the
+school text use broader SBAR and MIST labels.
+
+75
+00:14:53,016 --> 00:15:06,336
+The school also gives different expansions of ISBARR in modules 2A and
+4A. Learn the required information and distinguish those labels rather
+than assuming the letters have one universal expansion.
+
+76
+00:15:06,336 --> 00:15:17,256
+Record outstanding issues and required documents or traces supplied.
+The written record and verbal report should agree about the latest
+status and the care already provided.
+
+77
+00:15:17,256 --> 00:15:28,656
+A patient not being transported still had a clinical encounter. The
+record needs the assessment, reasoning and actual outcome, not just a
+non-transport checkbox.
+
+78
+00:15:28,656 --> 00:15:40,560
+Differentiate an informed refusal from a clinically appropriate
+alternative pathway. If a referral is part of the plan, verify its
+availability or use the established referral process.
+
+79
+00:15:40,560 --> 00:15:53,664
+The refusal documentation standard calls for two complete observation
+sets; if required assessment cannot be obtained, explain why.
+Unobtained data must never be invented to complete the form.
+
+80
+00:15:53,664 --> 00:16:06,120
+Record specific follow-up and worsening advice, who participated and
+how understanding was checked. A referral offer, an accepted referral
+and a completed transfer are different outcomes.
+
+81
+00:16:06,120 --> 00:16:15,984
+The reading section contains a fictional timeline and an original
+model narrative. It is not a school assessment answer or an official
+ePCR template.
+
+82
+00:16:15,984 --> 00:16:27,048
+Write the record from supplied information only. Attribute the
+patient's account, preserve measurement times and describe the care
+and response without diagnosing a deeper injury.
+
+83
+00:16:27,048 --> 00:16:38,976
+The example has transport and a receiving nurse so that the
+accountability sequence can close. A comparable non-conveyance record
+would need its own decision rationale and safety plan.
+
+84
+00:16:38,976 --> 00:16:48,840
+Use the example to learn the structure, then complete your school
+practice on the official form. Never copy fictional values into a real
+patient record.
+
+85
+00:16:48,840 --> 00:16:58,752
+Ask a peer or instructor to reconstruct the call from the PCR. If they
+must guess why you intervened or who accepted care, the record needs
+improvement.
+
+86
+00:16:58,752 --> 00:17:10,800
+Also review the relationship: did you support trust and autonomy,
+protect dignity, recognize bias and respond to nonverbal cues? Was the
+environment or your language a barrier?
+
+87
+00:17:10,800 --> 00:17:35,568
+The school asks you to rate six communication competencies from one,
+needs improvement, to five, mastered, and choose one skill to refine
+over thirty days. Review trust, environment, bias, nonverbal cues, de-
+escalation and adaptation. Support ratings with observed behaviour and
+feedback: a self-rating of five does not certify mastery.
+
+88
+00:17:35,568 --> 00:17:46,968
+Track feedback and a repeat performance. The record, handover and
+patient interaction should improve together rather than becoming three
+unrelated paperwork exercises.

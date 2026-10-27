@@ -1,0 +1,215 @@
+1
+00:00:00,000 --> 00:00:14,856
+These stations practise the school’s medical-device objectives. Begin
+by identifying the device and patient’s immediate condition. The
+lecture teaches observation, communication and escalation; it is not a
+procedure manual.
+
+2
+00:00:14,856 --> 00:00:32,712
+Do not remove or reposition a displaced device unless the immediate-
+life-threat exception explicitly applies and the action is authorized
+and taught. In this lab, do not insert, flush, reconnect, inflate or
+test a device without direct instructor instruction.
+
+3
+00:00:32,712 --> 00:00:48,456
+The instructor supplies a manikin or photo showing an enteral tube
+that appears displaced. State what is visible, how the family
+describes the change and what you cannot confirm. Ask when it was last
+used and whether feeding or medicine was given afterward.
+
+4
+00:00:48,456 --> 00:01:04,992
+Assess the patient’s condition and the site without testing or
+advancing the tube. Report pain, vomiting, leakage, bleeding or
+worsening perfusion; communicate that the device should not be used
+until its status is confirmed by the appropriate clinician.
+
+5
+00:01:04,992 --> 00:01:21,288
+Use the supplied chart or bag demonstration to report measured output
+and the time interval. Separate a staff estimate from a recorded
+measurement. Ask about the patient’s usual output, recent intake,
+baseline cognition and the timing of new symptoms.
+
+6
+00:01:21,288 --> 00:01:37,968
+A suspected blockage is not an invitation to manipulate the catheter.
+The PCP’s scope does not automatically include urinary
+catheterization, and school practice does not grant extra endorsement.
+Escalate the patient’s condition through current service pathways.
+
+7
+00:01:37,968 --> 00:01:53,544
+In an ostomy station, describe the appliance and visible skin without
+removing the pouch. Ask what is normal for this person, when the
+output changed, whether there is pain or leakage and whether food,
+fluid or medication intake changed.
+
+8
+00:01:53,544 --> 00:02:11,184
+The goal is to notice possible dehydration, skin injury or acute
+abdominal change and share the facts with the receiving team. Do not
+insert a finger, probe the stoma or attempt an appliance procedure
+unless a specific current protocol and instructor supervision
+authorize it.
+
+9
+00:02:11,184 --> 00:02:27,264
+The integrated weekend scenario combines a device concern with a
+second patient who may have a more immediate threat. Before dividing,
+state the priority and the reason. Assign a named partner to each task
+and set an exact trigger for a check-back.
+
+10
+00:02:27,264 --> 00:02:42,720
+Do not allow the first patient to go unobserved while the second
+patient is assessed. Use short status updates, repeat the priority
+when the situation changes and request additional resources early if
+one crew cannot safely cover both patients.
+
+11
+00:02:42,720 --> 00:03:02,616
+For a patient with an enteral tube issue, include device type,
+apparent displacement, last known use, site findings, abdominal
+symptoms and whether the tube remained untouched. For a catheter
+issue, include measured output and period, appearance, reported
+blockage and systemic cues.
+
+12
+00:03:02,616 --> 00:03:28,320
+For school practice, use the assigned SBAR or MIST format. Current
+BCEHS A zero three instead specifies ATMIST AMBO for care transitions
+and SBAR for consultation. State suspected sepsis or suspected
+abdominal injury as a concern, not a proven diagnosis. Give the actual
+findings, your request and the response, and verify accepted
+responsibility.
+
+13
+00:03:28,320 --> 00:03:57,264
+These are fictional training data, not clinical thresholds. At ten
+twenty, patient A is awake, oriented and speaking normally, with
+abdominal pain rated six of ten. The caregiver now clarifies that the
+tube was last used at nine and moved at ten ten. The external mark
+changed and the dressing is moist. Internal position and injury remain
+unconfirmed. Do not use or manipulate the tube.
+
+14
+00:03:57,264 --> 00:04:25,344
+Patient B has new confusion, rapid breathing, low pressure and fever;
+the collection record shows thirty millilitres over six hours.
+Prioritize the immediate breathing and perfusion threats, request
+appropriate help and use the current pathway. Assign suitable care and
+check-back triggers for both patients. Neither a catheter infection
+nor sepsis is proven, and a device repair must not replace whole-
+patient care.
+
+15
+00:04:25,344 --> 00:05:06,432
+For B, rehearse this SBAR consultation: I need urgent clinical support
+for a care-home patient with new confusion, rapid breathing and low
+pressure. Staff report a normally interactive baseline; the collection
+record shows thirty millilitres in six hours. At ten twenty,
+respirations are thirty, pulse one eighteen, pressure eighty-six over
+fifty-two, saturation ninety-two percent on room air and temperature
+thirty-eight point six. I am concerned about systemic illness
+including possible sepsis. Please advise the receiving plan and
+additional resources while we continue indicated support.
+
+16
+00:05:06,432 --> 00:05:51,144
+For patient A, give this school report using mechanism, illness, signs
+and treatment: movement reportedly shifted the feeding tube at ten
+ten; new abdominal pain and nausea, with a moist dressing and changed
+external mark, but no confirmed internal injury. At ten twenty,
+respirations twenty, pulse ninety-six, pressure one eighteen over
+seventy-two, saturation ninety-seven percent on room air and pain six
+of ten. We assessed the patient, protected the tube from use or
+manipulation and are arranging appropriate evaluation with the
+patient. This is a school report example, not a replacement for the
+current service transfer format.
+
+17
+00:05:51,144 --> 00:06:25,272
+For the documentation branch, the simulator supplies these later
+events. At ten thirty, patient A has the same measured values and pain
+score. The patient accepts assessment and conveyance. The tube is not
+used, and no medicine is administered. Another qualified crew accepts
+patient B at ten twenty-eight. Patient A departs at ten thirty-one and
+the receiving clinician accepts this patient at ten forty-five. These
+are additional fictional facts for this branch, not events you may
+assume in another case.
+
+18
+00:06:25,272 --> 00:07:28,608
+A concise A-only narrative could read: At ten twenty, a fifty-five-
+year-old woman at home reports new abdominal pain and nausea.
+Caregiver reports the feeding tube was last used at nine and shifted
+at ten ten. Awake, oriented, speaking normally; respirations twenty,
+pulse ninety-six, pressure one eighteen over seventy-two, room-air
+saturation ninety-seven percent, pain six of ten. Dressing moist and
+external mark changed; internal position not confirmed. Tube not used
+or manipulated; assessment and conveyance accepted, no medicine given.
+At ten thirty, measurements and pain unchanged. Departed ten thirty-
+one; receiving clinician accepted at ten forty-five. Add the actual
+identifiers, required assessment, medicines, allergies and responsible
+names from the scenario; unavailable facts stay unavailable. Keep B in
+a separate record.
+
+19
+00:07:28,608 --> 00:07:45,192
+The school plan sets a five-minute completion target for a legal PCR
+practice. Treat the time limit as a training constraint, not
+permission to omit required information or a claim about the law. Use
+only the school rubric and authorized practice environment.
+
+20
+00:07:45,192 --> 00:08:07,992
+Build a truthful timeline first. Then record the patient’s baseline,
+device status, objective findings, authorized actions and response.
+Include names or roles, consultation and handover. Each patient needs
+a separate record; never merge two patients into one narrative or
+invent a value to meet the timer.
+
+21
+00:08:07,992 --> 00:08:24,264
+At the end of the timed drill, compare the PCR with the scenario
+record and team observations. Correct chronology, source attribution,
+device details and patient response. Separate “not assessed” from
+“normal” and estimate from measurement.
+
+22
+00:08:24,264 --> 00:08:39,672
+A legally and clinically useful record reflects what happened rather
+than what should have happened. If a safety event or medication error
+occurred, follow the actual service reporting and amendment process
+instead of silently editing the narrative.
+
+23
+00:08:39,672 --> 00:08:54,600
+The instructor will not lead the review. Ask the seven questions in
+order, using the patient story and observable evidence. If your answer
+relies on hindsight, state what information was available at the time
+and what was not.
+
+24
+00:08:54,600 --> 00:09:11,256
+The final question should produce one observable action for the next
+run: for example, state the source and time for each device-output
+figure, or assign the second patient a reassessment interval. The
+instructor may then calibrate the target against the rubric.
+
+25
+00:09:11,256 --> 00:09:26,520
+End each station by summarizing the patient’s concern, relevant device
+change, main findings, actions, response and next concern. Use neutral
+language and preserve the person’s dignity during examination and
+movement.
+
+26
+00:09:26,520 --> 00:09:44,256
+This week practises NG/PEG, urinary-catheter and ostomy scenarios. The
+purpose is recognition, reasoning, communication and documentation
+under supervision—not independent device manipulation or competency
+sign-off from an online lesson.
