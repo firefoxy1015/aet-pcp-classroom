@@ -1,0 +1,127 @@
+1
+00:00:00,000 --> 00:00:20,064
+Start with immediate threats. A long symptom interview must not delay
+basic assessment or urgent care. Once that first assessment is under
+way, gather symptom history and ECG evidence alongside vital signs,
+skin and mentation, using available team members and the authorized
+workflow.
+
+2
+00:00:20,064 --> 00:00:37,200
+The school integration sequence is an educational checklist, not a
+command to finish history before checking an unstable patient’s
+circulation. Synthesize the information repeatedly. A patient can
+change while you are measuring an interval or completing the next part
+of the story.
+
+3
+00:00:37,200 --> 00:00:56,664
+Ask site and onset, then let the patient describe character and
+radiation in their own words. Record the actual onset time or its
+uncertainty. Ask about associated breathlessness, nausea, sweating,
+palpitations or fainting rather than limiting the interview to a pain
+score.
+
+4
+00:00:56,664 --> 00:01:16,872
+Pressure-like central discomfort and radiation can increase concern,
+but no single description rules in or rules out ACS. Sharp,
+reproducible, abdominal or gradually developing symptoms can still
+require urgent evaluation in context. Keep dangerous noncoronary
+alternatives in view.
+
+5
+00:01:16,872 --> 00:01:35,376
+Complete SOCRATES with duration and recurrence, what worsens or
+relieves the symptom, and the patient’s rated severity. Ask whether
+this differs from previous episodes and how it affects activity. A
+timeline helps relate symptoms to serial ECGs and physiological
+change.
+
+6
+00:01:35,376 --> 00:01:57,528
+Do not use brief duration, gradual onset, relief with rest or response
+to a medicine as a stand-alone exclusion or confirmation of ACS.
+Severe symptoms may be urgent, but low reported severity can also
+accompany serious illness. Document the patient’s description rather
+than rewriting it to match a stereotype.
+
+7
+00:01:57,528 --> 00:02:19,032
+Hypovolemic shock reduces filling through blood or fluid loss.
+Distributive shock changes vascular tone and distribution, as in
+sepsis or anaphylaxis. Cardiogenic shock reflects inadequate pump
+performance, while obstructive shock involves a barrier such as
+pulmonary embolism, tamponade or tension pneumothorax.
+
+8
+00:02:19,032 --> 00:02:40,728
+The ECG may show sinus tachycardia, nonspecific changes, ischemia or
+an arrhythmia in several of these states. A pattern of right-heart
+strain or low voltage is not a stand-alone diagnosis of obstruction.
+History, physical findings and serial physiology determine which
+mechanism is plausible and what help is needed.
+
+9
+00:02:40,728 --> 00:03:02,208
+The school pairs ST change with hypotension, nonspecific ECG with
+instability, normal ECG with persistent concerning symptoms, and
+subtle T changes with nonclassic symptoms. In each, the point is to
+combine evidence rather than allow one reassuring or alarming feature
+to dominate everything.
+
+10
+00:03:02,208 --> 00:03:23,040
+Use an appropriate ACS pathway when warranted, but keep other causes
+of deterioration active. Oxygen is given for its indication, not
+automatically for any ST label. Medications, fluids and advanced
+procedures require their own assessment, contraindication review and
+provider authority.
+
+11
+00:03:23,040 --> 00:03:44,328
+In this original case, an adult becomes sweaty and confused after
+exertional upper-abdominal pressure. A clean monitoring strip shows
+regular sinus activity, but the pulse is weak and pressure is falling.
+State the problem as impaired perfusion with a possible ischemic
+presentation, not simply normal sinus rhythm.
+
+12
+00:03:44,328 --> 00:04:07,272
+Prioritize immediate assessment and support through the authorized
+pathway, obtain a diagnostic ECG efficiently and communicate
+deterioration early. Consider cardiac and noncardiac causes. Reassess
+whether symptoms, mentation, pulse and pressure change together; a
+stable electrical rate does not mean the patient has stabilized.
+
+13
+00:04:07,272 --> 00:04:27,552
+A concise handover states the main concern and onset, relevant
+history, current and previous physiological findings, ECG observations
+and technical limits. Then describe what was done, the response and
+the support needed. Make clear which findings were measured, reported
+or inferred.
+
+14
+00:04:27,552 --> 00:04:47,520
+For the original case, report persistent poor perfusion despite an
+organized sinus strip, whether the diagnostic ECG is available, and
+the trend after care. Do not claim excluded ACS, confirmed shock
+subtype or successful stabilization unless the evidence actually
+supports that conclusion.
+
+15
+00:04:47,520 --> 00:05:10,776
+You have now worked through the fifteen teaching chapters: anatomy,
+electrical foundations, measurement, leads, systematic interpretation,
+rhythm families, repolarization, blocks, physiology, artifact,
+instability and integration. Use the bilingual reading and original
+practice to explain decisions aloud, not just recognize headings.
+
+16
+00:05:10,776 --> 00:05:30,936
+School assessment and supervised practical requirements remain
+separate. This independent classroom neither answers the school Quiz
+nor submits completion or certification. Review the assigned Week
+Three textbook reading already provided, and use the school’s normal
+pathway for its own learning and evaluation requirements.

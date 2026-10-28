@@ -1,0 +1,65 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:17.352
+Choose a clear tracing and measure from QRS onset to the end of T, where it returns to the baseline. Distinguish a separate U wave. When T and U merge or the endpoint is uncertain, record that limitation rather than inventing an exact duration.
+选择清晰记录，从 QRS 起点量至 T 波回到基线的终点，注意区分独立 U 波。T、U 融合或终点不清时，应记录局限，不能编造精确时限。
+
+00:00:17.352 --> 00:00:36.240
+QT varies with heart rate, so also measure a representative RR interval. Document the lead, rate, raw QT and correction method when available. A machine-generated QTc is a useful check but still depends on correct detection and a valid signal.
+QT 随心率变化，因此还应测量有代表性的 RR。可行时记录导联、心率、原始 QT 和校正方法。机器 QTc 可用于核对，但仍依赖正确识别和有效信号。
+
+00:00:36.240 --> 00:00:58.536
+For the school Bazett calculation, divide QT by the square root of RR in seconds. In this original worked example, QT is zero point four two zero seconds and RR is zero point six four seconds. The square root is zero point eight; corrected QT is zero point five two five seconds.
+按学校的 Bazett 算法，用 QT 除以以秒表示的 RR 平方根。此原创例子中，QT 为0.420秒、RR 为0.64秒，平方根为0.8，校正 QT 得0.525秒。
+
+00:00:58.536 --> 00:01:16.128
+Convert that result to five hundred twenty-five milliseconds. Alternatively use QT in milliseconds with RR still in seconds, giving a millisecond result. Do not put RR in milliseconds under the square root, and do not label a seconds result as milliseconds.
+再换算为525毫秒。也可让 QT 用毫秒、RR 仍用秒，则结果是毫秒。不要把毫秒 RR 放进平方根，也不要把以秒计算的结果标成毫秒。
+
+00:01:16.128 --> 00:01:33.912
+The school uses upper reference values of four hundred fifty milliseconds for men and four hundred sixty for women, with more than five hundred a major warning. These are course reference cutoffs, not a boundary that makes every lower result safe or every higher result a complete diagnosis.
+学校使用男性450毫秒、女性460毫秒作为上限参考，超过500毫秒作为重要警示。这些是课程参考界值，不意味着低于界值都安全，也不意味着超过界值就是完整诊断。
+
+00:01:33.912 --> 00:01:54.936
+Bazett can miscorrect at very fast or slow rates. Variable RR, uncertain T endpoints and a wide QRS further complicate assessment. Repeat when appropriate, compare prior tracings and seek expert interpretation instead of allowing a borderline automated number to dictate a high-risk decision alone.
+Bazett 在很快或很慢心率时可校正失真；RR 多变、T 终点不清及宽 QRS 也会增加解释难度。应在适当时复测、比较既往记录并寻求专家判断，不能让临界机器数值单独决定高风险行动。
+
+00:01:54.936 --> 00:02:12.168
+The school names amiodarone, ondansetron, haloperidol and sotalol, along with some antibiotics and antifungals. The point is to review the actual medication list, combinations and patient risk, not to assume that only cardiac drugs affect ventricular recovery.
+学校点名胺碘酮、昂丹司琼、氟哌啶醇、索他洛尔，以及部分抗生素和抗真菌药。重点是核对实际药单、组合与患者风险，而不是假定只有心脏药影响心室复极。
+
+00:02:12.168 --> 00:02:32.280
+Ask about prescribed and nonprescribed drugs, recent additions, vomiting or diarrhoea, renal problems and known long-QT disease. Suspected electrolyte depletion or several QT-prolonging drugs can compound risk. Communicate the concern and consult the applicable prescribing or medical-control pathway.
+询问处方药、非处方药、近期新增药、呕吐腹泻、肾脏问题及已知长 QT 病史。疑似电解质耗损或多种延长 QT 药物可叠加风险，应报告疑虑并按适用的处方或医疗指导流程咨询。
+
+00:02:32.280 --> 00:02:53.784
+The school emphasizes baseline ECG review before non-time-critical exposure to QT-prolonging medication. Read that alongside the current indication, local drug monograph and your licence level. Do not independently discontinue a patient’s prescriptions or substitute a drug merely because a teaching threshold was crossed.
+学校强调在非时间紧迫情况下，使用延长 QT 药前应复核基线心电图。必须结合当前适应证、本地药物专论及自身执照级别，不能仅因超过教学界值就自行停用患者处方或换药。
+
+00:02:53.784 --> 00:03:13.824
+Context changes priorities. A pre-infusion safety check is not a reason to postpone CPR or indicated defibrillation during arrest. The warning that a drug may prolong QT does not replace a rhythm-specific emergency pathway, and this chapter supplies no independent PCP dosing authority.
+背景会改变优先级。输注前安全检查，不能成为骤停时推迟 CPR 或指征明确除颤的理由。药物可能延长 QT 的警示不能替代特定节律急救流程，本章也不提供 PCP 自主给药剂量授权。
+
+00:03:13.824 --> 00:03:31.296
+Torsades de pointes is a form of polymorphic ventricular tachycardia associated with a prolonged QT in the underlying rhythm. The complexes appear to grow, shrink and rotate direction. It is different from the uniform appearance of monomorphic VT.
+尖端扭转型室速是与基础节律 QT 延长相关的多形性室速，波群看似增大、缩小并旋转方向，与单形室速的相对一致形态不同。
+
+00:03:31.296 --> 00:03:50.352
+Not every polymorphic VT is torsades. A normal-QT polymorphic rhythm may have a different mechanism, including ischemia. Report what was seen and any preceding QT information; do not delay emergency treatment while searching for a previous interval that is not available.
+并非所有多形性室速都是尖端扭转；正常 QT 的多形性节律可有包括缺血在内的不同机制。应报告所见和既往 QT 信息，不能因找不到先前间期而延误紧急处置。
+
+00:03:50.352 --> 00:04:12.096
+Assess the patient immediately. Current resuscitation guidance treats sustained polymorphic VT as an unstable rhythm requiring an immediate unsynchronized-shock response by authorized personnel. If pulseless, provide CPR and indicated defibrillation through the applicable pathway rather than waiting to calculate QTc.
+应立即评估患者。当前复苏指导把持续多形性室速视为不稳定节律，需由具备权限者立即按非同步电击流程响应。若无脉，应按适用流程进行 CPR 和指征明确的除颤，而不是等待 QTc 计算。
+
+00:04:12.096 --> 00:04:31.320
+Magnesium can be relevant to recurrence of long-QT torsades; it is not a substitute for terminating an immediately dangerous sustained rhythm, and it is not a universal treatment for every polymorphic VT. Expert medication and pacing decisions must follow current medical direction and scope.
+镁可与长 QT 尖端扭转的复发处理有关，但不能代替终止立即危险的持续节律，也不是所有多形性室速的通用治疗。专家药物与起搏决策必须遵循当前医疗指导及权限。
+
+00:04:31.320 --> 00:04:50.304
+A useful report includes raw QT and RR, the corrected value with units, the method and any measurement limitation. Add symptoms such as syncope, the relevant medication history and whether there was a rhythm change. This is more useful than saying only that the QT looks long.
+有用报告包括原始 QT、RR、带单位的校正值、方法及测量局限，并补充晕厥等症状、相关用药史及是否发生节律变化。这比只说“QT 看起来长”更有用。
+
+00:04:50.304 --> 00:05:08.952
+Document whom you consulted and the plan reached through the authorized pathway. Repeat values and symptom trends help the receiving team understand changing risk. A teaching threshold should produce deliberate assessment and communication, not an undocumented automatic medication decision.
+记录咨询对象及授权流程确定的计划。重复测量和症状趋势帮助接收团队理解风险变化。教学界值应促成审慎评估与沟通，而不是未记录的自动给药决策。

@@ -1,0 +1,49 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:16.440
+A wave is a deflection; a complex is a group of deflections. A segment lies between defined events, while an interval includes one or more events and the time between boundaries. These words tell you where to place your measurement endpoints.
+波是一个偏转，波群是一组偏转；段位于规定事件之间，间期包括一个或多个事件及边界之间的时间。这些术语决定测量端点应放在哪里。
+
+00:00:16.440 --> 00:00:34.032
+For example, the PR interval starts at the beginning of the P wave, not its end. The QT interval begins with ventricular depolarization, not with the P wave. If the endpoints are wrong, accurate box counting still produces the wrong physiological measurement.
+例如，PR 间期从 P 波起点开始，而不是 P 波终点；QT 间期从心室去极化开始，而不是从 P 波开始。端点错了，即使格数数得准确，生理测量仍是错的。
+
+00:00:34.032 --> 00:00:53.400
+The P wave represents atrial depolarization. The school uses duration below zero point one two seconds and amplitude below two point five millimetres as introductory references, with lead-dependent appearance. An unusual P wave needs context; shape alone does not diagnose the cause.
+P 波表示心房去极化。学校以时限小于0.12秒、振幅小于2.5毫米作为入门参考，但形态依赖导联。异常 P 波需要背景；不能单凭形状确定病因。
+
+00:00:53.400 --> 00:01:14.136
+PR measures from P onset to QRS onset, normally about zero point one two to zero point two zero seconds in this teaching framework. It includes atrial and AV conduction, not just AV-node delay. Compare successive conducted beats and look for P waves that fail to produce a QRS.
+本课 PR 从 P 波起点量至 QRS 起点，参考范围约0.12至0.20秒。它包括心房及房室传导，不只是房室结延迟。应比较连续下传搏动，并寻找没有产生 QRS 的 P 波。
+
+00:01:14.136 --> 00:01:34.056
+Measure QRS width from the first ventricular deflection through its final return to the ST segment. A width below zero point one two seconds is the school reference for a narrow complex. A wide complex suggests slower or altered activation, not automatically one specific rhythm.
+QRS 宽度从最早心室偏转起点量至其结束、进入 ST 段的位置。学校以小于0.12秒作为窄波群参考。增宽提示激动减慢或路径改变，不自动代表某一种节律。
+
+00:01:34.056 --> 00:01:54.816
+Bundle-branch conduction, ventricular origin, metabolic disturbance and pacing can all alter QRS appearance. Low amplitude also has technical and patient-related explanations. Do not equate a larger complex with stronger contraction, or a narrow complex with adequate perfusion.
+束支传导、心室起源、代谢异常及起搏均可改变 QRS 形态。低电压也可能有技术或患者因素解释。不要把大波群等同强收缩，也不要把窄波群等同良好灌注。
+
+00:01:54.816 --> 00:02:17.520
+Identify the J point where QRS ends and ST begins. Assess ST displacement relative to an appropriate isoelectric reference, not the peak or end of the T wave. ST elevation, depression or T-wave inversion can be important, but a single monitoring lead cannot complete diagnostic twelve-lead interpretation.
+先找 QRS 结束、ST 开始的 J 点。ST 偏移应相对于适当的等电参考线判断，不能从 T 波峰或终点量。ST 抬高、压低或 T 波倒置可能重要，但单个监护导联不能完成诊断性十二导联判读。
+
+00:02:17.520 --> 00:02:39.024
+A peaked, flattened or inverted T wave raises possibilities such as electrolyte disturbance, ischemia or altered activation. It does not establish a laboratory potassium concentration or a coronary diagnosis. Repeat a technically sound tracing, compare appropriate leads and integrate symptoms and physiology.
+高尖、低平或倒置 T 波可提示电解质异常、缺血或激动改变等可能性，但不能据此确定血钾值或冠脉诊断。应重取技术合格记录、比较适当导联，并结合症状和生理状态。
+
+00:02:39.024 --> 00:02:59.928
+QT extends from QRS onset to the end of the T wave. It includes ventricular depolarization and repolarization. Because it changes with heart rate, a raw duration cannot be interpreted without rate information. The later QTc chapter supplies a measured, rate-adjusted approach.
+QT 从 QRS 起点延伸至 T 波终点，涵盖心室去极化和复极。它随心率变化，因此原始时限必须结合心率解释；后面的 QTc 章节将提供实测、校正后的方法。
+
+00:02:59.928 --> 00:03:17.136
+The school mentions a quick comparison with half the preceding RR interval. Treat that only as a rough screening idea, not a reliable normality rule at all rates. Distinguish a separate U wave and document unclear T-wave endpoints rather than assigning false precision.
+学校提到与前一个 RR 间期一半进行快速比较；这只能当粗略筛查思路，不是所有心率下可靠的正常标准。应区分独立 U 波，对不清晰的 T 波终点记录不确定性，不能给出虚假精度。
+
+00:03:17.136 --> 00:03:40.224
+When the school asks you to distinguish atrial from ventricular events, explain rather than merely sort labels. P is atrial activation. PR spans transmission from atrial activation to ventricular activation. QRS, ST and T describe ventricular activation, plateau-related behaviour and recovery.
+学校要求区分心房、心室事件时，应解释含义，而不只是分类标签。P 是心房激动；PR 跨越从心房激动至心室激动的传导；QRS、ST、T 分别描述心室激动、平台期相关表现和复极。
+
+00:03:40.224 --> 00:03:57.984
+Finish every interpretation with its limits. A normal-looking waveform may occur early in disease, while an abnormal waveform may result from artifact or placement. Describe what you observed, state what remains uncertain, and check whether the patient is deteriorating.
+每次判读最后都应说明局限。疾病早期可能波形看似正常，异常波形也可能来自伪差或电极位置。应描述所见、说明不确定项，并检查患者是否恶化。

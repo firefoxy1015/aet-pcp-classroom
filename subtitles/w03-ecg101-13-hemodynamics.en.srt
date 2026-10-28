@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:17,376
+Preload describes end-diastolic filling and myocardial stretch; the
+school uses ventricular filling volume as a useful simplified proxy.
+Afterload describes the load the ventricle must overcome to eject.
+Stroke volume is the amount ejected with one beat.
+
+2
+00:00:17,376 --> 00:00:35,928
+Cardiac output is heart rate multiplied by stroke volume. A monitor
+supplies electrical rate, not stroke volume. Therefore a normal rate
+cannot establish normal output, and a fast rate cannot be interpreted
+without asking what happened to filling and the amount ejected per
+beat.
+
+3
+00:00:35,928 --> 00:00:56,328
+Blood loss can reduce preload and stroke volume, so tachycardia may
+initially compensate. Poor contractility after myocardial injury can
+reduce output despite available filling. High afterload can make
+ejection harder. These mechanisms may coexist rather than fitting a
+single tidy category.
+
+4
+00:00:56,328 --> 00:01:15,384
+Increasing filling helps only within the heart’s physiological
+capacity. Excess volume in a failing pump may worsen congestion. Use
+the mechanism to organize assessment, but do not convert a conceptual
+preload lesson into an automatic fluid instruction for every
+hypotensive patient.
+
+5
+00:01:15,384 --> 00:01:33,840
+Sympathetic activation generally raises rate, contractility and AV
+transmission during pain, stress or shock. Vagal activity can slow
+sinus activity and AV conduction. The tracing records part of that
+response; the history helps explain why it occurred.
+
+6
+00:01:33,840 --> 00:01:53,040
+Review beta-blockers, calcium-channel blockers, digoxin and other
+relevant exposures. Vomiting, vagal stimulation or nodal ischemia can
+also contribute to slowing. A medication history may explain why a
+very ill patient does not develop the expected compensatory
+tachycardia.
+
+7
+00:01:53,040 --> 00:02:12,936
+Hypoxia can increase electrical instability and worsen myocardial
+oxygen imbalance. Acid–base disturbance can impair cardiac function
+and interact with potassium abnormalities. Neither has one mandatory
+ECG appearance, and a single waveform cannot establish blood gas
+results.
+
+8
+00:02:12,936 --> 00:02:34,248
+Consider the whole illness: respiratory failure, sepsis, diabetic
+metabolic disturbance or other causes may affect rhythm. Continue
+appropriate airway, breathing and circulatory assessment, obtain
+available measurements and communicate the suspected mechanism without
+claiming laboratory confirmation that you do not have.
+
+9
+00:02:34,248 --> 00:02:55,728
+The school associates hyperkalemia with peaked T waves, less visible
+atrial activity and widening QRS, potentially progressing to severe
+conduction disturbance. These changes are variable and need not appear
+in a fixed sequence. A dialysis or renal history can sharply increase
+concern even without textbook waves.
+
+10
+00:02:55,728 --> 00:03:17,256
+Hypokalemia can produce flat T waves, prominent U waves and ectopy,
+and may increase repolarization risk. An apparent long interval may
+partly be a fused T–U complex rather than a clean QT measurement.
+Communicate the suspicion and measurement limitation rather than
+diagnosing an exact electrolyte value.
+
+11
+00:03:17,256 --> 00:03:35,688
+Hypothermia can slow the heart and conduction, prolong intervals and
+produce an Osborn or J wave. These are useful clues, not universal
+requirements or a standalone temperature measurement. Consider
+exposure, measured temperature and overall physiology together.
+
+12
+00:03:35,688 --> 00:03:52,896
+Manage the cold patient through the applicable environmental and
+resuscitation pathway while monitoring changes. Handle the patient
+appropriately and document the temperature context. Do not force a
+temperature-related tracing into a routine normothermic rhythm
+explanation.
+
+13
+00:03:52,896 --> 00:04:12,864
+For each case, propose a mechanism and a finding that would support or
+weaken it. A volume-loss story, a pump-failure story and a
+vasodilation story may all produce tachycardia, but they do not
+justify the same response. ECG is part of that reasoning, not the
+entire explanation.
+
+14
+00:04:12,864 --> 00:04:31,272
+After an intervention through the authorized pathway, reassess
+symptoms, pulse, pressure, skin, mentation and the tracing.
+Improvement in rate without improvement in perfusion is an incomplete
+response. Record the cause you suspected and the evidence that changed
+your plan.

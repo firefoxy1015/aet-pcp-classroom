@@ -1,0 +1,93 @@
+1
+00:00:00,000 --> 00:00:19,416
+At a paper speed of twenty-five millimetres per second, each
+horizontal one-millimetre box represents zero point zero four seconds.
+Five small boxes form one large box, representing zero point two
+seconds. These conversions apply only after you confirm the actual
+recording speed.
+
+2
+00:00:19,416 --> 00:00:37,872
+At standard gain, ten vertical millimetres represent one millivolt. A
+shorter calibration mark may reflect deliberately reduced gain rather
+than a broken machine. Read the stated setting, verify the calibration
+mark and document it before interpreting voltage or comparing
+recordings.
+
+3
+00:00:37,872 --> 00:00:59,208
+First choose the physiological endpoints, then count boxes. For a QRS
+spanning three and a half small boxes at standard speed, multiply
+three point five by zero point zero four: zero point one four seconds,
+or one hundred forty milliseconds. That is a wide complex by the
+school reference.
+
+4
+00:00:59,208 --> 00:01:18,072
+State the unit every time. Multiplying by zero point zero four gives
+seconds, not milliseconds. To express the same result in milliseconds,
+multiply seconds by one thousand. This unit discipline is especially
+important in the QTc calculation later in the module.
+
+5
+00:01:18,072 --> 00:01:36,528
+Measure voltage vertically from a suitable baseline to the chosen peak
+or nadir. Twelve millimetres at standard gain corresponds to one point
+two millivolts. If gain changes, the same millimetre height represents
+a different voltage, so a visual comparison alone is unreliable.
+
+6
+00:01:36,528 --> 00:01:54,408
+Small waves may be harder to measure because of body habitus,
+electrode contact or baseline motion. Improve the signal and repeat a
+borderline measurement. Do not assign a precise amplitude to an
+obscured endpoint, and do not translate voltage into the strength of
+the pulse.
+
+7
+00:01:54,408 --> 00:02:16,872
+For a regular rhythm at standard speed, divide three hundred by the
+number of large boxes between consecutive R peaks. Four large boxes
+gives seventy-five beats per minute. The landmark sequence three
+hundred, one fifty, one hundred, seventy-five, sixty, fifty is the
+same relationship expressed without division.
+
+8
+00:02:16,872 --> 00:02:36,840
+The shortcut assumes both a known speed and a representative regular
+RR interval. If intervals vary substantially, one short interval
+exaggerates the average rate and one long interval underestimates it.
+Examine regularity before choosing this method, even though rate is
+step two in the school framework.
+
+9
+00:02:36,840 --> 00:02:56,088
+For an irregular rhythm, count ventricular complexes within a verified
+six-second window and multiply by ten. Eight complexes gives an
+estimated eighty per minute. Confirm the duration from printed time
+marks or a known grid speed rather than assuming that any strip is six
+seconds long.
+
+10
+00:02:56,088 --> 00:03:15,672
+The general calculation is counted beats multiplied by sixty, divided
+by the number of seconds sampled. Short windows give less precise
+averages, especially when the rhythm varies. Report an approximate
+ventricular rate and the irregularity rather than presenting the
+number as an exact constant.
+
+11
+00:03:15,672 --> 00:03:35,832
+Use calipers or a straight edge when helpful, and remeasure a
+borderline result. Check the J point for ST displacement, not the
+T-wave peak. If motion or poor contact prevents reliable measurement,
+correct what you can and acquire another tracing while continuing
+patient care.
+
+12
+00:03:35,832 --> 00:03:54,936
+Document the setting and measurement, the limitation that affected
+confidence, and whether repetition changed the finding. Do not label
+every unusual number a machine fault. A correctly recorded wide QRS is
+a clinical observation, whereas wrong speed assumptions are an
+interpretation error.

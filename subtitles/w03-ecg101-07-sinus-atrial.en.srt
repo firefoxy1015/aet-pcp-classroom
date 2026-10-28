@@ -1,0 +1,138 @@
+1
+00:00:00,000 --> 00:00:20,568
+Describe rhythm along two axes: where the impulse originates and how
+it conducts. A sinus origin does not guarantee normal AV conduction,
+and a narrow QRS does not identify the atrial pacemaker. Use the six
+steps to establish each feature instead of jumping from one visual
+clue to a label.
+
+2
+00:00:20,568 --> 00:00:38,880
+For the reference sinus pattern, look for a consistent upright P
+before each QRS in lead two, one-to-one conduction, a regular rate in
+the adult teaching range and appropriate intervals. This is a
+reference pattern, not proof that the patient has no cardiac disease.
+
+3
+00:00:38,880 --> 00:00:59,640
+Sinus bradycardia preserves the sinus relationships but has a rate
+below sixty. Causes include conditioning, vagal effects, hypothermia,
+hypoxia, nodal ischemia and medication effects. Assess symptoms and
+perfusion; the rhythm-classification cutoff is not automatically a
+treatment trigger.
+
+4
+00:00:59,640 --> 00:01:21,768
+Sinus tachycardia is above one hundred with the same sinus pattern.
+Look for pain, fever, hypovolemia, hypoxia, anxiety, pulmonary illness
+or stimulants. Reducing a compensatory rate without correcting the
+cause can worsen output. A fast number alone does not establish re-
+entry SVT.
+
+5
+00:01:21,768 --> 00:01:41,256
+Respiratory sinus arrhythmia produces cyclic rate variation, commonly
+in younger people, while the P-to-QRS relationship remains sinus.
+Confirm the pattern rather than calling every irregular rhythm AF. Not
+all irregularity has the same mechanism or urgency.
+
+6
+00:01:41,256 --> 00:02:01,896
+A sinus pause or arrest presents a missing expected atrial impulse,
+sometimes followed by an escape beat. Review vagal influences,
+medication and sinus-node disease. Recurrent or symptomatic pauses
+merit urgent evaluation; a short strip may not establish the exact
+pause mechanism.
+
+7
+00:02:01,896 --> 00:02:21,000
+A premature atrial contraction starts early from an atrial focus
+outside the sinus node. Look for an early P with a different shape; it
+may be partly hidden in the preceding T wave. The following QRS is
+often narrow but may be aberrant or absent if conduction fails.
+
+8
+00:02:21,000 --> 00:02:42,888
+Assess frequency, change from baseline and the patient rather than
+treating one isolated PAC as an emergency. Stress, caffeine,
+electrolyte disturbance and structural disease are possible
+associations. Frequent atrial ectopy may justify closer observation
+and follow-up without proving AF on that strip.
+
+9
+00:02:42,888 --> 00:03:04,392
+Wandering atrial pacemaker shows changing P-wave shapes as the
+dominant atrial focus shifts. At least three distinct P morphologies
+support the school pattern. When that multifocal atrial pattern is
+tachycardic, above one hundred per minute, it is called multifocal
+atrial tachycardia rather than simple wandering pacemaker.
+
+10
+00:03:04,392 --> 00:03:26,424
+MAT can be associated with significant pulmonary disease and metabolic
+stress. Unlike AF, discernible P waves with multiple shapes are
+present. Compare multiple beats, assess oxygenation and physiology,
+and communicate the rhythm and underlying illness rather than assuming
+one universal rate-control solution.
+
+11
+00:03:26,424 --> 00:03:45,984
+Atrial flutter is organized rapid atrial activity, often with a
+sawtooth appearance in inferior leads. The school reference is an
+atrial rate around two hundred fifty to three hundred fifty. Count
+atrial and ventricular activity separately because not every atrial
+impulse conducts.
+
+12
+00:03:45,984 --> 00:04:07,920
+With fixed conduction, the ventricular rhythm may be very regular;
+with changing conduction, it may vary. Flutter waves can hide in QRS
+or T waves. Structural and valvular disease or pulmonary illness may
+contribute. Urgency depends on perfusion and symptoms, not on seeing a
+sawtooth alone.
+
+13
+00:04:07,920 --> 00:04:27,624
+Atrial fibrillation combines disorganized atrial activity with an
+irregularly irregular ventricular response when AV conduction is
+variable. Look for the absence of consistent discrete P waves across a
+sufficient sample. Noise or a single irregular interval is not enough
+evidence.
+
+14
+00:04:27,624 --> 00:04:49,752
+AF can reduce coordinated atrial contribution and may carry
+thromboembolic risk. Obtain onset and medication history when
+feasible. If the patient is unstable, seek urgent authorized care; the
+school shorthand about rate control must not be read as permission for
+a PCP to choose antiarrhythmic treatment independently.
+
+15
+00:04:49,752 --> 00:05:09,048
+The school describes PSVT as typically narrow, regular and very rapid
+with abrupt onset and offset, often without easily visible P waves.
+The rate may exceed one hundred fifty, but that number alone does not
+distinguish SVT from sinus tachycardia or flutter.
+
+16
+00:05:09,048 --> 00:05:30,336
+Ask how it started, inspect atrial activity and look for a cause of
+compensatory tachycardia. Vagal manoeuvres and medicines require the
+applicable service pathway and authority; do not turn a recognition
+lecture into a treatment order. Instability requires urgent
+escalation, not prolonged naming exercises.
+
+17
+00:05:30,336 --> 00:05:46,392
+Organize causes into autonomic, structural, metabolic and medication-
+related groups. This helps connect the history to the tracing and
+prevents a rhythm label from ending assessment. The same named rhythm
+can have different causes in two patients.
+
+18
+00:05:46,392 --> 00:06:09,384
+Check for altered mentation, shock signs, ischemic discomfort and
+serious respiratory compromise. Decide whether the rhythm is causing
+deterioration or is a response to another problem. Recognition here
+supports monitoring, communication and escalation; detailed treatment
+decisions are the later ECG 201 scope.

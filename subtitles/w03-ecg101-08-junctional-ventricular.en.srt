@@ -1,0 +1,124 @@
+1
+00:00:00,000 --> 00:00:19,968
+Before naming a lower-origin rhythm, decide whether it is late and
+protective or early and ectopic. A junctional escape may prevent a
+prolonged pause after sinus failure. A premature ventricular beat
+instead interrupts the expected schedule. The origin alone does not
+explain the beat’s role.
+
+2
+00:00:19,968 --> 00:00:37,608
+Use the backup hierarchy as a reference, then assess the actual
+patient. An escape rate may be inadequate for one patient but
+temporarily tolerated by another. Treating a protective rhythm as
+something to suppress can remove the remaining source of ventricular
+activation.
+
+3
+00:00:37,608 --> 00:00:57,816
+An AV-junctional impulse may activate the atria backwards. A
+retrograde P may therefore be inverted before QRS, hidden within it or
+seen afterwards. The QRS is often narrow because the normal
+ventricular conduction system is still used, unless another conduction
+abnormality is present.
+
+4
+00:00:57,816 --> 00:01:17,688
+The school calls forty to sixty an escape rhythm, sixty to one hundred
+accelerated junctional rhythm, and above one hundred junctional
+tachycardia. Consider sinus suppression, vagal effects, ischemia,
+digoxin exposure or postoperative context, and assess whether
+perfusion is sufficient.
+
+5
+00:01:17,688 --> 00:01:38,352
+A PVC is an early ventricular complex, typically wide and unusual in
+shape, without an associated conducted P beforehand. A compensatory
+pause may follow, but not every PVC has the textbook pause. Describe
+what is present rather than forcing every feature into a fixed
+template.
+
+6
+00:01:38,352 --> 00:02:01,320
+Unifocal PVCs share a shape; multifocal ectopy has differing shapes.
+Bigeminy alternates an ectopic beat with another beat, and couplets
+are two consecutive PVCs. A beat falling during vulnerable
+repolarization raises concern. Check the patient and reversible causes
+instead of treating the pattern in isolation.
+
+7
+00:02:01,320 --> 00:02:21,816
+Monomorphic VT shows a rapid sequence of broadly similar ventricular
+complexes. The school gives a typical range of one hundred fifty to
+two hundred fifty, but slower ventricular tachycardias exist. A
+dangerous wide-complex rhythm cannot be dismissed because it falls
+outside a memorized range.
+
+8
+00:02:21,816 --> 00:02:43,920
+Assess responsiveness, breathing and pulse promptly. Pulseless VT
+follows the cardiac-arrest pathway. A pulse-present wide-complex
+tachycardia requires urgent stability assessment and authorized
+expertise; recognizing it does not authorize a PCP to select
+cardioversion or antiarrhythmic medication independently.
+
+9
+00:02:43,920 --> 00:03:03,048
+Ventricular fibrillation is disorganized ventricular activity without
+useful coordinated beats. In true sustained VF, the patient has no
+effective pulse. If someone is alert with a reproducible pulse while a
+lead looks chaotic, investigate artifact without abandoning
+assessment.
+
+10
+00:03:03,048 --> 00:03:21,912
+For an unresponsive pulseless patient, promptly follow the applicable
+resuscitation and defibrillation protocol. Technical confirmation and
+checks of the leads must not become a prolonged interruption of CPR.
+The patient’s condition and the shockable pattern guide action
+together.
+
+11
+00:03:21,912 --> 00:03:41,712
+An idioventricular escape rhythm is a slow ventricular backup,
+generally without preceding conducted P waves and with a wide QRS. The
+school uses twenty to forty per minute as a reference. It may indicate
+profound failure of higher pacing or conduction and inadequate cardiac
+output.
+
+12
+00:03:41,712 --> 00:04:01,248
+Accelerated idioventricular rhythm is the same ventricular-origin
+pattern at a faster rate, about forty to one hundred in this teaching.
+It can occur around reperfusion and may be tolerated. Do not suppress
+it merely to obtain a sinus-looking monitor; assess the underlying
+cause and circulation.
+
+13
+00:04:01,248 --> 00:04:20,880
+Before accepting a flat line as asystole, verify electrode and cable
+contact, suitable gain and another lead when feasible. A disconnected
+cable or fine VF can mislead. Do these checks within the resuscitation
+workflow, not instead of treating a patient without circulation.
+
+14
+00:04:20,880 --> 00:04:40,608
+Organized electrical activity without a pulse is a different branch,
+pulseless electrical activity. It is not proof of circulation and is
+not made shockable simply by having visible complexes. Follow the
+applicable arrest pathway and assess causes without prolonged
+diagnostic delays.
+
+15
+00:04:40,608 --> 00:04:59,184
+The school cause groups include oxygenation problems, electrolyte
+disturbance, ischemia, structural disease and medication effects. Use
+them to direct questions and assessment, not to diagnose a potassium
+value from an isolated wave. Treatable causes may coexist.
+
+16
+00:04:59,184 --> 00:05:15,888
+Communicate a useful sentence: a suspected ventricular-origin pattern
+at an estimated rate, with or without a pulse, plus the patient’s
+signs of perfusion and deterioration. That report is more actionable
+than a rhythm name detached from the patient.

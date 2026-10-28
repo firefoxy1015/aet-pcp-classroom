@@ -1,0 +1,91 @@
+1
+00:00:00,000 --> 00:00:20,304
+Use the school sequence aloud: technical quality, rate, regularity, P
+waves, PR and QRS measurements, then ST and T review with QT when
+indicated. A familiar-looking rhythm is not permission to skip the
+later checks, particularly medication risk or changing ST findings.
+
+2
+00:00:20,304 --> 00:00:40,344
+The order structures reporting; it does not replace rapid patient
+assessment. Check responsiveness, breathing, circulation and
+instability before a leisurely strip analysis. If there is no
+effective circulation, follow the applicable resuscitation pathway
+instead of completing a classroom worksheet first.
+
+3
+00:00:40,344 --> 00:00:59,664
+Confirm that this is the right patient and a current tracing. Check
+speed, gain, calibration and whether intended leads are available.
+Look for baseline movement, signal dropout or interference. These
+checks prevent a technical distortion being promoted into a clinical
+diagnosis.
+
+4
+00:00:59,664 --> 00:01:17,352
+Repeat an uninterpretable tracing after correcting the cause when
+feasible. Record any persistent limitation. Do not delay assessment or
+time-critical treatment while trying to produce a perfect printout,
+and do not claim a reliable interpretation of obscured waveforms.
+
+5
+00:01:17,352 --> 00:01:34,200
+Calculate the ventricular rate using the method that fits the observed
+regularity. Then describe whether the pattern is regular, repeats an
+irregular grouping, or has no repeating RR pattern. Use a longer
+sample or calipers when the distinction is unclear.
+
+6
+00:01:34,200 --> 00:01:57,264
+Count atrial activity separately when P or flutter waves outnumber QRS
+complexes. A ventricular rate alone cannot reveal the atrial-to-
+ventricular conduction ratio. Conversely, an irregularly irregular RR
+pattern is not enough to diagnose atrial fibrillation unless atrial
+activity and technical quality support it.
+
+7
+00:01:57,264 --> 00:02:15,384
+Inspect more than one beat and, when useful, another lead. Ask whether
+P waves are visible, whether their shape is consistent, and whether
+there is a reliable relationship to each QRS. P waves may be buried in
+T waves or rapid complexes rather than truly absent.
+
+8
+00:02:15,384 --> 00:02:36,432
+Look in both directions: is every QRS preceded by an appropriate P,
+and is every P followed by a QRS? The second question detects failed
+conduction that a glance at conducted beats misses. Independent P and
+QRS schedules raise a different question from merely changing P-wave
+shape.
+
+9
+00:02:36,432 --> 00:02:55,608
+Measure PR in conducted beats and compare successive intervals.
+Measure QRS width rather than describing it by visual impression
+alone. At the recovery step, examine ST displacement and T-wave
+changes; a normal-looking rhythm name does not complete this part of
+the assessment.
+
+10
+00:02:55,608 --> 00:03:17,952
+Record unclear boundaries and acquisition limitations. QTc deserves
+attention in syncope, medication exposure or a suspicious recovery
+pattern. Detailed diagnostic twelve-lead patterns belong to the later
+school course; recognizing a concerning finding here should trigger
+appropriate communication, not an invented diagnosis.
+
+11
+00:03:17,952 --> 00:03:37,608
+On this original example, verified settings and a clean strip show a
+regular ventricular rate of ninety, consistent P waves before each
+QRS, PR zero point one eight seconds and QRS zero point one zero
+seconds. Describe those observations before applying the sinus-rhythm
+label.
+
+12
+00:03:37,608 --> 00:03:58,032
+Complete the report with what was not established: absence of obvious
+ST change in one monitoring lead does not exclude ACS. Add symptoms,
+pulse, perfusion, whether a diagnostic recording was obtained, and the
+reassessment plan. This is a reasoned interpretation, not just a
+rhythm name.

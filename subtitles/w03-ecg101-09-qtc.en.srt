@@ -1,0 +1,121 @@
+1
+00:00:00,000 --> 00:00:17,352
+Choose a clear tracing and measure from QRS onset to the end of T,
+where it returns to the baseline. Distinguish a separate U wave. When
+T and U merge or the endpoint is uncertain, record that limitation
+rather than inventing an exact duration.
+
+2
+00:00:17,352 --> 00:00:36,240
+QT varies with heart rate, so also measure a representative RR
+interval. Document the lead, rate, raw QT and correction method when
+available. A machine-generated QTc is a useful check but still depends
+on correct detection and a valid signal.
+
+3
+00:00:36,240 --> 00:00:58,536
+For the school Bazett calculation, divide QT by the square root of RR
+in seconds. In this original worked example, QT is zero point four two
+zero seconds and RR is zero point six four seconds. The square root is
+zero point eight; corrected QT is zero point five two five seconds.
+
+4
+00:00:58,536 --> 00:01:16,128
+Convert that result to five hundred twenty-five milliseconds.
+Alternatively use QT in milliseconds with RR still in seconds, giving
+a millisecond result. Do not put RR in milliseconds under the square
+root, and do not label a seconds result as milliseconds.
+
+5
+00:01:16,128 --> 00:01:33,912
+The school uses upper reference values of four hundred fifty
+milliseconds for men and four hundred sixty for women, with more than
+five hundred a major warning. These are course reference cutoffs, not
+a boundary that makes every lower result safe or every higher result a
+complete diagnosis.
+
+6
+00:01:33,912 --> 00:01:54,936
+Bazett can miscorrect at very fast or slow rates. Variable RR,
+uncertain T endpoints and a wide QRS further complicate assessment.
+Repeat when appropriate, compare prior tracings and seek expert
+interpretation instead of allowing a borderline automated number to
+dictate a high-risk decision alone.
+
+7
+00:01:54,936 --> 00:02:12,168
+The school names amiodarone, ondansetron, haloperidol and sotalol,
+along with some antibiotics and antifungals. The point is to review
+the actual medication list, combinations and patient risk, not to
+assume that only cardiac drugs affect ventricular recovery.
+
+8
+00:02:12,168 --> 00:02:32,280
+Ask about prescribed and nonprescribed drugs, recent additions,
+vomiting or diarrhoea, renal problems and known long-QT disease.
+Suspected electrolyte depletion or several QT-prolonging drugs can
+compound risk. Communicate the concern and consult the applicable
+prescribing or medical-control pathway.
+
+9
+00:02:32,280 --> 00:02:53,784
+The school emphasizes baseline ECG review before non-time-critical
+exposure to QT-prolonging medication. Read that alongside the current
+indication, local drug monograph and your licence level. Do not
+independently discontinue a patient’s prescriptions or substitute a
+drug merely because a teaching threshold was crossed.
+
+10
+00:02:53,784 --> 00:03:13,824
+Context changes priorities. A pre-infusion safety check is not a
+reason to postpone CPR or indicated defibrillation during arrest. The
+warning that a drug may prolong QT does not replace a rhythm-specific
+emergency pathway, and this chapter supplies no independent PCP dosing
+authority.
+
+11
+00:03:13,824 --> 00:03:31,296
+Torsades de pointes is a form of polymorphic ventricular tachycardia
+associated with a prolonged QT in the underlying rhythm. The complexes
+appear to grow, shrink and rotate direction. It is different from the
+uniform appearance of monomorphic VT.
+
+12
+00:03:31,296 --> 00:03:50,352
+Not every polymorphic VT is torsades. A normal-QT polymorphic rhythm
+may have a different mechanism, including ischemia. Report what was
+seen and any preceding QT information; do not delay emergency
+treatment while searching for a previous interval that is not
+available.
+
+13
+00:03:50,352 --> 00:04:12,096
+Assess the patient immediately. Current resuscitation guidance treats
+sustained polymorphic VT as an unstable rhythm requiring an immediate
+unsynchronized-shock response by authorized personnel. If pulseless,
+provide CPR and indicated defibrillation through the applicable
+pathway rather than waiting to calculate QTc.
+
+14
+00:04:12,096 --> 00:04:31,320
+Magnesium can be relevant to recurrence of long-QT torsades; it is not
+a substitute for terminating an immediately dangerous sustained
+rhythm, and it is not a universal treatment for every polymorphic VT.
+Expert medication and pacing decisions must follow current medical
+direction and scope.
+
+15
+00:04:31,320 --> 00:04:50,304
+A useful report includes raw QT and RR, the corrected value with
+units, the method and any measurement limitation. Add symptoms such as
+syncope, the relevant medication history and whether there was a
+rhythm change. This is more useful than saying only that the QT looks
+long.
+
+16
+00:04:50,304 --> 00:05:08,952
+Document whom you consulted and the plan reached through the
+authorized pathway. Repeat values and symptom trends help the
+receiving team understand changing risk. A teaching threshold should
+produce deliberate assessment and communication, not an undocumented
+automatic medication decision.

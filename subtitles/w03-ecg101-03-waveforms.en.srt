@@ -1,0 +1,92 @@
+1
+00:00:00,000 --> 00:00:16,440
+A wave is a deflection; a complex is a group of deflections. A segment
+lies between defined events, while an interval includes one or more
+events and the time between boundaries. These words tell you where to
+place your measurement endpoints.
+
+2
+00:00:16,440 --> 00:00:34,032
+For example, the PR interval starts at the beginning of the P wave,
+not its end. The QT interval begins with ventricular depolarization,
+not with the P wave. If the endpoints are wrong, accurate box counting
+still produces the wrong physiological measurement.
+
+3
+00:00:34,032 --> 00:00:53,400
+The P wave represents atrial depolarization. The school uses duration
+below zero point one two seconds and amplitude below two point five
+millimetres as introductory references, with lead-dependent
+appearance. An unusual P wave needs context; shape alone does not
+diagnose the cause.
+
+4
+00:00:53,400 --> 00:01:14,136
+PR measures from P onset to QRS onset, normally about zero point one
+two to zero point two zero seconds in this teaching framework. It
+includes atrial and AV conduction, not just AV-node delay. Compare
+successive conducted beats and look for P waves that fail to produce a
+QRS.
+
+5
+00:01:14,136 --> 00:01:34,056
+Measure QRS width from the first ventricular deflection through its
+final return to the ST segment. A width below zero point one two
+seconds is the school reference for a narrow complex. A wide complex
+suggests slower or altered activation, not automatically one specific
+rhythm.
+
+6
+00:01:34,056 --> 00:01:54,816
+Bundle-branch conduction, ventricular origin, metabolic disturbance
+and pacing can all alter QRS appearance. Low amplitude also has
+technical and patient-related explanations. Do not equate a larger
+complex with stronger contraction, or a narrow complex with adequate
+perfusion.
+
+7
+00:01:54,816 --> 00:02:17,520
+Identify the J point where QRS ends and ST begins. Assess ST
+displacement relative to an appropriate isoelectric reference, not the
+peak or end of the T wave. ST elevation, depression or T-wave
+inversion can be important, but a single monitoring lead cannot
+complete diagnostic twelve-lead interpretation.
+
+8
+00:02:17,520 --> 00:02:39,024
+A peaked, flattened or inverted T wave raises possibilities such as
+electrolyte disturbance, ischemia or altered activation. It does not
+establish a laboratory potassium concentration or a coronary
+diagnosis. Repeat a technically sound tracing, compare appropriate
+leads and integrate symptoms and physiology.
+
+9
+00:02:39,024 --> 00:02:59,928
+QT extends from QRS onset to the end of the T wave. It includes
+ventricular depolarization and repolarization. Because it changes with
+heart rate, a raw duration cannot be interpreted without rate
+information. The later QTc chapter supplies a measured, rate-adjusted
+approach.
+
+10
+00:02:59,928 --> 00:03:17,136
+The school mentions a quick comparison with half the preceding RR
+interval. Treat that only as a rough screening idea, not a reliable
+normality rule at all rates. Distinguish a separate U wave and
+document unclear T-wave endpoints rather than assigning false
+precision.
+
+11
+00:03:17,136 --> 00:03:40,224
+When the school asks you to distinguish atrial from ventricular
+events, explain rather than merely sort labels. P is atrial
+activation. PR spans transmission from atrial activation to
+ventricular activation. QRS, ST and T describe ventricular activation,
+plateau-related behaviour and recovery.
+
+12
+00:03:40,224 --> 00:03:57,984
+Finish every interpretation with its limits. A normal-looking waveform
+may occur early in disease, while an abnormal waveform may result from
+artifact or placement. Describe what you observed, state what remains
+uncertain, and check whether the patient is deteriorating.

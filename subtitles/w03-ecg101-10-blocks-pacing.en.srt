@@ -1,0 +1,137 @@
+1
+00:00:00,000 --> 00:00:19,128
+Start by counting whether each P is followed by a QRS. Then compare PR
+intervals in conducted beats. The school decision tree is a memory
+aid, but its first constant-PR question must not make you overlook
+dropped impulses that also have a constant PR when they do conduct.
+
+2
+00:00:19,128 --> 00:00:36,576
+An origin problem asks where the impulse starts. AV block asks whether
+atrial impulses reach the ventricles. Delay may be nodal, while
+important block can lie below the AV node. A longer strip is often
+needed to establish the relationship.
+
+3
+00:00:36,576 --> 00:00:56,016
+First-degree AV block describes prolonged AV transmission with one-to-
+one conduction. In the school reference, PR exceeds zero point two
+seconds and stays relatively consistent. It is not an intermittently
+missing QRS, and not a situation where atria and ventricles are
+independent.
+
+4
+00:00:56,016 --> 00:01:14,952
+Review vagal influences, AV-nodal medication exposure and clinical
+context. A stable asymptomatic patient may need observation and
+communication rather than rate-directed intervention. New symptoms,
+ischemic concern or progression change the urgency and require
+reassessment.
+
+5
+00:01:14,952 --> 00:01:32,304
+In the classic Mobitz-one pattern, PR progressively lengthens until
+one atrial impulse fails to conduct, then the cycle resets. Identify
+the nonconducted P, not merely a long RR gap. Grouped beating may help
+you notice the recurring pattern.
+
+6
+00:01:32,304 --> 00:01:52,704
+Mobitz one is commonly associated with AV-nodal behaviour, vagal tone,
+medications or inferior ischemia. It is often better tolerated than
+distal block, but symptoms and poor perfusion still demand action
+through the appropriate pathway. A familiar benign association is not
+a substitute for assessment.
+
+7
+00:01:52,704 --> 00:02:13,152
+Mobitz two has intermittently nonconducted atrial impulses without the
+progressive PR prolongation of classic Wenckebach. The conducted
+intervals can look entirely normal. Important disease is often below
+the AV node in the His–Purkinje system, rather than simply a more
+severe nodal delay.
+
+8
+00:02:13,152 --> 00:02:32,592
+This pattern carries concern for progression and an unreliable
+ventricular rate. Escalate early and communicate the relationship and
+the patient’s condition. Do not turn the school phrase about cautious
+atropine into an independent drug rule; the current authorized
+bradycardia pathway determines treatment.
+
+9
+00:02:32,592 --> 00:02:49,104
+In a two-to-one pattern, every other atrial impulse fails to conduct.
+You may not have enough consecutive conducted intervals to see whether
+PR is progressively lengthening. Therefore the fixed ratio alone
+cannot prove Mobitz one or Mobitz two.
+
+10
+00:02:49,104 --> 00:03:06,912
+Report the actual atrial and ventricular rates, the conduction ratio,
+QRS width and clinical status. State the subtype uncertainty rather
+than guessing. A classification limit should increase attention to
+monitoring and expert review, not create reassurance.
+
+11
+00:03:06,912 --> 00:03:26,976
+In complete AV block, atrial impulses do not conduct to govern
+ventricular activation. P waves and escape QRS complexes follow
+independent schedules. A changing apparent PR reflects that lack of
+relationship; compare many cycles rather than using one accidental
+alignment.
+
+12
+00:03:26,976 --> 00:03:48,480
+The escape origin affects ventricular rate and QRS width, but a narrow
+escape is not automatically safe. Check perfusion, ischemic symptoms
+and progression. Coronary supply, degenerative disease and medication
+toxicity can contribute, and symptoms require prompt authorized
+support and conveyance.
+
+13
+00:03:48,480 --> 00:04:10,200
+Pacing can provide activation when the native rate or conduction
+cannot sustain adequate circulation. The school introduces high-grade
+blocks and sinus-node dysfunction as examples. Recognition should help
+you anticipate deterioration and request appropriate resources, not
+infer that every rhythm below a fixed rate must be paced.
+
+14
+00:04:10,200 --> 00:04:32,808
+BCEHS separates provider levels for bradycardia care, listing advanced
+medicines and transcutaneous pacing under ACP interventions. Follow
+your current service authorization and instructor direction. This ECG-
+recognition chapter does not grant new PCP authority or teach a stand-
+alone pacing procedure.
+
+15
+00:04:32,808 --> 00:04:53,112
+Atrial pacing may produce a spike before a P wave; ventricular pacing
+commonly produces a spike followed by a broad complex. Some modern
+pacing signals are small or not obvious. Do not assume every paced
+beat must show the same large visible spike or identical QRS
+morphology.
+
+16
+00:04:53,112 --> 00:05:13,488
+Electrical capture means appropriate depolarization follows the
+stimulus. Mechanical capture requires evidence of a corresponding
+effective pulse and circulation. Correlate pulse, pressure and the
+overall patient; visible spikes or skeletal-muscle twitching are not
+sufficient evidence of cardiac output.
+
+17
+00:05:13,488 --> 00:05:33,720
+Failure to capture means a pacing stimulus is not followed by the
+expected cardiac depolarization. Failure to sense may cause stimuli to
+occur inappropriately in relation to intrinsic beats. Both demand
+clinical correlation; do not attempt to reprogram an implanted device
+from a rhythm-recognition lesson.
+
+18
+00:05:33,720 --> 00:05:50,712
+Ask why the device was implanted and when it was last checked, if
+circumstances permit. Record symptoms, device information, actual
+pulse correlation and suspected malfunction. A normal paced rate does
+not rule out poor perfusion or another acute disease.

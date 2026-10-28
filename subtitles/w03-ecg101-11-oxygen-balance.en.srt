@@ -1,0 +1,94 @@
+1
+00:00:00,000 --> 00:00:21,240
+The school supply framework has three anchors: diastolic time,
+coronary patency and arterial oxygen content. Left ventricular
+coronary perfusion occurs predominantly during diastole, when
+compression of vessels by contracting muscle is reduced. This is why a
+faster rate can reduce the time available for supply.
+
+2
+00:00:21,240 --> 00:00:41,328
+An open vessel is not sufficient if perfusion pressure is poor or
+oxygen content is inadequate. Oxygen content depends heavily on
+haemoglobin and saturation. A normal saturation does not establish a
+normal haemoglobin concentration or guarantee adequate myocardial
+oxygen delivery.
+
+3
+00:00:41,328 --> 00:01:00,240
+Demand reflects how much work the myocardium performs. A faster heart
+rate means more contractions per minute; stronger contractility and
+higher afterload can increase work and oxygen use. Interpret these
+factors together instead of assuming one rate predicts oxygen demand
+for everyone.
+
+4
+00:01:00,240 --> 00:01:18,912
+The supply and demand questions complement rhythm naming. Ask whether
+available coronary flow and oxygen content can meet the work required
+of this heart now. A patient with coronary disease, anaemia or
+impaired pumping may tolerate a rhythm poorly even when another
+patient tolerates it well.
+
+5
+00:01:18,912 --> 00:01:36,216
+Sustained tachycardia can simultaneously raise demand and shorten
+diastolic supply time. It can also impair ventricular filling,
+reducing stroke volume. This explains why a fast rhythm may become
+dangerous before the monitor changes to a different named rhythm.
+
+6
+00:01:36,216 --> 00:01:56,040
+However, tachycardia may be compensating for blood loss, fever or
+another illness. The mechanism guides the response: address the
+patient’s condition through the authorized pathway rather than
+reflexively reducing every fast rate. Determine whether the rhythm is
+cause, consequence or both.
+
+7
+00:01:56,040 --> 00:02:15,000
+A slow rate can cause a different problem: even with low demand,
+cardiac output may be insufficient if stroke volume cannot compensate.
+Low output can reduce arterial and coronary perfusion pressure. More
+time between beats is not automatically protective if not enough blood
+is being delivered.
+
+8
+00:02:15,000 --> 00:02:34,776
+Assess mentation, pulse, skin, pressure trend and symptoms to decide
+whether the patient is tolerating the rate. Do not use either a
+bradycardia cutoff or a normal-looking electrical pattern as the
+entire decision. Important block can deteriorate despite a temporarily
+adequate pressure reading.
+
+9
+00:02:34,776 --> 00:02:54,912
+Coordinated atrial contraction contributes to late ventricular
+filling. Losing that coordination in AF or AV dissociation can reduce
+filling and stroke volume, especially in older or stiff ventricles.
+The importance is patient-dependent; it is not a fixed percentage to
+apply to every heart.
+
+10
+00:02:54,912 --> 00:03:15,144
+Ventricular pacing may restore rate without restoring physiological AV
+timing. Therefore a paced rate that appears normal still requires
+assessment of pulse and perfusion. Evaluate the complete supply–demand
+balance rather than equating a device-generated number with normal
+cardiovascular function.
+
+11
+00:03:15,144 --> 00:03:35,136
+A prolonged QT chiefly identifies a problem of repolarization
+vulnerability rather than simply excessive myocardial work. Medication
+exposure, electrolytes and inherited susceptibility matter. A
+comfortable patient with normal pressure can still have a concerning
+repolarization finding.
+
+12
+00:03:35,136 --> 00:03:53,832
+Use both frameworks. Ask whether oxygen delivery meets current work,
+and independently ask whether recovery is electrically vulnerable.
+State the mechanism and the evidence supporting it, then choose
+monitoring, communication and escalation consistent with the patient’s
+condition and your authority.

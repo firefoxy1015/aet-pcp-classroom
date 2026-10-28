@@ -1,0 +1,94 @@
+1
+00:00:00,000 --> 00:00:20,640
+Look for evidence that vital-organ perfusion is failing: new
+confusion, syncope, weak pulses, cool clammy skin, falling pressure or
+significant respiratory distress. A rhythm name and a single pressure
+value cannot summarize stability. Establish what changed from the
+patient’s baseline.
+
+2
+00:00:20,640 --> 00:00:40,464
+The school lists systolic pressure below ninety as a warning
+reference. Other pathways use different numbers for specific
+decisions. Do not wait for any cutoff if the patient is clearly
+deteriorating; likewise, a currently acceptable pressure does not
+erase new altered mentation or ischemic symptoms.
+
+3
+00:00:40,464 --> 00:01:00,432
+Assess the pattern rather than one sign. Sweating may have several
+causes, capillary refill is affected by temperature, and urine output
+is rarely measurable immediately in the field. When available, reduced
+urine output and delayed refill add context; neither should replace
+repeated clinical assessment.
+
+4
+00:01:00,432 --> 00:01:19,872
+Repeat observations and relate them to symptoms, movement and
+interventions. A worsening trend or a mismatch between patient and
+monitor should increase concern. Communicate what you actually
+measured and what was reported historically rather than presenting all
+signs as direct measurements.
+
+5
+00:01:19,872 --> 00:01:41,928
+Maintain suspicion when symptoms include unexplained dyspnoea, nausea,
+sweating, unusual fatigue or discomfort in the jaw, back or arm. Older
+adults and people with diabetes may have less prominent pain. These
+findings have several possible causes, so assess rather than
+automatically diagnosing ACS.
+
+6
+00:01:41,928 --> 00:02:00,048
+The school calls these atypical presentations. Do not turn that label
+into a sex-based stereotype: women also commonly have chest pain, and
+people outside the named groups can have pain-free ACS. Use
+interpreters and careful questions when communication barriers affect
+the history.
+
+7
+00:02:00,048 --> 00:02:20,736
+For suspected ACS, the linked twenty twenty-five guideline recommends
+acquisition and interpretation of a twelve-lead ECG within ten minutes
+of first medical contact. Work efficiently without sacrificing
+quality, and do not misapply that timing as a reason to postpone
+immediate resuscitation.
+
+8
+00:02:20,736 --> 00:02:40,656
+If the first ECG is nondiagnostic but symptoms persist, clinical
+suspicion remains high or the patient worsens, repeated ECG assessment
+can reveal change. A normal monitoring lead is not equivalent to a
+normal diagnostic twelve-lead, and neither independently excludes ACS.
+
+9
+00:02:40,656 --> 00:03:01,992
+The school lesson specifies a three-minute pre-notification target
+after a qualifying high-risk ECG finding. Retain it as the school’s
+performance expectation for practice. The reviewed guideline supports
+prompt system activation, but this lesson does not verify the school’s
+exact three-minute wording as a universal guideline rule.
+
+10
+00:03:01,992 --> 00:03:24,864
+Class one describes recommendation strength, not automatically the
+highest evidence level. Follow the actual receiving pathway and
+medical direction for destination and activation. The school mentions
+advanced twelve-lead patterns as a bridge to ECG 301; do not invent
+their detailed diagnostic criteria in ECG 101.
+
+11
+00:03:24,864 --> 00:03:47,184
+An unstable patient with a nonspecific ECG still needs urgent
+assessment and authorized support. ACS may be one possibility, but
+bleeding, sepsis, pulmonary embolism and other causes can produce
+similar deterioration. Do not let the school examples narrow every
+shock presentation to coronary disease.
+
+12
+00:03:47,184 --> 00:04:09,720
+For possible ACS, combine symptom history, serial physiology,
+diagnostic ECG and changes over time. Communicate suspected risk and
+limitations early. Oxygen, medicines and other interventions follow
+indications and the local pathway, not a blanket instruction based
+solely on an ECG label.

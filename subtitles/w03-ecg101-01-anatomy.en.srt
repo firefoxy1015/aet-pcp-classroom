@@ -1,0 +1,91 @@
+1
+00:00:00,000 --> 00:00:18,888
+Think of the heart as two pumps connected in series, not four
+unrelated rooms. The venae cavae return systemic venous blood to the
+right atrium. The right ventricle sends it through the pulmonary
+artery to the lungs. Pulmonary veins return oxygenated blood to the
+left atrium.
+
+2
+00:00:18,888 --> 00:00:35,976
+The left ventricle then ejects through the aorta into the systemic
+circulation. Its thicker muscular wall reflects the greater pressure
+required for that task. Artery and vein describe direction of flow
+relative to the heart, not whether the blood contains more oxygen.
+
+3
+00:00:35,976 --> 00:00:58,224
+Follow a drop of blood through the right heart: right atrium,
+tricuspid valve, right ventricle, pulmonic valve, pulmonary artery. On
+its return: pulmonary veins, left atrium, mitral valve, left
+ventricle, aortic valve, aorta. Say the sequence without swapping the
+two sides.
+
+4
+00:00:58,224 --> 00:01:17,568
+Valves move because the pressure gradient changes. During ventricular
+contraction, AV valves close; papillary muscles and chordae restrain
+their leaflets from prolapsing backwards. They do not actively open
+the valves. Regurgitation means that the intended one-way barrier is
+leaking.
+
+5
+00:01:17,568 --> 00:01:35,400
+From inside outward, identify endocardium, myocardium and epicardium.
+The epicardium is also the visceral layer of the pericardium. The
+pericardial sac surrounds the heart, with a small lubricated space
+that normally allows low-friction movement.
+
+6
+00:01:35,400 --> 00:01:55,464
+A problem outside the muscle can still compromise the pump.
+Pericardial inflammation causes irritation, while pressure from a
+significant effusion may impede filling. An ECG does not directly
+measure the volume of that fluid or prove that filling is adequate;
+bedside assessment remains essential.
+
+7
+00:01:55,464 --> 00:02:14,280
+Ventricular diastole allows relaxation and filling. Ventricular
+systole includes pressure generation and ejection. The shorthand that
+semilunar valves are open during systole describes ejection; there are
+also brief isovolumetric phases when all valves are closed.
+
+8
+00:02:14,280 --> 00:02:35,736
+The first heart sound, S1, accompanies closure of the mitral and
+tricuspid valves. S2 accompanies closure of the aortic and pulmonic
+valves. Electrical depolarization triggers subsequent mechanical
+activity, but a visible QRS does not guarantee an effective pulse or
+adequate cardiac output.
+
+9
+00:02:35,736 --> 00:02:54,960
+Coronary arteries arise near the aortic root and supply the working
+heart muscle itself. The left main divides into the left anterior
+descending and circumflex arteries. Use anterior and septal territory
+for the LAD, and lateral territory for the circumflex, as an
+introductory map.
+
+10
+00:02:54,960 --> 00:03:13,416
+The right coronary artery often supplies the inferior left ventricular
+wall and important nodal tissue. This helps explain why inferior
+ischemia and slowed conduction may coexist. Coronary dominance varies,
+so a single rhythm strip cannot establish which artery is obstructed.
+
+11
+00:03:13,416 --> 00:03:33,528
+Gap junctions connect neighbouring cardiac cells so activation can
+spread. Specialized conduction structures organize that spread into a
+useful sequence. Without coordination, electrical activity may
+continue while effective pumping fails. This is the bridge from
+anatomy to rhythm interpretation.
+
+12
+00:03:33,528 --> 00:03:52,968
+When you explain an ECG finding, complete the chain: where activation
+begins, how it spreads, what contraction should follow, and what the
+patient actually demonstrates. Pulse quality, mentation, skin and
+pressure supply evidence that the electrical drawing alone cannot
+provide.
